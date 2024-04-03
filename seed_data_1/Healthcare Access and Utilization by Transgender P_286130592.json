@@ -1,0 +1,93 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Kachen, Axenya"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2020-01-12T08:10:59+00:00",
+    "dataProvider": {
+        "id": 2295,
+        "name": "University of Nevada, Las Vegas Repository",
+        "url": "https://api.core.ac.uk/v3/data-providers/2295",
+        "logo": "https://api.core.ac.uk/data-providers/2295/logo"
+    },
+    "depositedDate": "",
+    "documentType": "",
+    "doi": "10.34917/16076271",
+    "downloadUrl": "https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=4734&amp;context=thesesdissertations",
+    "fullText": "",
+    "id": 286130592,
+    "identifiers": {
+        "doi": "10.34917/16076271",
+        "oai": "oai:digitalscholarship.unlv.edu:thesesdissertations-4734"
+    },
+    "title": "Healthcare Access and Utilization by Transgender Populations: A United States Transgender Survey Study",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2019-08-01T08:00:00+01:00",
+    "publisher": "Digital Scholarship@UNLV",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=4734&amp;context=thesesdissertations"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2019",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/286130592"
+        }
+    ],
+    "abstract": "Transgender communities in the United States are highly marginalized and have been systematically and infrastructurally ignored due to the widespread fundamental belief that gender exists as a binary classification. The dichotomous theoretical framework of sex and gender prevented public recognition of this community as a population of interest for public health research and targeted intervention. Sexual and gender minority (SGM) populations have fought for basic human rights, including access to affordable healthcare. The National Center for Transgender Equality (NCTE) was founded in 2003 to advocate for the advancement of equality for transgender people. In 2015, the NCTE conducted the United States Transgender Survey (USTS) to collect data on people who identify on the transgender spectrum (n=27,715). For this research, data from the USTS respondents were segmented into two general populations, “binary” and “non-binary”. The “binary” population was further segmented into broad categories: trans-femme/trans-feminine (TF), trans-masc/trans-masculine (TM). The “nonbinary” (NB) category encompassed gender non-conforming (GNC) identities and individuals who did not adhere to binary identifiers. The purpose of this study was to elucidate health disparities regarding access to and utilization of healthcare in the transgender community to determine the need for policy changes and public health interventions. Additionally, an analysis was conducted to determine the relationships between identity and terminology for the purpose of assessing the feasibility of data collection for sexual orientation and gender identity (SOGI) in government surveys based on self-reported data. USTS data reported disparities in access to healthcare within gender identity categories, and TM and TF were more likely to report postponement of healthcare utilization due to fear of discrimination than NB respondents. NB respondents were significantly less likely to desire access to transgender specific care, but they were likely to identify with the term transgender. Participants from all gender identity categories were likely to answer SOGI questions on a national survey if asked. This research adds to the growing body of knowledge concerning inclusion of SOGI questions on population surveys. Results from this USTS analysis indicate the need for further research on the intersectional and diverse population of SGM to classify health disparities and to work towards solutions for health equity for transgender people",
+    "tags": [
+        "text",
+        "healthcare access",
+        "health disparities",
+        "intersectionality",
+        "minority healthcare",
+        "sexual and gender minority",
+        "transgender",
+        "Feminist, Gender, and Sexuality Studies",
+        "Gender and Sexuality",
+        "Public Health"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "text"
+    ],
+    "oai": "oai:digitalscholarship.unlv.edu:thesesdissertations-4734",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "2295",
+        "openDoarId": 0,
+        "name": "University of Nevada, Las Vegas Repository",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 286130592,
+        "depositedDate": null,
+        "publishedDate": "2019-08-01T08:00:00+01:00",
+        "updatedDate": "2024-01-21T01:57:33+00:00",
+        "acceptedDate": null,
+        "createdDate": "2020-01-12T08:10:59+00:00"
+    },
+    "urls": [
+        "https://digitalscholarship.unlv.edu/thesesdissertations/3731",
+        "https://digitalscholarship.unlv.edu/context/thesesdissertations/article/4734/viewcontent/Kachen_unlv_0506M_13096.pdf"
+    ],
+    "lastUpdate": "2024-01-21T01:57:33+00:00",
+    "setSpecs": []
+}

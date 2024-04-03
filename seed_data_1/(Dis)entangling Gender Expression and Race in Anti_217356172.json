@@ -1,0 +1,95 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Anderson, Steph M."
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2019-07-09T18:29:48+01:00",
+    "dataProvider": {
+        "id": 3713,
+        "name": "City University of New York",
+        "url": "https://api.core.ac.uk/v3/data-providers/3713",
+        "logo": "https://api.core.ac.uk/data-providers/3713/logo"
+    },
+    "depositedDate": "",
+    "documentType": "",
+    "doi": "",
+    "downloadUrl": "https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=2317&amp;context=gc_etds",
+    "fullText": "",
+    "id": 217356172,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:academicworks.cuny.edu:gc_etds-2317"
+    },
+    "title": "(Dis)entangling Gender Expression and Race in Antigay Discrimination: An Intersectional Approach",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2016-06-03T08:00:00+01:00",
+    "publisher": "CUNY Academic Works",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=2317&amp;context=gc_etds"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2016",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/217356172"
+        }
+    ],
+    "abstract": "Current psychological definitions and operationalizations of antigay discrimination conceptualize negative treatment of lesbian, gay, bisexual and queer (LGBQ) individuals as a response to their same-gender sexual orientations and not other factors. Because an individual’s sexual orientation is always understood through racialized hegemonic gender ideologies, however, attention to gender expression – how one “does” gender – and dynamics of race within antigay encounters is essential. Comprised of two mixed-method studies, this dissertation examines the role of gender expression and race in antigay discriminatory encounters from two perspectives: those who are targets of discrimination (i.e., cisgender and transgender LGBQ individuals) and those who may discriminate (i.e., straight individuals).\nQuantitative and qualitative findings from Study 1 revealed that presenting in ways that varied from or adhered to traditional gender expectations in relation to one’s birth-assigned gender translated into qualitatively distinct experiences of discrimination for LGBQ participants, suggesting that sexual orientation can exist as both a visible and concealable social identity. The visibility of “race” relative to normative Whiteness also produced distinctions between LGBQ participants of color and White LGBQ individuals both within intra- and interracial contexts. Demonstrating the importance of attending to covert forms of discrimination, LGBQ individuals experienced ambiguity both in regard to if discrimination occurred and if it did as a result of which of their social identities.\nStudy 2 utilized an experimental design to examine the extent to which antigay discrimination as expressed among straight individuals is a function of target gender, gender expression, sexual orientation and race. Although no significant main effects or interactions were found in tests of the main hypotheses, straight participants who failed to pass one or multiple scenario manipulation checks did so disproportionately in scenarios where the target defied the gender inversion stereotype that gay men are effeminate and lesbian woman are masculine (e.g., a straight woman who was masculine in appearance). That no differences existed between eligible and non-eligible participants in terms contact with LGBQ individuals, social desirability, a priori antigay prejudice or endorsement of gender norm beliefs, points to the power of hegemonic gender ideologies above and beyond attitudinal beliefs and suggests that misrecognition constitutes an additional form of covert discrimination.\nTaken together, findings across both studies demonstrate the salience of hegemonic gender ideologies in the precipitation and interpretation of antigay discriminatory encounters. The extent to which one’s sexual orientation is perceivable is always tenuous, context-dependent, and an inter-relational experience that is informed by racialized gender stereotypes. These findings carry implications for psychological research and policy work in terms of the conceptualization of antigay discrimination and work toward its eradication. If one of the primary functions of antigay discrimination is to maintain gender ideologies, violence and discrimination against LGQB individuals will continue to exist as long as White hegemonic gender norms remain intact",
+    "tags": [
+        "dissertation",
+        "Antigay Discrimination",
+        "Gender Expression",
+        "Sexual Orientation",
+        "Gender Identity",
+        "Race",
+        "Intersectionality",
+        "Gender and Sexuality",
+        "Personality and Social Contexts",
+        "Race and Ethnicity",
+        "Social Psychology",
+        "Social Psychology and Interaction"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "dissertation"
+    ],
+    "oai": "oai:academicworks.cuny.edu:gc_etds-2317",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "3713",
+        "openDoarId": 0,
+        "name": "City University of New York",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 217356172,
+        "depositedDate": null,
+        "publishedDate": "2016-06-03T08:00:00+01:00",
+        "updatedDate": "2024-02-21T02:42:24+00:00",
+        "acceptedDate": null,
+        "createdDate": "2019-07-09T18:29:48+01:00"
+    },
+    "urls": [
+        "https://academicworks.cuny.edu/gc_etds/1291",
+        "https://academicworks.cuny.edu/context/gc_etds/article/2317/viewcontent/ANDERSON_dissertation.pdf"
+    ],
+    "lastUpdate": "2024-02-21T02:42:24+00:00",
+    "setSpecs": []
+}

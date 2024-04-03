@@ -1,0 +1,1515 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Delany-Moretlwe, Sinead"
+        },
+        {
+            "name": "Cowan, Frances M"
+        },
+        {
+            "name": "Busza, Joanna"
+        },
+        {
+            "name": "Bolton-Moore, Carolyn"
+        },
+        {
+            "name": "Kelley, Karen"
+        },
+        {
+            "name": "Fairlie, Lee"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2013-08-08T16:00:08+01:00",
+    "dataProvider": {
+        "id": 147,
+        "name": "LSHTM Research Online",
+        "url": "https://api.core.ac.uk/v3/data-providers/147",
+        "logo": "https://api.core.ac.uk/data-providers/147/logo"
+    },
+    "depositedDate": "",
+    "documentType": "research",
+    "doi": "10.7448/IAS.18.2.19833",
+    "downloadUrl": "https://core.ac.uk/download/13108403.pdf",
+    "fullText": "Delany-Moretlwe, S; Cowan, FM; Busza, J; Bolton-Moore, C; Kel-ley, K; Fairlie, L (2015) Providing comprehensive health services foryoung key populations: needs, barriers and gaps. J Int AIDS Soc, 18(2 Suppl 1). p. 19833. ISSN 1758-2652Downloaded from: http://researchonline.lshtm.ac.uk/2121434/Usage GuidelinesPlease refer to usage guidelines at http://researchonline.lshtm.ac.uk/policies.html or alterna-tively contact researchonline@lshtm.ac.uk.Available under license: Creative Commons Attribution http://creativecommons.org/licenses/by/2.5/Review articleProviding comprehensive health services for young keypopulations: needs, barriers and gapsSinead Delany-Moretlwe§,1, Frances M Cowan2,3, Joanna Busza4, Carolyn Bolton-Moore5, Karen Kelley1 andLee Fairlie1§Corresponding author: Sinead Delany-Moretlwe,Wits RHI, University of the Witwatersrand, 22 Esselen Street, Hillbrow, Johannesburg, South Africa. Tel:\u000227 11 3585414, Fax: \u000227 86 409 6957. (sdelany@wrhi.ac.za)AbstractIntroduction: Adolescence is a time of physical, emotional and social transitions that have implications for health. In addition tobeing at high risk for HIV, young key populations (YKP) may experience other health problems attributable to high-risk behaviouror their developmental stage, or a combination of both.Methods: We reviewed the needs, barriers and gaps for other non-HIV health services for YKP.We searched PubMed and GoogleScholar for articles that provided specific age-related data on sexual and reproductive health; mental health; violence; andsubstance use problems for adolescent, youth or young sex workers, men who have sex with men, transgender people, andpeople who inject drugs.Results: YKP experience more unprotected sex, sexually transmitted infections including HIV, unintended pregnancy, violence,mental health disorders and substance use compared to older members of key populations and youth among the generalpopulation. YKP experience significant barriers to accessing care; coverage of services is low, largely because of stigma anddiscrimination experienced at both the health system and policy levels.Discussion: YKP require comprehensive, integrated services that respond to their specific developmental needs, including health,educational and social services within the context of a human rights-based approach. The recent WHO Consolidated Guidelineson HIV Prevention, Diagnosis, Treatment and Care for Key Populations are an important first step for a more comprehensiveapproach to HIV programming for YKP, but there are limited data on the effective delivery of combined interventions for YKP.Significant investments in research and implementation will be required to ensure adequate provision and coverage of servicesfor YKP. In addition, greater commitments to harm reduction and rights-based approaches are needed to address structuralbarriers to access to care.Keywords: adolescent; youth; injecting drug use; MSM; sex workers; risk; integrated services.Received 29 September 2014; Revised 8 January 2015; Accepted 21 January 2015; Published 26 February 2015Copyright:– 2015 Delany-Moretlwe S et al; licensee International AIDS Society. This is an Open Access article distributed under the terms of the Creative CommonsAttribution 3.0 Unported (CC BY 3.0) License (http://creativecommons.org/licenses/by/3.0/), which permits unrestricted use, distribution, and reproduction in anymedium, provided the original work is properly cited.IntroductionYoung people aged 10\u000324 represent at least a quarter ofthe world’s population, but are disproportionately affectedby HIV [1,2]. Globally, the health of young people is importantas it is an indicator of future population health, and alsosocial and economic development. Although the rate of newHIV infections has declined or stabilized in many populations,over a third of new HIV infections continue to occur amongthe 15- to 24-year age group [3]. HIV risk and prevalence arenot uniform; people who sell sex (SW), inject drugs (PWID),men who have sex with men (MSM) and transgender people(TG) have been shown to have higher risks for HIV infec-tion than the general population [4\u00036]. Many practice morethan one risk behaviour. For example, young MSM may alsouse drugs and sell sex for drugs, emphasizing the need forcomprehensive, integrated health services. Key populations(KP) contribute disproportionately to HIV transmission dy-namics within countries, with recent estimates suggesting that50% of new HIV infection occur among these populations [7].In addition to their high-risk behaviour, KP frequentlyexperience significant stigma, discrimination and violence,which further limits their ability to adopt preventive beha-viours and access health services [8]. In YKP, the effects ofstigma, discrimination and violence are exacerbated by policyand legal barriers related to the age of consent for sex as wellas selected medical interventions, further limiting access toa range of health services [7]. As a consequence, YKP arefrequently a hidden population, and reliable and representa-tive epidemiological data on their health are scarce [7]. Thispaucity of data often leads to neglect of their specific needsby programmes designed either for young people moregenerally, or for adult KP. Failure to identify the comprehensivehealth needs of YKP, and their specific barriers to care, hasthe potential to undermine the success of HIV preventionprogrammes targeted at these populations [9].Conceptual framework for adolescent healthWhile YKP require specific interventions for the prevention,treatment and care of HIV, YKP also require non-HIV-relatedDelany-Moretlwe S et al. Journal of the International AIDS Society 2015, 18(Suppl 1):19833http://www.jiasociety.org/index.php/jias/article/view/19833 | http://dx.doi.org/10.7448/IAS.18.2.1983329health services that respond to the health needs of theirparticular developmental life stage. The complex physical,psychological, emotional and social changes that take placeduring adolescence have immediate and long-term implica-tions for individuals [9]. For example, the onset of pubertyis linked to the initiation of sexual activity, and subsequentexposure to the risk of pregnancy and STIs, including HIV.Awareness of sexual orientation emerges during this period.Mental health disorders also emerge during the seconddecade of life. High rates of self-harm are observed inyoung people, and suicide is a leading cause of death [10].Increased risk-taking and a heightened sensitivity to peersmay influence adolescent experimentation with substanceuse. Although risk-taking is considered a normal part ofadolescent development, risk-taking by YKP can have seriousadverse consequences. More than any other life stage,adolescent health is strongly determined by social context.Both structural determinants of health (e.g. national wealth,income inequality, access to education and health services,employment opportunities and gender inequality) and moreproximate determinants of health (e.g. connectedness ofadolescents to family and school) affect health-related be-haviour and outcomes during adolescence [11]. It is notsurprising therefore that poor sexual and reproductive health(SRH), mental health disorders, violence and injury, andsubstance use account for the majority of disability anddisease experienced by people aged 10\u000324 globally [12].Sawyer and colleagues have proposed a conceptual frame-work to enhance our understanding of adolescent health anddevelopment (Figure 1) [9]. The horizontal axis describes alife-course perspective from the pre-conceptual and prenatalperiod through to adulthood. The vertical axis describes thesocial determinants of health and the pathways by whichthese influence health outcomes. The nexus of these twoaxes is the period of adolescence, a time of enormousphysical, emotional, mental and social transition. Policy andprogrammatic responses to adolescent health operate alongthe vertical axis, but should not be developed withoutan appreciation for the importance of adolescence withina life-course perspective [9]. Guided by this conceptual ap-proach, we review the needs, barriers and gaps for non-HIV-related services for YKP as part of a special series of paperson YKP.MethodsWe focused our review on those non-HIV-related services thatare developmentally relevant to this population based on theconceptual framework outlined above, and/or included asrecommended interventions in the recently published WHOConsolidated Guidelines on HIV Prevention, Diagnosis, Treat-ment and Care for Key Populations (Table 1). We undertooka targeted, web-based search to identify age-specific dataon the health needs and barriers to care for YKP aged 10\u000324.Using PubMed and Google Scholar, we focused on articlespublished in English since 1990, with a particular emphasison systematic reviews and more recent publications. In orderto identify age-specific data or references we used the keywords ‘‘young,’’ ‘‘youth,’’ ‘‘adolescent,’’ and ‘‘age’’ in combi-nation with search terms for each KP (e.g. ‘‘MSM,’’ ‘‘menwho have sex with men,’’ ‘‘gay,’’ ‘‘bisexual’’) and for eachhealth topic (e.g. ‘‘condoms,’’ ‘‘unprotected sex,’’ ‘‘STI,’’ etc.).Abstracts were retrieved and read, and if relevant age-relateddata were provided, full-text articles were retrieved. Overa 2000 abstracts were identified in the initial searches, butFigure 1. Conceptual framework of adolescent health, adapted from Sawyer et al. [9].Delany-Moretlwe S et al. Journal of the International AIDS Society 2015, 18(Suppl 1):19833http://www.jiasociety.org/index.php/jias/article/view/19833 | http://dx.doi.org/10.7448/IAS.18.2.1983330far fewer contained age-specific information relevant to YKPand 110 articles with age-specific information were included.Due to the paucity of age-specific data on YKP, articles thatreferred to KP or adolescent populations were used tosupplement searches.ResultsPoor SRH outcomes, mental health disorders, violence andinjury, and substance use account for the majority ofdisability and disease experienced by young people aged10\u000324 globally [12]. We summarized the findings of ourreview which demonstrate overall that YKP experience aneven higher burden of disease than older KP, as well as ahigher burden of disease than their age peers in the generalpopulation.Unprotected sexUnprotected sex is an important risk factor for negativehealth outcomes among young people, accounting for 4% ofdisability-adjusted life years (DALYs) in those aged 10\u000324 [12].Several studies have shown younger age is associated withmore frequent unprotected sex among KP [13], often dueto lower levels of education, knowledge, and risk perception[13\u000315]. Young key populations (YKP) may also be unawareof where to access condoms and other contraception. Thecombination of low condom self-efficacy and more frequentsex or change in sexual partners also puts YKP at higher riskof sexually transmitted infection (STI) [16\u000318]. For many,the ability to negotiate safer sex with partners is limited byimbalances in relationship power, compounded by adolescentaspirations for love and intimacy. For example, althoughcondom use rates may be higher among sex workers thanTable 1. Summary of relevant WHO recommendations for linked services key populations [7]HIV PreventionPost-exposure prophylaxis (PEP) should be available to all eligible people from key populations on a voluntary basis after possible exposure toHIV.All pregnant women from key populations should have the same access to services for prevention of mother-to-child transmission (PMTCT) andfollow the same recommendations as women in other populations.Harm reductionAll people from key populations with harmful alcohol or other substance use should have access to evidence-based interventions, includingbrief psychosocial interventions involving assessment, specific feedback and advice.Prevention and management of co-infections and co-morbiditiesKey populations should have the same access to hepatitis B and C prevention, screening and treatment services as other populations at risk of orliving with HIV.Routine screening and management of mental health disorders (depression and psychosocial stress) should be provided for people from keypopulations living with HIV to optimize health outcomes and improve their adherence to ART. Management can range from counselling forHIV and depression to appropriate medical therapies.Sexual and reproductive healthScreening, diagnosis and treatment of sexually transmitted infections should be offered routinely as part of comprehensive HIV prevention andcare for key populations.People from key populations, including those living with HIV, should be able to experience full, pleasurable sex lives and have access to a rangeof reproductive options.Abortion laws and services should protect the health and human rights of all women, including those from key populations.It is important to offer cervical cancer screening to all women from key populations.(Note: for adolescent populations, HPV vaccination is an additional recommendation for prevention of HPV-associated disease includinganogenital cancers).It is important that all women from key populations have the same support and access to services related to conception and pregnancy care, aswomen from other groups.Critical enablersLaws, policies and practices should be reviewed and, where necessary, revised by policymakers and government leaders, with meaningfulengagement of stakeholders from key population groups, to allow and support the implementation and scale-up of health care services for keypopulations.Countries should work towards implementing and enforcing anti-discrimination and protective laws, derived from human rights standards, toeliminate stigma, discrimination and violence against people from key populations.Health services should be made available, accessible and acceptable to key populations, based on the principles of medical ethics, avoidance ofstigma, non-discrimination and the right to health.Programmes should work towards implementing a package of interventions to enhance community empowerment among key populations.Violence against people from key populations should be prevented and addressed in partnership with key population-led organizations. Allviolence against people from key populations should be monitored and reported, and redressal mechanisms should be established to providejustice.Delany-Moretlwe S et al. Journal of the International AIDS Society 2015, 18(Suppl 1):19833http://www.jiasociety.org/index.php/jias/article/view/19833 | http://dx.doi.org/10.7448/IAS.18.2.1983331the general population, several studies have shown howyounger sex workers may be less experienced than older sexworkers with condom negotiation, and more vulnerable tobeing forced to have sex without a condom either by clients ormanagers [19,20]. Unprotected sex may also be associatedwith expressions of intimacy or trust, with higher rates for sexwith primary partners, who are often older and thus have hada longer period of potential exposure to HIV and other STI[21\u000323]. In one study of young MSM aged 16\u000320, consideringa relationship to be serious was associated with an eight-foldincrease in the rate of unprotected sex [24]. For TG women,condom negotiation may be more difficult given their femalegender identity and socially constructed role, and young TGpeople may be more likely to have unprotected sex to validatetheir gender identity [13]. Among young PWID, low ratesof condom use are often associated with other high-risk pra-ctices such as needle sharing or smoking drugs together [23].Among young PWID, there are gender differences in risk withhigher rates of unprotected sex and sexual risk observed inyoung women [25]. Given the lower levels of condom useamong YKP, the potential for negative health outcomes in thispopulation is high.Sexually transmitted infectionsThe prevalence of STIs is also higher in YKP than among olderKP peers. Studies show elevated rates of syphilis [26],gonorrhoea [27], chlamydia [28,29] and herpes simplex [30]among YKP compared with adult KP. Young MSM and TGmay be more likely to have anal or rectal infections that areasymptomatic and/or remain undiagnosed [31]. STIs are alsomore common in those populations with more than one riskbehaviour. For example, a prospective study among PWID inBritish Columbia, Canada, found that incident STIs were morefrequent among those involved in the sex trade comparedwith those who did not sell sex, over a three-year period [32].In addition to causing significant morbidity and mortality,STIs also increase the risk of HIV transmission.Two of the viral STIs associated with cancer outcomes arenow vaccine preventable. HPV is a common STI that causescervical and other anogenital cancers. A high prevalence ofHPV infection has been observed in adult KP. In a study ofanal HPV prevalence and risk factors among men in Brazil,Mexico and the United States, among MSM, younger age wasassociated with increased prevalence of any anal canal HPV[33]. YKP may be exposed to HPV earlier and may be more atrisk of developing of pre-neoplastic and neoplastic lesions inlater life, especially if they are co-infected with HIV. Althoughaccess to HPV vaccination has expanded significantly in thepast five years, young MSM or TG women may not benefitfrom vaccination programmes targeted at young girls, andmay not receive the benefit afforded to heterosexual menthrough herd immunity [34].YKP may be at increased risk for viral hepatitis. Hepatitis Cvirus (HCV) incidence in young PWID is high, raising concernsabout the prevention and control of an expanding epidemicin young people [35]. A study on young PWID in Afghanistanshowed that risk of HCV infection increased with eachadditional year of injecting among young PWID [36]. Youngfemale PWID were reported to have a higher incidence ofHCV, associated with higher risk injection practices, whencompared to young men [37]. Young MSM are also atincreased risk of viral hepatitis A and B [38]. YKP wouldbenefit from vaccination against hepatitis A and B in settingswhere universal childhood vaccination is not routine. Wherevaccination is offered to MSM, coverage is still relativelylow, although promising data from several studies show thatvaccine uptake is associated with younger age [39].Reproductive healthIn addition to STIs, a frequent outcome of unprotected sex infemale YKP is unintended pregnancy, which during adoles-cence can pose particular risks to both mother and infant[40]. Data on pregnancy intentions, outcomes, and use ofcontraception or prevention of mother-to-child-transmission(PMTCT) in YKP are limited. Studies in adult female sex workersshow that pregnancy is frequently unwanted, terminationof pregnancy is common and contraceptive use, including ofemergency contraception, is low, suggesting significant unmetneeds [41\u000343]. A recent study among Chinese adolescentsex workers showed that a quarter had never used a moderncontraceptive method [44]. The main method of pregnancyprevention in this population was condoms, although condomuse was often inconsistent. Half of those interviewed reporteda previous induced abortion, although only a third of thosehad sought care from public sector services. These data aresupported by another study in Chinese sex workers show-ing that younger sex workers were less likely to terminatetheir pregnancy, but those that did were more likely to seektermination from informal providers [45]. For HIV-positive YKP,PMTCT is a priority. While few data are available on accessto PMTCT in YKP, given high rates of HIV infection in thispopulation, there is likely to be a significant need. In a study ofPWID in Ukraine, PWID were more likely than non-PWID tobe diagnosed during labour and to have more advanced HIVdisease, but less likely to receive prophylaxis or HAARTto prevent vertical transmission. As a consequence, verticaltransmission rates in this population were higher than in thegeneral population [46].Young TG have specific health needs related to their genderidentity. Hormone therapy may have significant benefits forTG people, but access is frequently limited by cost or providerattitudes. As a consequence, some TG may seek hormonetherapy from the non-medical sources [47], despite potentialside effects from unmonitored treatment including overdose[48], or the risk associated with injecting hormones or silicone[49]. In some cases, young TG may engage in sex work to fundtreatments [50]. Services for YKP need to be able to providereliable, evidence-informed information regarding TG-specificmedical and surgical procedures.Sexual assaultYKP are more likely to require sexual assault services includingaccess to post-exposure prophylaxis (PEP). While no age-specific data were provided, a recent systematic review of theprevalence and correlates of violence against sex workersestimated that the lifetime prevalence of any violence rangedfrom 45% to 75% [51]. Young trafficked sex workers may haveexperienced violent rape in order to coerce them to sell sex[18,52]. Young male sex workers are not immune, and studiesDelany-Moretlwe S et al. Journal of the International AIDS Society 2015, 18(Suppl 1):19833http://www.jiasociety.org/index.php/jias/article/view/19833 | http://dx.doi.org/10.7448/IAS.18.2.1983332show that they also experience verbal, physical and sexualabuse [53]. In a study of MSM in Thailand, 18% had ex-perienced forced sex, the majority by someone they knew,and the forced sex occurred more than once, with the firstexperience occurring during adolescence [54]. While esti-mates of the prevalence of sexual assault among PWID arelimited, a recent study among women aged 16\u000329 attendingfamily planning services in Pennsylvania, USA, showed 11%of women had experienced sexual violence in the previousthree months, and that sexual assault was associated withinjection drug use, their own or their partners [55]. Experi-ences of violence are strongly associated with increased riskbehaviour and risk for HIV [18,56,57], as well as other negativeSRH outcomes [58,59]. Interventions that address sexualassault and that provide access to PEP are a critical componentof a package of services for YKP [7].Mental healthWhile emergence of mental health problems in the seconddecade of life is common, data suggest that YKP experiencehigher rates of mental health problems when compared withtheir same age counterparts in the general population, orolder key population peers. For example, a study of youngSW in China showed that those younger than age 20 ex-perienced the highest rates of depression, suicide and sub-stance use compared to those older than 20 [60]. A study inlesbian, gay, bisexual, and transgender (LGBT) youth in the USobserved higher rates of mental disorders in this populationcompared to the general population [61]. Major depression,personality and substance use disorders are more common inyoung PWID [62], with higher rates of mental health disordersobserved in young women [63].Among the factors that influence poor mental health inyoung KP, stigma, discrimination, social exclusion and victimi-zation are substantial contributors. For example, a studyamong young PWID in Russia showed that a large proportionhad experienced discrimination resulting in loss of jobs, lackof access to health care and being forced from their familyhomes. Over one-third had clinical depression [64]. A studyin Chinese sex workers showed that the majority had highlevels of self-stigma, and that this was significantly associatedwith poor mental health [65]. In a US study of young MSM,experiences of victimization were strongly associated with asyndemic of depression, substance use, risky sex and intimatepartner violence; these factors were also strongly associatedwith an increase in suicide attempts [66]. These findings wereechoed in a global study of MSM in 151 countries [67], anda study in young TG women [68]. Violence experienced at thehands of family, partners, clients or police is associated withincreased reporting of poor mental health outcomes [69\u000372].Substance useSubstance use and experimentation are common in ado-lescence, but evidence suggests that YKP are more likelyto initiate substance use at an earlier age, to engage inpolysubstance use and to experience more rapid increases insubstance use over time [73,74]. This is of particular concerngiven the findings that substance use in adolescence may bemore harmful to brain function and behaviour while the brainis still developing [75]. YKP may frequent social spaces wherealcohol and drug use are tolerated and consumption normal-ized. YKP may initiate substance use to self-medicate againstthe anxiety associated with group behaviours, or associatednegative experiences [76,77]. A study in Australian LGBT youthhighlighted a higher prevalence of alcohol and drug use inthis population compared to the general population. In thisstudy, alcohol use was significantly higher in those youngerthan 18, and those who believed that homophobia influencedalcohol and drug use were significantly more likely to usealcohol or drugs [78]. Substance use may increase sexualdesire, lower inhibitions and impair decision-making. A studyof young TG women in the US documented that this groupwas significantly less likely to use condoms with main partnerswhile under the influence of drugs or alcohol. Substanceuse may reduce an individual’s concerns about safe sex in theface of other, more important desires and immediate priorities[22]. Several other studies among YKP have shown thatdrinking beforehand can be associated with unprotected sexand injecting behaviours [76,79,80].The risks associated with injecting drug use are dis-proportionately high. Problem drug use often starts withrecreational drug use, and studies show that the transitionfrom non-injecting to injecting drug use in young people israpid and high [77]. Early initiation of injecting drug use isassociated with younger age and being female [25,81].Young PWID are frequently initiated into drug use by peers[82,83]; young women more often are initiated by a sexpartner [77,84]. A study in Ukraine reported that in 56% ofboys and 72% of girls, the first injection was unplanned andoften occurred after exposure to injecting among friends,with around 32% of girls initiated by their sexual partners[85]. Young PWID are more likely to inject in groups, anddevelop rituals associated with injecting that expose themto sharing of non-sterile equipment. Studies in young PWIDshow more frequent sharing of equipment, more frequentinjecting and injecting in public spaces [86,87]. Young PWIDare more likely to practice unprotected sex, have increasednumbers of partners, or trade sex for drugs than their olderpeers [88,89]. Young PWID may also be less likely to engagein care for their addiction, and are also more likely to reportrelapse after treatment [72,90]. Young PWID have muchhigher mortality rates than their peers in the general popu-lation, associated with overdose or injury [91]. They have asubstantial need for harm reduction and addiction treat-ment services, as well as links to services to address theirintegrated health and social needs.Educational, vocational and social supportIn addition to health care, YKP frequently require socialsupport because of their life stage as well as socio-structuralfactors that influence their behaviour. YKP may be orphanedor rejected by their families, experiencing homelessness, foodinsecurity and economic instability [56,92,93], and may oftenprioritize food, shelter and money over health [94]. FemaleYKPmay have concerns about thewelfare of their own children[95]. Access to social support and benefits is thereforeessential to reducing their risk. Completion of education,initiating employment and transitioning out of the child-hood home may be considered a normal part of adolescentDelany-Moretlwe S et al. Journal of the International AIDS Society 2015, 18(Suppl 1):19833http://www.jiasociety.org/index.php/jias/article/view/19833 | http://dx.doi.org/10.7448/IAS.18.2.1983333development, yet YKP may not experience these positively.For example, school bullying and victimization may severelyimpair educational attainment and future employment oppor-tunities of young MSM and TG [96]. For some, low educationalattainment may become a reason to sell sex [97]. Young PWIDwho drop out of schoolmay be at higher risk for HIV [15]. Linkageto educational and vocational support interventions are animportant part of a developmentally appropriate response toYKP, and while not directly linked to HIV programme activitieseducational and vocational interventionsmay be critical enablersfor HIV programme success in this age group.Barriers to careAdolescence is marked by high rates of attrition along thecontinuum of HIV prevention, diagnosis and treatment ser-vices. YKP are less likely to be engaged in care [98], andcoverage of services is low. While data are limited for YKP,evidence from young adult and adult populations shows thatKP experience poor access to condoms and HIV testing [99],may present later for HIV treatment [100] and have lowerrates of adherence [101], viral suppression [102] and retentionin care [103]. PMTCT outcomes and access to linked mentalhealth, substance use and SRH services are poor [46,104].PWID may experience difficulty in accessing safe injectingequipment or treatment for dependence. Using the concep-tual framework (Figure 1), reasons for poor access to carecan be categorized as individual-level, health-system-level orstructural-level barriers, and are common to all YKP.Individual-level barriers to careLow levels of education and HIV knowledge or risk percep-tion are associated with low uptake of HIV services [13]. YKPwith less formal education and/or less sex education maybe less familiar with what constitute safe sex or safe injec-tion practices. YKP with internalized stigma experience moresocial isolation and are less able to ask trusted adults forsupport in decision-making [105]. They may also experiencebullying by older KP [106]. YKP who have experienced poormental health, violence or low levels of social support mayhave lower levels of self-efficacy for health-seeking [107].Health-system-level barriers to carePerhaps the most significant barrier to health-seeking amongYKP is the experience of stigma, discrimination or victimizationat the hands of health care providers (HCP). In a study ofyoung migrant sex workers in North Vietnam, despite healthcare being available, the young women perceived the stigmaattached to sex work as a barrier to receiving health care, andpreferred to receive health education and care frompeers [52].In another study involving male, female and TG sex workersin Africa, denial of treatment for injuries following physicalassault or rape and general hostility from public sector pro-viders were common [108]. Similar experiences were reportedby PWID in India [70]. Younger PWID expressed a preferencefor syringe-dispensing machines over staffed needle exchangeprogrammes because of their desire to hide their identity orbecause they did not like the way they were treated at staffedservices [109]. Concerns about privacy and confidentiality arean important barrier to care. In a US-based study, LGBT youthexpressed greater concerns about confidentiality and wereless likely to seek care from school-based services comparedto heterosexual peers [110]. In addition to concerns aboutpoor attitudes, HCP may not have sufficient skill, competenceor training to deal with the specific health and social needsof YKP. A US survey of HCP reported that the majority ofrespondents would not regularly discuss sexual orientation,sexual attraction or gender identity while taking a sexualhistory from a sexually active adolescent. The majority ofphysicians did not believe that they had all the necessary skillsto address issues of sexual orientation with adolescents [111].Studies reveal that provider willingness to answer questions,their respect for and understanding of adolescents and theresponsiveness of the social and physical environment towardsyouth are all associated with young people’s intention toseek and engage in care [112]. Negative experiences withproviders may prompt YKP to seek care from non-conventionalservices [47]. For YKP, cost and waiting time are also barriersto care [103]. Young people are less likely to have access toready cash and may have competing demands or less controlover their time. In several studies, YKP highlight the impor-tance of integrated services that address their multiple healthneeds [113]. Lack of service integration adds time and costto clinic visits and may be a further barrier to care. In manycases, services for KP may not be sufficiently ‘‘youth-friendly.’’Providers may not have an appreciation for the specifichealth and communication needs of YKP. YKP may experiencediscomfort when seeking care with adults. Location andtransport may also be a barrier to care. Larger, more formalvenues can enhance prevention initiatives, including on-siteservices. Geographical targeting of services for YKP can becomplicated by the social and sexual networking patterns ofYKP whomay find partners through the Internet, meet them ininformal venues, and generally be more mobile. This canincrease the risk involved and makes it harder for services toidentify and reach them [114].Structural-level barriersCriminalization reduces YKP’s control over their behaviour,impedes their access to health services and obstructs health-service provision and legal protection. In many settings, YKPare criminalized for their behaviour/s and risk incarceration[115,116]. Even in settings where activities are not crimina-lized, they may experience significant stigma, discriminationor police harassment, as a result of both their group identityand their age [117\u0003119]. Studies of MSM in African countrieswhere homosexuality is criminalized demonstrate how crim-inalization makes MSM more vulnerable to violence and lessable to access health care or preventive services [99,119,120].YKP are vulnerable to harassment and exploitation by thepolice, and may go to substantial lengths to avoid police.A mapping study in Canada showed a significant geographicrelationship between a heavily concentrated core area ofhealth and syringe availability and avoidance of these settingsby substance using street-based sex workers due to policing;this correlation was strongest among younger women [121].Several studies have highlighted how police arrest YKP forcarrying drug paraphernalia or confiscate it without arrest[70,122]. Arrest and detention are frequently associated withpolice beatings; a Thai study among young PWID showed thatDelany-Moretlwe S et al. Journal of the International AIDS Society 2015, 18(Suppl 1):19833http://www.jiasociety.org/index.php/jias/article/view/19833 | http://dx.doi.org/10.7448/IAS.18.2.1983334younger age was associated with more frequent reports ofpolice beating [118]. In addition to physical violence, YKP arealso vulnerable to sexual coercion and violence at the hands ofauthorities [123].Access to care is further confounded by the legal statusof YKP as minors. In many countries, adolescents requireparental permission to access testing, treatments or proce-dures. This is a particular problem for minors who do not livewith their parents or do not wish to disclose their behaviourto them. For example, young women seeking contraceptionor safe abortion services are likely to seek care outside ofconventional health services [45]. In many countries whereopioid substitution services are available, age restrictionsare placed on them [124]. In some settings, HCP are legallyobliged to report underage sex or other illegal activities.This may compromise disclosure and provision of adequatecare for risky behaviours. Age restrictions are also placed onaccess to housing and other social services which may beneeded.An absence of clear legal status may also be a barrier foraccess to health services. TG people may experience signifi-cant barriers to obtaining services, legal entitlements andlegal protection because the gender assignment on theiradministrative documents may be in conflict with their genderidentity [113]. Migrant YKP may also not have adequatelegal documentation of citizenship, and may not be able toaccess services in their host country. As adolescents, they areoften dependent on parents for the provision of informationnecessary for citizenship or travel documentation.The absenceof appropriate official documentation may make them vulner-able by limiting their access to health and social services andbenefits that they might otherwise be entitled to.Many YKP experience additional stigma and discrimina-tion associated with their racial or ethnic identity, in additionto their group identity. There is overwhelming evidencefrom the United States that young Black MSM have thehighest concentration of HIV of any sub-population despitelittle evidence of higher risk behaviour. Instead, social andstructural factors act as barriers to health care access [125].In other settings, YKP from either indigenous or migrantpopulations aremarginalized and have limited access to healthservices [87].DiscussionDespite the paucity of age-specific data for YKP, this reviewconfirms that in addition to interventions for the prevention,treatment and care of HIV, YKP also require other, non-HIV-related health services that respond to their significanthealth and development needs as adolescents. The WHOrecommendations for a comprehensive package of servicesthat includes SRH services and care for mental health disordersis an important first step in recognizing the impact of theseother health concerns on the success of HIV prevention,treatment and care interventions [7]. These guidelines speci-fically recognize the health and developmental needs ofYKP, and provide commentary on specific considerations forthe delivery of health sector interventions to YKP.The next priority is to ensure that these recommendationsare implemented at scale and with sufficient intensity toensure an impact on the HIV epidemic, and the health ofYKP. While there is substantial evidence for effective inter-ventions to prevent and treat HIV infection in adults, less isknown about the delivery of these interventions to adoles-cents [126]. Current coverage of services for YKP is generallylow [127,128], and consideration of optimal service deliverymodels that respond to current barriers to care are nowa priority. The requirement to make services accessible,acceptable and available to YKP provides an opportunity toevaluate interventions aimed at addressing health systembarriers to care. Beyer and colleagues have proposed threemodels of service provision for KP: integrated models of care,stand-alone models of care or hybrid models of serviceprovision [8]. Integrating HIV and related service provision forYKP into primary health care (PHC) offers significant potentialfor expanding coverage and access to care for YKP, and maybe the only option for service delivery in some settings.Integrated models have the potential to address several ofthe health systems barriers. Sensitization of services andtraining of all staff in facilities, not just HCP, is a potentiallypowerful structural intervention to enhance the effective-ness of HIV programmes for YKP and reduce stigma moregenerally. There are a number of positive approaches tostigma reduction, with growing experience on how to workwith HCP and communities to reduce anticipated and en-acted stigma [129]. There is accumulating evidence to sug-gest that interventions using a combination of sensitizationand participatory activities can reduce HIV stigma in healthcare [130,131] and community settings [132,133]. A recentsystematic review identified 48 evaluations in which HIV-related stigma was assessed as an outcome [134]. While thestudies found that information, skills building, counsellingand PLHIV testimonials were associated with less stigmatiz-ing attitudes among participants, the evidence base hadmany gaps. Training and sensitization of HCP to the needsof MSM has also been shown in a study in Kenya to reducehomophobic attitudes up to three months after training[135]. In addition to stigma reduction interventions, initia-tives to make PHC more ‘‘adolescent and youth-friendly’’ arelikely to benefit the subset of YKP. Evidence from severalsystematic reviews confirms that implementation of a com-bination of interventions, including training of HCP, outreachactivities and out-of-facility services tailored to context andtarget population, demonstrated some impact on uptakeof health services by young people [126], although trainingof service providers in adolescent-friendly service provisionalone appears to be less beneficial [128].Peer approaches are potentially a critical component ofservices for YKP, given the particular developmental suscept-ibility of adolescents to peer influence. Peers are in a uniqueposition to identify and reach out to YKP who may beexperiencing barriers to health care through lack of knowl-edge, risk perception or self-efficacy. Evidence from asystematic review of interventions to improve linkage andretention in HIV care in low- and middle-income countriessupports integrating formalized care with peer support toincrease the uptake of HIV services, although data onadolescents are limited [136]. While peer interventions forYKP have been found to be positively associatedwith increasedDelany-Moretlwe S et al. Journal of the International AIDS Society 2015, 18(Suppl 1):19833http://www.jiasociety.org/index.php/jias/article/view/19833 | http://dx.doi.org/10.7448/IAS.18.2.1983335knowledge and condom use in some programmes [13],they are optimal when included as part of a comprehensiveempowerment approach [137]. There is growing evidencethat empowerment approaches for SW in particular improveHIV programme outcomes [138]. In addition, empower-ment approaches are likely to have benefits for other healthchallenges, particularly violence. Evidence from programmeassessments show that it is possible to prevent violenceusing empowerment approaches, with some interventionsachieving significant effects within programme timeframes[139]. Integrated services delivered at scale offer a signifi-cant platform for the delivery of community mobilizationand empowerment interventions. Despite the growing evi-dence that empowerment approaches produce health bene-fits, effective implementation of empowerment processeswithin many settings, particularly in Africa, has been limited[140]. Challenges to the sustainability of empowermentinterventions include lack of social cohesion within transientcommunities, limited capacity and resources, and variablecommitment of programmers to empowerment interventions.Given these challenges, and the fact that integrated modelsmay not sufficiently address the barriers presented by lackof privacy and accessibility, cost or waiting times, or the needfor access to a range of non-health services, alternativemodelswarrant further exploration.While there is a precedent for stand-alone models ofservice delivery for KP [141], they may not be suitable inmany settings. While these services may be able to provideKP-sensitive services, they may also increase stigma andmarginalization, and provide targets for attack. An alternativeto stand-alone facilities are out-of-facility-based deliverystrategies. Currently data are limited on the benefits of out-of-facility-based approaches to health care delivery amongadolescents, although two reviews suggest that servicesdelivered through mixed-use youth centres are not well-used or particularly effective for adolescents in the generalpopulation [128]. The authors do note, however, the absenceof studies or evaluations examining outcomes among vulner-able or marginalized adolescents. Programmatic experiencesuggests that drop-in centres provide a valuable opportunityto offer a range of services specific to the needs of YKP.For example, as an alternative to integrating adolescent PWIDinto programming targeted at adult injectors, who can appearthreatening and model harmful behaviours, Moldovan NGOsestablished drop-in centres welcoming adolescents withoverlapping risks, including those living on the street, injectingdrugs or involved in sex work. A case management approachthen linked individuals to a network of health and socialservices [142]. Linkage to non-health services is generallyvalued by YKP [103,113], and may even encourage retention incare. Medical and food incentives have been found to increaseretention in care prior to antiretroviral treatment initiation[136], emphasizing the importance of non-HIV-related servicedelivery provision. Other out-of-facility options include thetraining of pharmacist to counsel and provide adolescentswith appropriate needle exchange and drug substitutionservices [143]. Work place policies have been used withparticularly good effect in sex work establishments in Asia;however, there is less evidence for how these policies maybenefit YKP [13]. In these cases, strong linkages with childprotection services ensure enforcement of anti-traffickinglaws.While schools are an important venue for the delivery ofhealth education, they may not be an optimal for the deliveryof services to YKP and should be used to complement, notreplace, health care services for adolescents located outsideschools [126].Internet-based interventions represent a different type ofout-of-facility service. The rapid expansion of access to theInternet and social media in the past two decades, even inlow- and middle-income countries, through mobile phonetechnology, represents a significant opportunity to engagewith previously hidden populations, or those that are sociallyor geographically isolated [144,145]. The Internet provides anovel way to expand access to standardized information,to build virtual communities of supportive peers and tolink YKP to services. There is accumulating evidence of theacceptability of delivering digital-based media interven-tions to adolescents, KP or YKP in settings in North America[146\u0003148], South America [149], Asia [150,151] and Africa[152], although there is less evidence on the impact of theseservices on longer term health outcomes [153]. A recentreview evaluated the impact of digital-media-based interven-tions on sexual health knowledge, attitudes and/or beha-viours of adolescents in the general population aged 13\u000324[154]. Of the ten studies reviewed, six studies increasedknowledge of HIV, STI or pregnancy. A recent study amongyoung MSM showed that an Internet-based, peer-led socialmedia HIV prevention intervention can increase communitycohesion and uptake of HIV services [155]. These and otherevaluations of Internet interventions for YKP show positiveshort-term outcomes for health. Given initial findings fromthis and other similar programmes, further evaluation isneeded to gauge the potential benefit of these programmeson health outcomes over a longer period [156].Hybrid models that combine the reach of services inte-grated at PHC level with the peer-based, outreach andempowerment approaches offered by more flexible commu-nity-based NGOs are probably the optimal model of servicedelivery. Ultimately, decisions about service delivery modelsneed to be informed by user preferences, and they needto take into account considerations that are context-specificand address the age-based needs of YKP, as well as respondto their specific risk behaviours, the epidemic setting and thesocial, legal and political complexities associated with servicedelivery for this group. To this end, efforts should be focusedon making YKP more visible through research and monitoring,so that their needs are recognized and prioritized by publichealth systems.While the provision of linked non-HIV-specificservices requires significant investment and innovation, sig-nificant gains in coverage can be achieved with modestincreases in resources [157]. Finally, given the strong influenceof socio-structural factors on adolescent health, coupledwith the fact that many factors that influence YKP’s riskare outside of their immediate control, interventions thataddress the structural barriers to care are a critical part ofan effective HIV response for YKP. In addition to changes inlaws and policies that promote stigma and discrimination,Delany-Moretlwe S et al. Journal of the International AIDS Society 2015, 18(Suppl 1):19833http://www.jiasociety.org/index.php/jias/article/view/19833 | http://dx.doi.org/10.7448/IAS.18.2.1983336specific interventions that address the age of consent aremore essential for this age group.ConclusionsDespite the dearth of age-specific data, YKP have significantnon-HIV-related health needs, and face significant obstaclesto accessing care as a result of their age and membershipof KP. While YKP face significant hardship and risk, they alsorepresent the greatest hope for reducing the harms associatedwith their behaviours, and preventing new HIV infections.Now that normative guidance exists for the optimal set ofinterventions for KP, priority needs to be placed on evaluat-ing optimal approaches for the delivery of a comprehensivepackage of care of YKP. Investments in providing linked, non-HIV but related services that also address critical enablersof programmes are likely to have significant benefits for HIVprevention across all populations.Authors’ affiliations1Wits RHI, Faculty of Health Sciences, University of the Witwatersrand,Johannesburg, South Africa; 2CeSHHAR Zimbabwe, Harare, Zimbabwe;3Department of Infection and Population Health, University College London,London, United Kingdom; 4Department of Population Health, London School ofHygiene and Tropical Medicine, London, United Kingdom; 5Centre for InfectiousDisease Research in Zambia (CIDRZ), Lusaka, ZambiaCompeting interestsThe authors declare no competing interests.Authors’ contributionsAll authors contributed to the initial outline of the paper, and reviewed sectionsof the literature, and approved the initial submission. SD wrote the initialdraft of the paper which all authors reviewed, and coordinated subsequentrevisions.AcknowledgementsDuring the preparation of this manuscript, SDM was supported in part bya grant from UKaid from the Department for International Development(STRIVE: Research Programme Consortium on the Structural Drivers of HIV(REF PO 5244). The views expressed however do not necessarily reflect thedepartment’s official policies.References1. WHO. Global health risks: mortality and burden of disease attributable toselected major risks. Geneva: WHO; 2009.2. Idele P, Gillespie A, Porth T, Suzuki C, Mahy M, Kasedde S, et al.Epidemiology of HIV and AIDS among adolescents: current status, inequities,and data gaps. J Acquir Immune Defic Syndr. 2014;66(Suppl 2):S144\u000353.3. Kasedde S, Kapogiannis BG, McClure C, Luo C. Executive summary:opportunities for action and impact to address HIV and AIDS in adolescents.J Acquir Immune Defic Syndr. 2014;66(Suppl 2):S139\u000343.4. Baral S, Sifakis F, Cleghorn F, Beyrer C. Elevated risk for HIV infection amongmen who have sex with men in low- and middle-income countries 2000\u00032006:a systematic review. PLoS Med. 2007;4(12):e339.5. Herbst JH, Jacobs ED, Finlayson TJ, McKleroy VS, Neumann MS, Crepaz N.Estimating HIV prevalence and risk behaviors of transgender persons in theUnited States: a systematic review. AIDS Behav. 2008;12(1):1\u000317.6. Baral S, Beyrer C, Muessig K, Poteat T, Wirtz AL, Decker MR, et al. Burden ofHIV among female sex workers in low-income and middle-income countries:a systematic review and meta-analysis. Lancet Infect Dis. 2012;12(7):538\u000349.7. WHO. Consolidated guidelines on HIV prevention, diagnosis, treatment andcare for key populations. Geneva: WHO; 2014.8. Beyrer C, Baral S, Kerrigan D, El-Bassel N, Bekker LG, Celentano DD.Expanding the space: inclusion of most-at-risk populations in HIV preven-tion, treatment, and care services. J Acquir Immune Defic Syndr. 2011;57(Suppl 2):S96\u00039.9. Sawyer SM, Afifi RA, Bearinger LH, Blakemore SJ, Dick B, Ezeh AC, et al.Adolescence: a foundation for future health. Lancet. 2012;379(9826):1630\u000340.10. Patel V, Flisher AJ, Hetrick S, McGorry P. Mental health of young people:a global public-health challenge. Lancet. 2007;369(9569):1302\u000313.11. Viner RM, Ozer EM, Denny S, Marmot M, Resnick M, Fatusi A, et al.Adolescence and the social determinants of health. Lancet. 2012;379(9826):1641\u000352.12. Gore FM, Bloem PJ, Patton GC, Ferguson J, Joseph V, Coffey C, et al. Globalburden of disease in young people aged 10\u000324 years: a systematic analysis.Lancet. 2011;377(9783):2093\u0003102.13. Schunter BT, Cheng WS, Kendall M, Marais H. Lessons learned froma review of interventions for adolescent and young key populations in AsiaPacific and opportunities for programming. J Acquir Immune Defic Syndr.2014;66(Suppl 2):S186\u000392.14. Newman PA, Chakrapani V, Cook C, Shunmugam M, Kakinami L.Determinants of sexual risk behavior among men who have sex with menaccessing public sex environments in Chennai, India. J LGBT Health Res. 2008;4(2\u00033):81\u00037.15. Czerwinski M, McNutt LA, DeHovitz JA, Zielinski A, Rosinska M. RefiningHIV risk: the modifying effects of youth, gender and education among peoplewho inject drugs in Poland. PLoS One. 2013;8(7):e68018.16. Klein H. A comparison of HIV risk practices among unprotected sex-seekingolder and younger men who have sex with other men. Aging Male. 2012;15(3):124\u000333.17. Wall KM, Stephenson R, Sullivan PS. Frequency of sexual activity with mostrecent male partner among young, Internet-using men who have sex with menin the United States. J Homosex. 2013;60(10):1520\u000338.18. George A, Sabarwal S. Sex trafficking, physical and sexual violence, and HIVrisk among young female sex workers in Andhra Pradesh, India. Int J GynaecolObstet. 2013;120(2):119\u000323.19. Urada LA, Silverman JG, Cordisco Tsai L, Morisky DE. Underage youthtrading sex in the Philippines: trafficking and HIV risk. AIDS Care. 2014;26(12):1586\u000391.20. Januraga PP, Mooney-Somers J, Ward PR. Newcomers in a hazardousenvironment: a qualitative inquiry into sex worker vulnerability to HIV in Bali,Indonesia. BMC Public Health. 2014;14(1):832.21. Arrington-Sanders R, Leonard L, Brooks D, Celentano D, Ellen J. Olderpartner selection in young African-American men who have sex with men.J Adolesc Health. 2013;52(6):682\u00038.22. Wilson EC, Garofalo R, Harris DR, Belzer M. Sexual risk taking amongtransgender male-to-female youths with different partner types. Am J PublicHealth. 2010;100(8):1500\u00035.23. Kapadia F, Latka MH, Hudson SM, Golub ET, Campbell JV, Bailey S, et al.Correlates of consistent condom use with main partners by partnershippatterns among young adult male injection drug users from five US cities. DrugAlcohol Depend. 2007;91(Suppl 1):S56\u000363.24. Mustanski B, Newcomb ME, Clerkin EM. Relationship characteristics andsexual risk-taking in young men who have sex with men. Health Psychol.2011;30(5):597\u0003605.25. Mullen L, Barry J. An analysis of 15\u000319-year-old first attenders at theDublin Needle Exchange, 1990\u000397. Addiction. 2001;96(2):251\u00038.26. Thurnheer MC, Weber R, Toutous-Trellu L, Cavassini M, Elzi L, Schmid P,et al. Occurrence, risk factors, diagnosis and treatment of syphilis in theprospective observational Swiss HIV Cohort Study. AIDS. 2010;24(12):1907\u000316.27. Koedijk FD, van Benthem BH, Vrolings EM, Zuilhof W, van der Sande MA.Increasing sexually transmitted infection rates in young men having sex withmen in the Netherlands, 2006\u00032012. Emerg Themes Epidemiol. 2014;11:12.28. Wilkinson A, El-Hayek C, Fairley CK, Leslie D, Roth N, Tee BK, et al.Incidence and risk factors associated with chlamydia in men who have sex withmen: a cohort analysis of Victorian Primary Care Network for SentinelSurveillance data. Sex Transm Infect. 2012;88(5):319\u000324.29. Masese L, Baeten JM, Richardson BA, Deya R, Kabare E, Bukusi E, et al.Incidence and correlates of Chlamydia trachomatis infection in a high-riskcohort of Kenyan women. Sex Transm Dis. 2013;40(3):221\u00035.30. Ryder N, Jin F, McNulty AM, Grulich AE, Donovan B. Increasing role ofherpes simplex virus type 1 in first-episode anogenital herpes in heterosexualwomen and younger men who have sex with men, 1992\u00032006. Sex TransmInfect. 2009;85(6):416\u00039.31. Rieg G, Lewis RJ, Miller LG, Witt MD, Guerrero M, Daar ES. Asymptomaticsexually transmitted infections in HIV-infected men who have sex with men:prevalence, incidence, predictors, and screening strategies. AIDS Patient CareSTDS. 2008;22(12):947\u000354.32. Kuyper LM, Collins CL, Kerr T, Hogg RS, Li K, Tyndall MW, et al. Theprevalence and incidence of sexually transmitted infections in a prospectiveDelany-Moretlwe S et al. Journal of the International AIDS Society 2015, 18(Suppl 1):19833http://www.jiasociety.org/index.php/jias/article/view/19833 | http://dx.doi.org/10.7448/IAS.18.2.1983337cohort of injection drug users in Vancouver, British Columbia. Can J Infect DisMed Microbiol. 2005;16(4):225\u00039.33. Nyitray AG, Carvalho da Silva RJ, Baggio ML, Lu B, Smith D, Abrahamsen M,et al. Age-specific prevalence of and risk factors for anal human papillomavirus(HPV) among men who have sex with women and men who have sex withmen: the HPV in men (HIM) study. J Infect Dis. 2011;203(1):49\u000357.34. Ali H, Donovan B, Wand H, Read TR, Regan DG, Grulich AE, et al. Genitalwarts in young Australians five years into national human papillomavirusvaccination programme: national surveillance data. BMJ, 2013. 346: p. f2032.35. Centers for Disease Control and Prevention (CDC). Hepatitis C virusinfection among adolescents and young adults:Massachusetts, 2002\u00032009.MMWR Morb Mortal Wkly Rep. 2011;60(17):537\u000341.36. Bautista CT, Todd CS, Abed AM, Botros BA, Strathdee SA, Earhart KC, et al.Effects of duration of injection drug use and age at first injection on HCVamong IDU in Kabul, Afghanistan. J Public Health (Oxf). 2010;32(3):336\u000341.37. Tracy D, Hahn JA, Fuller Lewis C, Evans J, Briceno A, Morris MD, et al.Higher risk of incident hepatitis C virus among young women who injectdrugs compared with young men in association with sexual relationships:a prospective analysis from the UFO Study cohort. BMJ Open. 2014;4(5):e004988.38. Diamond C, Thiede H, Perdue T, Secura GM, Valleroy L, Mackellar D, et al.Viral hepatitis among young men who have sex with men: prevalence ofinfection, risk behaviors, and vaccination. Sex Transm Dis. 2003;30(5):425\u000332.39. Matthews JE, Stephenson R, Sullivan PS. Factors associated with self-reported HBV vaccination among HIV-negative MSM participating in an onlinesexual health survey: a cross-sectional study. PLoS One. 2012;7(2):e30609.40. WHO. Adolescent pregnancy. Fact Sheet 364. 2012, WHO: Geneva.41. Duff P, Shoveller J, Zhang R, Alexson D, Montaner JS, Shannon K. Highlifetime pregnancy and low contraceptive usage among sex workers who usedrugs- an unmet reproductive health need. BMC Pregnancy Childbirth. 2011;11:61.42. Yam EA, Mnisi Z, Maziya S, Kennedy C, Baral S. Use of emergencycontraceptive pills among female sex workers in Swaziland. J Fam Plann ReprodHealth Care. 2014;40(2):102\u00037.43. Decker MR, Yam EA, Wirtz AL, Baral SD, Peryshkina A, Mogilnyi V, et al.Induced abortion, contraceptive use, and dual protection among female sexworkers in Moscow, Russia. Int J Gynaecol Obstet. 2013;120(1):27\u000331.44. Zhang XD, Kennedy E, Temmerman M, Li Y, Zhang WH, Luchters S. Highrates of abortion and low levels of contraceptive use among adolescent femalesex workers in Kunming, China: a cross-sectional analysis. Eur J ContraceptReprod Health Care. 2014;19(5):368\u000378.45. Lau JT, Mui LW, Tsui HY, Wong E, Ho SP. Prevalence of induced abortionand associated factors among Chinese female sex workers in Hong Kong. J SexMarital Ther. 2007;33(1):19\u000329.46. Thorne C, Semenenko I, Malyuta R. Prevention of mother-to-childtransmission of human immunodeficiency virus among pregnant women usinginjecting drugs in Ukraine, 2000\u000310. Addiction. 2012;107(1):118\u000328.47. Rotondi NK, Bauer GR, Scanlon K, Kaay M, Travers R, Travers A.Nonprescribed hormone use and self-performed surgeries: ‘‘do-it-yourself’’transitions in transgender communities in Ontario, Canada. Am J Public Health.2013;103(10):1830\u00036.48. Gooren LJ, Sungkaew T, Giltay EJ. Exploration of functional health, mentalwell-being and cross-sex hormone use in a sample of Thai male-to-femaletransgendered persons (kathoeys). Asian J Androl. 2013;15(2):280\u00035.49. Guadamuz TE, Wimonsate W, Varangrat A, Phanuphak P, Jommaroeng R,McNicholl JM, et al. HIV prevalence, risk behavior, hormone use and surgicalhistory among transgender persons in Thailand. AIDS Behav. 2011;15(3):650\u00038.50. Sevelius JM, Reznick OG, Hart SL, Schwarcz S. Informing interventions: theimportance of contextual factors in the prediction of sexual risk behaviorsamong transgender women. AIDS Educ Prev. 2009;21(2):113\u000327.51. Deering KN, Amin A, Shoveller J, Nesbitt A, Garcia-Moreno C, Duff P, et al.A systematic review of the correlates of violence against sex workers. Am JPublic Health. 2014;104(5):e42\u000354.52. Rushing R, Watts C, Rushing S. Living the reality of forced sex work:perspectives from young migrant women sex workers in northern Vietnam. JMidwifery Womens Health. 2005;50(4):e41\u00034.53. Aho J, Hakim A, Vuylsteke B, Semde G, Gbais HG, Diarrassouba M, et al.Exploring risk behaviors and vulnerability for HIV among men who have sexwith men in Abidjan, Cote d’Ivoire: poor knowledge, homophobia and sexualviolence. PLoS One. 2014;9(6):e99591.54. Guadamuz TE, Wimonsate W, Varangrat A, Phanuphak P, Jommaroeng R,Mock PA, et al. Correlates of forced sex among populations of men who havesex with men in Thailand. Arch Sex Behav. 2011;40(2):259\u000366.55. Decker MR, Miller E, McCauley HL, Tancredi DJ, Anderson H, Levenson RR,et al. Recent partner violence and sexual and drug-related STI/HIV risk amongadolescent and young adult women attending family planning clinics. SexTransm Infect. 2014;90(2):145\u00039.56. Koblin BA, Torian L, Xu G, Guilin V, Makki H, Mackellar D, et al. Violence andHIV-related risk among young men who have sex with men. AIDS Care. 2006;18(8):961\u00037.57. Deuba K, Ekstrom AM, Shrestha R, Ionita G, Bhatta L, Karki DK.Psychosocial health problems associated with increased HIV risk behavioramong men who have sex with men in Nepal: a cross-sectional survey. PLoSOne. 2013;8(3):e58099.58. McDougal L, Strathdee SA, Rangel G, Martinez G, Vera A, Sirotin N, et al.Adverse pregnancy outcomes and sexual violence among female sex workerswho inject drugs on the United States-Mexico border. Violence Vict. 2013;28(3):496\u0003512.59. Decker MR, McCauley HL, Phuengsamran D, Janyam S, Silverman JG.Sex trafficking, sexual risk, sexually transmitted infection and reproductivehealth among female sex workers in Thailand. J Epidemiol Community Health.2011;65(4):334\u00039.60. Su S, Li X, Zhang L, Lin D, Zhang C, Zhou Y. Age group differences in HIV riskand mental health problems among female sex workers in Southwest China.AIDS Care. 2014;26(8):1019\u000326.61. Mustanski BS, Garofalo R, Emerson EM. Mental health disorders,psychological distress, and suicidality in a diverse sample of lesbian, gay,bisexual, and transgender youths. Am J Public Health. 2010;100(12):2426\u000332.62. Mackesy-Amiti ME, Donenberg GR, Ouellet LJ. Prescription opioid misuseand mental health among young injection drug users. Am J Drug AlcoholAbuse. 2015;41(1):100\u00036.63. Yorick R, Skipalska H, Suvorova S, Sukovatova O, Zakharov K, Hodgdon S.HIV prevention and rehabilitation models for women who inject drugs in Russiaand Ukraine. Adv Prev Med. 2012;2012:316871.64. Amirkhanian YA, Kelly JA, McAuliffe TL. Psychosocial needs, mental health,and HIV transmission risk behavior among people living with HIV/AIDS in StPetersburg, Russia. AIDS. 2003;17(16):2367\u000374.65. Hong Y, Fang X, Li X, Liu Y, Li M, Tai-Seale T. Self-perceived stigma,depressive symptoms, and suicidal behaviors among female sex workers inChina. J Transcult Nurs. 2010;21(1):29\u000334.66. Mustanski B, Andrews R, Herrick A, Stall R, Schnarrs PW. A syndemic ofpsychosocial health disparities and associations with risk for attempting suicideamong young sexual minority men. Am J Public Health. 2014;104(2):287\u000394.67. Santos GM, Do T, Beck J, Makofane K, Arreola S, Pyun T, et al. Syndemicconditions associated with increased HIV risk in a global sample of men whohave sex with men. Sex Transm Infect. 2014;90(3):250\u00033.68. Brennan J, Kuhns LM, Johnson AK, Belzer M, Wilson EC, Garofalo R.Syndemic theory and HIV-related risk among young transgender women: therole of multiple, co-occurring health problems and social marginalization. Am JPublic Health. 2012;102(9):1751\u00037.69. Phillips G, 2nd, Hightow-Weidman LB, Fields SD, Giordano TP, Outlaw AY,Halpern-Felsher B, et al. Experiences of community and parental violenceamong HIV-positive young racial/ethnic minority men who have sex with men.AIDS Care. 2014;26(7):827\u000334.70. Sarin E, Samson L, Sweat M, Beyrer C. Human rights abuses and suicidalideation among male injecting drug users in Delhi, India. Int J Drug Policy.2011;22(2):161\u00036.71. Grossman AH, D’Augelli AR. Transgender youth: invisible and vulnerable.J Homosex. 2006;51(1):111\u000328.72. Rio Navarro J, Cohen J, Rocillo Arechaga E, Zuniga E. Physical and sexualviolence, mental health indicators, and treatment seeking among street-basedpopulation groups in Tegucigalpa, Honduras. Rev Panam Salud Publica.2012;31(5):388\u000395.73. Mustanski BS, Newcomb ME, Du Bois SN, Garcia SC, Grov C. HIV in youngmen who have sex with men: a review of epidemiology, risk and protectivefactors, and interventions. J Sex Res. 2011;48(2\u00033):218\u000353.74. Francis JM, Grosskurth H, Changalucha J, Kapiga SH, Weiss HA. Systematicreview and meta-analysis: prevalence of alcohol use among young people ineastern Africa. Trop Med Int Health. 2014;19(4):476\u000388.75. Spear LP. Alcohol’s effects on adolescents. Alcohol Res Health. 2002;26(4):287\u000391.Delany-Moretlwe S et al. Journal of the International AIDS Society 2015, 18(Suppl 1):19833http://www.jiasociety.org/index.php/jias/article/view/19833 | http://dx.doi.org/10.7448/IAS.18.2.198333876. Zhang XD, Temmerman M, Li Y, Luo W, Luchters S. Vulnerabilities, healthneeds and predictors of high-risk sexual behaviour among female adolescentsex workers in Kunming, China. Sex Transm Infect. 2013;89(3):237\u000344.77. Debeck K, Kerr T, Marshall BD, Simo A, Montaner J, Wood E. Risk factorsfor progression to regular injection drug use among street-involved youth in aCanadian setting. Drug Alcohol Depend. 2013;133(2):468\u000372.78. Kelly J, Davis C, Schlesinger C. Substance use by same sex attracted youngpeople: prevalence, perceptions and homophobia. Drug Alcohol Rev. 2014.doi: 10.1111/dar.12158. [Epub ahead of print].79. Newcomb ME. Moderating effect of age on the association betweenalcohol use and sexual risk in MSM: evidence for elevated risk among youngerMSM. AIDS Behav. 2013;17(5):1746\u000354.80. Le Marchand C, Evans J, Page K, Davidson PJ, Hahn JA. Hazardous alcoholconsumption among young adult IDU and its association with high riskbehaviors. Drug Alcohol Depend. 2013;127(1\u00033):143\u00039.81. Vorobjov S, Des Jarlais DC, Abel-Ollo K, Talu A, Ruutel K, Uuskula A. Socio-demographic factors, health risks and harms associated with early initiationof injection among people who inject drugs in Tallinn, Estonia: evidence fromcross-sectional surveys. Int J Drug Policy. 2013;24(2):150\u00035.82. Fuller CM, Vlahov D, Latkin CA, Ompad DC, Celentano DD, Strathdee SA.Social circumstances of initiation of injection drug use and early shootinggallery attendance: implications for HIV intervention among adolescent andyoung adult injection drug users. J Acquir Immune Defic Syndr. 2003;32(1):86\u000393.83. Kermode M, Longleng V, Singh BC, Bowen K, Rintoul A. Killing time withenjoyment: a qualitative study of initiation into injecting drug use in north-eastIndia. Subst Use Misuse. 2009;44(8):1070\u000389.84. Hadland SE, Kerr T, Marshall BD, Small W, Lai C, Montaner JS, et al.Non-injection drug use patterns and history of injection among street youth.Eur Addict Res. 2010;16(2):91\u00038.85. Balakireva OM, Grund JPC, Barendregt C, Rubanets YV, Ryabova MV,Volyk AM. Risk and protective factors in the initiation of injecting drug use:report of a respondent driven sampling study & strategy paper preventing theinitiation of injecting drug use among vulnerable adolescents and youngpeople: final report. Kiev: UNICEF, Ukrainian Institute for Social Research; 2006.86. Horyniak D, Dietze P, Degenhardt L, Higgs P, McIlwraith F, Alati R, et al.The relationship between age and risky injecting behaviours among a sampleof Australian people who inject drugs. Drug Alcohol Depend. 2013;132(3):541\u00036.87. Degenhardt L, Kinner SA, Roxburgh A, Black E, Bruno R, Fetherston J, et al.Drug use and risk among regular injecting drug users in Australia: does agemake a difference? Drug Alcohol Rev. 2008;27(4):357\u000360.88. Buxton JA, Rothon D, Durigon M, Lem M, Tu AW, Remple VP, et al.Hepatitis C and HIV prevalence using oral mucosal transudate, and reporteddrug use and sexual behaviours of youth in custody in British Columbia. Can JPublic Health. 2009;100(2):121\u00034.89. Li J, Liu H, Li J, Luo J, Jarlais DD, Koram N. Role of sexual transmission ofHIV among young noninjection and injection opiate users: a respondent-drivensampling study. Sex Transm Dis. 2011;38(12):1161\u00036.90. Evans JL, Hahn JA, Lum PJ, Stein ES, Page K. Predictors of injection druguse cessation and relapse in a prospective cohort of young injection drug usersin San Francisco, CA (UFO Study). Drug Alcohol Depend. 2009;101(3):152\u00037.91. Zabransky T, Csemy L, Grohmannova K, Janikova B, Brenza J. Mortalityof cohort of very young injecting drug users in Prague, 1996\u00032010. Cent Eur JPublic Health. 2011;19(3):152\u00037.92. Cheng T, Wood E, Feng C, Mathias S, Montaner J, Kerr T, et al. Transitionsinto and out of homelessness among street-involved youth in a Canadiansetting. Health Place. 2013;23:122\u00037.93. Cluver L, Orkin M, Boyes M, Gardner F, Meinck F. Transactional sexamongst AIDS-orphaned and AIDS-affected adolescents predicted by abuseand extreme poverty. J Acquir Immune Defic Syndr. 2011;58(3):336\u000343.94. Tarasuk V, Dachner N, Poland B, Gaetz S. Food deprivation is integral to the‘hand to mouth’ existence of homeless youths in Toronto. Public Health Nutr.2009;12(9):1437\u000342.95. Kermode M, Songput CH, Sono CZ, Jamir TN, Devine A. Meeting the needsof women who use drugs and alcohol in North-east India \u0003 a challenge for HIVprevention services. BMC Public Health. 2012;12:825.96. Russell ST, Ryan C, Toomey RB, Diaz RM, Sanchez J. Lesbian, gay, bisexual,and transgender adolescent school victimization: implications for young adulthealth and adjustment. J Sch Health. 2011;81(5):223\u000330.97. Reid JA, Piquero AR. Age-graded risks for commercial sexual exploitation ofmale and female youth. J Interpers Violence. 2014;29(9):1747\u000377.98. Koblin BA, Mayer KH, Eshleman SH, Wang L, Mannheimer S, del Rio C,et al. Correlates of HIV acquisition in a cohort of black men who have sex withmen in the United States: HIV prevention trials network (HPTN) 061. PLoS One.2013;8(7):e70413.99. Vu L, Andrinopoulos K, Tun W, Adebajo S. High levels of unprotected analintercourse and never testing for HIV among men who have sex with men inNigeria: evidence from a cross-sectional survey for the need for innovativeapproaches to HIV prevention. Sex Transm Infect. 2013;89(8):659\u000365.100. Kiriazova TK, Postnov OV, Perehinets IB, Neduzhko OO. Association ofinjecting drug use and late enrolment in HIV medical care in Odessa Region,Ukraine. HIV Med. 2013;14(Suppl 3):38\u000341.101. Graham SM, Mugo P, Gichuru E, Thiong’o A, Macharia M, Okuku HS, et al.Adherence to antiretroviral therapy and clinical outcomes among young adultsreporting high-risk sexual behavior, including men who have sex with men,in coastal Kenya. AIDS Behav. 2013;17(4):1255\u000365.102. Hadland SE, Milloy MJ, Kerr T, Zhang R, Guillemi S, Hogg RS, et al.Young age predicts poor antiretroviral adherence and viral load suppressionamong injection drug users. AIDS Patient Care STDS. 2012;26(5):274\u000380.103. Mtetwa S, Busza J, Chidiya S, Mungofa S, Cowan F. ‘‘You are wasting ourdrugs’’: health service barriers to HIV treatment for sex workers in Zimbabwe.BMC Public Health. 2013;13:698.104. Salomon EA, Mimiaga MJ, Husnik MJ, Welles SL, Manseau MW,Montenegro AB, et al. Depressive symptoms, utilization of mental healthcare, substance use and sexual risk among young men who have sex with menin EXPLORE: implications for age-specific interventions. AIDS Behav. 2009;13(4):811\u000321.105. Fields EL, Bogart LM, Smith KC, Malebranche DJ, Ellen J, Schuster MA.‘‘I always felt I had to prove my manhood’’: homosexuality, masculinity, genderrole strain, and HIV risk among young black men who have sex with men. Am JPublic Health. 2015;105(1):122\u000331.106. Busza J, Mtetwa S, Chirawu P, Cowan F. Triple jeopardy: adolescentexperiences of sex work and migration in Zimbabwe. Health Place. 2014;28:85\u000391.107. Miller CL, Fielden SJ, Tyndall MW, Zhang R, Gibson K, Shannon K.Individual and structural vulnerability among female youth who exchange sexfor survival. J Adolesc Health. 2011;49(1):36\u000341.108. Scorgie F, Nakato D, Harper E, Richter M, Maseko S, Nare P, et al. We aredespised in the hospitals’: sex workers’ experiences of accessing health care infour African countries. Cult Health Sex. 2013;15(4):450\u000365.109. Islam M, Stern T, Conigrave KM, Wodak A. Client satisfaction and riskbehaviours of the users of syringe dispensing machines: a pilot study. DrugAlcohol Rev. 2008;27(1):13\u00039.110. Williams KA, Chapman MV. Comparing health and mental health needs,service use, and barriers to services among sexual minority youths and theirpeers. Health Soc Work. 2011;36(3):197\u0003206.111. Kitts RL. Barriers to optimal care between physicians and lesbian, gay,bisexual, transgender, and questioning adolescent patients. J Homosex. 2010;57(6):730\u000347.112. Lee L, Rand CS, Ellen JM, Agwu AL. Factors informing HIV providers’decisions to start antiretroviral therapy for young people living withbehaviorally acquired HIV. J Adolesc Health. 2014;55(3):358\u000365.113. Corliss HL, Belzer M, Forbes C, Wilson EC. An evaluation of serviceutilization among male to female transgender youth: qualitative study of aclinic-based sample. J LGBT Health Res. 2007;3(2):49\u000361.114. Goldenberg SM, Chettiar J, Nguyen P, Dobrer S, Montaner J, Shannon K.Complexities of short-term mobility for sex work and migration among sexworkers: violence and sexual risks, barriers to care, and enhanced social andeconomic opportunities. J Urban Health. 2014;91(4):736\u000351.115. Omura JD, Wood E, Nguyen P, Kerr T, DeBeck K. Incarceration amongstreet-involved youth in a Canadian study: implications for health and policyinterventions. Int J Drug Policy. 2014;25(2):291\u00036.116. Thomson N, Sutcliffe CG, Sirirojn B, Keawvichit R, Wongworapat K,Sintupat K., et al. Correlates of incarceration among young methamphetamineusers in Chiang Mai, Thailand. Am J Public Health. 2009;99(7):1232\u00038.117. Busza JR, Balakireva OM, Teltschik A, Bondar TV, Sereda YV, Meynell C,et al. Street-based adolescents at high risk of HIV in Ukraine. J EpidemiolCommunity Health. 2011;65(12):1166\u000370.118. Hayashi K, Ti L, Csete J, Kaplan K, Suwannawong P, Wood E, et al. Reportsof police beating and associated harms among people who inject drugs inBangkok, Thailand: a serial cross-sectional study. BMC Public Health. 2013;13:733.Delany-Moretlwe S et al. Journal of the International AIDS Society 2015, 18(Suppl 1):19833http://www.jiasociety.org/index.php/jias/article/view/19833 | http://dx.doi.org/10.7448/IAS.18.2.1983339119. Scorgie F, Vasey K, Harper E, Richter M, Nare P, Maseko S, et al. Humanrights abuses and collective resilience among sex workers in four Africancountries: a qualitative study. Global Health. 2013;9(1):33.120. Wirtz AL, Jumbe V, Trapence G, Kamba D, Umar E, Ketende S, et al.HIV among men who have sex with men in Malawi: elucidating HIV prevalenceand correlates of infection to inform HIV prevention. J Int AIDS Soc. 2013;16(Suppl 3):18742, doi: http://dx.doi.org/10.7448/IAS.16.4.18742121. Shannon K, Rusch M, Shoveller J, Alexson D, Gibson K, Tyndall MW.Mapping violence and policing as an environmental-structural barrier to healthservice and syringe availability among substance-using women in street-levelsex work. Int J Drug Policy. 2008;19(2):140\u00037.122. Ti L, Wood E, Shannon K, Feng C, Kerr T. Police confrontations amongstreet-involved youth in a Canadian setting. Int J Drug Policy. 2013;24(1):46\u000351.123. Decker MR, Pearson E, Illangasekare SL, Clark E, Sherman SG. Violenceagainst women in sex work and HIV risk implications differ qualitatively byperpetrator. BMC Public Health. 2013;13:876.124. Merkinaite S, Grund JP, Frimpong A. Young people and drugs: nextgeneration of harm reduction. Int J Drug Policy. 2010;21(2):112\u00034.125. Millett GA, Peterson JL, Flores SA, Hart TA Jeffries WL 4th, Wilson PA,et al. Comparisons of disparities and risks of HIV infection in black and othermen who have sex with men in Canada, UK, and USA: a meta-analysis. Lancet.2012;380(9839):341\u00038.126. Mavedzenge SN, Luecke E, Ross DA. Effective approaches for program-ming to reduce adolescent vulnerability to HIV infection, HIV risk, and HIV-related morbidity and mortality: a systematic review of systematic reviews.J Acquir Immune Defic Syndr. 2014;66(Suppl 2):S154\u000369.127. Dhana A, Luchters S, Moore L, Lafort Y, Roy A, Scorgie F, et al. Systematicreview of facility-based sexual and reproductive health services for female sexworkers in Africa. Global Health. 2014;10:46.128. Denno DM, Hoopes AJ, Chandra-Mouli V. Effective strategies to provideadolescent sexual and reproductive health services and to increase demandand community support. J Adolesc Health. 2015;56(1S):S22\u000341.129. Heise LL.What works to prevent partner violence? An evidence overview.London, UK: STRIVE Research Consortium, London School of Hygiene andTropical Medicine; 2011. p. xvii\u0002108 pp.130. Pulerwitz J, Oanh KT, Akinwolemiwa D, Ashburn K, Nyblade L. Improv-ing hospital-based quality of care by reducing HIV-related stigma: evaluationresults from vietnam. AIDS Behav. 2014. [Epub ahead of print].131. Nyblade L, Stangl A, Weiss E, Ashburn K. Combating HIV stigma in healthcare settings: what works? J Int AIDS Soc. 2009;12(1):15.132. Apinundecha C, Laohasiriwong W, Cameron MP, Lim S. A communityparticipation intervention to reduce HIV/AIDS stigma, Nakhon Ratchasimaprovince, northeast Thailand. AIDS Care. 2007;19(9):1157\u000365.133. Nyblade L, Hong K, Anh N, Ogden J, Jain A, Stangl A. Communitiesconfront HIV stigma in Viet Nam: participatory interventions reduce HIV-related stigma in two provinces. Washington, DC: International Center forResearch on Women (ICRW); 2008.134. Stangl A, Lloyd J, Brady L, Holland C, Baral S. A systematic review ofinterventions to reduce HIV-related stigma and discrimination from 2002 to2013: how far have we come? J Int AIDS Soc. 2013;16:18734, doi: http://dx.doi.org/10.7448/IAS.16.3.18734135. van der Elst EM, Smith AD, Gichuru E,Wahome E, Musyoki H, Muraguri N,et al. Men who have sex with men sensitivity training reduces homoprejudiceand increases knowledge among Kenyan healthcare providers in coastal Kenya.J Int AIDS Soc. 2013;16(Suppl 3):18748, doi: http://dx.doi.org/10.7448/IAS.16.4.18748136. Govindasamy D, Meghij J, Kebede Negussi E, Clare Baggaley R, Ford N,Kranzer K. Interventions to improve or facilitate linkage to or retention in pre-ART (HIV) care and initiation of ART in low- and middle-income settings \u0003 asystematic review. J Int AIDS Soc. 2014;17:19032, doi: http://dx.doi.org/10.7448/IAS.17.1.19032137. Kerrigan DL, Fonner VA, Stromdahl S, Kennedy CE. Community empow-erment among female sex workers is an effective HIV prevention intervention:a systematic review of the peer-reviewed evidence from low- and middle-income countries. AIDS Behav. 2013;17(6):1926\u000340.138. Wirtz AL, Pretorius C, Beyrer C, Baral S, Decker MR, Sherman SG, et al.Epidemic impacts of a community empowerment intervention for HIV pre-vention among female sex workers in generalized and concentrated epidemics.PLoS One. 2014;9(2):e88047.139. Ellsberg M, Arango DJ, Morton M, Gennari F, Kiplesund S, Contreras M,et al. Prevention of violence against women and girls: what does the evidencesay? Lancet. 2014. doi: 10.1016/S0140-6736(14)61703-7. [Epub ahead ofprint].140. Moore L, Chersich MF, Steen R, Reza-Paul S, Dhana A, Vuylsteke B, et al.Community empowerment and involvement of female sex workers in targetedsexual and reproductive health interventions in Africa: a systematic review.Global Health. 2014;10:47.141. Swendeman D, Basu I, Das S, Jana S, Rotheram-Borus MJ. Empoweringsex workers in India to reduce vulnerability to HIV and sexually transmitteddiseases. Soc Sci Med. 2009;69(8):1157\u000366.142. Busza J, Douthwaite M, Bani R, Scutelniciuc O, Preda M, Simic D. Injectingbehaviour and service use among young injectors in Albania, Moldova,Romania and Serbia. Int J Drug Policy. 2013;24(5):423\u000331.143. Zaller N, Jeronimo A, Bratberg J, Case P, Rich JD. Pharmacist andpharmacy staff experiences with non-prescription (NP) sale of syringes andattitudes toward providing HIV prevention services for injection drug users(IDUs) in providence, RI. J Urban Health. 2010;87(6):942\u000353.144. Grov C, Breslow AS, Newcomb ME, Rosenberger JG, Bauermeister JA.Gay and bisexual men’s use of the internet: research from the 1990s through2013. J Sex Res. 2014;51(4):390\u0003409.145. LeGrand S, Muessig KE, Pike EC, Baltierra N, Hightow-Weidman LB.If you build it will they come? Addressing social isolation within a technology-based HIV intervention for young black men who have sex with men. AIDSCare. 2014;26(9):1194\u0003200.146. Holloway IW, Rice E, Gibbs J, Winetrobe H, Dunlap S, Rhoades H.Acceptability of smartphone application-based HIV prevention among youngmen who have sex with men. AIDS Behav. 2014;18(2):285\u000396.147. Muessig KE, Pike EC, Fowler B, LeGrand S, Parsons JT, Bull SS, et al.Putting prevention in their pockets: developing mobile phone-based HIVinterventions for black men who have sex with men. AIDS Patient Care STDS.2013;27(4):211\u000322.148. Shoveller J, Knight R, Davis W, Gilbert M, Ogilvie G. Online sexual healthservices: examining youth’s perspectives. Can J Public Health. 2012;103(1):14\u00038.149. Blas MM, Menacho LA, Alva IE, Cabello R, Orellana ER. Motivating menwho have sex with men to get tested for HIV through the internet and mobilephones: a qualitative study. PLoS One. 2013;8(1):e54012.150. Justumus P, Colby D, Mai Doan Anh T, Balestre E, Becquet R, Orne-Gliemann J. Willingness to use the internet to seek information on HIVprevention and care among men who have sex with men in Ho Chi Minh City,Vietnam. PLoS One. 2013;8(8):e71471.151. Kasatpibal N, Viseskul N, Srikantha W, Fongkaew W, Surapagdee N,Grimes RM. Developing a web site for human immunodeficiency virus pre-vention in a middle income country: a pilot study from Thailand. CyberpsycholBehav Soc Netw. 2012;15(10):560\u00033.152. Ybarra ML, Bull SS, Prescott TL, Birungi R. Acceptability and feasibility ofCyberSenga: an internet-based HIV-prevention program for adolescents inMbarara, Uganda. AIDS Care. 2014;26(4):441\u00037.153. Yonker LM, Zan S, Scirica C, Jethwani K, Kinane TB. ‘‘Friending’’ teens:systematic review of social media in adolescent and young adult health care.J Med Internet Res. 2015;17(1):e4.154. Guse K, Levine D, Martins S, Lira A, Gaarde J, Westmorland W, et al.Interventions using new digital media to improve adolescent sexual health:a systematic review. J Adolesc Health. 2012;51(6):535\u000343.155. Young SD, Holloway I, Jaganath D, Rice E, Westmoreland D, Coates T.Project HOPE: online social network changes in an HIV prevention randomizedcontrolled trial for African American and Latino men who have sex with men.Am J Public Health. 2014;104(9):1707\u000312.156. Allison S, Bauermeister JA, Bull S, Lightfoot M, Mustanski B, Shegog R,et al. The intersection of youth, technology, and new media with sexual health:moving the research agenda forward. J Adolesc Health. 2012;51(3):207\u000312.157. Stover J, Rosen J, Kasedde S, Idele P, McClure C. The impact and cost ofthe HIV/AIDS investment framework for adolescents. J Acquir Immune DeficSyndr. 2014;66(Suppl 2):S170\u00035.Delany-Moretlwe S et al. Journal of the International AIDS Society 2015, 18(Suppl 1):19833http://www.jiasociety.org/index.php/jias/article/view/19833 | http://dx.doi.org/10.7448/IAS.18.2.1983340",
+    "id": 13108403,
+    "identifiers": {
+        "doi": "10.7448/IAS.18.2.19833",
+        "oai": "oai:researchonline.lshtm.ac.uk:2121434"
+    },
+    "title": "Providing comprehensive health services for young key populations: needs, barriers and gaps.",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2015-02-26T00:00:00+00:00",
+    "publisher": "Wiley Open Access",
+    "references": [
+        {
+            "id": 37126232,
+            "title": "A community participation intervention to reduce HIV/AIDS stigma, Nakhon Ratchasima province, northeast Thailand.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Apinundecha C, Laohasiriwong W, Cameron MP, Lim S. A community participation intervention to reduce HIV/AIDS stigma, Nakhon Ratchasima province, northeast Thailand. AIDS Care. 2007;19(9):115765.",
+            "cites": null
+        },
+        {
+            "id": 37126105,
+            "title": "A comparison of HIV risk practices among unprotected sex-seeking older and younger men who have sex with other men.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Klein H. A comparison of HIV risk practices among unprotected sex-seeking older and younger men who have sex with other men. Aging Male. 2012;15(3): 12433.",
+            "cites": null
+        },
+        {
+            "id": 37126158,
+            "title": "A syndemic of psychosocial health disparities and associations with risk for attempting suicide among young sexual minority men.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Mustanski B, Andrews R, Herrick A, Stall R, Schnarrs PW. A syndemic of psychosocial health disparities and associations with risk for attempting suicide among young sexual minority men. Am J Public Health. 2014;104(2):28794.",
+            "cites": null
+        },
+        {
+            "id": 37126234,
+            "title": "A systematic review of interventions to reduce HIV-related stigma and discrimination from",
+            "authors": [],
+            "date": "2002",
+            "doi": null,
+            "raw": "Stangl A, Lloyd J, Brady L, Holland C, Baral S. A systematic review of interventions to reduce HIV-related stigma and discrimination from 2002 to 2013: how far have we come? J Int AIDS Soc. 2013;16:18734, doi: http://dx.doi. org/10.7448/IAS.16.3.18734",
+            "cites": null
+        },
+        {
+            "id": 37126143,
+            "title": "A systematic review of the correlates of violence against sex workers.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Deering KN, Amin A, Shoveller J, Nesbitt A, Garcia-Moreno C, Duff P, et al. A systematic review of the correlates of violence against sex workers. Am J Public Health. 2014;104(5):e4254.",
+            "cites": null
+        },
+        {
+            "id": 37126255,
+            "title": "Acceptability and feasibility of CyberSenga: an internet-based HIV-prevention program for adolescents in",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Ybarra ML, Bull SS, Prescott TL, Birungi R. Acceptability and feasibility of CyberSenga: an internet-based HIV-prevention program for adolescents in Mbarara, Uganda. AIDS Care. 2014;26(4):4417.",
+            "cites": null
+        },
+        {
+            "id": 37126249,
+            "title": "Acceptability of smartphone application-based HIV prevention among young men who have sex with men.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Holloway IW, Rice E, Gibbs J, Winetrobe H, Dunlap S, Rhoades H. Acceptability of smartphone application-based HIV prevention among young men who have sex with men. AIDS Behav. 2014;18(2):28596.",
+            "cites": null
+        },
+        {
+            "id": 37126193,
+            "title": "Adherence to antiretroviral therapy and clinical outcomes among young adults reporting high-risk sexual behavior, including men who have sex with men, in coastal Kenya.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Graham SM, Mugo P, Gichuru E,Thiong’o A, Macharia M, Okuku HS, et al. Adherence to antiretroviral therapy and clinical outcomes among young adults reporting high-risk sexual behavior, including men who have sex with men, in coastal Kenya. AIDS Behav. 2013;17(4):125565.",
+            "cites": null
+        },
+        {
+            "id": 37126099,
+            "title": "Adolescence and the social determinants of health.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Viner RM, Ozer EM, Denny S, Marmot M, Resnick M, Fatusi A, et al. Adolescence and the social determinants of health. Lancet. 2012;379(9826): 164152.",
+            "cites": null
+        },
+        {
+            "id": 37126097,
+            "title": "Adolescence: a foundation for future health.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Sawyer SM, Afifi RA, Bearinger LH, Blakemore SJ, Dick B, Ezeh AC, et al. Adolescence: a foundation for future health. Lancet. 2012;379(9826):163040.",
+            "cites": null
+        },
+        {
+            "id": 37126131,
+            "title": "Adolescent pregnancy.",
+            "authors": [],
+            "date": "2012",
+            "doi": null,
+            "raw": "WHO. Adolescent pregnancy. Fact Sheet 364. 2012, WHO: Geneva.",
+            "cites": null
+        },
+        {
+            "id": 37126150,
+            "title": "Adverse pregnancy outcomes and sexual violence among female sex workers who inject drugs on the United States-Mexico border. Violence Vict.",
+            "authors": [],
+            "date": "2013",
+            "doi": null,
+            "raw": "McDougal L, Strathdee SA, Rangel G, Martinez G, Vera A, Sirotin N, et al. Adverse pregnancy outcomes and sexual violence among female sex workers who inject drugs on the United States-Mexico border. Violence Vict. 2013; 28(3):496512.",
+            "cites": null
+        },
+        {
+            "id": 37126152,
+            "title": "Age group differences in HIV risk and mental health problems among female sex workers in Southwest China.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Su S, Li X, Zhang L, Lin D, Zhang C, Zhou Y. Age group differences in HIV risk and mental health problems among female sex workers in Southwest China. AIDS Care. 2014;26(8):101926.",
+            "cites": null
+        },
+        {
+            "id": 37126189,
+            "title": "Age-graded risks for commercial sexual exploitation of male and female youth.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Reid JA, Piquero AR. Age-graded risks for commercial sexual exploitation of male and female youth. J Interpers Violence. 2014;29(9):174777.",
+            "cites": null
+        },
+        {
+            "id": 37126122,
+            "title": "Age-specific prevalence of and risk factors for anal human papillomavirus (HPV) among men who have sex with women and men who have sex with men: the HPV in men (HIM) study.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Nyitray AG, Carvalho da Silva RJ, Baggio ML, Lu B, Smith D, Abrahamsen M, et al. Age-specific prevalence of and risk factors for anal human papillomavirus (HPV) among men who have sex with women and men who have sex with men: the HPV in men (HIM) study. J Infect Dis. 2011;203(1):4957.",
+            "cites": null
+        },
+        {
+            "id": 37126167,
+            "title": "Alcohol’s effects on adolescents. Alcohol Res Health.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Spear LP. Alcohol’s effects on adolescents. Alcohol Res Health. 2002;26(4): 28791. Delany-Moretlwe S et al. Journal of the International AIDS Society 2015, 18(Suppl 1):19833 http://www.jiasociety.org/index.php/jias/article/view/19833 | http://dx.doi.org/10.7448/IAS.18.2.19833",
+            "cites": null
+        },
+        {
+            "id": 37126114,
+            "title": "An analysis of 1519-year-old first attenders at the Dublin Needle Exchange,",
+            "authors": [],
+            "date": "1990",
+            "doi": null,
+            "raw": "Mullen L, Barry J. An analysis of 1519-year-old first attenders at the Dublin Needle Exchange, 199097. Addiction. 2001;96(2):2518.",
+            "cites": null
+        },
+        {
+            "id": 37126210,
+            "title": "An evaluation of service utilization among male to female transgender youth: qualitative study of a clinic-based sample.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Corliss HL, Belzer M, Forbes C, Wilson EC. An evaluation of service utilization among male to female transgender youth: qualitative study of a clinic-based sample. J LGBT Health Res. 2007;3(2):4961.",
+            "cites": null
+        },
+        {
+            "id": 37126192,
+            "title": "Association of injecting drug use and late enrolment",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Kiriazova TK, Postnov OV, Perehinets IB, Neduzhko OO. Association of injecting drug use and late enrolment in HIV medical care in Odessa Region, Ukraine. HIV Med. 2013;14(Suppl 3):3841.",
+            "cites": null
+        },
+        {
+            "id": 37126120,
+            "title": "Asymptomatic sexually transmitted infections in HIV-infected men who have sex with men: prevalence, incidence, predictors, and screening strategies. AIDS Patient Care STDS.",
+            "authors": [],
+            "date": "2008",
+            "doi": null,
+            "raw": "Rieg G, Lewis RJ, Miller LG, Witt MD, Guerrero M, Daar ES. Asymptomatic sexually transmitted infections in HIV-infected men who have sex with men: prevalence, incidence, predictors, and screening strategies. AIDS Patient Care STDS. 2008;22(12):94754.",
+            "cites": null
+        },
+        {
+            "id": 37126208,
+            "title": "Barriers to optimal care between physicians and lesbian, gay, bisexual, transgender, and questioning adolescent patients. J Homosex.",
+            "authors": [],
+            "date": "2010",
+            "doi": null,
+            "raw": "Kitts RL. Barriers to optimal care between physicians and lesbian, gay, bisexual, transgender, and questioning adolescent patients. J Homosex. 2010; 57(6):73047.",
+            "cites": null
+        },
+        {
+            "id": 37126188,
+            "title": "bisexual, and transgender adolescent school victimization: implications for young adult health and adjustment.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Russell ST, Ryan C, Toomey RB, Diaz RM, Sanchez J. Lesbian, gay, bisexual, and transgender adolescent school victimization: implications for young adult health and adjustment. J Sch Health. 2011;81(5):22330.",
+            "cites": null
+        },
+        {
+            "id": 37126094,
+            "title": "Burden of HIV among female sex workers in low-income and middle-income countries: a systematic review and meta-analysis. Lancet Infect Dis.",
+            "authors": [],
+            "date": "2012",
+            "doi": null,
+            "raw": "Baral S, Beyrer C, Muessig K, Poteat T,Wirtz AL, Decker MR, et al. Burden of HIV among female sex workers in low-income and middle-income countries: a systematic review and meta-analysis. Lancet Infect Dis. 2012;12(7):53849.",
+            "cites": null
+        },
+        {
+            "id": 37126206,
+            "title": "Client satisfaction and risk behaviours of the users of syringe dispensing machines: a pilot study. Drug Alcohol Rev.",
+            "authors": [],
+            "date": "2008",
+            "doi": null,
+            "raw": "Islam M, Stern T, Conigrave KM, Wodak A. Client satisfaction and risk behaviours of the users of syringe dispensing machines: a pilot study. Drug Alcohol Rev. 2008;27(1):139.",
+            "cites": null
+        },
+        {
+            "id": 37126231,
+            "title": "Combating HIV stigma in health care settings: what works?",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Nyblade L, Stangl A, Weiss E, Ashburn K. Combating HIV stigma in health care settings: what works? J Int AIDS Soc. 2009;12(1):15.",
+            "cites": null
+        },
+        {
+            "id": 37126233,
+            "title": "Communities confront HIV stigma in Viet Nam: participatory interventions reduce HIVrelated stigma in two provinces.",
+            "authors": [],
+            "date": "2008",
+            "doi": null,
+            "raw": "Nyblade L, Hong K, Anh N, Ogden J, Jain A, Stangl A. Communities confront HIV stigma in Viet Nam: participatory interventions reduce HIVrelated stigma in two provinces. Washington, DC: International Center for Research on Women (ICRW); 2008.",
+            "cites": null
+        },
+        {
+            "id": 37126237,
+            "title": "Community empowerment among female sex workers is an effective HIV prevention intervention: a systematic review of the peer-reviewed evidence from low- and middleincome countries.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Kerrigan DL, Fonner VA, Stromdahl S, Kennedy CE. Community empowerment among female sex workers is an effective HIV prevention intervention: a systematic review of the peer-reviewed evidence from low- and middleincome countries. AIDS Behav. 2013;17(6):192640.",
+            "cites": null
+        },
+        {
+            "id": 37126240,
+            "title": "Community empowerment and involvement of female sex workers in targeted sexual and reproductive health interventions in Africa: a systematic review. Global Health.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Moore L, Chersich MF, Steen R, Reza-Paul S, Dhana A, Vuylsteke B, et al. Community empowerment and involvement of female sex workers in targeted sexual and reproductive health interventions in Africa: a systematic review. Global Health. 2014;10:47.",
+            "cites": null
+        },
+        {
+            "id": 37126207,
+            "title": "Comparing health and mental health needs, service use, and barriers to services among sexual minority youths and their peers. Health Soc Work.",
+            "authors": [],
+            "date": "2011",
+            "doi": null,
+            "raw": "Williams KA, Chapman MV. Comparing health and mental health needs, service use, and barriers to services among sexual minority youths and their peers. Health Soc Work. 2011;36(3):197206.",
+            "cites": null
+        },
+        {
+            "id": 37126225,
+            "title": "Comparisons of disparities and risks of HIV infection in black and other men who have sex with men in Canada, UK, and USA: a meta-analysis.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Millett GA, Peterson JL, Flores SA, Hart TA Jeffries WL 4th, Wilson PA, et al. Comparisons of disparities and risks of HIV infection in black and other men who have sex with men in Canada, UK, and USA: a meta-analysis. Lancet. 2012;380(9839):3418.",
+            "cites": null
+        },
+        {
+            "id": 37126212,
+            "title": "Complexities of short-term mobility for sex work and migration among sex workers: violence and sexual risks, barriers to care, and enhanced social and economic opportunities.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Goldenberg SM, Chettiar J, Nguyen P, Dobrer S, Montaner J, Shannon K. Complexities of short-term mobility for sex work and migration among sex workers: violence and sexual risks, barriers to care, and enhanced social and economic opportunities. J Urban Health. 2014;91(4):73651.",
+            "cites": null
+        },
+        {
+            "id": 37126095,
+            "title": "Consolidated guidelines on HIV prevention, diagnosis, treatment and care for key populations.",
+            "authors": [],
+            "date": "2014",
+            "doi": null,
+            "raw": "WHO. Consolidated guidelines on HIV prevention, diagnosis, treatment and care for key populations. Geneva: WHO; 2014.",
+            "cites": null
+        },
+        {
+            "id": 37126112,
+            "title": "Correlates of consistent condom use with main partners by partnership patterns among young adult male injection drug users from five US cities. Drug Alcohol Depend. 2007;91(Suppl 1):S5663.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Kapadia F, Latka MH, Hudson SM, Golub ET, Campbell JV, Bailey S, et al. Correlates of consistent condom use with main partners by partnership patterns among young adult male injection drug users from five US cities. Drug Alcohol Depend. 2007;91(Suppl 1):S5663.",
+            "cites": null
+        },
+        {
+            "id": 37126146,
+            "title": "Correlates of forced sex among populations of men who have sex with men in Thailand. Arch Sex Behav.",
+            "authors": [],
+            "date": "2011",
+            "doi": null,
+            "raw": "Guadamuz TE, Wimonsate W, Varangrat A, Phanuphak P, Jommaroeng R, Mock PA, et al. Correlates of forced sex among populations of men who have sex with men in Thailand. Arch Sex Behav. 2011;40(2):25966.",
+            "cites": null
+        },
+        {
+            "id": 37126190,
+            "title": "Correlates of HIV acquisition in a cohort of black men who have sex with men in the United States: HIV prevention trials network (HPTN) 061. PLoS One.",
+            "authors": [],
+            "date": "2013",
+            "doi": null,
+            "raw": "Koblin BA, Mayer KH, Eshleman SH, Wang L, Mannheimer S, del Rio C, et al. Correlates of HIV acquisition in a cohort of black men who have sex with men in the United States: HIV prevention trials network (HPTN) 061. PLoS One. 2013;8(7):e70413.",
+            "cites": null
+        },
+        {
+            "id": 37126215,
+            "title": "Correlates of incarceration among young methamphetamine users in Chiang Mai,",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Thomson N, Sutcliffe CG, Sirirojn B, Keawvichit R, Wongworapat K, Sintupat K., et al. Correlates of incarceration among young methamphetamine users in Chiang Mai, Thailand. Am J Public Health. 2009;99(7):12328.",
+            "cites": null
+        },
+        {
+            "id": 37126199,
+            "title": "Depressive symptoms, utilization of mental health care, substance use and sexual risk among young men who have sex with men in EXPLORE: implications for age-specific interventions. AIDS Behav.",
+            "authors": [],
+            "date": "2009",
+            "doi": null,
+            "raw": "Salomon EA, Mimiaga MJ, Husnik MJ, Welles SL, Manseau MW, Montenegro AB, et al. Depressive symptoms, utilization of mental health care, substance use and sexual risk among young men who have sex with men in EXPLORE: implications for age-specific interventions. AIDS Behav. 2009; 13(4):81121.",
+            "cites": null
+        },
+        {
+            "id": 37126102,
+            "title": "Determinants of sexual risk behavior among men who have sex with men accessing public sex environments in Chennai,",
+            "authors": [],
+            "date": "2008",
+            "doi": null,
+            "raw": "Newman PA, Chakrapani V, Cook C, Shunmugam M, Kakinami L. Determinants of sexual risk behavior among men who have sex with men accessing public sex environments in Chennai, India. J LGBT Health Res. 2008; 4(23):817.",
+            "cites": null
+        },
+        {
+            "id": 37126254,
+            "title": "Developing a web site for human immunodeficiency virus prevention in a middle income country: a pilot study from Thailand. Cyberpsychol Behav Soc Netw.",
+            "authors": [],
+            "date": "2012",
+            "doi": null,
+            "raw": "Kasatpibal N, Viseskul N, Srikantha W, Fongkaew W, Surapagdee N, Grimes RM. Developing a web site for human immunodeficiency virus prevention in a middle income country: a pilot study from Thailand. Cyberpsychol Behav Soc Netw. 2012;15(10):5603.",
+            "cites": null
+        },
+        {
+            "id": 37126124,
+            "title": "Disease Control and Prevention (CDC). Hepatitis C virus infection among adolescents and young adults:Massachusetts, 20022009. MMWR Morb Mortal Wkly Rep.",
+            "authors": [],
+            "date": "2011",
+            "doi": null,
+            "raw": "Centers for Disease Control and Prevention (CDC). Hepatitis C virus infection among adolescents and young adults:Massachusetts, 20022009. MMWR Morb Mortal Wkly Rep. 2011;60(17):53741.",
+            "cites": null
+        },
+        {
+            "id": 37126179,
+            "title": "Drug use and risk among regular injecting drug users in Australia: does age make a difference? Drug Alcohol Rev.",
+            "authors": [],
+            "date": "2008",
+            "doi": null,
+            "raw": "Degenhardt L, Kinner SA, Roxburgh A, Black E, Bruno R, Fetherston J, et al. Drug use and risk among regular injecting drug users in Australia: does age make a difference? Drug Alcohol Rev. 2008;27(4):35760.",
+            "cites": null
+        },
+        {
+            "id": 37126226,
+            "title": "Effective approaches for programming to reduce adolescent vulnerability to HIV infection, HIV risk, and HIVrelated morbidity and mortality: a systematic review of systematic reviews. J Acquir Immune Defic Syndr. 2014;66(Suppl 2):S15469.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Mavedzenge SN, Luecke E, Ross DA. Effective approaches for programming to reduce adolescent vulnerability to HIV infection, HIV risk, and HIVrelated morbidity and mortality: a systematic review of systematic reviews. J Acquir Immune Defic Syndr. 2014;66(Suppl 2):S15469.",
+            "cites": null
+        },
+        {
+            "id": 37126228,
+            "title": "Effective strategies to provide adolescent sexual and reproductive health services and to increase demand and community support. J Adolesc Health.",
+            "authors": [],
+            "date": "2015",
+            "doi": null,
+            "raw": "Denno DM, Hoopes AJ, Chandra-Mouli V. Effective strategies to provide adolescent sexual and reproductive health services and to increase demand and community support. J Adolesc Health. 2015;56(1S):S2241.",
+            "cites": null
+        },
+        {
+            "id": 37126125,
+            "title": "Effects of duration of injection drug use and age at first injection on HCV among IDU in Kabul,",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Bautista CT, Todd CS, Abed AM, Botros BA, Strathdee SA, Earhart KC, et al. Effects of duration of injection drug use and age at first injection on HCV among IDU in Kabul, Afghanistan. J Public Health (Oxf). 2010;32(3):33641.",
+            "cites": null
+        },
+        {
+            "id": 37126092,
+            "title": "Elevated risk for HIV infection among men who have sex with men in low- and middle-income countries 20002006: a systematic review. PLoS Med.",
+            "authors": [],
+            "date": "2007",
+            "doi": null,
+            "raw": "Baral S, Sifakis F, Cleghorn F, Beyrer C. Elevated risk for HIV infection among men who have sex with men in low- and middle-income countries 20002006: a systematic review. PLoS Med. 2007;4(12):e339.",
+            "cites": null
+        },
+        {
+            "id": 37126241,
+            "title": "Empowering sex workers in India to reduce vulnerability to HIV and sexually transmitted diseases. Soc Sci Med.",
+            "authors": [],
+            "date": "2009",
+            "doi": null,
+            "raw": "Swendeman D, Basu I, Das S, Jana S, Rotheram-Borus MJ. Empowering sex workers in India to reduce vulnerability to HIV and sexually transmitted diseases. Soc Sci Med. 2009;69(8):115766.",
+            "cites": null
+        },
+        {
+            "id": 37126238,
+            "title": "Epidemic impacts of a community empowerment intervention for HIV prevention among female sex workers in generalized and concentrated epidemics. PLoS One.",
+            "authors": [],
+            "date": "2014",
+            "doi": null,
+            "raw": "Wirtz AL, Pretorius C, Beyrer C, Baral S, Decker MR, Sherman SG, et al. Epidemic impacts of a community empowerment intervention for HIV prevention among female sex workers in generalized and concentrated epidemics. PLoS One. 2014;9(2):e88047.",
+            "cites": null
+        },
+        {
+            "id": 37126090,
+            "title": "Epidemiology of HIV and AIDS among adolescents: current status, inequities, and data gaps. J Acquir Immune Defic Syndr. 2014;66(Suppl 2):S14453.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Idele P, Gillespie A, Porth T, Suzuki C, Mahy M, Kasedde S, et al. Epidemiology of HIV and AIDS among adolescents: current status, inequities, and data gaps. J Acquir Immune Defic Syndr. 2014;66(Suppl 2):S14453.",
+            "cites": null
+        },
+        {
+            "id": 37126093,
+            "title": "Estimating HIV prevalence and risk behaviors of transgender persons in the United States: a systematic review.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Herbst JH, Jacobs ED, Finlayson TJ, McKleroy VS, Neumann MS, Crepaz N. Estimating HIV prevalence and risk behaviors of transgender persons in the United States: a systematic review. AIDS Behav. 2008;12(1):117.",
+            "cites": null
+        },
+        {
+            "id": 37126259,
+            "title": "et al.The intersection of youth, technology, and new media with sexual health: moving the research agenda forward.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Allison S, Bauermeister JA, Bull S, Lightfoot M, Mustanski B, Shegog R, et al.The intersection of youth, technology, and new media with sexual health: moving the research agenda forward. J Adolesc Health. 2012;51(3):20712.",
+            "cites": null
+        },
+        {
+            "id": 37126148,
+            "title": "et al.Violence and HIV-related risk among young men who have sex with men. AIDS Care.",
+            "authors": [],
+            "date": "2006",
+            "doi": null,
+            "raw": "Koblin BA,Torian L, Xu G, Guilin V, Makki H, Mackellar D, et al.Violence and HIV-related risk among young men who have sex with men. AIDS Care. 2006; 18(8):9617.",
+            "cites": null
+        },
+        {
+            "id": 37126091,
+            "title": "Executive summary: opportunities for action and impact to address HIV and AIDS in adolescents. J Acquir Immune Defic Syndr. 2014;66(Suppl 2):S13943.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Kasedde S, Kapogiannis BG, McClure C, Luo C. Executive summary: opportunities for action and impact to address HIV and AIDS in adolescents. J Acquir Immune Defic Syndr. 2014;66(Suppl 2):S13943.",
+            "cites": null
+        },
+        {
+            "id": 37126096,
+            "title": "Expanding the space: inclusion of most-at-risk populations in HIV prevention, treatment, and care services. J Acquir Immune Defic Syndr.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Beyrer C, Baral S, Kerrigan D, El-Bassel N, Bekker LG, Celentano DD. Expanding the space: inclusion of most-at-risk populations in HIV prevention, treatment, and care services. J Acquir Immune Defic Syndr. 2011;57 (Suppl 2):S969.",
+            "cites": null
+        },
+        {
+            "id": 37126161,
+            "title": "Experiences of community and parental violence among HIV-positive young racial/ethnic minority men who have sex with men.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Phillips G, 2nd, Hightow-Weidman LB, Fields SD, Giordano TP, Outlaw AY, Halpern-Felsher B, et al. Experiences of community and parental violence among HIV-positive young racial/ethnic minority men who have sex with men. AIDS Care. 2014;26(7):82734.",
+            "cites": null
+        },
+        {
+            "id": 37126140,
+            "title": "Exploration of functional health, mental well-being and cross-sex hormone use in a sample of Thai male-to-female transgendered persons (kathoeys).",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Gooren LJ, Sungkaew T, Giltay EJ. Exploration of functional health, mental well-being and cross-sex hormone use in a sample of Thai male-to-female transgendered persons (kathoeys). Asian J Androl. 2013;15(2):2805.",
+            "cites": null
+        },
+        {
+            "id": 37126145,
+            "title": "Exploring risk behaviors and vulnerability for HIV among men who have sex with men in Abidjan, Cote d’Ivoire: poor knowledge, homophobia and sexual violence. PLoS One.",
+            "authors": [],
+            "date": "2014",
+            "doi": null,
+            "raw": "Aho J, Hakim A, Vuylsteke B, Semde G, Gbais HG, Diarrassouba M, et al. Exploring risk behaviors and vulnerability for HIV among men who have sex with men in Abidjan, Cote d’Ivoire: poor knowledge, homophobia and sexual violence. PLoS One. 2014;9(6):e99591.",
+            "cites": null
+        },
+        {
+            "id": 37126130,
+            "title": "Factors associated with selfreported HBV vaccination among HIV-negative MSM participating in an online sexual health survey: a cross-sectional study. PLoS One.",
+            "authors": [],
+            "date": "2012",
+            "doi": null,
+            "raw": "Matthews JE, Stephenson R, Sullivan PS. Factors associated with selfreported HBV vaccination among HIV-negative MSM participating in an online sexual health survey: a cross-sectional study. PLoS One. 2012;7(2):e30609.",
+            "cites": null
+        },
+        {
+            "id": 37126209,
+            "title": "Factors informing HIV providers’ decisions to start antiretroviral therapy for young people living with behaviorally acquired HIV.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Lee L, Rand CS, Ellen JM, Agwu AL. Factors informing HIV providers’ decisions to start antiretroviral therapy for young people living with behaviorally acquired HIV. J Adolesc Health. 2014;55(3):35865.",
+            "cites": null
+        },
+        {
+            "id": 37126186,
+            "title": "Food deprivation is integral to the ‘hand to mouth’ existence of homeless youths in Toronto. Public Health Nutr.",
+            "authors": [],
+            "date": "2009",
+            "doi": null,
+            "raw": "Tarasuk V, Dachner N, Poland B, Gaetz S. Food deprivation is integral to the ‘hand to mouth’ existence of homeless youths in Toronto. Public Health Nutr. 2009;12(9):143742.",
+            "cites": null
+        },
+        {
+            "id": 37126106,
+            "title": "Frequency of sexual activity with most recent male partner among young, Internet-using men who have sex with men in the United States.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Wall KM, Stephenson R, Sullivan PS. Frequency of sexual activity with most recent male partner among young, Internet-using men who have sex with men in the United States. J Homosex. 2013;60(10):152038.",
+            "cites": null
+        },
+        {
+            "id": 37126256,
+            "title": "Friending’’ teens: systematic review of social media in adolescent and young adult health care.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Yonker LM, Zan S, Scirica C, Jethwani K, Kinane TB. ‘‘Friending’’ teens: systematic review of social media in adolescent and young adult health care. J Med Internet Res. 2015;17(1):e4.",
+            "cites": null
+        },
+        {
+            "id": 37126247,
+            "title": "Gay and bisexual men’s use of the internet: research from the 1990s through",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Grov C, Breslow AS, Newcomb ME, Rosenberger JG, Bauermeister JA. Gay and bisexual men’s use of the internet: research from the 1990s through",
+            "cites": null
+        },
+        {
+            "id": 37126123,
+            "title": "Genital warts in young Australians five years into national human papillomavirus vaccination programme: national surveillance data. BMJ,",
+            "authors": [],
+            "date": "2013",
+            "doi": null,
+            "raw": "Ali H, Donovan B, Wand H, Read TR, Regan DG, Grulich AE, et al. Genital warts in young Australians five years into national human papillomavirus vaccination programme: national surveillance data. BMJ, 2013. 346: p. f2032.",
+            "cites": null
+        },
+        {
+            "id": 37126100,
+            "title": "Global burden of disease in young people aged 1024 years: a systematic analysis.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Gore FM, Bloem PJ, Patton GC, Ferguson J, Joseph V, Coffey C, et al. Global burden of disease in young people aged 1024 years: a systematic analysis. Lancet. 2011;377(9783):2093102.",
+            "cites": null
+        },
+        {
+            "id": 37126089,
+            "title": "Global health risks: mortality and burden of disease attributable to selected major risks.",
+            "authors": [],
+            "date": "2009",
+            "doi": null,
+            "raw": "WHO. Global health risks: mortality and burden of disease attributable to selected major risks. Geneva: WHO; 2009.",
+            "cites": null
+        },
+        {
+            "id": 37126172,
+            "title": "Hazardous alcohol consumption among young adult IDU and its association with high risk behaviors. Drug Alcohol Depend.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Le Marchand C, Evans J, Page K, Davidson PJ, Hahn JA. Hazardous alcohol consumption among young adult IDU and its association with high risk behaviors. Drug Alcohol Depend. 2013;127(13):1439.",
+            "cites": null
+        },
+        {
+            "id": 37126168,
+            "title": "health needs and predictors of high-risk sexual behaviour among female adolescent sex workers in Kunming, China. Sex Transm Infect.",
+            "authors": [],
+            "date": "2013",
+            "doi": null,
+            "raw": "Zhang XD, Temmerman M, Li Y, Luo W, Luchters S. Vulnerabilities, health needs and predictors of high-risk sexual behaviour among female adolescent sex workers in Kunming, China. Sex Transm Infect. 2013;89(3):23744.",
+            "cites": null
+        },
+        {
+            "id": 37126229,
+            "title": "Heise LL.What works to prevent partner violence? An evidence overview.",
+            "authors": [],
+            "date": "2011",
+            "doi": null,
+            "raw": "Heise LL.What works to prevent partner violence? An evidence overview. London, UK: STRIVE Research Consortium, London School of Hygiene and Tropical Medicine; 2011. p. xvii108 pp.",
+            "cites": null
+        },
+        {
+            "id": 37126180,
+            "title": "Hepatitis C and HIV prevalence using oral mucosal transudate, and reported drug use and sexual behaviours of youth in custody in British Columbia.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Buxton JA, Rothon D, Durigon M, Lem M, Tu AW, Remple VP, et al. Hepatitis C and HIV prevalence using oral mucosal transudate, and reported drug use and sexual behaviours of youth in custody in British Columbia. Can J Public Health. 2009;100(2):1214.",
+            "cites": null
+        },
+        {
+            "id": 37126191,
+            "title": "High levels of unprotected anal intercourse and never testing for HIV among men who have sex with men in Nigeria: evidence from a cross-sectional survey for the need for innovative approaches to HIV prevention. Sex Transm Infect.",
+            "authors": [],
+            "date": "2013",
+            "doi": null,
+            "raw": "Vu L, Andrinopoulos K, Tun W, Adebajo S. High levels of unprotected anal intercourse and never testing for HIV among men who have sex with men in Nigeria: evidence from a cross-sectional survey for the need for innovative approaches to HIV prevention. Sex Transm Infect. 2013;89(8):65965.",
+            "cites": null
+        },
+        {
+            "id": 37126133,
+            "title": "High lifetime pregnancy and low contraceptive usage among sex workers who use drugs- an unmet reproductive health need. BMC Pregnancy Childbirth.",
+            "authors": [],
+            "date": "2011",
+            "doi": null,
+            "raw": "Duff P, Shoveller J, Zhang R, Alexson D, Montaner JS, Shannon K. High lifetime pregnancy and low contraceptive usage among sex workers who use drugs- an unmet reproductive health need. BMC Pregnancy Childbirth. 2011; 11:61.",
+            "cites": null
+        },
+        {
+            "id": 37126136,
+            "title": "High rates of abortion and low levels of contraceptive use among adolescent female sex workers in Kunming, China: a cross-sectional analysis.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Zhang XD, Kennedy E, Temmerman M, Li Y, Zhang WH, Luchters S. High rates of abortion and low levels of contraceptive use among adolescent female sex workers in Kunming, China: a cross-sectional analysis. Eur J Contracept Reprod Health Care. 2014;19(5):36878.",
+            "cites": null
+        },
+        {
+            "id": 37126126,
+            "title": "Higher risk of incident hepatitis C virus among young women who inject drugs compared with young men in association with sexual relationships: a prospective analysis from the UFO Study cohort.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Tracy D, Hahn JA, Fuller Lewis C, Evans J, Briceno A, Morris MD, et al. Higher risk of incident hepatitis C virus among young women who inject drugs compared with young men in association with sexual relationships: a prospective analysis from the UFO Study cohort. BMJ Open. 2014;4(5): e004988.",
+            "cites": null
+        },
+        {
+            "id": 37126219,
+            "title": "HIV among men who have sex with men in Malawi: elucidating HIV prevalence and correlates of infection to inform HIV prevention.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Wirtz AL, Jumbe V, Trapence G, Kamba D, Umar E, Ketende S, et al. HIV among men who have sex with men in Malawi: elucidating HIV prevalence and correlates of infection to inform HIV prevention. J Int AIDS Soc. 2013; 16(Suppl 3):18742, doi: http://dx.doi.org/10.7448/IAS.16.4.18742",
+            "cites": null
+        },
+        {
+            "id": 37126165,
+            "title": "HIV in young men who have sex with men: a review of epidemiology, risk and protective factors, and interventions.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Mustanski BS, Newcomb ME, Du Bois SN, Garcia SC, Grov C. HIV in young men who have sex with men: a review of epidemiology, risk and protective factors, and interventions. J Sex Res. 2011;48(23):21853.",
+            "cites": null
+        },
+        {
+            "id": 37126141,
+            "title": "HIV prevalence, risk behavior, hormone use and surgical history among transgender persons in Thailand.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Guadamuz TE, Wimonsate W, Varangrat A, Phanuphak P, Jommaroeng R, McNicholl JM, et al. HIV prevalence, risk behavior, hormone use and surgical history among transgender persons in Thailand. AIDS Behav. 2011;15(3): 6508.",
+            "cites": null
+        },
+        {
+            "id": 37126155,
+            "title": "HIV prevention and rehabilitation models for women who inject drugs in Russia and Ukraine. Adv Prev Med.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Yorick R, Skipalska H, Suvorova S, Sukovatova O, Zakharov K, Hodgdon S. HIV prevention and rehabilitation models for women who inject drugs in Russia and Ukraine. Adv Prev Med. 2012;2012:316871.",
+            "cites": null
+        },
+        {
+            "id": 37126218,
+            "title": "Human rights abuses and collective resilience among sex workers in four African countries: a qualitative study. Global Health.",
+            "authors": [],
+            "date": "2013",
+            "doi": null,
+            "raw": "Scorgie F, Vasey K, Harper E, Richter M, Nare P, Maseko S, et al. Human rights abuses and collective resilience among sex workers in four African countries: a qualitative study. Global Health. 2013;9(1):33.",
+            "cites": null
+        },
+        {
+            "id": 37126162,
+            "title": "Human rights abuses and suicidal ideation among male injecting drug users in Delhi,",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Sarin E, Samson L, Sweat M, Beyrer C. Human rights abuses and suicidal ideation among male injecting drug users in Delhi, India. Int J Drug Policy. 2011;22(2):1616.",
+            "cites": null
+        },
+        {
+            "id": 37126200,
+            "title": "I always felt I had to prove my manhood’’: homosexuality, masculinity, gender role strain, and HIV risk among young black men who have sex with men.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Fields EL, Bogart LM, Smith KC, Malebranche DJ, Ellen J, Schuster MA. ‘‘I always felt I had to prove my manhood’’: homosexuality, masculinity, gender role strain, and HIV risk among young black men who have sex with men. Am J Public Health. 2015;105(1):12231.",
+            "cites": null
+        },
+        {
+            "id": 37126248,
+            "title": "If you build it will they come? Addressing social isolation within a technologybased HIV intervention for young black men who have sex with men.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "LeGrand S, Muessig KE, Pike EC, Baltierra N, Hightow-Weidman LB. If you build it will they come? Addressing social isolation within a technologybased HIV intervention for young black men who have sex with men. AIDS Care. 2014;26(9):1194200.",
+            "cites": null
+        },
+        {
+            "id": 37126230,
+            "title": "Improving hospital-based quality of care by reducing HIV-related stigma: evaluation results from vietnam. AIDS Behav.",
+            "authors": [],
+            "date": "2014",
+            "doi": null,
+            "raw": "Pulerwitz J, Oanh KT, Akinwolemiwa D, Ashburn K, Nyblade L. Improving hospital-based quality of care by reducing HIV-related stigma: evaluation results from vietnam. AIDS Behav. 2014. [Epub ahead of print].",
+            "cites": null
+        },
+        {
+            "id": 37126213,
+            "title": "Incarceration among street-involved youth in a Canadian study: implications for health and policy interventions.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Omura JD, Wood E, Nguyen P, Kerr T, DeBeck K. Incarceration among street-involved youth in a Canadian study: implications for health and policy interventions. Int J Drug Policy. 2014;25(2):2916.",
+            "cites": null
+        },
+        {
+            "id": 37126118,
+            "title": "Incidence and correlates of Chlamydia trachomatis infection in a high-risk cohort of Kenyan women. Sex Transm Dis.",
+            "authors": [],
+            "date": "2013",
+            "doi": null,
+            "raw": "Masese L, Baeten JM, Richardson BA, Deya R, Kabare E, Bukusi E, et al. Incidence and correlates of Chlamydia trachomatis infection in a high-risk cohort of Kenyan women. Sex Transm Dis. 2013;40(3):2215.",
+            "cites": null
+        },
+        {
+            "id": 37126117,
+            "title": "Incidence and risk factors associated with chlamydia in men who have sex with men: a cohort analysis of Victorian Primary Care Network for Sentinel Surveillance data. Sex Transm Infect.",
+            "authors": [],
+            "date": "2012",
+            "doi": null,
+            "raw": "Wilkinson A, El-Hayek C, Fairley CK, Leslie D, Roth N, Tee BK, et al. Incidence and risk factors associated with chlamydia in men who have sex with men: a cohort analysis of Victorian Primary Care Network for Sentinel Surveillance data. Sex Transm Infect. 2012;88(5):31924.",
+            "cites": null
+        },
+        {
+            "id": 37126119,
+            "title": "Increasing role of herpes simplex virus type 1 in first-episode anogenital herpes in heterosexual women and younger men who have sex with men, 19922006. Sex Transm Infect.",
+            "authors": [],
+            "date": "2009",
+            "doi": null,
+            "raw": "Ryder N, Jin F, McNulty AM, Grulich AE, Donovan B. Increasing role of herpes simplex virus type 1 in first-episode anogenital herpes in heterosexual women and younger men who have sex with men, 19922006. Sex Transm Infect. 2009;85(6):4169.",
+            "cites": null
+        },
+        {
+            "id": 37126116,
+            "title": "Increasing sexually transmitted infection rates in young men having sex with men in the Netherlands, 20062012. Emerg Themes Epidemiol.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Koedijk FD, van Benthem BH, Vrolings EM, Zuilhof W, van der Sande MA. Increasing sexually transmitted infection rates in young men having sex with men in the Netherlands, 20062012. Emerg Themes Epidemiol. 2014;11:12.",
+            "cites": null
+        },
+        {
+            "id": 37126203,
+            "title": "Individual and structural vulnerability among female youth who exchange sex for survival.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Miller CL, Fielden SJ, Tyndall MW, Zhang R, Gibson K, Shannon K. Individual and structural vulnerability among female youth who exchange sex for survival. J Adolesc Health. 2011;49(1):3641.",
+            "cites": null
+        },
+        {
+            "id": 37126135,
+            "title": "Induced abortion, contraceptive use, and dual protection among female sex workers in Moscow, Russia.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Decker MR, Yam EA, Wirtz AL, Baral SD, Peryshkina A, Mogilnyi V, et al. Induced abortion, contraceptive use, and dual protection among female sex workers in Moscow, Russia. Int J Gynaecol Obstet. 2013;120(1):2731.",
+            "cites": null
+        },
+        {
+            "id": 37126142,
+            "title": "Informing interventions: the importance of contextual factors in the prediction of sexual risk behaviors among transgender women. AIDS Educ Prev.",
+            "authors": [],
+            "date": "2009",
+            "doi": null,
+            "raw": "Sevelius JM, Reznick OG, Hart SL, Schwarcz S. Informing interventions: the importance of contextual factors in the prediction of sexual risk behaviors among transgender women. AIDS Educ Prev. 2009;21(2):11327.",
+            "cites": null
+        },
+        {
+            "id": 37126243,
+            "title": "Injecting behaviour and service use among young injectors in",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Busza J, Douthwaite M, Bani R, Scutelniciuc O, Preda M, Simic D. Injecting behaviour and service use among young injectors in Albania, Moldova, Romania and Serbia. Int J Drug Policy. 2013;24(5):42331.",
+            "cites": null
+        },
+        {
+            "id": 37126236,
+            "title": "Interventions to improve or facilitate linkage to or retention in preART (HIV) care and initiation of ART in low- and middle-income settings  a systematic review.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Govindasamy D, Meghij J, Kebede Negussi E, Clare Baggaley R, Ford N, Kranzer K. Interventions to improve or facilitate linkage to or retention in preART (HIV) care and initiation of ART in low- and middle-income settings  a systematic review. J Int AIDS Soc. 2014;17:19032, doi: http://dx.doi.org/10. 7448/IAS.17.1.19032",
+            "cites": null
+        },
+        {
+            "id": 37126257,
+            "title": "Interventions using new digital media to improve adolescent sexual health: a systematic review.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Guse K, Levine D, Martins S, Lira A, Gaarde J, Westmorland W, et al. Interventions using new digital media to improve adolescent sexual health: a systematic review. J Adolesc Health. 2012;51(6):53543.",
+            "cites": null
+        },
+        {
+            "id": 37126175,
+            "title": "Killing time with enjoyment: a qualitative study of initiation into injecting drug use in north-east India. Subst Use Misuse.",
+            "authors": [],
+            "date": "2009",
+            "doi": null,
+            "raw": "Kermode M, Longleng V, Singh BC, Bowen K, Rintoul A. Killing time with enjoyment: a qualitative study of initiation into injecting drug use in north-east India. Subst Use Misuse. 2009;44(8):107089.",
+            "cites": null
+        },
+        {
+            "id": 37126101,
+            "title": "Lessons learned from a review of interventions for adolescent and young key populations in Asia Pacific and opportunities for programming. J Acquir Immune Defic Syndr. 2014;66(Suppl 2):S18692.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Schunter BT, Cheng WS, Kendall M, Marais H. Lessons learned from a review of interventions for adolescent and young key populations in Asia Pacific and opportunities for programming. J Acquir Immune Defic Syndr. 2014;66(Suppl 2):S18692.",
+            "cites": null
+        },
+        {
+            "id": 37126144,
+            "title": "Living the reality of forced sex work: perspectives from young migrant women sex workers in northern Vietnam.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Rushing R, Watts C, Rushing S. Living the reality of forced sex work: perspectives from young migrant women sex workers in northern Vietnam. J Midwifery Womens Health. 2005;50(4):e414.",
+            "cites": null
+        },
+        {
+            "id": 37126220,
+            "title": "Mapping violence and policing as an environmental-structural barrier to health service and syringe availability among substance-using women in street-level sex work.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Shannon K, Rusch M, Shoveller J, Alexson D, Gibson K, Tyndall MW. Mapping violence and policing as an environmental-structural barrier to health service and syringe availability among substance-using women in street-level sex work. Int J Drug Policy. 2008;19(2):1407.",
+            "cites": null
+        },
+        {
+            "id": 37126187,
+            "title": "Meeting the needs of women who use drugs and alcohol in North-east India  a challenge for HIV prevention services.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Kermode M, Songput CH, Sono CZ, Jamir TN, Devine A. Meeting the needs of women who use drugs and alcohol in North-east India  a challenge for HIV prevention services. BMC Public Health. 2012;12:825.",
+            "cites": null
+        },
+        {
+            "id": 37126235,
+            "title": "Men who have sex with men sensitivity training reduces homoprejudice and increases knowledge among Kenyan healthcare providers in coastal Kenya.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "van der Elst EM, Smith AD, Gichuru E,Wahome E, Musyoki H, Muraguri N, et al. Men who have sex with men sensitivity training reduces homoprejudice and increases knowledge among Kenyan healthcare providers in coastal Kenya. J Int AIDS Soc. 2013;16(Suppl 3):18748, doi: http://dx.doi.org/10.7448/IAS.16.",
+            "cites": null
+        },
+        {
+            "id": 37126153,
+            "title": "Mental health disorders, psychological distress, and suicidality in a diverse sample of lesbian, gay, bisexual, and transgender youths.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Mustanski BS, Garofalo R, Emerson EM. Mental health disorders, psychological distress, and suicidality in a diverse sample of lesbian, gay, bisexual, and transgender youths. Am J Public Health. 2010;100(12):242632.",
+            "cites": null
+        },
+        {
+            "id": 37126098,
+            "title": "Mental health of young people: a global public-health challenge.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Patel V, Flisher AJ, Hetrick S, McGorry P. Mental health of young people: a global public-health challenge. Lancet. 2007;369(9569):130213.",
+            "cites": null
+        },
+        {
+            "id": 37126171,
+            "title": "Moderating effect of age on the association between alcohol use and sexual risk in MSM: evidence for elevated risk among younger MSM.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Newcomb ME. Moderating effect of age on the association between alcohol use and sexual risk in MSM: evidence for elevated risk among younger MSM. AIDS Behav. 2013;17(5):174654.",
+            "cites": null
+        },
+        {
+            "id": 37126183,
+            "title": "Mortality of cohort of very young injecting drug users in Prague,",
+            "authors": [],
+            "date": "1996",
+            "doi": null,
+            "raw": "Zabransky T, Csemy L, Grohmannova K, Janikova B, Brenza J. Mortality of cohort of very young injecting drug users in Prague, 19962010. Cent Eur J Public Health. 2011;19(3):1527.",
+            "cites": null
+        },
+        {
+            "id": 37126252,
+            "title": "Motivating men who have sex with men to get tested for HIV through the internet and mobile phones: a qualitative study. PLoS One.",
+            "authors": [],
+            "date": "2013",
+            "doi": null,
+            "raw": "Blas MM, Menacho LA, Alva IE, Cabello R, Orellana ER. Motivating men who have sex with men to get tested for HIV through the internet and mobile phones: a qualitative study. PLoS One. 2013;8(1):e54012.",
+            "cites": null
+        },
+        {
+            "id": 37126109,
+            "title": "Newcomers in a hazardous environment: a qualitative inquiry into sex worker vulnerability to HIV in",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Januraga PP, Mooney-Somers J, Ward PR. Newcomers in a hazardous environment: a qualitative inquiry into sex worker vulnerability to HIV in Bali, Indonesia. BMC Public Health. 2014;14(1):832.",
+            "cites": null
+        },
+        {
+            "id": 37126177,
+            "title": "Non-injection drug use patterns and history of injection among street youth. Eur Addict Res.",
+            "authors": [],
+            "date": "2010",
+            "doi": null,
+            "raw": "Hadland SE, Kerr T, Marshall BD, Small W, Lai C, Montaner JS, et al. Non-injection drug use patterns and history of injection among street youth. Eur Addict Res. 2010;16(2):918.",
+            "cites": null
+        },
+        {
+            "id": 37126139,
+            "title": "Nonprescribed hormone use and self-performed surgeries: ‘‘do-it-yourself’’ transitions in transgender communities in Ontario,",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Rotondi NK, Bauer GR, Scanlon K, Kaay M, Travers R, Travers A. Nonprescribed hormone use and self-performed surgeries: ‘‘do-it-yourself’’ transitions in transgender communities in Ontario, Canada. Am J Public Health. 2013;103(10):18306.",
+            "cites": null
+        },
+        {
+            "id": 37126115,
+            "title": "Occurrence, risk factors, diagnosis and treatment of syphilis in the prospective observational Swiss HIV Cohort Study.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Thurnheer MC, Weber R, Toutous-Trellu L, Cavassini M, Elzi L, Schmid P, et al. Occurrence, risk factors, diagnosis and treatment of syphilis in the prospective observational Swiss HIV Cohort Study. AIDS. 2010;24(12):190716.",
+            "cites": null
+        },
+        {
+            "id": 37126110,
+            "title": "Older partner selection in young African-American men who have sex with men.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Arrington-Sanders R, Leonard L, Brooks D, Celentano D, Ellen J. Older partner selection in young African-American men who have sex with men. J Adolesc Health. 2013;52(6):6828.",
+            "cites": null
+        },
+        {
+            "id": 37126251,
+            "title": "Online sexual health services: examining youth’s perspectives.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Shoveller J, Knight R, Davis W, Gilbert M, Ogilvie G. Online sexual health services: examining youth’s perspectives. Can J Public Health. 2012;103(1): 148.",
+            "cites": null
+        },
+        {
+            "id": 37126246,
+            "title": "Pharmacist and pharmacy staff experiences with non-prescription (NP) sale of syringes and attitudes toward providing HIV prevention services for injection drug users (IDUs) in providence,",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Zaller N, Jeronimo A, Bratberg J, Case P, Rich JD. Pharmacist and pharmacy staff experiences with non-prescription (NP) sale of syringes and attitudes toward providing HIV prevention services for injection drug users (IDUs) in providence, RI. J Urban Health. 2010;87(6):94253.",
+            "cites": null
+        },
+        {
+            "id": 37126164,
+            "title": "Physical and sexual violence, mental health indicators, and treatment seeking among street-based population groups in Tegucigalpa, Honduras. Rev Panam Salud Publica.",
+            "authors": [],
+            "date": "2012",
+            "doi": null,
+            "raw": "Rio Navarro J, Cohen J, Rocillo Arechaga E, Zuniga E. Physical and sexual violence, mental health indicators, and treatment seeking among street-based population groups in Tegucigalpa, Honduras. Rev Panam Salud Publica. 2012;31(5):38895.",
+            "cites": null
+        },
+        {
+            "id": 37126221,
+            "title": "Police confrontations among street-involved youth in a Canadian setting.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Ti L, Wood E, Shannon K, Feng C, Kerr T. Police confrontations among street-involved youth in a Canadian setting. Int J Drug Policy. 2013;24(1): 4651.",
+            "cites": null
+        },
+        {
+            "id": 37126182,
+            "title": "Predictors of injection drug use cessation and relapse in a prospective cohort of young injection drug users in San Francisco,",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Evans JL, Hahn JA, Lum PJ, Stein ES, Page K. Predictors of injection drug use cessation and relapse in a prospective cohort of young injection drug users in San Francisco, CA (UFO Study). Drug Alcohol Depend. 2009;101(3):1527.",
+            "cites": null
+        },
+        {
+            "id": 37126154,
+            "title": "Prescription opioid misuse and mental health among young injection drug users.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Mackesy-Amiti ME, Donenberg GR, Ouellet LJ. Prescription opioid misuse and mental health among young injection drug users. Am J Drug Alcohol Abuse. 2015;41(1):1006.",
+            "cites": null
+        },
+        {
+            "id": 37126137,
+            "title": "Prevalence of induced abortion and associated factors among Chinese female sex workers in Hong Kong.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Lau JT, Mui LW, Tsui HY, Wong E, Ho SP. Prevalence of induced abortion and associated factors among Chinese female sex workers in Hong Kong. J Sex Marital Ther. 2007;33(1):1929.",
+            "cites": null
+        },
+        {
+            "id": 37126138,
+            "title": "Prevention of mother-to-child transmission of human immunodeficiency virus among pregnant women using injecting drugs in Ukraine,",
+            "authors": [],
+            "date": "2000",
+            "doi": null,
+            "raw": "Thorne C, Semenenko I, Malyuta R. Prevention of mother-to-child transmission of human immunodeficiency virus among pregnant women using injecting drugs in Ukraine, 200010. Addiction. 2012;107(1):11828.",
+            "cites": null
+        },
+        {
+            "id": 37126239,
+            "title": "Prevention of violence against women and girls: what does the evidence say? Lancet.",
+            "authors": [],
+            "date": "2014",
+            "doi": null,
+            "raw": "Ellsberg M, Arango DJ, Morton M, Gennari F, Kiplesund S, Contreras M, et al. Prevention of violence against women and girls: what does the evidence say? Lancet. 2014. doi: 10.1016/S0140-6736(14)61703-7. [Epub ahead of print].",
+            "cites": null
+        },
+        {
+            "id": 37126258,
+            "title": "Project HOPE: online social network changes in an HIV prevention randomized controlled trial for African American and Latino men who have sex with men.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Young SD, Holloway I, Jaganath D, Rice E, Westmoreland D, Coates T. Project HOPE: online social network changes in an HIV prevention randomized controlled trial for African American and Latino men who have sex with men. Am J Public Health. 2014;104(9):170712.",
+            "cites": null
+        },
+        {
+            "id": 37126149,
+            "title": "Psychosocial health problems associated with increased HIV risk behavior among men who have sex with men in Nepal: a cross-sectional survey. PLoS One.",
+            "authors": [],
+            "date": "2013",
+            "doi": null,
+            "raw": "Deuba K, Ekstrom AM, Shrestha R, Ionita G, Bhatta L, Karki DK. Psychosocial health problems associated with increased HIV risk behavior among men who have sex with men in Nepal: a cross-sectional survey. PLoS One. 2013;8(3):e58099.",
+            "cites": null
+        },
+        {
+            "id": 37126156,
+            "title": "Psychosocial needs, mental health, and HIV transmission risk behavior among people living with HIV/AIDS in St Petersburg,",
+            "authors": [],
+            "date": "2003",
+            "doi": null,
+            "raw": "Amirkhanian YA, Kelly JA, McAuliffe TL. Psychosocial needs, mental health, and HIV transmission risk behavior among people living with HIV/AIDS in St Petersburg, Russia. AIDS. 2003;17(16):236774.",
+            "cites": null
+        },
+        {
+            "id": 37126250,
+            "title": "Putting prevention in their pockets: developing mobile phone-based HIV interventions for black men who have sex with men.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Muessig KE, Pike EC, Fowler B, LeGrand S, Parsons JT, Bull SS, et al. Putting prevention in their pockets: developing mobile phone-based HIV interventions for black men who have sex with men. AIDS Patient Care STDS. 2013;27(4):21122.",
+            "cites": null
+        },
+        {
+            "id": 37126147,
+            "title": "Recent partner violence and sexual and drug-related STI/HIV risk among adolescent and young adult women attending family planning clinics. Sex Transm Infect.",
+            "authors": [],
+            "date": "2014",
+            "doi": null,
+            "raw": "Decker MR, Miller E, McCauley HL, Tancredi DJ, Anderson H, Levenson RR, et al. Recent partner violence and sexual and drug-related STI/HIV risk among adolescent and young adult women attending family planning clinics. Sex Transm Infect. 2014;90(2):1459.",
+            "cites": null
+        },
+        {
+            "id": 37126103,
+            "title": "Refining HIV risk: the modifying effects of youth, gender and education among people who inject drugs in Poland.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Czerwinski M, McNutt LA, DeHovitz JA, Zielinski A, Rosinska M. Refining HIV risk: the modifying effects of youth, gender and education among people who inject drugs in Poland. PLoS One. 2013;8(7):e68018.",
+            "cites": null
+        },
+        {
+            "id": 37126113,
+            "title": "Relationship characteristics and sexual risk-taking in young men who have sex with men.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Mustanski B, Newcomb ME, Clerkin EM. Relationship characteristics and sexual risk-taking in young men who have sex with men. Health Psychol. 2011;30(5):597605.",
+            "cites": null
+        },
+        {
+            "id": 37126217,
+            "title": "Reports of police beating and associated harms among people who inject drugs in Bangkok, Thailand: a serial cross-sectional study.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Hayashi K, Ti L, Csete J, Kaplan K, Suwannawong P, Wood E, et al. Reports of police beating and associated harms among people who inject drugs in Bangkok, Thailand: a serial cross-sectional study. BMC Public Health. 2013; 13:733. Delany-Moretlwe S et al. Journal of the International AIDS Society 2015, 18(Suppl 1):19833 http://www.jiasociety.org/index.php/jias/article/view/19833 | http://dx.doi.org/10.7448/IAS.18.2.19833",
+            "cites": null
+        },
+        {
+            "id": 37126169,
+            "title": "Risk factors for progression to regular injection drug use among street-involved youth in a Canadian setting. Drug Alcohol Depend.",
+            "authors": [],
+            "date": "2013",
+            "doi": null,
+            "raw": "Debeck K, Kerr T, Marshall BD, Simo A, Montaner J, Wood E. Risk factors for progression to regular injection drug use among street-involved youth in a Canadian setting. Drug Alcohol Depend. 2013;133(2):46872.",
+            "cites": null
+        },
+        {
+            "id": 37126181,
+            "title": "Role of sexual transmission of HIV among young noninjection and injection opiate users: a respondent-driven sampling study. Sex Transm Dis.",
+            "authors": [],
+            "date": "2011",
+            "doi": null,
+            "raw": "Li J, Liu H, Li J, Luo J, Jarlais DD, Koram N. Role of sexual transmission of HIV among young noninjection and injection opiate users: a respondent-driven sampling study. Sex Transm Dis. 2011;38(12):11616.",
+            "cites": null
+        },
+        {
+            "id": 37126157,
+            "title": "Self-perceived stigma, depressive symptoms, and suicidal behaviors among female sex workers in China.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Hong Y, Fang X, Li X, Liu Y, Li M, Tai-Seale T. Self-perceived stigma, depressive symptoms, and suicidal behaviors among female sex workers in China. J Transcult Nurs. 2010;21(1):2934.",
+            "cites": null
+        },
+        {
+            "id": 37126107,
+            "title": "Sex trafficking, physical and sexual violence, and HIV risk among young female sex workers in Andhra Pradesh,",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "George A, Sabarwal S. Sex trafficking, physical and sexual violence, and HIV risk among young female sex workers in Andhra Pradesh, India. Int J Gynaecol Obstet. 2013;120(2):11923.",
+            "cites": null
+        },
+        {
+            "id": 37126151,
+            "title": "Sex trafficking, sexual risk, sexually transmitted infection and reproductive health among female sex workers in Thailand.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Decker MR, McCauley HL, Phuengsamran D, Janyam S, Silverman JG. Sex trafficking, sexual risk, sexually transmitted infection and reproductive health among female sex workers in Thailand. J Epidemiol Community Health. 2011;65(4):3349.",
+            "cites": null
+        },
+        {
+            "id": 37126111,
+            "title": "Sexual risk taking among transgender male-to-female youths with different partner types.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Wilson EC, Garofalo R, Harris DR, Belzer M. Sexual risk taking among transgender male-to-female youths with different partner types. Am J Public Health. 2010;100(8):15005.",
+            "cites": null
+        },
+        {
+            "id": 37126174,
+            "title": "Social circumstances of initiation of injection drug use and early shooting gallery attendance: implications for HIV intervention among adolescent and young adult injection drug users.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Fuller CM, Vlahov D, Latkin CA, Ompad DC, Celentano DD, Strathdee SA. Social circumstances of initiation of injection drug use and early shooting gallery attendance: implications for HIV intervention among adolescent and young adult injection drug users. J Acquir Immune Defic Syndr. 2003;32(1): 8693.",
+            "cites": null
+        },
+        {
+            "id": 37126173,
+            "title": "Sociodemographic factors, health risks and harms associated with early initiation of injection among people who inject drugs in Tallinn, Estonia: evidence from cross-sectional surveys.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Vorobjov S, Des Jarlais DC, Abel-Ollo K, Talu A, Ruutel K, Uuskula A. Sociodemographic factors, health risks and harms associated with early initiation of injection among people who inject drugs in Tallinn, Estonia: evidence from cross-sectional surveys. Int J Drug Policy. 2013;24(2):1505.",
+            "cites": null
+        },
+        {
+            "id": 37126216,
+            "title": "Street-based adolescents at high risk of HIV in Ukraine.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Busza JR, Balakireva OM, Teltschik A, Bondar TV, Sereda YV, Meynell C, et al. Street-based adolescents at high risk of HIV in Ukraine. J Epidemiol Community Health. 2011;65(12):116670.",
+            "cites": null
+        },
+        {
+            "id": 37126170,
+            "title": "Substance use by same sex attracted young people: prevalence, perceptions and homophobia. Drug Alcohol Rev.",
+            "authors": [],
+            "date": "2014",
+            "doi": null,
+            "raw": "Kelly J, Davis C, Schlesinger C. Substance use by same sex attracted young people: prevalence, perceptions and homophobia. Drug Alcohol Rev. 2014. doi: 10.1111/dar.12158. [Epub ahead of print].",
+            "cites": null
+        },
+        {
+            "id": 37126159,
+            "title": "Syndemic conditions associated with increased HIV risk in a global sample of men who have sex with men. Sex Transm Infect.",
+            "authors": [],
+            "date": "2014",
+            "doi": null,
+            "raw": "Santos GM, Do T, Beck J, Makofane K, Arreola S, Pyun T, et al. Syndemic conditions associated with increased HIV risk in a global sample of men who have sex with men. Sex Transm Infect. 2014;90(3):2503.",
+            "cites": null
+        },
+        {
+            "id": 37126160,
+            "title": "Syndemic theory and HIV-related risk among young transgender women: the role of multiple, co-occurring health problems and social marginalization.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Brennan J, Kuhns LM, Johnson AK, Belzer M, Wilson EC, Garofalo R. Syndemic theory and HIV-related risk among young transgender women: the role of multiple, co-occurring health problems and social marginalization. Am J Public Health. 2012;102(9):17517.",
+            "cites": null
+        },
+        {
+            "id": 37126166,
+            "title": "Systematic review and meta-analysis: prevalence of alcohol use among young people in eastern Africa. Trop Med Int Health.",
+            "authors": [],
+            "date": "2014",
+            "doi": null,
+            "raw": "Francis JM, Grosskurth H, Changalucha J, Kapiga SH, Weiss HA. Systematic review and meta-analysis: prevalence of alcohol use among young people in eastern Africa. Trop Med Int Health. 2014;19(4):47688.",
+            "cites": null
+        },
+        {
+            "id": 37126227,
+            "title": "Systematic review of facility-based sexual and reproductive health services for female sex workers in Africa. Global Health.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Dhana A, Luchters S, Moore L, Lafort Y, Roy A, Scorgie F, et al. Systematic review of facility-based sexual and reproductive health services for female sex workers in Africa. Global Health. 2014;10:46.",
+            "cites": null
+        },
+        {
+            "id": 37126260,
+            "title": "The impact and cost of the HIV/AIDS investment framework for adolescents. J Acquir Immune Defic Syndr.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Stover J, Rosen J, Kasedde S, Idele P, McClure C. The impact and cost of the HIV/AIDS investment framework for adolescents. J Acquir Immune Defic Syndr. 2014;66(Suppl 2):S1705. Delany-Moretlwe S et al. Journal of the International AIDS Society 2015, 18(Suppl 1):19833 http://www.jiasociety.org/index.php/jias/article/view/19833 | http://dx.doi.org/10.7448/IAS.18.2.19833",
+            "cites": null
+        },
+        {
+            "id": 37126121,
+            "title": "The prevalence and incidence of sexually transmitted infections in a prospective Delany-Moretlwe S et al.",
+            "authors": [],
+            "date": "2015",
+            "doi": null,
+            "raw": "Kuyper LM, Collins CL, Kerr T, Hogg RS, Li K, Tyndall MW, et al. The prevalence and incidence of sexually transmitted infections in a prospective Delany-Moretlwe S et al. Journal of the International AIDS Society 2015, 18(Suppl 1):19833 http://www.jiasociety.org/index.php/jias/article/view/19833 | http://dx.doi.org/10.7448/IAS.18.2.19833 37cohort of injection drug users in Vancouver, British Columbia. Can J Infect Dis Med Microbiol. 2005;16(4):2259.",
+            "cites": null
+        },
+        {
+            "id": 37126178,
+            "title": "The relationship between age and risky injecting behaviours among a sample of Australian people who inject drugs. Drug Alcohol Depend.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Horyniak D, Dietze P, Degenhardt L, Higgs P, McIlwraith F, Alati R, et al. The relationship between age and risky injecting behaviours among a sample of Australian people who inject drugs. Drug Alcohol Depend. 2013;132(3): 5416.",
+            "cites": null
+        },
+        {
+            "id": 37126185,
+            "title": "Transactional sex amongst AIDS-orphaned and AIDS-affected adolescents predicted by abuse and extreme poverty.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Cluver L, Orkin M, Boyes M, Gardner F, Meinck F. Transactional sex amongst AIDS-orphaned and AIDS-affected adolescents predicted by abuse and extreme poverty. J Acquir Immune Defic Syndr. 2011;58(3):33643.",
+            "cites": null
+        },
+        {
+            "id": 37126163,
+            "title": "Transgender youth: invisible and vulnerable.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Grossman AH, D’Augelli AR. Transgender youth: invisible and vulnerable. J Homosex. 2006;51(1):11128.",
+            "cites": null
+        },
+        {
+            "id": 37126184,
+            "title": "Transitions into and out of homelessness among street-involved youth in a Canadian setting. Health Place.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Cheng T, Wood E, Feng C, Mathias S, Montaner J, Kerr T, et al. Transitions into and out of homelessness among street-involved youth in a Canadian setting. Health Place. 2013;23:1227.",
+            "cites": null
+        },
+        {
+            "id": 37126202,
+            "title": "Triple jeopardy: adolescent experiences of sex work and migration in Zimbabwe. Health Place.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Busza J, Mtetwa S, Chirawu P, Cowan F. Triple jeopardy: adolescent experiences of sex work and migration in Zimbabwe. Health Place. 2014;28: 8591.",
+            "cites": null
+        },
+        {
+            "id": 37126108,
+            "title": "Underage youth trading sex in the Philippines: trafficking and HIV risk.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Urada LA, Silverman JG, Cordisco Tsai L, Morisky DE. Underage youth trading sex in the Philippines: trafficking and HIV risk. AIDS Care. 2014;26(12): 158691.",
+            "cites": null
+        },
+        {
+            "id": 37126134,
+            "title": "Use of emergency contraceptive pills among female sex workers in Swaziland.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Yam EA, Mnisi Z, Maziya S, Kennedy C, Baral S. Use of emergency contraceptive pills among female sex workers in Swaziland. J Fam Plann Reprod Health Care. 2014;40(2):1027.",
+            "cites": null
+        },
+        {
+            "id": 37126222,
+            "title": "Violence against women in sex work and HIV risk implications differ qualitatively by perpetrator.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Decker MR, Pearson E, Illangasekare SL, Clark E, Sherman SG. Violence against women in sex work and HIV risk implications differ qualitatively by perpetrator. BMC Public Health. 2013;13:876.",
+            "cites": null
+        },
+        {
+            "id": 37126129,
+            "title": "Viral hepatitis among young men who have sex with men: prevalence of infection, risk behaviors, and vaccination. Sex Transm Dis.",
+            "authors": [],
+            "date": "2003",
+            "doi": null,
+            "raw": "Diamond C, Thiede H, Perdue T, Secura GM, Valleroy L, Mackellar D, et al. Viral hepatitis among young men who have sex with men: prevalence of infection, risk behaviors, and vaccination. Sex Transm Dis. 2003;30(5):42532.",
+            "cites": null
+        },
+        {
+            "id": 37126204,
+            "title": "We are despised in the hospitals’: sex workers’ experiences of accessing health care in four African countries. Cult Health Sex.",
+            "authors": [],
+            "date": "2013",
+            "doi": null,
+            "raw": "Scorgie F, Nakato D, Harper E, Richter M, Maseko S, Nare P, et al. We are despised in the hospitals’: sex workers’ experiences of accessing health care in four African countries. Cult Health Sex. 2013;15(4):45065.",
+            "cites": null
+        },
+        {
+            "id": 37126253,
+            "title": "Willingness to use the internet to seek information on HIV prevention and care among men who have sex with men in Ho Chi Minh City,",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Justumus P, Colby D, Mai Doan Anh T, Balestre E, Becquet R, OrneGliemann J. Willingness to use the internet to seek information on HIV prevention and care among men who have sex with men in Ho Chi Minh City, Vietnam. PLoS One. 2013;8(8):e71471.",
+            "cites": null
+        },
+        {
+            "id": 37126198,
+            "title": "You are wasting our drugs’’: health service barriers to HIV treatment for sex workers in Zimbabwe.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Mtetwa S, Busza J, Chidiya S, Mungofa S, Cowan F. ‘‘You are wasting our drugs’’: health service barriers to HIV treatment for sex workers in Zimbabwe. BMC Public Health. 2013;13:698.",
+            "cites": null
+        },
+        {
+            "id": 37126197,
+            "title": "Young age predicts poor antiretroviral adherence and viral load suppression among injection drug users.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Hadland SE, Milloy MJ, Kerr T, Zhang R, Guillemi S, Hogg RS, et al. Young age predicts poor antiretroviral adherence and viral load suppression among injection drug users. AIDS Patient Care STDS. 2012;26(5):27480.",
+            "cites": null
+        },
+        {
+            "id": 37126223,
+            "title": "Young people and drugs: next generation of harm reduction.",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Merkinaite S, Grund JP, Frimpong A. Young people and drugs: next generation of harm reduction. Int J Drug Policy. 2010;21(2):1124.",
+            "cites": null
+        }
+    ],
+    "sourceFulltextUrls": [
+        "http://researchonline.lshtm.ac.uk/2121434/1/JIAS2015-young%20key%20populations.pdf"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2015",
+    "links": [
+        {
+            "type": "download",
+            "url": "https://core.ac.uk/download/13108403.pdf"
+        },
+        {
+            "type": "reader",
+            "url": "https://core.ac.uk/reader/13108403"
+        },
+        {
+            "type": "thumbnail_m",
+            "url": "https://core.ac.uk/image/13108403/medium"
+        },
+        {
+            "type": "thumbnail_l",
+            "url": "https://core.ac.uk/image/13108403/large"
+        },
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/13108403"
+        }
+    ],
+    "abstract": "INTRODUCTION: Adolescence is a time of physical, emotional and social transitions that have implications for health. In addition to being at high risk for HIV, young key populations (YKP) may experience other health problems attributable to high-risk behaviour or their developmental stage, or a combination of both. METHODS: We reviewed the needs, barriers and gaps for other non-HIV health services for YKP. We searched PubMed and Google Scholar for articles that provided specific age-related data on sexual and reproductive health; mental health; violence; and substance use problems for adolescent, youth or young sex workers, men who have sex with men, transgender people, and people who inject drugs. RESULTS: YKP experience more unprotected sex, sexually transmitted infections including HIV, unintended pregnancy, violence, mental health disorders and substance use compared to older members of key populations and youth among the general population. YKP experience significant barriers to accessing care; coverage of services is low, largely because of stigma and discrimination experienced at both the health system and policy levels. DISCUSSION: YKP require comprehensive, integrated services that respond to their specific developmental needs, including health, educational and social services within the context of a human rights-based approach. The recent WHO Consolidated Guidelines on HIV Prevention, Diagnosis, Treatment and Care for Key Populations are an important first step for a more comprehensive approach to HIV programming for YKP, but there are limited data on the effective delivery of combined interventions for YKP. Significant investments in research and implementation will be required to ensure adequate provision and coverage of services for YKP. In addition, greater commitments to harm reduction and rights-based approaches are needed to address structural barriers to access to care",
+    "tags": [],
+    "fulltextStatus": "enabled",
+    "subjects": [],
+    "oai": "oai:researchonline.lshtm.ac.uk:2121434",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "147",
+        "openDoarId": 0,
+        "name": "LSHTM Research Online",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 13108403,
+        "depositedDate": null,
+        "publishedDate": "2015-02-26T00:00:00+00:00",
+        "updatedDate": "2024-02-12T11:13:40+00:00",
+        "acceptedDate": null,
+        "createdDate": "2013-08-08T16:00:08+01:00"
+    },
+    "urls": [
+        "https://researchonline.lshtm.ac.uk/id/eprint/2121434/1/JIAS2015-young%20key%20populations.pdf"
+    ],
+    "lastUpdate": "2024-02-12T11:13:40+00:00",
+    "setSpecs": []
+}

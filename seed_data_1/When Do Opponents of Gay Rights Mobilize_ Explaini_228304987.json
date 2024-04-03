@@ -1,0 +1,94 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Ayoub, Phillip M."
+        },
+        {
+            "name": "Page, Douglas D."
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2019-10-17T10:01:38+01:00",
+    "dataProvider": {
+        "id": 3454,
+        "name": "Gettysburg College",
+        "url": "https://api.core.ac.uk/v3/data-providers/3454",
+        "logo": "https://api.core.ac.uk/data-providers/3454/logo"
+    },
+    "depositedDate": "",
+    "documentType": "research",
+    "doi": "10.1177/1065912919853377",
+    "downloadUrl": "https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1055&context=poliscifac",
+    "fullText": "",
+    "id": 228304987,
+    "identifiers": {
+        "doi": "10.1177/1065912919853377",
+        "oai": "oai:cupola.gettysburg.edu:poliscifac-1055"
+    },
+    "title": "When Do Opponents of Gay Rights Mobilize? Explaining Political Participation in Times of Backlash against Liberalism",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2019-06-11T08:00:00+01:00",
+    "publisher": "The Cupola: Scholarship at Gettysburg College",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1055&context=poliscifac"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2019",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/228304987"
+        }
+    ],
+    "abstract": "Existing research suggests that supporters of gay rights have outmobilized their opponents, leading to policy changes in advanced industrialized democracies. At the same time, we observe the diffusion of state-sponsored homophobia in many parts of the world. The emergence of gay rights as a salient political issue in global politics leads us to ask, “Who is empowered to be politically active in various societies?” What current research misses is a comparison of levels of participation (voting and protesting) between states that make stronger and weaker appeals to homophobia. Voters face contrasting appeals from politicians in favor of and against gay rights globally. In an analysis of survey data from Europe and Latin America, we argue that the alignment between the norms of sexuality a state promotes and an individual’s personal attitudes on sexuality increases felt political efficacy. We find that individuals who are tolerant of homosexuality are more likely to participate in states with gay-friendly policies in comparison with intolerant individuals. The reverse also holds: individuals with low education levels that are intolerant of homosexuality are more likely to participate in states espousing political homophobia",
+    "tags": [
+        "article",
+        "Gay Rights",
+        "Political Participation",
+        "Homophobia",
+        "Comparative Politics",
+        "Lesbian, Gay, Bisexual, and Transgender Studies",
+        "Policy History, Theory, and Methods",
+        "Political Science"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "article"
+    ],
+    "oai": "oai:cupola.gettysburg.edu:poliscifac-1055",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "3454",
+        "openDoarId": 0,
+        "name": "Gettysburg College",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 228304987,
+        "depositedDate": null,
+        "publishedDate": "2019-06-11T08:00:00+01:00",
+        "updatedDate": "2024-01-24T04:08:04+00:00",
+        "acceptedDate": null,
+        "createdDate": "2019-10-17T10:01:38+01:00"
+    },
+    "urls": [
+        "https://cupola.gettysburg.edu/poliscifac/47",
+        "https://cupola.gettysburg.edu/context/poliscifac/article/1055/viewcontent/AYOUB_PAGE_POSTPRINT.pdf"
+    ],
+    "lastUpdate": "2024-01-24T04:08:04+00:00",
+    "setSpecs": []
+}

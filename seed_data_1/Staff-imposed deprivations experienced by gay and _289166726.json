@@ -1,0 +1,86 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Jones, Braxton"
+        }
+    ],
+    "contributors": [
+        "Simes, Jessica"
+    ],
+    "createdDate": "2020-04-02T12:23:16+01:00",
+    "dataProvider": {
+        "id": 2851,
+        "name": "Boston University Institutional Repository (OpenBU)",
+        "url": "https://api.core.ac.uk/v3/data-providers/2851",
+        "logo": "https://api.core.ac.uk/data-providers/2851/logo"
+    },
+    "depositedDate": "",
+    "documentType": "research",
+    "doi": "",
+    "downloadUrl": "https://open.bu.edu/bitstream/2144/39487/7/Jones_bu_0017N_14791.pdf",
+    "fullText": "",
+    "id": 289166726,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:open.bu.edu:2144/39487"
+    },
+    "title": "Staff-imposed deprivations experienced by gay and bisexual men and violence by other incarcerated people",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2020-02-10T20:02:59+00:00",
+    "publisher": null,
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://open.bu.edu/bitstream/2144/39487/7/Jones_bu_0017N_14791.pdf"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2020",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/289166726"
+        }
+    ],
+    "abstract": "This paper investigates the relationship between self-reported experience of staff-imposed deprivations and violence perpetrated against incarcerated gay and bisexual men by other incarcerated people. Emerging research in the social sciences suggests that deprivations experienced by sexual minorities in prison are associated with negative outcomes. The justification for such practices in prison policy, however, is that what appears to be unequal treatment of sexual minorities actually serves the purpose of protecting them from violence, assumed to be the result of the violent masculinity of incarcerated people. To assess these claims, I use the Black & Pink National LGBTQ Prisoner Survey to conduct logistic regressions modeling the relationship between odds of physical and sexual violence perpetrated by other incarcerated people and staff-imposed deprivations experienced by gay and bisexual respondents. The results show that experiences of staff-imposed deprivations are associated with increased odds of violence against gay and bisexual men by other incarcerated people. These findings illustrate that homophobic violence is not only related to the characteristics of people incarcerated in prisons, but is also related to the behavior of staff and policy- makers who structure the lives of incarcerated people",
+    "tags": [
+        "Thesis/Dissertation",
+        "Sociology"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "Thesis/Dissertation"
+    ],
+    "oai": "oai:open.bu.edu:2144/39487",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "2851",
+        "openDoarId": 0,
+        "name": "Boston University Institutional Repository (OpenBU)",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 289166726,
+        "depositedDate": null,
+        "publishedDate": "2020-02-10T20:02:59+00:00",
+        "updatedDate": "2024-01-21T02:16:45+00:00",
+        "acceptedDate": null,
+        "createdDate": "2020-04-02T12:23:16+01:00"
+    },
+    "urls": [
+        "https://hdl.handle.net/2144/39487"
+    ],
+    "lastUpdate": "2024-01-21T02:16:45+00:00",
+    "setSpecs": []
+}

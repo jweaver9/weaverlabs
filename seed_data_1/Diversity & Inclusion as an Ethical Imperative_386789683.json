@@ -1,0 +1,108 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Business Administration Department - Winona State University"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2021-02-26T14:05:14+00:00",
+    "dataProvider": {
+        "id": 14069,
+        "name": "OpenRiver@Winona State University",
+        "url": "https://api.core.ac.uk/v3/data-providers/14069",
+        "logo": "https://api.core.ac.uk/data-providers/14069/logo"
+    },
+    "depositedDate": "",
+    "documentType": "",
+    "doi": "",
+    "downloadUrl": "https://core.ac.uk/download/386789683.pdf",
+    "fullText": "Diversity & Inclusion as an Ethical Imperative 2021 Engaged Ethics Conversation Hosted by Jason Kight and Jana Craft     Margo R. Foreman is the Assistant Vice President for Diversity, Inclusion, and Equal Opportunity at Iowa State University. Since arriving in 2016, she has been instrumental in the growth and development of the administration’s efforts to build and sustain a more inclusive ISU. Margo’s work portfolio is dedicated to oversight of all aspects of equal opportunity, affirmative action, discrimination, harassment, and sexual misconduct programs and serves as the university’s Title IX Coordinator. The scope of her work includes supporting excellence in teaching and learning through the recruitment, development, and retention of a diverse workforce. In addition, she has developed diversity and inclusion programming and identity-based conflict resolution practices designed to enhance a work and learning environment which is welcoming of all students, staff, and faculty.   Jimmy Luckey is a category manager at Mayo Clinic. Having a passion for diversity and inclusion initiatives he collaborates with other thought leaders by actively supporting a space for everyone at Mayo to comfortably stand and say, ‘This is my authentic self.’ Collaborative contributions include: expansion of healthcare benefits for Mayo Clinic’s transgender employees; Mayo Clinic’s OUTList rollout; first Enterprise Mayo Employee Resource Group; Mayo Clinic’s recognition by the Human Rights Campaign as a Leader in LGBTQ Healthcare Equality; Piloting the first Student Employee Resource Group.      Jimmy holds a Bachelor of Arts Degree in English from the University of South Florida; a Master of Health Administration from Louisiana State University at Shreveport; a Juris Doctor from St. Thomas University School of Law; an appointment as Instructor in Health Care Administration, Mayo Clinic College of Medicine and Science; and is licensed to practice law in Florida, Minnesota, and the U.S. Tax Court.   Jessica Lavariega Monforti is a dean who leads the College of Arts and Sciences at California Lutheran University to support the academic endeavors and development of faculty, students, and staff, and our institution.  Dr. Lavariega Monforti believes that education can empower students and help them and others acknowledge their potential. She has landed over $4M in major grant funding, published 3 books and over 50 articles and book chapters, and contributed to several news articles and broadcasts including the New York Times, La Opinión, and NPR’s All Things Considered.   Dr. Lavariega Monforti is an award-winning teacher, leader, and scholar, having received the UT Regents’ Outstanding Teaching Award, Adaljiza Sosa-Riddell Award for Exemplary Mentoring of Latino/a Undergraduate Students in Political Science, various best research paper awards from major political science associations, as well as institutional leadership awards. She is the founder and co-organizer of the biennial, national Women of Color in Political Science Workshop.  She holds a PhD in Political Science from The Ohio State University.     Dr. Jonathan Locust Jr.  Associate Vice President Office of Equity & Inclusive Excellence, Suite 230, Office L Winona State University    ",
+    "id": 386789683,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:openriver.winona.edu:engagedethicsconversation-1004"
+    },
+    "title": "Diversity & Inclusion as an Ethical Imperative",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2021-02-23T08:00:00+00:00",
+    "publisher": "OpenRiver",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://openriver.winona.edu/cgi/viewcontent.cgi?filename=0&article=1004&context=engagedethicsconversation&type=additional"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2021",
+    "links": [
+        {
+            "type": "download",
+            "url": "https://core.ac.uk/download/386789683.pdf"
+        },
+        {
+            "type": "reader",
+            "url": "https://core.ac.uk/reader/386789683"
+        },
+        {
+            "type": "thumbnail_m",
+            "url": "https://core.ac.uk/image/386789683/medium"
+        },
+        {
+            "type": "thumbnail_l",
+            "url": "https://core.ac.uk/image/386789683/large"
+        },
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/386789683"
+        }
+    ],
+    "abstract": "The 2021 Engaged Ethics Conversation explores the theme of diversity and inclusion as an ethical imperative. Many organizations include statements about diversity in their mission statements and workplace policies. However, converting from an organizational strategy to a crucial mindset is another matter entirely. Learn what it takes to go from saying it to living out inclusive practices. Invited speakers were Margo Foreman (Iowa State University), Jimmy Luckey (Mayo Clinic), Jessica Lavariega Monforti (California Lutheran University), and Jonathan Locust (WSU). Hosted by Jana Craft and Jason Kight.https://openriver.winona.edu/engagedethicsconversation/1004/thumbnail.jp",
+    "tags": [
+        "text",
+        "Diversity",
+        "Inclusion",
+        "Organizational Strategy",
+        "Ethics",
+        "Engaged Ethics Series",
+        "Business",
+        "Business Law, Public Responsibility, and Ethics"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "text"
+    ],
+    "oai": "oai:openriver.winona.edu:engagedethicsconversation-1004",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "14069",
+        "openDoarId": 0,
+        "name": "OpenRiver@Winona State University",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 386789683,
+        "depositedDate": null,
+        "publishedDate": "2021-02-23T08:00:00+00:00",
+        "updatedDate": "2024-02-16T02:52:57+00:00",
+        "acceptedDate": null,
+        "createdDate": "2021-02-26T14:05:14+00:00"
+    },
+    "urls": [
+        "https://openriver.winona.edu/engagedethicsconversation/5",
+        "https://openriver.winona.edu/context/engagedethicsconversation/article/1004/type/native/viewcontent/Engaged_Ethics_Conversation_2021__HD_1080___WEB__H264_4000__.mp4",
+        "https://openriver.winona.edu/context/engagedethicsconversation/article/1004/filename/0/type/additional/viewcontent/WSUBADEEC_2021_DiversityInclusionSpeakers.pdf"
+    ],
+    "lastUpdate": "2024-02-16T02:52:57+00:00",
+    "setSpecs": []
+}

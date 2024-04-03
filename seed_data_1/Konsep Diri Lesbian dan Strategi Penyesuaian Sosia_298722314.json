@@ -1,0 +1,103 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Endah Susilandari, Muhadjir Darwin, dan Irwan Abdullah"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2020-04-11T23:11:28+01:00",
+    "dataProvider": {
+        "id": 8987,
+        "name": "UGM Journals, OAI Repository",
+        "url": "https://api.core.ac.uk/v3/data-providers/8987",
+        "logo": "https://api.core.ac.uk/data-providers/8987/logo"
+    },
+    "depositedDate": "",
+    "documentType": "",
+    "doi": "",
+    "downloadUrl": "https://core.ac.uk/download/298722314.pdf",
+    "fullText": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "id": 298722314,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:ugm.ac.id:inherent/7453"
+    },
+    "title": "Konsep Diri Lesbian dan Strategi Penyesuaian Sosial dalam Komunitas Islam di Yogyakarta = Lesbian - Self - Concept and their Strategy of Social Accomodation in Moslem Community of Yogyakarta",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2005-01-01T00:00:00+00:00",
+    "publisher": "[Yogyakarta] : Universitas Gadjah Mada",
+    "references": [],
+    "sourceFulltextUrls": [
+        "http://i-lib.ugm.ac.id/jurnal/download.php?dataId=7453"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2005",
+    "links": [
+        {
+            "type": "download",
+            "url": "https://core.ac.uk/download/298722314.pdf"
+        },
+        {
+            "type": "reader",
+            "url": "https://core.ac.uk/reader/298722314"
+        },
+        {
+            "type": "thumbnail_m",
+            "url": "https://core.ac.uk/image/298722314/medium"
+        },
+        {
+            "type": "thumbnail_l",
+            "url": "https://core.ac.uk/image/298722314/large"
+        },
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/298722314"
+        }
+    ],
+    "abstract": "Lesbians have not been socially accepted. This may be because from psychological, social, cultural, and religious viewpoints, they have different sexual orientation. The antecedents of lesbian sexual activities are not clearly known. However, several scholars suggest that lesbian sexual orientation can be viewed from biological, psychodynamic, learning, and social identity. They agree that lesbian sexual orientation is formed in early age and is manifested in adulthood. The problems of lesbian become complicated when religious principles, particularly those of Islam, reject such the orientation because there is not any religious texts acknowledging lesbian sexual orientation in Islam.\nThere are three important problems to be analyzed. First, how a Moslem lesbian hold the self-conceptSecond, what strategies are used by lesbians to deal with their self-concept in relation to the life of Moslem communityThird, how Moslem community dialectically views lesbian sexual orientation.\nThis studi aims at exploring the factors stimulating the lesbian sexual orientation. Beside that, this study wants to analyze several problems that lesbians have in their social relationship due to their sexual orientation. Next, this study is intended to identify how Moslem community views lesbians, what Moslem\\u27s social spaces can accept or reject their existence.\nIn the family, lesbians may be under pressure when they have to get married. However, in general the family tends to give toleration. This may be because most lesbians are self-reliance so that in early age they are economically independent. In the society, because they do not explicitly expose their sexual orientation, social acceptance depends very much on individual behavior in the place where they live. Community\\u27s social values that tolerate\n \nunmarried women or women who get married in later age has made lesbians have more freedom to express their lesbian orientation.\nLiving as a lesbian is then the accurn mulation of how to overcome the pressures from the family, community, and how to understand religious tolerance. Giving tolerance does not mean total acceptance, because they are rejected in particular areas but accepted in other particular areas. Global values have encouraged emancipation and equal rights, so that religious texts in some dimensions have to be more advanced to respond changes.\n\nKey Words: lesbian, the self-concept, social adaptation, Moslem cone milnit",
+    "tags": [
+        "text",
+        "journals",
+        "Konsep Diri Lesbian dan Strategi Penyesuaian Sosial dalam Komunitas Islam di Yogyakarta = Lesbian - Self - Concept and their Strategy of Social Accomodation in Moslem Community of Yogyakarta"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "text",
+        "journals"
+    ],
+    "oai": "oai:ugm.ac.id:inherent/7453",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "8987",
+        "openDoarId": 0,
+        "name": "UGM Journals, OAI Repository",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 298722314,
+        "depositedDate": null,
+        "publishedDate": "2005-01-01T00:00:00+00:00",
+        "updatedDate": "2021-12-14T11:47:00+00:00",
+        "acceptedDate": null,
+        "createdDate": "2020-04-11T23:11:28+01:00"
+    },
+    "urls": [
+        "http://i-lib.ugm.ac.id/jurnal/detail.php?dataId=7453",
+        "http://i-lib.ugm.ac.id/jurnal/download.php?dataId=7453"
+    ],
+    "lastUpdate": "2021-12-14T11:47:00+00:00",
+    "setSpecs": []
+}

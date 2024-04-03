@@ -1,0 +1,105 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Hegarty, Peter"
+        },
+        {
+            "name": "Lundberg, Tove"
+        }
+    ],
+    "contributors": [
+        "Feldmann, Doris",
+        "Keilhauer, Annette",
+        "Liebold, Renate"
+    ],
+    "createdDate": "2022-06-19T11:47:19+01:00",
+    "dataProvider": {
+        "id": 4841,
+        "name": "GenderOpen - Repositorium für die Geschlechterforschung",
+        "url": "https://api.core.ac.uk/v3/data-providers/4841",
+        "logo": "https://api.core.ac.uk/data-providers/4841/logo"
+    },
+    "depositedDate": "",
+    "documentType": "",
+    "doi": "10.25595/2205",
+    "downloadUrl": "https://www.genderopen.de/bitstream/25595/2211/1/Hegardy_Lundberg.pdf",
+    "fullText": "",
+    "id": 520319396,
+    "identifiers": {
+        "doi": "10.25595/2205",
+        "oai": "oai:www.genderopen.de:25595/2211"
+    },
+    "title": "Beyond Choosing Umbrella Terms : Two Psychologists Make Sense of ‘Intersex’ for Gender and Sexuality Studies Scholars",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2020-01-01T00:00:00+00:00",
+    "publisher": "Erlangen",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://www.genderopen.de/bitstream/25595/2211/1/Hegardy_Lundberg.pdf"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2020",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/520319396"
+        }
+    ],
+    "abstract": "",
+    "tags": [
+        "doc-type:bookPart",
+        "info:eu-repo/semantics/bookPart",
+        "Text",
+        "book part",
+        "info:eu-repo/semantics/publishedVersion",
+        "Intersexualität",
+        "Sprache",
+        "Psychologie",
+        "Begriff",
+        "Sprachentwicklung",
+        "ddc:100"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "doc-type:bookPart",
+        "info:eu-repo/semantics/bookPart",
+        "Text",
+        "book part",
+        "info:eu-repo/semantics/publishedVersion"
+    ],
+    "oai": "oai:www.genderopen.de:25595/2211",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "4841",
+        "openDoarId": 0,
+        "name": "GenderOpen - Repositorium für die Geschlechterforschung",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 520319396,
+        "depositedDate": null,
+        "publishedDate": "2020-01-01T00:00:00+00:00",
+        "updatedDate": "2024-01-22T02:56:02+00:00",
+        "acceptedDate": null,
+        "createdDate": "2022-06-19T11:47:19+01:00"
+    },
+    "urls": [
+        "http://dx.doi.org/10.25595/2205",
+        "https://www.genderopen.de/25595/2211"
+    ],
+    "lastUpdate": "2024-01-22T02:56:02+00:00",
+    "setSpecs": []
+}

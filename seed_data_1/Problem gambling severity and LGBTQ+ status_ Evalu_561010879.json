@@ -1,0 +1,99 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Stanmyre, Jackie"
+        },
+        {
+            "name": "Nower, Lia"
+        },
+        {
+            "name": "Malkin, Michelle"
+        },
+        {
+            "name": "DiMeglio, Ryan"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2023-04-15T16:08:06+01:00",
+    "dataProvider": {
+        "id": 2295,
+        "name": "University of Nevada, Las Vegas Repository",
+        "url": "https://api.core.ac.uk/v3/data-providers/2295",
+        "logo": "https://api.core.ac.uk/data-providers/2295/logo"
+    },
+    "depositedDate": "",
+    "documentType": "",
+    "doi": "",
+    "downloadUrl": "https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1872&context=gaming_institute",
+    "fullText": "",
+    "id": 561010879,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:digitalscholarship.unlv.edu:gaming_institute-1872"
+    },
+    "title": "Problem gambling severity and LGBTQ+ status: Evaluating influence of age and comorbid mental health and substance use problems",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2023-05-25T17:00:00+01:00",
+    "publisher": "Digital Scholarship@UNLV",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1872&context=gaming_institute"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2023",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/561010879"
+        }
+    ],
+    "abstract": "Abstract: This presentation will explore the relationship between LGBTQ+ identification and risk for problem gambling. Research has long identified in sexual minority groups higher rates of most mental health indicators, including anxiety, depression, suicidality, and substance misuse. However, little attention has focused on their risk of developing gambling problems. This study used an epidemiological sample of adults (N = 3,414), 6% of whom identified as LGBTQ+ (n = 216). Bivariate comparisons found those who identified as LGBTQ+ had significantly higher problems with gambling, alcohol, drugs, anxiety, depression, and a wide range of behaviors (e.g., binge eating, pornography use). Furthermore, a logistic regression found a significant interaction effect between LGBTQ+ status and age, such that the odds of having gambling disorder (PGSI ≥ 8) increased with age for individuals who identified as LGBTQ+ when controlling for demographic, mental health, and other addiction variables. Among those who gambled in the LGBTQ+ population, anxiety and/or problems with drugs were most associated with high-risk gambling.\nImplications: These results underscore the need to screen for gambling problems across all health, mental health, and community sectors where individuals in the LGBTQ+ community, particularly older adults, could be identified and triaged to treatment.\nPresenter Bios: \nJackie Stanmyre, MSW, ABD, is the Assistant Director of the Center for Gambling Studies at Rutgers University. Her research focuses on gambling and sports wagering among athletes and coaches, mindfulness profiles among people who gamble, screening and interventions for problem gambling, and play-by-play analysis for online gambling and sports wagering.\nLia Nower, JD, PhD is Professor and Director of the Center for Gambling Studies at Rutgers University. Her research focuses on etiology, treatment, policy initiatives around harm reduction and responsible gambling, and big data analyses of online gambling and sports wagering. She serves as a Senior Editor for Addiction and Assistant Editor of International Gambling Studies. Dr. Nower is also the 2022 recipient of the Lifetime Research Award from the National Council on Problem Gambling in Washington D.C.\nMichelle L. Malkin, JD, PhD, is an Assistant Professor of Criminal Justice at East Carolina University. Her research interests include problem gambling, diversion courts, and LGBTQ+ experiences in the carceral system. In 2018, she received a research fellowship from the Center for Gaming Studies at University of Nevada, Las Vegas. Her dissertation on Problem Gambling, General Strain Theory and Gender received the 2022 Dr. Durand Jacobs Dissertation Award from the National Council on Problem Gambling",
+    "tags": [
+        "text",
+        "sexual minority",
+        "LGBTQ+",
+        "problem gambling",
+        "gambling disorder",
+        "mental health problems",
+        "substance misuse"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "text"
+    ],
+    "oai": "oai:digitalscholarship.unlv.edu:gaming_institute-1872",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "2295",
+        "openDoarId": 0,
+        "name": "University of Nevada, Las Vegas Repository",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 561010879,
+        "depositedDate": null,
+        "publishedDate": "2023-05-25T17:00:00+01:00",
+        "updatedDate": "2024-01-21T01:57:54+00:00",
+        "acceptedDate": null,
+        "createdDate": "2023-04-15T16:08:06+01:00"
+    },
+    "urls": [
+        "https://digitalscholarship.unlv.edu/gaming_institute/2023/May25/42",
+        "https://digitalscholarship.unlv.edu/context/gaming_institute/article/1872/viewcontent/LGBTQ_abstract_final.pdf"
+    ],
+    "lastUpdate": "2024-01-21T01:57:54+00:00",
+    "setSpecs": []
+}

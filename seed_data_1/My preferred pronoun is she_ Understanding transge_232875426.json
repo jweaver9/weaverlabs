@@ -1,0 +1,94 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Macri, Diana V."
+        },
+        {
+            "name": "Wolfe, Kate"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2019-10-29T12:50:40+00:00",
+    "dataProvider": {
+        "id": 3713,
+        "name": "City University of New York",
+        "url": "https://api.core.ac.uk/v3/data-providers/3713",
+        "logo": "https://api.core.ac.uk/data-providers/3713/logo"
+    },
+    "depositedDate": "",
+    "documentType": "",
+    "doi": "",
+    "downloadUrl": "https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1080&context=ho_pubs",
+    "fullText": "",
+    "id": 232875426,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:academicworks.cuny.edu:ho_pubs-1080"
+    },
+    "title": "My preferred pronoun is she: Understanding transgender identity and oral health care needs",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2019-06-01T08:00:00+01:00",
+    "publisher": "CUNY Academic Works",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1080&context=ho_pubs"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2019",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/232875426"
+        }
+    ],
+    "abstract": "This literature review summarizes current research and evidence regarding transgender persons and oral health. Methods: A search of the literature was conducted in the following databases: PubMed, Google Scholar, EBSCO Host, Science Direct, and Wiley Online Library using the keywords  transgender identity, gender non-conforming, discrimination, transition, binary systems, transgender oral cavity, transgender, transgender oral health, transgender dental health.  Articles published from 2000 to 2017 in both peer-reviewed and non-peer reviewed journals, which reported information regarding the oral health status of transgender populations, were selected for review. Results: The search revealed 18 articles, only 7 of which pertained to the oral health status of transgender client populations. Five other articles were eliminated due to either poor quality or irrelevance. Discussion: The 13 articles included in the review revealed a need for oral health care professionals to be aware that gender is not binary, nor is it a mental health disorder. Transgender people face heightened risk of discrimination, violence, anxiety, depression, suicidality, substance abuse, and sexually transmitted diseases, as well as significant barriers to health care of which oral health professionals should be made aware. Conclusions: Transgender people have the same rights as everyone else to oral health care. Oral health care providers are responsible for ensuring that transgender clients receive care that aligns with their needs and for providing that care in a culturally competent manner. This requires an understanding of the basics of gender nonconformance and its impact on oral-systemic health. Additional research is needed to increase the scientific knowledge base to facilitate improved health outcomes for this client population",
+    "tags": [
+        "article",
+        "transgender",
+        "oral",
+        "diversity",
+        "healthcare",
+        "Bioethics and Medical Ethics",
+        "Dental Hygiene",
+        "Dental Public Health and Education"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "article"
+    ],
+    "oai": "oai:academicworks.cuny.edu:ho_pubs-1080",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "3713",
+        "openDoarId": 0,
+        "name": "City University of New York",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 232875426,
+        "depositedDate": null,
+        "publishedDate": "2019-06-01T08:00:00+01:00",
+        "updatedDate": "2024-02-21T02:45:53+00:00",
+        "acceptedDate": null,
+        "createdDate": "2019-10-29T12:50:40+00:00"
+    },
+    "urls": [
+        "https://academicworks.cuny.edu/ho_pubs/79",
+        "https://academicworks.cuny.edu/context/ho_pubs/article/1080/viewcontent/My_preferred_pronoun_is_she_CJDH.pdf"
+    ],
+    "lastUpdate": "2024-02-21T02:45:53+00:00",
+    "setSpecs": []
+}

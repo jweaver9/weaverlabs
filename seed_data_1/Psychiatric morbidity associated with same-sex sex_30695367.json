@@ -1,0 +1,482 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Frisell, T"
+        },
+        {
+            "name": "Lichtenstein, P"
+        },
+        {
+            "name": "Rahman, Q"
+        },
+        {
+            "name": "Langstrom, N"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2016-04-05T12:05:50+01:00",
+    "dataProvider": {
+        "id": 619,
+        "name": "Queen Mary Research Online",
+        "url": "https://api.core.ac.uk/v3/data-providers/619",
+        "logo": "https://api.core.ac.uk/data-providers/619/logo"
+    },
+    "depositedDate": "",
+    "documentType": "research",
+    "doi": "10.1017/S0033291709005996",
+    "downloadUrl": "https://core.ac.uk/download/30695367.pdf",
+    "fullText": "Psychiatric morbidity associated with same-sex sexual behaviour:influence of minority stress and familial factorsFrisell, T; Lichtenstein, P; Rahman, Q; Langstrom, N       For additional information about this publication click this link.http://qmro.qmul.ac.uk/jspui/handle/123456789/1091   Information about this research object was correct at the time of download; we occasionallymake corrections to records, please therefore check the published record when citing. Formore information contact scholarlycommunications@qmul.ac.ukPsychiatric morbidity associated with same-sexsexual behaviour: inﬂuence of minority stress andfamilial factorsT. Frisell1,2, P. Lichtenstein2, Q. Rahman3,4 and N. La˚ngstro¨m1*1 Centre for Violence Prevention, Karolinska Institutet, Stockholm, Sweden2 Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden3 Biological and Experimental Psychology Group, School of Biological Sciences, Queen Mary, University of London, UK4 King’s College, University of London, UKBackground. Increased psychiatric morbidity has been widely reported among non-heterosexual individuals (deﬁnedas reporting a homosexual/bisexual identity and/or same-sex sexual partners). However, the causes of this psychiatricill-health are mostly unknown.Method. We attempted to estimate the inﬂuence of minority stress and familial factors on psychiatric disorderamong adults with same-sex sexual partners. Self-report data from a 2005 survey of adults (age 20–47 years,n=17 379) in the population-based Swedish Twin Registry were analysed with regression modelling and co-twincontrol methodology.Results. Rates of depression, generalized anxiety disorder (GAD), eating disorders, alcohol dependence andattention deﬁcit hyperactivity disorder (ADHD) were increased among men and women with same-sex sexualexperiences. Adjusting for perceived discrimination and hate crime victimization lowered this risk whereascontrolling for familial (genetic or environmental) factors in within-twin pair comparisons further reduced oreliminated it.Conclusions. Components of minority stress inﬂuence the risk of psychiatric ill-health among individuals with anysame-sex sexual partner. However, substantial confounding by familial factors suggests a common genetic and/orenvironmental liability for same-sex sexual behaviour and psychiatric morbidity.Received 24 September 2008 ; Revised 6 April 2009 ; Accepted 10 April 2009 ; First published online 22 May 2009Key words : Environment, genetics, minority stress, psychiatric symptoms, sexual behaviour.IntroductionElevated rates of mental health problems have beenreported in non-heterosexual individuals (those re-porting same-sex sexual partners and/or homosexual/bisexual identities) compared with heterosexual menand women (Meyer, 2003 ; Herek & Garnets, 2007).Although this ﬁnding did court some controversy(Friedman & Downey, 1998 ; Bailey, 1999), population-based reports (Fergusson et al. 1999 ; Cochran & Mays,2000a, b ; Sandfort et al. 2001 ; Cochran et al. 2003)and two meta-analyses (Meyer, 2003 ; King et al.2008) suggest that non-heterosexual men and womenhave at least twice the risk of mood and anxiety dis-orders compared with heterosexual individuals of thesame gender. Studies also indicate increased rates ofsuicide attempts among non-heterosexual adolescents(Fergusson et al. 1999 ; Wichstrøm & Hegna, 2003 ;Silenzio et al. 2007) and increased lifetime self-harmand suicidality among adult non-heterosexual men(Herrell et al. 1999 ; King et al. 2003 ; Fergusson et al.2005 ; de Graaf et al. 2006 ; Cochran et al. 2007) andwomen (King et al. 2003 ; Fergusson et al. 2005).Understanding the origins of these prevalence pat-terns is important for mental health professionalsworking with sexual minority populations.It is often assumed that minority stress accountsfor the increased psychiatric morbidity in non-heterosexual individuals (Meyer, 2003 ; Herek &Garnets, 2007). The minority stress model posits thatactual discrimination, internalized homophobia or ex-pectations of being maltreated are powerful stressorson non-heterosexual individuals, resulting in poorermental health (Meyer, 2003). Correlational evidencesupporting this theory has accumulated ; homosexual* Address for correspondence : Dr N. La˚ngstro¨m, Centre forViolence Prevention, Karolinska Institutet, PO Box 23000, 104 35Stockholm, Sweden.(Email : Niklas.langstrom@ki.se)Psychological Medicine (2010), 40, 315–324. f Cambridge University Press 2009doi:10.1017/S0033291709005996ORIGINAL ARTICLEand bisexual individuals suﬀer more actual discrimi-nation, more physical and psychological abuse bothas children and adults (Balsam et al. 2005a), and non-heterosexual men (but not women) report lowerquality of life (Sandfort et al. 2003). Although lessstudied, minority stress seems to be associated withpsychiatric morbidity. Experiencing multiple episodesof homophobic violence is related to distress innon-heterosexual men (Mills et al. 2004), and adjustingfor perceived discrimination slightly lowers the in-creased lifetime risk of psychiatric disorder amongnon-heterosexual individuals (Mays & Cochran, 2001).In addition, a population survey suggests that per-ceived discrimination because of sexual orientationis associated with more psychological distress amongmen and women (Wamala et al. 2007). Except for thelatter report, previous studies suﬀer from small orunrepresentative samples or lack comparison groups.We addressed the impact of minority stress onpsychiatric morbidity in non-heterosexual individuals(deﬁned as those with same-sex sexual partners) usinga large, population-based sample of 20- to 47-year-oldtwins in Sweden. Furthermore, because familial fac-tors (genetic and/or environmental) may confoundthe association between non-heterosexual behaviourand psychiatric disorder, we tested this possibilityby comparing psychiatric morbidity between twinsin pairs discordant for self-reported same-sex sexualbehaviour and with unrelated twins.MethodThe Swedish Twin Registry and STAGEThe Swedish Twin Registry encompasses all twinsborn in Sweden since 1886: more than 170 000 in-dividuals, with some 135 000 still alive and currentlyresiding in Sweden (Lichtenstein et al. 2006). Inthe Study of Twin Adults : Genes and Environment(STAGE), all twins in the Swedish Twin Registry born1959–1985 and where both siblings were alive andliving in the country (n=42 224; 21 174 men, 21 050women) were invited to participate in a large web-based survey. The questionnaire consisted of about1300 items, many of which were follow-up questionsnot relevant for all respondents. Items addressedsociodemographic factors, trauma, physical andmental health, substance use, and sexual behaviour.Participants could also choose a telephone interviewsupplemented with a self-administered paper ques-tionnaire for sensitive topics. Non-responders werereminded up to three times and the overall responserate for the survey, conducted in 2005–2006, was60.1% (n=25 381). Linkage with Swedish nationalregistries has shown that STAGE non-responders donot diﬀer from responders regarding age, birthweightor in-patient treatment for neurological disorders.However, non-responders were more often male,criminally convicted, and had been treated as in-patients for a psychiatric condition. Theywere also lesseducated and scored lower on mental acuity testingat mandatory (males only) conscription at age 18 (allp values<0\u0001001) (Furberg et al. 2008). The majority ofour responders (72.2%, n=18 327) chose to answerover the web, 11.6% (n=2949) completed the tele-phone interview and sent in a complementing paperquestionnaire, and 16.2% (n=4105) completed thetelephone interview but did not send in the paperquestionnaire. As many of the items relevant to thisstudy were considered sensitive and were thereforeincluded in the paper questionnaire, we had to excludethose who only undertook the telephone interview.We also excluded those who did not provide infor-mation on relationship status or level of education,resulting in a sample of 17 379 (41% of all those eligiblein the general population). As all of the twinswere bornin Sweden, none was a ﬁrst-generation immigrant.In the last section of the survey, two items askedabout the lifetime number of individuals of the op-posite and same sex respectively that the respondenthad ‘been sexually together with’. We used thiswording in an attempt to present a more gender-and sexual orientation-neutral deﬁnition than ‘sexualintercourse ’. From the answer to this question, weconstructed a dichotomous measure : having had anysame-sex sexual partner (cf. La˚ngstro¨m et al. 2008).Individuals reporting no sexual partners of either sexwere excluded from further analysis.Determination of zygosity was based on responsesto one of the following questions : (1) During child-hood, were you and your twin partner as like as ‘ twopeas in a pod’ or not more alike than siblings in gen-eral? and (2) How often did strangers have diﬃcultyin distinguishing between you and your twin partnerwhen you were children? Twin pairs who respondedalike as two peas in a pod on the ﬁrst question and almostalways or often on the second were classiﬁed as mono-zygotic (MZ). If both twins responded not alike forthe ﬁrst question and seldom, almost never, or never forthe second, they were classiﬁed as dizygotic (DZ). Allother twins were classiﬁed as ‘not determined’. Wevalidated this algorithm with a panel of 47 singlenucleotide polymorphisms in a random sample of 198twin pairs. Ninety-ﬁve per cent (n=188) were cor-rectly classiﬁed. Of the misclassiﬁed twin pairs, eightwere MZ and two were DZ. This zygosity algorithmhas been validated previously with similar results(Lichtenstein et al. 2002).For the co-twin control analyses, we could not usedata from the 7147 individuals whose twin did not316 T. Frisell et al.participate. As all analyses were stratiﬁed by sex, wealso excluded 1285 opposite-sex DZ twin pairs. Theresulting subsample consisted of 2278 MZ pairs (788male and 1490 female) and 1487 DZ same-sex twinpairs (513 male and 974 female). Because of the rare-ness of non-heterosexual behaviour, we pooled MZwith DZ twin pairs, yielding 102 male and 307 femalesame-sex twin pairs who were discordant with respectto non-heterosexual sexual behaviour and could beused in co-twin control analyses. The Regional EthicsCommittee in Stockholm, Sweden approved the study.Psychiatric health variablesLifetime major depression, generalized anxiety dis-order (GAD), eating disorders, and alcohol depen-dence were all measured using a structured diagnosticquestionnaire based on the Structured Clinical Inter-view for DSM-IV-TR (SCID; First et al. 2002) andDSM-IV-TR criteria (APA, 2000). The diagnosis ofmajor depression did not diﬀerentiate between single-episode and recurrent major depressive disorder be-cause items addressed ‘at least one’ major depressiveepisode. Because of the low prevalence of speciﬁceating disorders, any lifetime eating disorder includedanorexia nervosa, bulimia nervosa and binge eatingdisorder. Alcohol dependence did not include alcoholabuse and was diagnosed only for those strictly ful-ﬁlling DSM-IV-TR criteria for a complete diagnosis.Co-morbidity was not taken into account ; however,all diagnostic algorithms otherwise closely followedDSM-IV-TR criteria.Despite controversy concerning the best way to as-sess attention deﬁcit hyperactivity disorder (ADHD)among adults, several studies suggest that self-reports validly measure current ADHD (Murphy &Schachar, 2000). We assessed current ADHD with the18 symptom criteria from DSM-IV-TR, some slightlyrephrased to better suit adults (e.g. ‘often has diﬃ-culty playing or engaging in leisure activities quietly ’was rephrased into ‘Do you have problems engagingin calm leisure activities? ’). Respondents endorsed thepresence of symptoms persisting for at least 6 monthson a three-point format (0=no, 1=yes, to some extent,or 2=yes). From this, we created an ADHD summaryscore, deﬁned as the sum of all 18 DSM-IV-TR items(range 0–36, Cronbach’s a=0.84). We also constructeda dichotomous measure of ‘possible adult ADHD’according to DSM-IV-TR diagnostic cut-oﬀs of six ormore out of nine items endorsed with a ‘yes, to someextent ’ or a clear ‘yes ’, in either the attention deﬁcitor the hyperactivity/impulsivity criteria subsets. Ageof symptom onset, pervasiveness across settings, anddisorder-speciﬁc distress or impairment criteria werenot taken into account in the present analyses.Current depressive symptoms were tapped withthe Center for Epidemiological Studies DepressionScale (CES-D) ; the briefer 11-item Iowa form wasused with a four-point response format (0=neveror almost never, 1=seldom, 2=often, 3=always oralmost always). Thus, total CES-D scores could varybetween 0 and 33. The Iowa form has similar psycho-metric properties to the full CES-D (Carpenter et al.1998), including satisfactory internal consistency (inour sample : Cronbach’s a=0.85).Minority stress and covariatesWe adjusted the analyses for several possible con-founders of the relationship between same-sex sexualbehaviour and psychiatric morbidity : age, education,and relationship status. The highest educational levelwas categorized as low (f9 years of elementaryschool), medium (high school or the equivalent) orhigh (university-level degree). Relationship statuswas deﬁned as being in a committed relationship(including being married, cohabiting, and not co-habiting) or being single (including being a widow/widower or separated/divorced).Perceived discrimination and hate crime victimiz-ation, our measures of minority stress, were based onthe respondent’s endorsement of ever having been‘discriminated against in an insulting or disparagingway’ or ‘experienced violence directed at him/her ’because of ‘race, ethnicity, gender, sexual orientation,or religion’ respectively.Statistical analysesRegression modellingAssociations between dichotomous diagnostic meas-ures of illness and same-sex sexual behaviour wereanalysed with multiple logistic regression. We ﬁrstadjusted for possible sociodemographic confound-ers : age, education and relationship status (Table 3:model 1). Thereafter, we expanded the model by in-cluding our measures of minority stress : perceiveddiscrimination and hate crime victimization (Table 3:model 2). To account for dependency within twin-pairs, we used Generalized Estimating Equations(GEEs) in both models. Count measures of number ofcurrent depression and current ADHD symptomswere approximately continuous and analysed witht tests to simplify interpretation. Although the dis-tributions of symptom scores were not perfectly nor-mal, sample sizes were large enough to justify theuse of t tests without transformation of the variablesaccording to the central limit theorem. We conductedlinear regressions for each continuous measure of psy-chiatric morbidity as a function of same-sex sexualPsychiatric morbidity associated with same-sex sexual behaviour 317experience and adjusted for the covariates age, edu-cation, relationship status, discrimination, and hatecrime victimization. From each regression equation,we calculated residuals that could be interpreted asthe proportion of depression and ADHD not attribu-table to any of the tested covariates. Finally, we per-formed a second t test and used a co-twin controlprocedure also with these residuals.Co-twin control proceduresCo-twin control methodology is used to comparetwins within a pair to test for familial confoundingof an observed association. This can generally beachieved by ‘within-and-between’ regression analy-sis, where diﬀerences within twin pairs are comparedwith diﬀerences between the twin pair mean and thepopulation mean (i.e. ‘between’ twin pairs). However,this is problematic when the exposure variable isdichotomous, as with same-sex sexual behaviour inthis study (Carlin et al. 2005). Therefore, we used awithin twin-pair diﬀerences approach and calculatedpaired t tests for diﬀerences in symptoms of currentdepression and current ADHD between individualswith any same-sex sexual experience and their co-twinwith only opposite-sex sexual experience (i.e. twinpairs discordant for same-sex partners). If the increasein mental ill-health is of the same magnitude whencomparing this mean diﬀerence to that for unrelatedindividuals in the full sample, this strongly suggeststhat the association between mental disorder andsame-sex sexual behaviour is free from familial con-founding (i.e. the eﬀects of genetic and/or environ-mental factors that are shared by twins). If theassociation is still present but of lesser magnitude,then it is partly confounded by familial factors, sug-gesting that these inﬂuence both the likelihood ofmental disorder and that of having same-sex partners.Finally, if the association completely disappears, thenfamilial confounding explains the co-occurrence of thestudied disorder and same-sex sexual behaviour. Asfamilial confounding should not entail any sexualminority-related stressors (one twin in each discordantpair did not report any same-sex sexual experiences),this last scenario would provide evidence againsta causal relationship between minority stress andpsychiatric morbidity. To adjust for age, relationshipstatus, education, perceived discrimination and hatecrime victimization, we also performed linear re-gression with these covariates, calculated residuals forpsychiatric ill-health, and used these in a secondpaired t test. Although it is possible to conduct co-twincontrol analyses with dichotomous measures of mor-bidity (e.g. with conditional logistic regression), therelative rareness of the disorders and same-sex sexualbehaviour yielded very low power for such analyses.Therefore, we present within-twin pair analyses onlyfor the two continuous measures of current depressionand current ADHD symptoms. To increase statisticalpower for the co-twin control analyses, we pooledall same-sex sexual behaviour-discordant same-sextwin pairs regardless of zygosity. However, the pool-ing meant that we could not separate genetic fromenvironmental confounding, only adjust for a com-bined familial confounding eﬀect. All calculationswere performed using SAS version 9.1.3 (SAS InstituteInc., USA) with PROC TTEST, PROC MEANS (paired t test)and PROC GENMOD (logistic regressions with GEEs).ResultsFour hundred and seven men (5.6%) and 835 women(7.8%) reported at least one lifetime same-sex sexualpartner [x2(1)=32.11, p<0.001]. Although men andwomen with same-sex sexual partners diﬀered onlyslightly from men and women with only opposite-sexsexual partners regarding age, education and re-lationship status, they reported discrimination andhate crime victimization much more often (Table 1).Prevalences of psychiatric disorder are presentedin Table 2. Overall, prevalences were comparable tothose found in other large population-based studies.For example, 12.9% (2057) of all individuals in oursample, regardless of same-sex partner experiences,had ever suﬀered from major depression, comparedwith an average of 16.6% USmen and women (Kessleret al. 2005). The high prevalence of ‘probable ’ ADHDprobably reﬂects the fact that we did not take intoaccount distress and impairment or stability of symp-toms across settings.Both men and women with any same-sex sexualpartner had higher prevalences of psychiatric disorderthan individuals with only opposite-sex sexual part-ners. After adjusting for age, education and relation-ship status, the risk increases remained for depression,GAD, eating disorder, alcohol dependence and ADHDamong men and women with any same-sex sexualpartner compared with individuals with only opposite-sex sexual partners (Table 3, model 1). Adjustingfor perceived discrimination and hate crime victimiz-ation reduced the association between same-sexsexual experience and psychiatric morbidity (Table 3,model 2).When using continuous measures, we also foundmore current depressive and ADHD symptoms amongindividuals with any same-sex sexual partner ex-perience (Table 4). Adjusting for age, education, re-lationship status, discrimination and hate crimevictimization lowered the increase of both measures.However, for both current depression and ADHD318 T. Frisell et al.Table 2. Psychiatric disorder among 20- to 47-year-old Swedish twins with and withoutany same-sex sexual partnerDisorderAny same-sex sexual partnerMen WomenNo(n=5414)Yes(n=349)No(n=8157)Yes(n=729)Depression (lifetime) 7.4 (396) 13.6 (46) 16.1 (1293) 27.7 (199)GAD (lifetime) 2.3 (112) 7.4 (23) 5.0 (345) 9.5 (56)Eating disorders (lifetime) 0.3 (17) 1.1 (4) 5.6 (466) 10.3 (76)Alcohol dependence (lifetime) 8.3 (443) 12.8 (44) 3.9 (317) 12.4 (90)ADHD (current) 12.4 (669) 16.6 (58) 12.5 (1018) 18.9 (138)GAD, Generalized anxiety disorder ; ADHD, attention deﬁcit hyperactivitydisorder.Values given as % (n).The ascertainment of all disorders was based on DSM-IV-TR symptom criteria.All internal sample sizes were within 5% of the values given in the column heads,except for GAD (4926, 311, 6905 and 592 respectively).Table 1. Sociodemographic characteristics among 20- to 47-year-old Swedish twins with and without any same-sex sexual partnerCharacteristicAny same-sex sexual partnerMen WomenNo(n=6252)Yes(n=406)No(n=9235)Yes(n=835)Age, years, mean (S.D.) 34.0 (7.5) 34.2 (7.4) 33.7 (7.5) 32.2 (7.7)Educationa, % (n)Low 5.2 (324) 5.7 (23) 3.9 (359) 3.8 (32)Medium 50.9 (3185) 49.3 (200) 44.7 (4130) 47.2 (394)High 41.4 (2589) 42.6 (173) 48.9 (4515) 45.2 (377)Missing 2.5 (154) 2.5 (10) 2.5 (231) 3.8 (32)Currently in relationshipb, % (n)Yes 71.0 (4436) 60.2 (245) 76.1 (7026) 70.2 (586)No 28.0 (1.751) 38.2 (155) 22.7 (2094) 27.9 (233)Missing 1.0 (65) 1.7 (7) 1.3 (115) 1.9 (16)Discriminationc, % (n)Yes 2.8 (173) 15.3 (62) 6.2 (576) 16.4 (137)No 87.7 (5481) 75.4 (306) 86.6 (7993) 76.8 (641)Missing 9.6 (598) 9.4 (38) 7.2 (666) 6.8 (57)Hate crime victimizationc, % (n)Yes 1.3 (79) 6.6 (27) 0.6 (53) 3.2 (27)No 89.3 (5585) 83.7 (340) 92.6 (8548) 90.3 (754)Missing 9.4 (588) 9.6 (39) 6.9 (643) 6.5 (54)S.D., Standard deviation.a Highest educational level obtained or currently completing. ‘Low’ denotes elementary school, ‘medium’ denotes highschool, and ‘high ’ denotes university degree.b ‘Yes ’ includes being married, cohabiting or being in a committed relationship without cohabiting. ‘No ’ includes beingsingle, divorced, separated or widowed.c Due to respondent’s race, ethnicity, gender, sexual orientation or religion.Psychiatric morbidity associated with same-sex sexual behaviour 319symptoms, the increased rate remained signiﬁcant atthe a=0.05 level. Even without adjusting for any co-variates, increased risks were substantially reducedor eliminated when we controlled for familial (geneticand/or shared environmental) factors in within-twin-pair comparisons. Adjusting for age, education,relationship status, discrimination and hate crimevictimization further reduced the risk for psychiatricsymptomatology; even leading to less depression(men only) and ADHD symptoms among twins (bothmen and women) with any same-sex sexual experi-ence compared with their heterosexual co-twins.DiscussionWe used a contemporary Swedish sample of 20- to47-year-old twins to conduct the largest population-based study of its kind. First, we replicated ﬁndingsof increased risk of depression (current and lifetime)and GAD among both men and women with same-sex sexual partners compared with those with onlyopposite-sex partners (Cochran &Mays, 2000b ; Gilmanet al. 2001 ; Sandfort et al. 2001). Second, a novel ﬁndingwas the increased risk for ADHD symptoms amongindividuals with same-sex sexual partners. ADHD is aneuropsychiatric disorder for which little is knownabout prevalence and correlates in the adult generalpopulation and that is previously unstudied in thecontext of sexual minority mental health. Some ADHDsymptoms deﬁned in DSM-IV-TR are not necessarilyspeciﬁc to ADHD; for example, forgetfulness andrestlessness might also indicate anxiety. Hence,these ﬁndings should ideally be reproduced withclinically diagnosed ADHD; not available with thepresent study design. Third, we found evidence forgender-speciﬁc patterns ; increased alcohol depen-dence among women and eating disorders amongmen with same-sex sexual partners, consistent withprior work showing a ‘reversed’ gender diﬀerencein the risk increase for these two mental disorders.Nevertheless, there was an overall, albeit smaller, in-crease in these disorders for both men and womenwho had same-sex sexual partners. Although it hasbeen hypothesized that the higher risk for these dis-orders might be due to gender-atypical attitudes andbehaviours among individuals with same-sex partners(e.g. eating disorders caused by increased body dis-satisfaction among non-heterosexual men: Conneret al. 2004 ; Hospers & Jansen, 2005), our results sug-gest that gender-atypicality cannot explain the entirerisk increase. These results stress the importance ofanalysing psychiatric morbidity in non-heterosexuallyactive men and women separately and in adequatelypowered studies so that gender-speciﬁc eﬀects are notoverlooked.Fourth, as predicted by the minority stress hypoth-esis, the risk for psychiatric morbidity was loweredwhen we controlled for perceived discrimination andhate crime victimization. However, the causal direc-tion of this association is not clear (mental disordermay increase the actual risk of suﬀering discrimi-nation and victimization but also the likelihood of re-calling and reporting of such). Fifth, these componentsof minority stress were not suﬃcient to explain allthe excess risk for mental ill-health in individuals withsame-sex sexual partners. We hypothesized that fam-ilial factors might confound the association betweensame-sex sexual behaviour and psychiatric disorderand tested this with a co-twin control procedure.Indeed, genetic and/or environmental familial factorsexplained most or all of the increased current de-pression and ADHD symptoms among individualswith any same-sex sexual partner, independent of theadjustment for perceived discrimination or hate crimeTable 3. Impact of minority stress. Logistic regression modelling of risk of psychiatric disorder among 20- to 47-year-old Swedish twinswith any same-sex sexual partner compared with those withoutDisorderMen (n=5763) Women (n=8886)Model 1a Model 2b Model 1a Model 2bDepression (lifetime) 1.8 (1.3–2.6) 1.5 (1.1–2.1) 2.0 (1.7–2.3) 1.8 (1.5–2.2)GAD (lifetime) 3.3 (2.1–5.2) 2.5 (1.5–4.1) 1.9 (1.4–2.6) 1.6 (1.2–2.2)Eating disorder (lifetime) 3.4 (1.2–9.8) 2.9 (0.9–8.7) 1.8 (1.4–2.4) 1.8 (1.4–2.3)Alcohol dependence (lifetime) 1.6 (1.2–2.2) 1.3 (0.9–1.8) 3.0 (2.3–3.9) 2.7 (2.1–3.5)ADHD (current) 1.4 (1.1–1.9) 1.2 (0.9–1.7) 1.5 (1.2–1.8) 1.4 (1.2–1.8)GAD, Generalized anxiety disorder ; ADHD, attention deﬁcit hyperactivity disorder.Values are given as odds ratios (95% conﬁdence interval).The ascertainment of all disorders was based on DSM-IV-TR symptom criteria.a Adjusted for age, education and relationship status.b Adjusted for age, education, relationship status, discrimination and hate crime victimization.320 T. Frisell et al.Table 4. Impact of familial confounding. Diﬀerences in psychiatric symptoms between 20- to 47-year-old Swedish twins with any same-sex sexual partner and those withoutPsychiatricdisorderMen WomenBetween-family comparison Between-family comparisonAny same-sex partnerMeandiﬀerencea(S.E.)Adjustedmeandiﬀerenceb(S.E.)Within-twin-paircomparison(n=83 pairs) Any same-sex partnerMeandiﬀerencea(S.E.)Adjustedmeandiﬀerenceb(S.E.)Within-twin-paircomparison(n=245 pairs)No(n=5414)Mean(S.D.)Yes(n=349)Mean(S.D.)Meandiﬀerencec(S.E.)Adjustedmeandiﬀerenced(S.E.)No(n=8157)Mean(S.D.)Yes(n=729)Mean(S.D.)Meandiﬀerencec(S.E.)Adjustedmeandiﬀerenced(S.E.)Current depression 5.25 6.81 1.56** 0.91** 0.06 x0.60 6.26 7.95 1.68** 1.14** 0.98* 0.75(CES-D score) (4.70) (5.74) (0.26) (0.25) (0.71) (0.65) (5.57) (6.31) (0.22) (0.21) (0.48) (0.48)Current ADHD 4.61 5.48 0.86* 0.56* x0.34 x0.52 4.51 5.82 1.32** 0.98** x0.07 x0.18(DSM-IV-TRsymptom count)(4.57) (5.15) (0.25) (0.25) (0.50) (0.51) (4.60) (5.14) (0.18) (0.18) (0.33) (0.33)CES-D, Center for Epidemiological Studies Depression Scale ; ADHD, attention deﬁcit hyperactivity disorder ; S.D., standard deviation ; S.E., standard error.aMean diﬀerence between those with any same-sex sexual partner compared with those without.bMean diﬀerence between those with any same-sex sexual partner compared with those without, adjusted for age, education, relationship status, discrimination and hate crimevictimization.cMean diﬀerence between twins reporting any same-sex sexual partner and their co-twin who did not.dMean diﬀerence between twins reporting any same-sex sexual partner and their co-twin who did not, adjusted for age, education, relationship status, discrimination and hate crimevictimization.* p<0.05 (Satterthwaite, assuming unequal variances), ** p<0.001 (Satterthwaite, assuming unequal variances).Psychiatricmorbidityassociatedwithsame-sexsexualbehaviour321victimization. However, poor statistical power meantthat controlling of familial confounding was onlypossible for disorders for which we had continuousmeasures. Therefore, we constructed severity andsymptom count indices for GAD and alcohol depen-dence respectively (see Online Appendix). Althoughthe distributions were highly skewed, the results fromthese analyses were compatible with familial con-founding (possibly with the exception of GAD inmen). In conclusion, the observation of familial con-founding across several types of psychiatric ill-healthsuggests that shared genetic and/or environmentalfactors are important in the aetiology of commonpsychiatric disorders among individuals with same-sex sexual partner experience.Although these results might seem surprising,the few earlier studies that included siblings or twinsof non-heterosexual individuals partly support thisﬁnding. Balsam et al. (2005b) found no increased dis-tress or psychiatric hospitalization in a conveniencesample of self-identiﬁed non-heterosexual US menand women when compared with their heterosexualsiblings. This is noteworthy because the authorsalso reported that being the victim of abuse as childor adult was more common among non-heterosexualsubjects, also compared with heterosexual siblings(Balsam et al. 2005a), thereby casting some doubt onthe generalized causal association assumed by theminority stress model. However, Balsam et al.’s resultsmight be biased towards the null ; heterosexual sib-lings were recruited through the non-heterosexualindex individual, which could indicate that these in-dividuals were more open about their sexuality andhad stronger familial support, that is suﬀered fromless minority stress, than the average non-heterosexualindividual. A counter-argument to the latter isthat Balsam et al. did ﬁnd increased suicidal ideation,self-injurious behaviour, and use of psychotherapyand psychiatric medications, none of which weremeasured in the present study. Increased suicidalityamong non-heterosexual compared with heterosexualmen was also found in the only prior study ofsexual minority health that used co-twin controls(Herrell et al. 1999), but the heterosexual twins of non-heterosexual individuals were also more suicidal thanwere twins from pairs concordant for heterosexuality(Bailey, 1999).Methodological considerationsDespite the strengths of this study, some limitationsshould be noted. Although this was a large popu-lation-based investigation, the sample size did notpermit analysis of the relative importance of heri-tability and shared environment for the identiﬁedfamilial confounding. Future research should attemptto do this by performing co-twin control analysesseparately for MZ and DZ twins. The statistical powerin this study was decreased by the relatively high levelof non-responding, which is especially problematicin twin control analyses, where both twins have toanswer to provide informative pairs. Although 40.1%of the source population were included in our overallanalysis, only approximately 25% of all twin pairswere fully informative in co-twin control analyses.Non-responders either did not answer the STAGE atall, or participated in the telephone interview but didnot return the accompanying paper questionnairewith items central to this study. The internal responserate was high, however. Among the individuals re-sponding to items concerning age, sex, education, re-lationship status, perceived discrimination, hate crimevictimization and current ADHD, 93% of all men and96% of all women also answered items regardingsexual partners. This indicates that non-respondingwas not speciﬁc to sexual health questions but in-stead was due to a general unwillingness to partici-pate in this rather lengthy survey. We are probablyunderestimating the true prevalence of some mentaldisorders in the general population; however, ourﬁndings concerning sexual minority health shouldbe generalizable unless non-heterosexual individualswith mental disorder were more prone to answerthis questionnaire than heterosexual individuals withmental disorder. Considering that the levels of in-creased depression and anxiety disorder found hereare well in line with ﬁndings in a systematic review ofliterature (King et al. 2008), we ﬁnd this unlikely.We also recognize limitations with our measures.The continuous measures of depression and ADHDsymptoms reﬂected current and not lifetime psychi-atric morbidity. Therefore, we cannot know whetherputative familial factors contributing to the co-variation between same-sex behaviour and psychiatricmorbidity do so similarly throughout development(for example, minority stress may play a strongerrole during adolescence). As stated previously, thesummation of DSM-IV-TR ADHD symptoms mightmeasure something subtly diﬀerent from clinicallydiagnosed ADHD. Inability to relax and be attentivemight also be symptoms of generalized anxiety ratherthan ADHD. The measures of minority stress wererestricted ; in only asking about particularly stressfulevents (being discriminated against or victimizedfrom hate crime), we lack a measure of chronic stresssuch as internalized homophobia or a feeling ofsocial exclusion. This could possibly lead to under-estimation of potential long-term eﬀects of minoritystress without speciﬁc events of discrimination or hatecrime.322 T. Frisell et al.The present study also focused on self-reported ex-perience with same-sex sexual partners rather thansexual orientation per se. Because of the survey design,we were unable to assess directly sexual attraction,sexual fantasies and sexual self-identiﬁcation. It islikely that those reporting same-sex sexual partnersconstitute a heterogeneous group, including bothpeople choosing same-sex partners more exclusively(with or without deﬁning themselves as homosexual),and those having had same-sex partners more spor-adically, perhaps as an expression of a bisexual sexualidentity or sexual experimentation in a heterosexuallyidentiﬁed individual. In an attempt to consider partof this variability, we performed additional analysesadjusting for total number of sexual partners (same-and opposite-sex) (see Online Appendix). However,although this slightly reduced the increased risks, theoverall pattern remained largely the same. In addition,when cross-validated in a contemporary referredsample (n=555) of adult men (20–47 years old) inToronto, Canada, having had any same-sex sexualpartner correlated strongly (r=0.70) with self-reportedsame-sex sexual attraction, suggesting substantialexternal validity at least for men (Dr Ray Blanchard,personal communication, 16 August 2007). Thesecomplementary analyses suggest that same-sex be-haviour is a reasonable proxy for homosexual sexualattraction on the group level ; if the increased riskof mental disorder is related to self-deﬁned sexualorientation or sexual fantasies rather than sexual be-haviour, the heterogeneity in our measure would re-duce the precision, but not the validity, of our results.Finally, we lacked information on participants’ HIVstatus, which may aﬀect psychiatric morbidity in ourpopulation of interest. However, as the prevalenceof HIV/AIDS is relatively low in Sweden (Heinrup,2005), also among men who have sex with men, this isunlikely to have had any substantial impact on ourresults.We conclude that, even though adjusting for dis-crimination and hate crime victimization reducessome of the increased risk for depression, GAD, eatingdisorder, alcohol dependence and ADHD amongpeople reporting same-sex sexual partners, our ﬁnd-ings of considerable familial confounding suggest thatthe minority stress hypothesis may have been over-stated. Identifying the familial factors, be they geneticor environmental, that increase the risk for psychiatricmorbidity among non-heterosexually active indi-viduals should be a research priority.AcknowledgementsWe thank Dr Ray Blanchard of the Centre forAddiction and Mental Health in Toronto, Canada forgenerously providing validation data for our sexualorientation measure. The Swedish Twin Registry issupported by unrestricted grants from the SwedishDepartment of Higher Education and the SwedishResearch Council. Niklas La˚ngstro¨m is supported bythe Swedish Research Council – Medicine. The fund-ing bodies were not involved in the design and con-duct of the study, collection, management, analysis,and interpretation of the data, or preparation, reviewor approval of the manuscript.Declaration of InterestNone.NoteSupplementary material accompanies this paper onthe Journal’s website (http://journals.cambridge.org/psm).ReferencesAPA (2000). Diagnostic and Statistical Manual of MentalDisorders, 4th edn, text revision (DSM-IV-TR). AmericanPsychiatric Association : Washington, DC.Bailey JM (1999). Homosexuality and mental illness. Archivesof General Psychiatry 56, 883–884.Balsam KF, Beauchaine TP, Mickey RM, Rothblum ED(2005b). Mental health of lesbian, gay, bisexual, andheterosexual siblings : eﬀects of gender, sexual orientation,and family. Journal of Abnormal Psychology 114, 471–476.Balsam KF, Rothblum ED, Beauchaine TP (2005a).Victimization over the life span : a comparison of lesbian,gay, bisexual, and heterosexual siblings. Journal ofConsulting and Clinical Psychology 73, 477–487.Carlin JB, Gurrin LC, Sterne JA, Morley R, Dwyer T (2005).Regression models for twin studies : a critical review.International Journal of Epidemiology 34, 1089–1099.Carpenter JS, Andrykowski MA, Wilson J, Hall LA,Rayens MK, Sachs B, Cunningham LL (1998).Psychometrics for two short forms of the Center forEpidemiologic Studies-Depression Scale. Issues in MentalHealth Nursing 19, 481–494.Cochran SD, Mays VM (2000a). Lifetime prevalence ofsuicide symptoms and aﬀective disorders among menreporting same-sex sexual partners : results from NHANESIII. American Journal of Public Health 90, 573–578.Cochran SD, Mays VM (2000b). Relation betweenpsychiatric syndromes and behaviorally deﬁned sexualorientation in a sample of the US population. AmericanJournal of Epidemiology 151, 516–523.Cochran SD, Mays VM, Alegria M, Ortega AN, Takeuchi D(2007). Mental health and substance use disorders amongLatino and Asian American lesbian, gay, and bisexualadults. Journal of Consulting and Clinical Psychology 75,785–794.Psychiatric morbidity associated with same-sex sexual behaviour 323Cochran SD, Mays VM, Sullivan JG (2003). Prevalence ofmental disorders, psychological distress, andmental healthservices use among lesbian, gay, and bisexual adults in theUnited States. Journal of Consulting and Clinical Psychology71, 53–61.Conner M, Johnson C, Grogan S (2004). Gender, sexuality,body image and eating behaviours. Journal of HealthPsychology 9, 505–515.de Graaf R, Sandfort TG, ten Have M (2006). Suicidality andsexual orientation : diﬀerences between men and women ina general population-based sample from the Netherlands.Archives of Sexual Behavior 35, 253–262.Fergusson DM, Horwood LJ, Beautrais AL (1999). Is sexualorientation related to mental health problems andsuicidality in young people? Archives of General Psychiatry56, 876–880.Fergusson DM, Horwood LJ, Ridder EM, Beautrais AL(2005). Sexual orientation and mental health in a birthcohort of young adults. Psychological Medicine 35, 971–981.First MB, Spitzer RL, Gibbon M, Williams JB (2002).Structured Clinical Interview for DSM-IV-TR Axis I Disorders,Research Version, Non-Patient Edition (SCID-I/NP).Biometrics Research Department, New York StatePsychiatric Institute : New York.Friedman RC, Downey JI (1998). Psychoanalysis and themodel of homosexuality as psychopathology : a historicaloverview. American Journal of Psychoanalysis 58, 249–270.Furberg H, Lichtenstein P, Pedersen NL, Thornton L,Bulik CM, Lerman C, Sullivan PF (2008). The STAGEcohort : a prospective study of tobacco use among Swedishtwins. Nicotine and Tobacco Research 12, 1727–1735.Gilman SE, Cochran SD, Mays VM, Hughes M, Ostrow D,Kessler RC (2001). Risk of psychiatric disorders amongindividuals reporting same-sex sexual partners in theNational Comorbidity Survey. American Journal of PublicHealth 91, 933–939.Heinrup M (2005). The HIV Epidemic in Sweden [in Swedish].Smittskyddsinstitutet : Stockholm, Sweden.Herek GM, Garnets LD (2007). Sexual orientation andmental health. Annual Review of Clinical Psychology 3,353–375.Herrell R, Goldberg J, True WR, Ramakrishnan V,Lyons M, Eisen S, Tsuang MT (1999). Sexual orientationand suicidality : a co-twin control study in adult men.Archives of General Psychiatry 56, 867–874.Hospers HJ, Jansen A (2005). Why homosexuality is a riskfactor for eating disorders in males. Journal of Social andClinical Psychology 24, 1188–1201.Kessler RC, Berglund P, Demler O, Jin R, Merikangas KR,Walters EE (2005). Lifetime prevalence and age-of-onsetdistributions of DSM-IV disorders in the NationalComorbidity Survey Replication. Archives of GeneralPsychiatry 62, 593–602.King M, McKeown E, Warner J, Ramsay A, Johnson K,Cort C, Wright L, Blizard R, Davidson O (2003). Mentalhealth and quality of life of gay men and lesbians inEngland and Wales : controlled, cross-sectional study.British Journal of Psychiatry 183, 552–558.King M, Semlyen J, See Tai S, Killaspy H, Osborn D,Popelyuk D, Nazareth I (2008). A systematic review ofmental disorder, suicide, and deliberate self harm inlesbian, gay and bisexual people. BMC Psychiatry 2008,8, 70.La˚ngstro¨m N, Rahman Q, Carlstro¨m E, Lichtenstein P(2008). Genetic and environmental eﬀects on same-sexsexual behavior : a population study of twins in Sweden.Archives of Sexual Behavior. Published online : 7 June 2008.doi :10.1007/s10508-008-9386-1.Lichtenstein P, De Faire U, Floderus B, Svartengren M,Svedberg P, Pedersen NL (2002). The Swedish TwinRegistry : a unique resource for clinical, epidemiologicaland genetic studies. Journal of Internal Medicine 252,184–205.Lichtenstein P, Sullivan PF, Cnattingius S, Gatz M,Johansson S, Carlstro¨m E, Bjo¨rk C, Svartengren M,Wolk A, Klareskog L, de Faire U, Schalling M, PalmgrenJ, Pedersen NL (2006). The Swedish Twin Registry in thethird millennium: an update. Twin Research and HumanGenetics 9, 875–882.Mays VM, Cochran SD (2001). Mental health correlates ofperceived discrimination among lesbian, gay, and bisexualadults in the United States. American Journal of Public Health91, 1869–1876.Meyer IH (2003). Prejudice, social stress, and mental healthin lesbian, gay, and bisexual populations : conceptualissues and research evidence. Psychological Bulletin 129,674–697.Mills TC, Paul J, Stall R, Pollack L, Canchola J, Chang YJ,Moskowitz JT, Catania JA (2004). Distress and depressionin men who have sex with men: the Urban Men’s HealthStudy. American Journal of Psychiatry 161, 278–285.Murphy P, Schachar R (2000). Use of self-ratings in theassessment of symptoms of attention deﬁcit hyperactivitydisorder in adults. American Journal of Psychiatry 157,1156–1159.Sandfort TG, de Graaf R, Bijl RV, Schnabel P (2001).Same-sex sexual behavior and psychiatric disorders :ﬁndings from the Netherlands Mental Health Survey andIncidence Study (NEMESIS). Archives of General Psychiatry58, 85–91.Sandfort TG, de Graaf R, Bijl RV (2003). Same-sex sexualityand quality of life : ﬁndings from the Netherlands MentalHealth Survey and Incidence Study. Archives of SexualBehavior 32, 15–22.Silenzio VM, Pena JB, Duberstein PR, Cerel J, Knox KL(2007). Sexual orientation and risk factors for suicidalideation and suicide attempts among adolescents andyoung adults. American Journal of Public Health 97,2017–2019.Wamala S, Bostro¨m G, Nyqvist K (2007). Perceiveddiscrimination and psychological distress in Sweden.British Journal of Psychiatry 190, 75–76.Wichstrøm L, Hegna K (2003). Sexual orientation and suicideattempt : a longitudinal study of the general Norwegianadolescent population. Journal of Abnormal Psychology 112,144–151.324 T. Frisell et al.",
+    "id": 30695367,
+    "identifiers": {
+        "doi": "10.1017/S0033291709005996",
+        "oai": "oai:qmro.qmul.ac.uk:123456789/1091"
+    },
+    "title": "Psychiatric morbidity associated with same-sex sexual behaviour: influence of minority stress and familial factors",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2010-01-01T00:00:00+00:00",
+    "publisher": null,
+    "references": [
+        {
+            "id": 43532510,
+            "title": "A",
+            "authors": [],
+            "date": "2005",
+            "doi": null,
+            "raw": "Hospers HJ, Jansen A (2005). Why homosexuality is a risk factor for eating disorders in males. Journal of Social and Clinical Psychology 24, 1188–1201.",
+            "cites": null
+        },
+        {
+            "id": 43532516,
+            "title": "A systematic review of mental disorder, suicide, and deliberate self harm in lesbian, gay and bisexual people.",
+            "authors": [],
+            "date": "2008",
+            "doi": "10.1186/1471-244x-8-70",
+            "raw": "King M, Semlyen J, See Tai S, Killaspy H, Osborn D, Popelyuk D, Nazareth I (2008). A systematic review of mental disorder, suicide, and deliberate self harm in lesbian, gay and bisexual people. BMC Psychiatry 2008, 8, 70.",
+            "cites": null
+        },
+        {
+            "id": 43532451,
+            "title": "Beauchaine TP (2005a). Victimization over the life span : a comparison of lesbian, gay, bisexual, and heterosexual siblings.",
+            "authors": [],
+            "date": null,
+            "doi": "10.1037/0022-006x.73.3.477",
+            "raw": "Balsam KF, Rothblum ED, Beauchaine TP (2005a). Victimization over the life span : a comparison of lesbian, gay, bisexual, and heterosexual siblings. Journal of Consulting and Clinical Psychology 73, 477–487.",
+            "cites": null
+        },
+        {
+            "id": 43532448,
+            "title": "Diagnostic and Statistical Manual of Mental Disorders, 4th edn, text revision (DSM-IV-TR). American Psychiatric Association :",
+            "authors": [],
+            "date": null,
+            "doi": "10.1176/appi.books.9780890423349",
+            "raw": "APA (2000). Diagnostic and Statistical Manual of Mental Disorders, 4th edn, text revision (DSM-IV-TR). American Psychiatric Association : Washington, DC.",
+            "cites": null
+        },
+        {
+            "id": 43532540,
+            "title": "Distress and depression in men who have sex with men: the Urban Men’s Health Study.",
+            "authors": [],
+            "date": "2004",
+            "doi": "10.1176/appi.ajp.161.2.278",
+            "raw": "Mills TC, Paul J, Stall R, Pollack L, Canchola J, Chang YJ, Moskowitz JT, Catania JA (2004). Distress and depression in men who have sex with men: the Urban Men’s Health Study. American Journal of Psychiatry 161, 278–285.",
+            "cites": null
+        },
+        {
+            "id": 43532471,
+            "title": "Gender, sexuality, body image and eating behaviours.",
+            "authors": [],
+            "date": "2004",
+            "doi": "10.1177/1359105304044034",
+            "raw": "Conner M, Johnson C, Grogan S (2004). Gender, sexuality, body image and eating behaviours. Journal of Health Psychology 9, 505–515.",
+            "cites": null
+        },
+        {
+            "id": 43532529,
+            "title": "Genetic and environmental effects on same-sex sexual behavior : a population study of twins in Sweden.",
+            "authors": [],
+            "date": "2008",
+            "doi": "10.1007/s10508-008-9386-1",
+            "raw": "La˚ngstro¨m N, Rahman Q, Carlstro¨m E, Lichtenstein P (2008). Genetic and environmental effects on same-sex sexual behavior : a population study of twins in Sweden.",
+            "cites": null
+        },
+        {
+            "id": 43532449,
+            "title": "Homosexuality and mental illness.",
+            "authors": [],
+            "date": "1999",
+            "doi": "10.1001/archpsyc.56.10.883",
+            "raw": "Bailey JM (1999). Homosexuality and mental illness. Archives of General Psychiatry 56, 883–884.",
+            "cites": null
+        },
+        {
+            "id": 43532476,
+            "title": "Is sexual orientation related to mental health problems and suicidality in young people?",
+            "authors": [],
+            "date": "1999",
+            "doi": "10.1001/archpsyc.56.10.876",
+            "raw": "Fergusson DM, Horwood LJ, Beautrais AL (1999). Is sexual orientation related to mental health problems and suicidality in young people? Archives of General Psychiatry 56, 876–880.",
+            "cites": null
+        },
+        {
+            "id": 43532511,
+            "title": "Lifetime prevalence and age-of-onset distributions of DSM-IV disorders in the National Comorbidity Survey Replication.",
+            "authors": [],
+            "date": "2005",
+            "doi": "10.1001/archpsyc.62.6.593",
+            "raw": "Kessler RC, Berglund P, Demler O, Jin R, Merikangas KR, Walters EE (2005). Lifetime prevalence and age-of-onset distributions of DSM-IV disorders in the National Comorbidity Survey Replication. Archives of General Psychiatry 62, 593–602.",
+            "cites": null
+        },
+        {
+            "id": 43532454,
+            "title": "Mays VM (2000a). Lifetime prevalence of suicide symptoms and affective disorders among men reporting same-sex sexual partners : results from NHANES III.",
+            "authors": [],
+            "date": null,
+            "doi": "10.2105/ajph.90.4.573",
+            "raw": "Cochran SD, Mays VM (2000a). Lifetime prevalence of suicide symptoms and affective disorders among men reporting same-sex sexual partners : results from NHANES III. American Journal of Public Health 90, 573–578.",
+            "cites": null
+        },
+        {
+            "id": 43532455,
+            "title": "Mays VM (2000b). Relation between psychiatric syndromes and behaviorally defined sexual orientation in a sample of the US population.",
+            "authors": [],
+            "date": null,
+            "doi": "10.1093/oxfordjournals.aje.a010238",
+            "raw": "Cochran SD, Mays VM (2000b). Relation between psychiatric syndromes and behaviorally defined sexual orientation in a sample of the US population. American Journal of Epidemiology 151, 516–523.",
+            "cites": null
+        },
+        {
+            "id": 43532513,
+            "title": "Mental health and quality of life of gay men and lesbians in England and Wales : controlled, cross-sectional study.",
+            "authors": [],
+            "date": "2003",
+            "doi": "10.1192/bjp.183.6.552",
+            "raw": "King M, McKeown E, Warner J, Ramsay A, Johnson K, Cort C, Wright L, Blizard R, Davidson O (2003). Mental health and quality of life of gay men and lesbians in England and Wales : controlled, cross-sectional study. British Journal of Psychiatry 183, 552–558.",
+            "cites": null
+        },
+        {
+            "id": 43532467,
+            "title": "Mental health and substance use disorders among Latino and Asian American lesbian, gay, and bisexual adults.",
+            "authors": [],
+            "date": "2007",
+            "doi": "10.1037/0022-006x.75.5.785",
+            "raw": "Cochran SD, Mays VM, Alegria M, Ortega AN, Takeuchi D (2007). Mental health and substance use disorders among Latino and Asian American lesbian, gay, and bisexual adults. Journal of Consulting and Clinical Psychology 75, 785–794.",
+            "cites": null
+        },
+        {
+            "id": 43532535,
+            "title": "Mental health correlates of perceived discrimination among lesbian, gay, and bisexual adults in the United States.",
+            "authors": [],
+            "date": "2001",
+            "doi": "10.2105/ajph.91.11.1869",
+            "raw": "Mays VM, Cochran SD (2001). Mental health correlates of perceived discrimination among lesbian, gay, and bisexual adults in the United States. American Journal of Public Health 91, 1869–1876.",
+            "cites": null
+        },
+        {
+            "id": 43532550,
+            "title": "Perceived discrimination and psychological distress in Sweden.",
+            "authors": [],
+            "date": "2007",
+            "doi": "10.1192/bjp.bp.105.021188",
+            "raw": "Wamala S, Bostro¨m G, Nyqvist K (2007). Perceived discrimination and psychological distress in Sweden. British Journal of Psychiatry 190, 75–76.",
+            "cites": null
+        },
+        {
+            "id": 43532537,
+            "title": "Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations : conceptual issues and research evidence.",
+            "authors": [],
+            "date": "2003",
+            "doi": "10.1037/0033-2909.129.5.674",
+            "raw": "Meyer IH (2003). Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations : conceptual issues and research evidence. Psychological Bulletin 129, 674–697.",
+            "cites": null
+        },
+        {
+            "id": 43532469,
+            "title": "Psychiatric morbidity associated with same-sex sexual behaviour 323",
+            "authors": [],
+            "date": "2003",
+            "doi": null,
+            "raw": "Psychiatric morbidity associated with same-sex sexual behaviour 323 Cochran SD, Mays VM, Sullivan JG (2003). Prevalence of mental disorders, psychological distress, andmental health services use among lesbian, gay, and bisexual adults in the United States. Journal of Consulting and Clinical Psychology 71, 53–61.",
+            "cites": null
+        },
+        {
+            "id": 43532483,
+            "title": "Psychoanalysis and the model of homosexuality as psychopathology : a historical overview.",
+            "authors": [],
+            "date": "1998",
+            "doi": null,
+            "raw": "Friedman RC, Downey JI (1998). Psychoanalysis and the model of homosexuality as psychopathology : a historical overview. American Journal of Psychoanalysis 58, 249–270.",
+            "cites": null
+        },
+        {
+            "id": 43532453,
+            "title": "Psychometrics for two short forms of the Center for Epidemiologic Studies-Depression Scale.",
+            "authors": [],
+            "date": "1998",
+            "doi": "10.1080/016128498248917",
+            "raw": "Carpenter JS, Andrykowski MA, Wilson J, Hall LA, Rayens MK, Sachs B, Cunningham LL (1998). Psychometrics for two short forms of the Center for Epidemiologic Studies-Depression Scale. Issues in Mental Health Nursing 19, 481–494.",
+            "cites": null
+        },
+        {
+            "id": 43532452,
+            "title": "Regression models for twin studies : a critical review.",
+            "authors": [],
+            "date": "2005",
+            "doi": null,
+            "raw": "Carlin JB, Gurrin LC, Sterne JA, Morley R, Dwyer T (2005). Regression models for twin studies : a critical review.",
+            "cites": null
+        },
+        {
+            "id": 43532486,
+            "title": "Risk of psychiatric disorders among individuals reporting same-sex sexual partners in the National Comorbidity Survey.",
+            "authors": [],
+            "date": "2001",
+            "doi": null,
+            "raw": "Gilman SE, Cochran SD, Mays VM, Hughes M, Ostrow D, Kessler RC (2001). Risk of psychiatric disorders among individuals reporting same-sex sexual partners in the National Comorbidity Survey. American Journal of Public Health 91, 933–939.",
+            "cites": null
+        },
+        {
+            "id": 43532450,
+            "title": "Rothblum ED (2005b). Mental health of lesbian, gay, bisexual, and heterosexual siblings : effects of gender, sexual orientation, and family.",
+            "authors": [],
+            "date": null,
+            "doi": "10.1037/0021-843x.114.3.471",
+            "raw": "Balsam KF, Beauchaine TP, Mickey RM, Rothblum ED (2005b). Mental health of lesbian, gay, bisexual, and heterosexual siblings : effects of gender, sexual orientation, and family. Journal of Abnormal Psychology 114, 471–476.",
+            "cites": null
+        },
+        {
+            "id": 43532544,
+            "title": "Same-sex sexual behavior and psychiatric disorders : findings from the Netherlands Mental Health Survey and Incidence Study (NEMESIS).",
+            "authors": [],
+            "date": "2001",
+            "doi": "10.1001/archpsyc.58.1.85",
+            "raw": "Sandfort TG, de Graaf R, Bijl RV, Schnabel P (2001). Same-sex sexual behavior and psychiatric disorders : findings from the Netherlands Mental Health Survey and Incidence Study (NEMESIS). Archives of General Psychiatry 58, 85–91.",
+            "cites": null
+        },
+        {
+            "id": 43532546,
+            "title": "Same-sex sexuality and quality of life : findings from the Netherlands Mental Health Survey and Incidence Study.",
+            "authors": [],
+            "date": "2003",
+            "doi": "10.1001/archpsyc.58.1.85",
+            "raw": "Sandfort TG, de Graaf R, Bijl RV (2003). Same-sex sexuality and quality of life : findings from the Netherlands Mental Health Survey and Incidence Study. Archives of Sexual Behavior 32, 15–22.",
+            "cites": null
+        },
+        {
+            "id": 43532479,
+            "title": "Sexual orientation and mental health in a birth cohort of young adults.",
+            "authors": [],
+            "date": "2005",
+            "doi": "10.1017/s0033291704004222",
+            "raw": "Fergusson DM, Horwood LJ, Ridder EM, Beautrais AL (2005). Sexual orientation and mental health in a birth cohort of young adults. Psychological Medicine 35, 971–981.",
+            "cites": null
+        },
+        {
+            "id": 43532499,
+            "title": "Sexual orientation and mental health.",
+            "authors": [],
+            "date": "2007",
+            "doi": "10.1146/annurev.clinpsy.3.022806.091510",
+            "raw": "Herek GM, Garnets LD (2007). Sexual orientation and mental health. Annual Review of Clinical Psychology 3, 353–375.",
+            "cites": null
+        },
+        {
+            "id": 43532548,
+            "title": "Sexual orientation and risk factors for suicidal ideation and suicide attempts among adolescents and young adults.",
+            "authors": [],
+            "date": "2007",
+            "doi": "10.2105/ajph.2006.095943",
+            "raw": "Silenzio VM, Pena JB, Duberstein PR, Cerel J, Knox KL (2007). Sexual orientation and risk factors for suicidal ideation and suicide attempts among adolescents and young adults. American Journal of Public Health 97, 2017–2019.",
+            "cites": null
+        },
+        {
+            "id": 43532508,
+            "title": "Sexual orientation and suicidality : a co-twin control study in adult men.",
+            "authors": [],
+            "date": "1999",
+            "doi": "10.1001/archpsyc.56.10.867",
+            "raw": "Herrell R, Goldberg J, True WR, Ramakrishnan V, Lyons M, Eisen S, Tsuang MT (1999). Sexual orientation and suicidality : a co-twin control study in adult men. Archives of General Psychiatry 56, 867–874.",
+            "cites": null
+        },
+        {
+            "id": 43532552,
+            "title": "Sexual orientation and suicide attempt : a longitudinal study of the general Norwegian adolescent population.",
+            "authors": [],
+            "date": "2003",
+            "doi": "10.1037/0021-843x.112.1.144",
+            "raw": "Wichstrøm L, Hegna K (2003). Sexual orientation and suicide attempt : a longitudinal study of the general Norwegian adolescent population. Journal of Abnormal Psychology 112, 144–151. 324 T. Frisell et al.",
+            "cites": null
+        },
+        {
+            "id": 43532481,
+            "title": "Structured Clinical Interview for DSM-IV-TR Axis I Disorders, Research Version, Non-Patient Edition (SCID-I/NP). Biometrics Research Department,",
+            "authors": [],
+            "date": "2002",
+            "doi": null,
+            "raw": "First MB, Spitzer RL, Gibbon M, Williams JB (2002). Structured Clinical Interview for DSM-IV-TR Axis I Disorders, Research Version, Non-Patient Edition (SCID-I/NP). Biometrics Research Department, New York State Psychiatric Institute : New York.",
+            "cites": null
+        },
+        {
+            "id": 43532474,
+            "title": "Suicidality and sexual orientation : differences between men and women in a general population-based sample from the Netherlands.",
+            "authors": [],
+            "date": "2006",
+            "doi": "10.1007/s10508-006-9020-z",
+            "raw": "de Graaf R, Sandfort TG, ten Have M (2006). Suicidality and sexual orientation : differences between men and women in a general population-based sample from the Netherlands. Archives of Sexual Behavior 35, 253–262.",
+            "cites": null
+        },
+        {
+            "id": 43532485,
+            "title": "The STAGE cohort : a prospective study of tobacco use among Swedish twins.",
+            "authors": [],
+            "date": "2008",
+            "doi": "10.1080/14622200802443551",
+            "raw": "Furberg H, Lichtenstein P, Pedersen NL, Thornton L, Bulik CM, Lerman C, Sullivan PF (2008). The STAGE cohort : a prospective study of tobacco use among Swedish twins. Nicotine and Tobacco Research 12, 1727–1735.",
+            "cites": null
+        },
+        {
+            "id": 43532531,
+            "title": "The Swedish Twin Registry : a unique resource for clinical, epidemiological and genetic studies.",
+            "authors": [],
+            "date": "2002",
+            "doi": "10.1046/j.1365-2796.2002.01032.x",
+            "raw": "Lichtenstein P, De Faire U, Floderus B, Svartengren M, Svedberg P, Pedersen NL (2002). The Swedish Twin Registry : a unique resource for clinical, epidemiological and genetic studies. Journal of Internal Medicine 252, 184–205.",
+            "cites": null
+        },
+        {
+            "id": 43532533,
+            "title": "The Swedish Twin Registry in the third millennium: an update.",
+            "authors": [],
+            "date": "2006",
+            "doi": "10.1375/twin.9.6.875",
+            "raw": "Lichtenstein P, Sullivan PF, Cnattingius S, Gatz M, Johansson S, Carlstro¨m E, Bjo¨rk C, Svartengren M, Wolk A, Klareskog L, de Faire U, Schalling M, Palmgren J, Pedersen NL (2006). The Swedish Twin Registry in the third millennium: an update. Twin Research and Human Genetics 9, 875–882.",
+            "cites": null
+        },
+        {
+            "id": 43532542,
+            "title": "Use of self-ratings in the assessment of symptoms of attention deficit hyperactivity disorder in adults.",
+            "authors": [],
+            "date": "2000",
+            "doi": "10.1176/appi.ajp.157.7.1156",
+            "raw": "Murphy P, Schachar R (2000). Use of self-ratings in the assessment of symptoms of attention deficit hyperactivity disorder in adults. American Journal of Psychiatry 157, 1156–1159.",
+            "cites": null
+        }
+    ],
+    "sourceFulltextUrls": [],
+    "updatedDate": "",
+    "yearPublished": "2010",
+    "links": [
+        {
+            "type": "download",
+            "url": "https://core.ac.uk/download/30695367.pdf"
+        },
+        {
+            "type": "reader",
+            "url": "https://core.ac.uk/reader/30695367"
+        },
+        {
+            "type": "thumbnail_m",
+            "url": "https://core.ac.uk/image/30695367/medium"
+        },
+        {
+            "type": "thumbnail_l",
+            "url": "https://core.ac.uk/image/30695367/large"
+        },
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/30695367"
+        }
+    ],
+    "abstract": "",
+    "tags": [
+        "Environment",
+        "genetics",
+        "minority stress",
+        "psychiatric symptoms",
+        "sexual behaviour",
+        "NATIONAL COMORBIDITY SURVEY",
+        "SWEDISH TWIN REGISTRY",
+        "MENTAL-HEALTH SURVEY",
+        "QUALITY-OF-LIFE",
+        "BISEXUAL ADULTS",
+        "PERCEIVED DISCRIMINATION",
+        "PSYCHOLOGICAL DISTRESS",
+        "HETEROSEXUAL SIBLINGS",
+        "UNITED-STATES",
+        "YOUNG-ADULTS",
+        "Environment",
+        "genetics",
+        "minority stress",
+        "psychiatric symptoms",
+        "sexual behaviour",
+        "NATIONAL COMORBIDITY SURVEY",
+        "SWEDISH TWIN REGISTRY",
+        "MENTAL-HEALTH SURVEY",
+        "QUALITY-OF-LIFE",
+        "BISEXUAL ADULTS",
+        "PERCEIVED DISCRIMINATION",
+        "PSYCHOLOGICAL DISTRESS",
+        "HETEROSEXUAL SIBLINGS",
+        "UNITED-STATES",
+        "YOUNG-ADULTS"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "Environment",
+        "genetics",
+        "minority stress",
+        "psychiatric symptoms",
+        "sexual behaviour",
+        "NATIONAL COMORBIDITY SURVEY",
+        "SWEDISH TWIN REGISTRY",
+        "MENTAL-HEALTH SURVEY",
+        "QUALITY-OF-LIFE",
+        "BISEXUAL ADULTS",
+        "PERCEIVED DISCRIMINATION",
+        "PSYCHOLOGICAL DISTRESS",
+        "HETEROSEXUAL SIBLINGS",
+        "UNITED-STATES",
+        "YOUNG-ADULTS"
+    ],
+    "oai": "oai:qmro.qmul.ac.uk:123456789/1091",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": [
+        {
+            "title": "Psychological Medicine",
+            "identifiers": [
+                "issn:0033-2917",
+                "0033-2917"
+            ]
+        }
+    ],
+    "repositories": {
+        "id": "619",
+        "openDoarId": 0,
+        "name": "Queen Mary Research Online",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 30695367,
+        "depositedDate": null,
+        "publishedDate": "2010-01-01T00:00:00+00:00",
+        "updatedDate": "2024-02-19T12:24:19+00:00",
+        "acceptedDate": null,
+        "createdDate": "2016-04-05T12:05:50+01:00"
+    },
+    "urls": [
+        "http://qmro.qmul.ac.uk/xmlui/handle/123456789/1091"
+    ],
+    "lastUpdate": "2024-02-19T12:24:19+00:00",
+    "setSpecs": []
+}

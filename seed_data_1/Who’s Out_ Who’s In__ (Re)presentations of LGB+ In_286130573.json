@@ -1,0 +1,84 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Crawley, Adam"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2020-01-12T08:10:59+00:00",
+    "dataProvider": {
+        "id": 2295,
+        "name": "University of Nevada, Las Vegas Repository",
+        "url": "https://api.core.ac.uk/v3/data-providers/2295",
+        "logo": "https://api.core.ac.uk/data-providers/2295/logo"
+    },
+    "depositedDate": "",
+    "documentType": "research",
+    "doi": "",
+    "downloadUrl": "https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1010&amp;context=taboo",
+    "fullText": "",
+    "id": 286130573,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:digitalscholarship.unlv.edu:taboo-1010"
+    },
+    "title": "Who’s Out? Who’s In?: (Re)presentations of LGB+ Individuals in Picturebook Biographies",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2020-01-05T17:35:31+00:00",
+    "publisher": "Digital Scholarship@UNLV",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1010&amp;context=taboo"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2020",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/286130573"
+        }
+    ],
+    "abstract": "",
+    "tags": [
+        "text"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "text"
+    ],
+    "oai": "oai:digitalscholarship.unlv.edu:taboo-1010",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "2295",
+        "openDoarId": 0,
+        "name": "University of Nevada, Las Vegas Repository",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 286130573,
+        "depositedDate": null,
+        "publishedDate": "2020-01-05T17:35:31+00:00",
+        "updatedDate": "2024-01-21T01:57:33+00:00",
+        "acceptedDate": null,
+        "createdDate": "2020-01-12T08:10:59+00:00"
+    },
+    "urls": [
+        "https://digitalscholarship.unlv.edu/taboo/vol19/iss1/9",
+        "https://digitalscholarship.unlv.edu/context/taboo/article/1010/viewcontent/12crawley.pdf"
+    ],
+    "lastUpdate": "2024-01-21T01:57:33+00:00",
+    "setSpecs": []
+}

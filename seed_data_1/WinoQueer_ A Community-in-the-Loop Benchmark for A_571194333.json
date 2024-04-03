@@ -1,0 +1,94 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Felkner, Virginia K."
+        },
+        {
+            "name": "Chang, Ho-Chun Herbert"
+        },
+        {
+            "name": "Jang, Eugene"
+        },
+        {
+            "name": "May, Jonathan"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2023-07-02T00:04:22+01:00",
+    "dataProvider": {
+        "id": 144,
+        "name": "arXiv.org e-Print Archive",
+        "url": "https://api.core.ac.uk/v3/data-providers/144",
+        "logo": "https://api.core.ac.uk/data-providers/144/logo"
+    },
+    "depositedDate": "",
+    "documentType": "",
+    "doi": "",
+    "downloadUrl": "http://arxiv.org/abs/2306.15087",
+    "fullText": "",
+    "id": 571194333,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:arXiv.org:2306.15087"
+    },
+    "title": "WinoQueer: A Community-in-the-Loop Benchmark for Anti-LGBTQ+ Bias in\n  Large Language Models",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2023-06-26T01:00:00+01:00",
+    "publisher": null,
+    "references": [],
+    "sourceFulltextUrls": [
+        "http://arxiv.org/abs/2306.15087"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2023",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/571194333"
+        }
+    ],
+    "abstract": "We present WinoQueer: a benchmark specifically designed to measure whether\nlarge language models (LLMs) encode biases that are harmful to the LGBTQ+\ncommunity. The benchmark is community-sourced, via application of a novel\nmethod that generates a bias benchmark from a community survey. We apply our\nbenchmark to several popular LLMs and find that off-the-shelf models generally\ndo exhibit considerable anti-queer bias. Finally, we show that LLM bias against\na marginalized community can be somewhat mitigated by finetuning on data\nwritten about or by members of that community, and that social media text\nwritten by community members is more effective than news text written about the\ncommunity by non-members. Our method for community-in-the-loop benchmark\ndevelopment provides a blueprint for future researchers to develop\ncommunity-driven, harms-grounded LLM benchmarks for other marginalized\ncommunities.Comment: Accepted to ACL 2023 (main conference). Camera-ready versio",
+    "tags": [
+        "text",
+        "Computer Science - Computation and Language",
+        "Computer Science - Computers and Society"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "text"
+    ],
+    "oai": "oai:arXiv.org:2306.15087",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "144",
+        "openDoarId": 0,
+        "name": "arXiv.org e-Print Archive",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 571194333,
+        "depositedDate": null,
+        "publishedDate": "2023-06-26T01:00:00+01:00",
+        "updatedDate": "2023-07-02T00:04:22+01:00",
+        "acceptedDate": null,
+        "createdDate": "2023-07-02T00:04:22+01:00"
+    },
+    "urls": [
+        "http://arxiv.org/abs/2306.15087"
+    ],
+    "lastUpdate": "2023-07-02T00:04:22+01:00",
+    "setSpecs": []
+}

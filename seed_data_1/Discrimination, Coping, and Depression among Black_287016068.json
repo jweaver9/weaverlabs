@@ -1,0 +1,105 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Brown, Andre L"
+        },
+        {
+            "name": "Sang, Jordan"
+        },
+        {
+            "name": "Bukowski, Leigh"
+        },
+        {
+            "name": "Meanley, Steven"
+        },
+        {
+            "name": "Brooks, Byron D."
+        },
+        {
+            "name": "Chandler, Cristian"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2020-02-18T01:14:55+00:00",
+    "dataProvider": {
+        "id": 2295,
+        "name": "University of Nevada, Las Vegas Repository",
+        "url": "https://api.core.ac.uk/v3/data-providers/2295",
+        "logo": "https://api.core.ac.uk/data-providers/2295/logo"
+    },
+    "depositedDate": "",
+    "documentType": "research",
+    "doi": "",
+    "downloadUrl": "https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1907&amp;context=jhdrp",
+    "fullText": "",
+    "id": 287016068,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:digitalscholarship.unlv.edu:jhdrp-1907"
+    },
+    "title": "Discrimination, Coping, and Depression among Black Men Who Have Sex with Men",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2020-02-08T05:35:24+00:00",
+    "publisher": "Digital Scholarship@UNLV",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1907&amp;context=jhdrp"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2020",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/287016068"
+        }
+    ],
+    "abstract": "Black men who have sex with men (BMSM) have elevated risk for depression compared to the general population. BMSM’s capacity to cope with these experiences is not well understood. Increased understanding of how multiple forms of discrimination contribute to depression and how BMSM cope with discrimination can better inform interventions. Data come from 3,510 BMSM who attended Black Pride events in six U.S. cities from 2015-2017. Participants completed a health survey that ascertained their psychosocial health and resiliency profiles. Using multivariable logistic regression models, we tested the associations between type-specific discrimination (race, sexuality, HIV status) and depression. We then conducted sub-analyses to determine if coping attenuated the association between type-specific discrimination and depression. Our findings indicated that increased odds of depression among BMSM were associated with discrimination based on race (aOR=1.38, 95% CI = 1.08-1.76), sexual orientation (aOR=1.32, 95% CI = 1.01-1.72), and HIV status (aOR=1.53, 95% CI = 1.08-2.17). Sub-analyses indicated coping had inconsistent moderation effects between type-specific discrimination and depression. Our findings demonstrate that impact of various forms of discrimination on BMSM’s mental health and the mitigating role of coping. Interventions should seek to address depression by reducing experiences of discrimination and building coping resiliency",
+    "tags": [
+        "text",
+        "Depression",
+        "Discrimination",
+        "Coping",
+        "Black MSM",
+        "Mental Disorders",
+        "Public Health"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "text"
+    ],
+    "oai": "oai:digitalscholarship.unlv.edu:jhdrp-1907",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "2295",
+        "openDoarId": 0,
+        "name": "University of Nevada, Las Vegas Repository",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 287016068,
+        "depositedDate": null,
+        "publishedDate": "2020-02-08T05:35:24+00:00",
+        "updatedDate": "2024-01-21T01:57:28+00:00",
+        "acceptedDate": null,
+        "createdDate": "2020-02-18T01:14:55+00:00"
+    },
+    "urls": [
+        "https://digitalscholarship.unlv.edu/jhdrp/vol12/iss6/9",
+        "https://digitalscholarship.unlv.edu/context/jhdrp/article/1907/viewcontent/auto_convert.pdf"
+    ],
+    "lastUpdate": "2024-01-21T01:57:28+00:00",
+    "setSpecs": []
+}

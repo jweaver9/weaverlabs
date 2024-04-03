@@ -1,0 +1,109 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Patane, Christopher"
+        },
+        {
+            "name": "Polizzi, Marc S"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2021-12-12T00:01:11+00:00",
+    "dataProvider": {
+        "id": 3611,
+        "name": "University of Dayton",
+        "url": "https://api.core.ac.uk/v3/data-providers/3611",
+        "logo": "https://api.core.ac.uk/data-providers/3611/logo"
+    },
+    "depositedDate": "",
+    "documentType": "",
+    "doi": "",
+    "downloadUrl": "https://core.ac.uk/download/482081617.pdf",
+    "fullText": "University of Dayton eCommons Conference: The Social Practice of Human Rights 2021 — Between Peril and Potential: Human Rights Advocacy in the Wake of a Global Pandemic Dec 3rd, 4:15 AM - 3:45 PM Norm Diffusion or Norm Backsliding? A Text Analysis of Anti-LGBTQ Rhetoric Christopher Patane Murray State University, c.patane@shsu.edu Marc S. Polizzi Murray State University, mpolizzi@murraystate.edu Follow this and additional works at: https://ecommons.udayton.edu/human_rights  Part of the Comparative Politics Commons, and the International Relations Commons Patane, Christopher and Polizzi, Marc S., \"Norm Diffusion or Norm Backsliding? A Text Analysis of Anti-LGBTQ Rhetoric\" (2021). Conference: The Social Practice of Human Rights. 1. https://ecommons.udayton.edu/human_rights/2021/rhetoric/1 This Event is brought to you for free and open access by the Human Rights Center at eCommons. It has been accepted for inclusion in Conference: The Social Practice of Human Rights by an authorized administrator of eCommons. For more information, please contact mschlangen1@udayton.edu, ecommons@udayton.edu.  Norm Diffusion or Norm Backsliding?  A Text Analysis of Anti-LGBTQ Rhetoric  Christopher F. Patane, PhD Sam Houston State University   Marc S. Polizzi, PhD Murray State University   How are counter-norms manufactured, and what are their components? Current literature on norm diffusion largely views the process as linearly progressive. In other words, norms progress towards greater inclusion. However, notable cases such as Russian President Vladimir Putin’s controversial use of traditional values in the UN Human Rights Council demonstrates a potential backlash to this progression. Building on our previous case study work of Russian anti-LGBTQ rhetoric and its spread to the United States, in this paper we examine the timing and content of anti-LGBTQ rhetoric using text analysis. This allows us to model the sequencing of messaging and whether certain framing becomes pervasive. Specifically, we aim to test whether anti-LGBTQ statements in Western facing Russian media precede and inspire American anti-LGBTQ narratives, or whether they follow and amplify existing anti-LGBTQ narratives.      ",
+    "id": 482081617,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:ecommons.udayton.edu:human_rights-1448"
+    },
+    "title": "Norm Diffusion or Norm Backsliding?  A Text Analysis of Anti-LGBTQ Rhetoric",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2021-12-03T12:15:00+00:00",
+    "publisher": "eCommons",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://ecommons.udayton.edu/cgi/viewcontent.cgi?article=1448&context=human_rights"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2021",
+    "links": [
+        {
+            "type": "download",
+            "url": "https://core.ac.uk/download/482081617.pdf"
+        },
+        {
+            "type": "reader",
+            "url": "https://core.ac.uk/reader/482081617"
+        },
+        {
+            "type": "thumbnail_m",
+            "url": "https://core.ac.uk/image/482081617/medium"
+        },
+        {
+            "type": "thumbnail_l",
+            "url": "https://core.ac.uk/image/482081617/large"
+        },
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/482081617"
+        }
+    ],
+    "abstract": "How are counter-norms manufactured, and what are their components? Current literature on norm diffusion largely views the process as linearly progressive. In other words, norms progress towards greater inclusion. However, notable cases such as Russian President Vladimir Putin’s controversial use of traditional values in the UN Human Rights Council demonstrates a potential backlash to this progression. Building on our previous case study work of Russian anti-LGBTQ rhetoric and its spread to the United States, in this paper we examine the timing and content of anti-LGBTQ rhetoric using text analysis. This allows us to model the sequencing of messaging and whether certain framing becomes pervasive. Specifically, we aim to test whether anti-LGBTQ statements in Western facing Russian media precede and inspire American anti-LGBTQ narratives, or whether they follow and amplify existing anti-LGBTQ narratives",
+    "tags": [
+        "text",
+        "LGBT Rights",
+        "Rhetoric",
+        "Propaganda",
+        "Norm Diffusion",
+        "Comparative Politics",
+        "International Relations"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "text"
+    ],
+    "oai": "oai:ecommons.udayton.edu:human_rights-1448",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "3611",
+        "openDoarId": 0,
+        "name": "University of Dayton",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 482081617,
+        "depositedDate": null,
+        "publishedDate": "2021-12-03T12:15:00+00:00",
+        "updatedDate": "2024-01-26T01:57:03+00:00",
+        "acceptedDate": null,
+        "createdDate": "2021-12-12T00:01:11+00:00"
+    },
+    "urls": [
+        "https://ecommons.udayton.edu/human_rights/2021/rhetoric/1",
+        "https://ecommons.udayton.edu/context/human_rights/article/1448/viewcontent/auto_convert.pdf"
+    ],
+    "lastUpdate": "2024-01-26T01:57:03+00:00",
+    "setSpecs": []
+}

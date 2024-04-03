@@ -1,0 +1,115 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Yoshioka, Mariko"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2019-12-17T03:58:20+00:00",
+    "dataProvider": {
+        "id": 1558,
+        "name": "Hiroshima University Institutional Repository",
+        "url": "https://api.core.ac.uk/v3/data-providers/1558",
+        "logo": "https://api.core.ac.uk/data-providers/1558/logo"
+    },
+    "depositedDate": "",
+    "documentType": "",
+    "doi": "10.15027/48292",
+    "downloadUrl": "https://core.ac.uk/download/268940181.pdf",
+    "fullText": "－　61　－－　62　－－　63　－－　64　－－　65　－－　66　－－　67　－－　68　－－　69　－－　70　－",
+    "id": 268940181,
+    "identifiers": {
+        "doi": "10.15027/48292",
+        "oai": "oai:ir.lib.hiroshima-u.ac.jp:00048292"
+    },
+    "title": "Asexualであるという自覚はいかにしてなされ自己受容されるのか？ : ライフストーリー・インタビューによる事例から",
+    "language": {
+        "code": "ja",
+        "name": "Japanese"
+    },
+    "publishedDate": "2019-11-30T00:00:00+00:00",
+    "publisher": "広島大学大学院教育学研究科学習開発学講座",
+    "references": [],
+    "sourceFulltextUrls": [
+        "http://ir.lib.hiroshima-u.ac.jp/files/public/4/48292/2019121011092568286/JEducSci_12_61.pdf"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2019",
+    "links": [
+        {
+            "type": "download",
+            "url": "https://core.ac.uk/download/268940181.pdf"
+        },
+        {
+            "type": "reader",
+            "url": "https://core.ac.uk/reader/268940181"
+        },
+        {
+            "type": "thumbnail_m",
+            "url": "https://core.ac.uk/image/268940181/medium"
+        },
+        {
+            "type": "thumbnail_l",
+            "url": "https://core.ac.uk/image/268940181/large"
+        },
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/268940181"
+        }
+    ],
+    "abstract": "The purpose of this study was to examine a process of self-awareness of being Asexual by conducting a life story interview. We also examined how accept it was done. Asexuals are those individuals who are low on attraction for both sexes (Storm, 1980). A woman, who is asexual and hetero-romantic (called nonsexual in Japan), was interviewed for a few hours. She feels romantic feelings towards opposite sex. As a result of analyzing the narrative contents, the contents related to gender were summarized mainly in \"romance\", \"study abroad\", \"coming out\", \"future uneasiness and prospects\", \"relationship with friends\". As a process of self-awareness in Asexual, it was thought that there are the following two stages. It is (1) to recognizing gaps with surrounding values and thinking, through romantic experiences etc..., (2) to know the term Asexual, or to know the existence of other asexuals. As for self-acceptance, it was inferred that in the case of A, it is often done at the same time with self-awareness",
+    "tags": [
+        "departmental bulletin paper",
+        "asexual",
+        "gender-identity",
+        "self-acceptance",
+        "narrative",
+        "アセクシュアル",
+        "ジェンダー・アイデンティティ",
+        "自己受容",
+        "語り"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "departmental bulletin paper"
+    ],
+    "oai": "oai:ir.lib.hiroshima-u.ac.jp:00048292",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": [
+        {
+            "title": null,
+            "identifiers": [
+                "1883-8200",
+                "issn:1883-8200"
+            ]
+        }
+    ],
+    "repositories": {
+        "id": "1558",
+        "openDoarId": 0,
+        "name": "Hiroshima University Institutional Repository",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 268940181,
+        "depositedDate": null,
+        "publishedDate": "2019-11-30T00:00:00+00:00",
+        "updatedDate": "2024-02-14T11:57:07+00:00",
+        "acceptedDate": null,
+        "createdDate": "2019-12-17T03:58:20+00:00"
+    },
+    "urls": [
+        "https://ir.lib.hiroshima-u.ac.jp/00048292"
+    ],
+    "lastUpdate": "2024-02-14T11:57:07+00:00",
+    "setSpecs": []
+}

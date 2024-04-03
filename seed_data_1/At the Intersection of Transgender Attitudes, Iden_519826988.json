@@ -1,0 +1,109 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Howard, Amy"
+        },
+        {
+            "name": "Wehde, Wesley"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2022-06-10T03:26:51+01:00",
+    "dataProvider": {
+        "id": 3579,
+        "name": "East Tennessee State University",
+        "url": "https://api.core.ac.uk/v3/data-providers/3579",
+        "logo": "https://api.core.ac.uk/data-providers/3579/logo"
+    },
+    "depositedDate": "",
+    "documentType": "",
+    "doi": "",
+    "downloadUrl": "https://core.ac.uk/download/519826988.pdf",
+    "fullText": "East Tennessee State University Digital Commons @ East Tennessee State University Appalachian Student Research Forum & Jay S. Boland Undergraduate Research Symposium 2022 ASRF Schedule Apr 6th, 2:00 PM - 3:20 PM At the Intersection of Transgender Attitudes, Identity Politics, and Vote Choice Amy Howard Wesley Wehde East Tennessee State University Follow this and additional works at: https://dc.etsu.edu/asrf Howard, Amy and Wehde, Wesley, \"At the Intersection of Transgender Attitudes, Identity Politics, and Vote Choice\" (2022). Appalachian Student Research Forum & Jay S. Boland Undergraduate Research Symposium. 163. https://dc.etsu.edu/asrf/2022/schedule/163 This Oral Presentation is brought to you for free and open access by the Events at Digital Commons @ East Tennessee State University. It has been accepted for inclusion in Appalachian Student Research Forum & Jay S. Boland Undergraduate Research Symposium by an authorized administrator of Digital Commons @ East Tennessee State University. For more information, please contact digilib@etsu.edu. At the Intersection of Transgender Attitudes, Identity Politics and Vote ChoiceAmy Howard     Dr. Wesley Wehde, Assistant ProfessorEast Tennessee State UniversityCredit: Daniel Quasar 2018One step forward, another step back• LGBTQ+ political representation at all-time high• 410 LGBTQ+ candidates running in 2021 (Jackson 2021)• >1000 LGBTQ+ candidates in office in 2021 (Goldmacher 2021)• President Biden declares March 31 “Transgender Day of Visibility” (2021).• Regressive legislation• Florida’s “Don’t’ Say Gay or Trans Bill,” “Stop WOKE Act”• 266 anti-LGBTQ+ bills in state legislatures 2021 (125 anti-transgender)• Equality Act of 2017 stalled in SenateProtecting a vulnerable community• LGBTQ+ youth at increased risk for bullying, suicide (Ahuja, et al. 2015)• Discrimination and harassment in workplace, health care (Center for American Progress)• Transgender 4X more likely to be victims of violent crime than heterosexual (UCLA).• Higher murder rates for Black and Hispanic transgender women (Dinno 2017)Why study intersectional bias in vote choice?• Evidence exists of ballot box penalties for gender and sexual minority candidates, especially transgender candidates (Magni and Reynolds 2021).• Attitudes toward lesbian, gay, bisexual men, bisexual women, MtFand FtM transgender individuals should be analyzed separately (Worthen 2013).• Media coverage of bisexual and transgender women in politics is more negative than  bisexual and transgender men in politics (Deese2020, Scott 2020; Burns 2019).Hypotheses*• H1: Transgender females will experience a larger vote penalty thanother minoritized gender identities, including transgender males.• H2: Penalties for bisexual candidates will be larger for bisexual female(both cis and transgender) candidates than bisexual male (both cis andtransgender) candidates.*See pre-registration here: OSF Registries | At the Intersection of Transgender Attitudes, Identity Politics, and Vote Choice.Conjoint Survey Experiment Data• Qualtrics survey platform• Quota-based, nationally representative sample of 2200 respondents• LUCID Theorem – for academics, $1 per respondentConjoint Survey Benefits• Separate effects of correlated candidate attributes, such as gender identity and sexual orientation, on vote choices (Horiuchi, et al. 2020)• Improve causal inference for multidimensional preferences or choices, randomizing attributes across multiple choice options (Hainmueller, et al. 2014)• Possibly reduce social desirability bias (Horiuchi, et al. 2021)• Respondents can perform multiple tasks without loss of data quality (Bansak, et al. 2018).• Smaller sample sizes can still yield appropriately powered results (Bansak, et al. 2018).Conjoint Survey Limitations• Realism of fully randomized conjoint experiments may be limited.• Concerns about external validity (De la Cuesta, et al. 2022)Conjoint Survey Attributes and LevelsTable 1: Full Conjoint Experiment DesignAttribute LevelsGender Identity Woman, Transgender Woman, Man, Transgender Man, Non-BinarySexual Orientation Gay, Straight, Bi-SexualPolitical Affiliation Moderate Republican, Far-Right Republican; Moderate Democrat, Far-Left DemocratAge 35, 44, 56, 71Race/Ethnicity White, Black, Latino, Asian, Native AmericanReligion Christian, Muslim, Jewish, Non-Religious, AtheistEducation High School, Bachelor’s Degree, Master’s DegreePolitical Experience No previous experience, State legislature, US House of RepresentativesConjoint Survey TasksConjoint Survey QuestionsAdditional Measures• Kinder Sanders Racial Resentment scale (Kinder and Sanders 1996)• Centrality of Religiosity Scale (Huber and Huber 2012)• Attitudes Toward Transgender Men and Women scale (Billard 2018)Hypothesis 1 (AMCEs)Chi-squared = 2.35p = 0.1246No difference in penalty for transgender men and transgender womenHypothesis 2 (AMCIES)Chi-squared = 5.85     p = 0.015 *Penalty for bisexual men > for bisexual womenSummary• Similar to Magni and Reynolds (2021) with effects on age, education, previous experience; transgender and gay penalties• Larger penalty for gay than bisexual candidates• No statistically significant difference between transgender man and transgender woman in voting behavior• Larger penalty for transgender woman compared to non-binary and cisgender woman• Larger penalty for transgender men than non-binary and cisgender woman.• Statistically significant difference between bisexual man and bisexual woman in voting behavior—larger penalty for bisexual man• Non-binary candidates penalized less severely than other transgender candidatesDiscussion• How and why do voters perceive bisexual candidates differently than gay ones? • What explains voter ambivalence toward non-binary candidates? • Does the public perceive non-binary candidates as transgender?Emphasizes importance of understanding nuanced effects of candidate gender identity and sexual orientation on voting behavior and how that matters for LGBTQ+ political representation.QUESTIONS?Credit: Christopher Gagliardi 2019wehdew@etsu.edu, howardad@etsu.eduSpecial thanks to ETSU’s Honors College, Office of Research and Sponsored Programs, and the Department of Political Science, International Affairs, and Public AdministrationReferences• Ahuja, Amir, et al. “Bullying and Suicide: The Mental Health Crisis of LGBTQ Youth and How You Can Help.” Journal of Gay & Lesbian Mental Health 19, no. 2 (2015): 125-144. DOI:10.1080/19359705.2015.1007417.• Bansak, Kirk, et al. “The Number of Choice Tasks and Survey Satisficing in Conjoint Experiments.” Political Analysis 26, no. 1 (2018): 112–19. doi:10.1017/pan.2017.40.• Billard, Thomas. “Attitudes Toward Transgender Men and Women: Development and Validation of a New Measure.” Frontiers in Psychology 9 (2018). https://doi.org/10.3389/fpsyg.201800387.• Burns, Katelyn. “The rise of anti-trans “radical” feminists, explained.” Vox.com, Sep. 5, 2019. https://www.vox.com/ identities/ 2019/9/5/20840101/terfs-radical-feminists-gender-critical. • Center for American Progress. “Discrimination Prevents LGBTQ People From Accessing Health Care.” Jan. 18, 2018. https://www. americanprogress.org/article/discrimination-prevents-lgbtq-people-accessing-health-care/.• Deese, Kaelan. “Katie Hill: ‘Biphobia’ led to resignation from Congress.” The Hill, Feb. 20, 2020. https://thehill.com/home news/media/483942-katie-hill-biphobia-led-to-resignation-from-congress.• De la Cuesta, et al. \"Improving the external validity of conjoint analysis: the essential role of profile distribution.\" Political Analysis 30, no. 1 (2022): 19-45. doi:10.1017/pan.2020.40.• Dinno, Alexis. \"Homicide Rates of Transgender Individuals in the United States: 2010–2014.\" American Journal of Public Health 107, no. 9 (2017): 1441-1447. https://www.ncbi.nlm.nih. gov/pmc/articles/PMC5551594/.• Goldmacher, Shane. \"L.G.B.T.Q. Elected Officials in U.S. Number Nearly 1,000, Rising Fast.\" New York Times, Jul. 28, 2021. https://www.nytimes.com/2021/07/28/us/politics/gay-lesbian-elected-officials.html.• Hainmueller, Jens, et al. “Causal Inference in Conjoint Analysis: Understanding Multidimensional Choices via Stated Preference Experiments.” Political Analysis 22, no. 1 (2014): 1-30. doi:10.1093/pan/mpt024.• Horiuchi, Yusaku, et al. “Identifying Voter Preferences for Politicians’ Personal Attributes: A Conjoint Experiment in Japan.” Political Science Research and Methods 8, no. 1 (2020): 75-91. doi:10.1017/psrm.2018.26.• Horiuchi, Yusaku, et al. \"Does conjoint analysis mitigate social desirability bias?.\" Political Analysis (2021): 1-15.• Huber, Stefan and Odilo W. Huber. “The Centrality of Religiosity Scale (CRS).” Religions 3 (2012): 710-724. doi:10.3390/ rel3030710.• Jackson, David \"'Rainbow wave': A record number of LGBTQ candidates are running for office in 2021.\" USA Today, Oct. 26, 2021. https://www.usatoday.com/story/news/politics/ 2021/ 10/26/lgbt-politicians-running-office-hits-new-off-year-record-2021/6171384001/.• Kinder, Donald and Lynn M. Sanders. Divided by Color: Racial Politics and Democratic Ideals. Chicago, IL: University of Chicago Press, 1996.• Magni, Gabriele and Andrew Reynolds. “Voter Preferences and the Political Underrepresentation of Minority Groups: Lesbian, Gay, and Transgender Candidates in Advanced Democracies.” The Journal of Politics 83, no. 4 (2021): 1199-1215.• Scott, Eugene. “Andrew Gillum comes back to public life, starting with coming out as bisexual.” The Washington Post, Sep. 15, 2020. https://www.washingtonpost.com/politics/2020/09/15/lgbt-leaders-hope-more-bisexuals-enter-politics-after-andrew-gillum-comes-out/.• UCLA Williams Institute. “Transgender people over four times more likely than cisgender people to be victims of violent crime.” Mar. 23, 2021. https://williamsinstitute.law.ucla.edu/press/ncvs-trans-press-release/.• Worthen, Meredith G.F. “An argument for separate analyses of attitudes toward lesbian, gay, bisexual men, bisexual women, MtF and FtM transgender individuals.” Sex Roles 68, no. 11/12 (2013): 703-723.https://psycnet.apa.org/doi/ 10.1007/s11199-012-0155-1.",
+    "id": 519826988,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:dc.etsu.edu:asrf-1814"
+    },
+    "title": "At the Intersection of Transgender Attitudes, Identity Politics, and Vote Choice",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2022-04-06T22:00:00+01:00",
+    "publisher": "Digital Commons @ East Tennessee State University",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://dc.etsu.edu/cgi/viewcontent.cgi?article=1814&context=asrf"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2022",
+    "links": [
+        {
+            "type": "download",
+            "url": "https://core.ac.uk/download/519826988.pdf"
+        },
+        {
+            "type": "reader",
+            "url": "https://core.ac.uk/reader/519826988"
+        },
+        {
+            "type": "thumbnail_m",
+            "url": "https://core.ac.uk/image/519826988/medium"
+        },
+        {
+            "type": "thumbnail_l",
+            "url": "https://core.ac.uk/image/519826988/large"
+        },
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/519826988"
+        }
+    ],
+    "abstract": "Abstract \n“At the Intersection of Transgender Attitudes, Identity Politics, and Vote Choice”\nAmy Howard and Dr. Wesley Wehde, Department of Political Science, International Affairs and Public Administration, College of Arts and Sciences, East Tennessee State University, Johnson City, TN.\nPolitical scientists have been increasingly focused on the role of identity politics in determining vote choice, with recent work including the potential penalties faced by gender and sexual minorities. Research indicates that both candidate and voter characteristics play a role in vote choice, with the largest penalties incurred by transgender candidates and small or no penalties assigned by non-religious and politically progressive voters. However, our study improves on extant research by differentiating between male and female transgender candidates; adding a non-binary option for gender identity; including a bisexual option for sexual orientation; and differentiating between moderate and far-left or far-right candidate ideologies within the Republican and Democratic Parties, respectively. In line with previous research, we conducted a conjoint experiment to examine the peculiar impact of male/female transgender, non-binary gender identity, and bisexuality on vote choice, even in comparison with straight and gay candidates. Respondents were asked to choose between ten sets of hypothetical candidates for their district House of Representatives, with Republican or right-leaning respondents being shown randomized combinations of candidates who were classified as “moderate” or “far-right,” and Democratic or left-leaning respondents being shown randomized combinations of candidates who were classified as “moderate” or “far-left.” The remaining candidate attributes were also randomized for each respondent, and included age, race, gender, education, religion, ideology, previous experience, and sexual orientation. Upon completion of our data analysis, we expect our results to be consistent with those of the aforementioned research, with gay candidates—particularly black, gay candidates—facing penalties at the ballot box, and transgender candidates facing higher penalties than gay candidates. We will build on these findings by differentiating between genders in “transgender,” and with the addition of the “non-binary,” “bisexual” options, as well as the inclusion of “far-right” and “far-left” political ideologies. This study will contribute to our understanding of how voter and candidate identities affect vote choice, particularly in the case of gender and sexual minority candidates. Such an understanding can be used to develop policies and strategies that will ultimately increase LGBTQ+ representation in government, and improve the safety, welfare and wellbeing of LGBTQ+ Americans",
+    "tags": [
+        "text",
+        "transgender",
+        "LGBTQ",
+        "identity politics",
+        "survey experiment",
+        "Social Sciences",
+        "Political Science"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "text"
+    ],
+    "oai": "oai:dc.etsu.edu:asrf-1814",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "3579",
+        "openDoarId": 0,
+        "name": "East Tennessee State University",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 519826988,
+        "depositedDate": null,
+        "publishedDate": "2022-04-06T22:00:00+01:00",
+        "updatedDate": "2024-02-14T13:37:11+00:00",
+        "acceptedDate": null,
+        "createdDate": "2022-06-10T03:26:51+01:00"
+    },
+    "urls": [
+        "https://dc.etsu.edu/asrf/2022/schedule/163",
+        "https://dc.etsu.edu/context/asrf/article/1814/viewcontent/At_the_Intersection_of_Transgender_Attitudes__Identity_Politics_and_Vote_Choice.pdf"
+    ],
+    "lastUpdate": "2024-02-14T13:37:11+00:00",
+    "setSpecs": []
+}

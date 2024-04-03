@@ -1,0 +1,114 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Binns, Av"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2019-08-08T08:45:26+01:00",
+    "dataProvider": {
+        "id": 1335,
+        "name": "DOCS@RWU",
+        "url": "https://api.core.ac.uk/v3/data-providers/1335",
+        "logo": "https://api.core.ac.uk/data-providers/1335/logo"
+    },
+    "depositedDate": "",
+    "documentType": "slides",
+    "doi": "",
+    "downloadUrl": "https://core.ac.uk/download/223022801.pdf",
+    "fullText": "New and Dangerous IdeasVolume 2 Article 105-1-2019This is not a Woman's BodyAv BinnsRoger Williams UniversityFollow this and additional works at: https://docs.rwu.edu/nadiPart of the Bilingual, Multilingual, and Multicultural Education Commons, Civic andCommunity Engagement Commons, Gender and Sexuality Commons, Higher EducationCommons, Race and Ethnicity Commons, and the Sociology of Culture CommonsThis Article is brought to you for free and open access by the Journals at DOCS@RWU. It has been accepted for inclusion in New and Dangerous Ideasby an authorized editor of DOCS@RWU. For more information, please contact mwu@rwu.edu.Recommended CitationBinns, Av (2019) \"This is not a Woman's Body,\" New and Dangerous Ideas: Vol. 2 , Article 10.Available at: https://docs.rwu.edu/nadi/vol2/iss1/1015I was inspired to create this drawing while learning about the AIDS crisis, and the use of human bodies in acts of civil disobedience calling for government recognition and medical support of people living with AIDS. The queer community, with limited financial and political support, used their bodies for tools of resistance and visibility. Queer bodies were not only tools for marching and blocking streets; they were evidence of the severity of the issue at hand. AIDS was hard to ignore when it was gathered in the streets. Decades later, queer bodies remain an essential tool of advocacy for the LGBTQIA+ community and other minoritized groups. Bodies are at the center of oppression; they are manifestations of our differences, privileging some over others. However, they are an invaluable source of strength in the struggle for equity and inclusion. We are hard to oppress when we are unapologetic about our existence.I also have a deep personal connection to this piece.  I myself identify as genderqueer. I do not identify as a man or a woman, however, many people assume, because of the feminine characteristics of my body, that I am a woman. This drawing makes a simple statement regarding the difference between biological features and gender identity. This piece is intended to empower those who identify with it, and provoke those who don’t question it, and ask “why?” I encourage those who don’t understand the piece to look at bodies not as representative of gender, but as containers for our inner selves. I hope this realization is as liberating as it was for me.  Av BinnsTHIS IS NOT A WOMAN’S BODY161Binns: This is not a Woman's BodyPublished by DOCS@RWU, 2019",
+    "id": 223022801,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:docs.rwu.edu:nadi-1031"
+    },
+    "title": "This is not a Woman\\u27s Body",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2019-05-01T08:00:00+01:00",
+    "publisher": "DOCS@RWU",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://docs.rwu.edu/cgi/viewcontent.cgi?article=1031&amp;context=nadi"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2019",
+    "links": [
+        {
+            "type": "download",
+            "url": "https://core.ac.uk/download/223022801.pdf"
+        },
+        {
+            "type": "reader",
+            "url": "https://core.ac.uk/reader/223022801"
+        },
+        {
+            "type": "thumbnail_m",
+            "url": "https://core.ac.uk/image/223022801/medium"
+        },
+        {
+            "type": "thumbnail_l",
+            "url": "https://core.ac.uk/image/223022801/large"
+        },
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/223022801"
+        }
+    ],
+    "abstract": "I was inspired to create this drawing while learning about the AIDS crisis, and the use of human bodies in acts of civil disobedience calling for government recognition and medical support of people living with AIDS. The queer community, with limited financial and political support, used their bodies for tools of resistance and visibility. Queer bodies were not only tools for marching and blocking streets; they   were evidence of the severity of the issue at hand. AIDS was hard to ignore when it was gathered in the streets. Decades later, queer bodies remain an essential tool of advocacy for the LGBTQIA+ community and other minoritized groups. Bodies are at the center of oppression; they are manifestations of our differences, privileging some over others.However, they are an invaluable source of strength in the struggle for equity and inclusion. We are hard to oppress when we are unapologetic about our existence",
+    "tags": [
+        "text",
+        "Bilingual",
+        "Multilingual",
+        "and Multicultural Education",
+        "Civic and Community Engagement",
+        "Gender and Sexuality",
+        "Higher Education",
+        "Race and Ethnicity",
+        "Sociology of Culture",
+        "Bilingual, Multilingual, and Multicultural Education",
+        "Civic and Community Engagement",
+        "Gender and Sexuality",
+        "Higher Education",
+        "Race and Ethnicity",
+        "Sociology of Culture"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "text"
+    ],
+    "oai": "oai:docs.rwu.edu:nadi-1031",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "1335",
+        "openDoarId": 0,
+        "name": "DOCS@RWU",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 223022801,
+        "depositedDate": null,
+        "publishedDate": "2019-05-01T08:00:00+01:00",
+        "updatedDate": "2024-01-24T00:14:50+00:00",
+        "acceptedDate": null,
+        "createdDate": "2019-08-08T08:45:26+01:00"
+    },
+    "urls": [
+        "https://docs.rwu.edu/nadi/vol2/iss1/10",
+        "https://docs.rwu.edu/context/nadi/article/1031/viewcontent/NaDIRWU_10.pdf"
+    ],
+    "lastUpdate": "2024-01-24T00:14:50+00:00",
+    "setSpecs": []
+}

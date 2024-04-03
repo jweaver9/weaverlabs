@@ -1,0 +1,80 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Casey, Liam J."
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2022-11-01T10:58:23+00:00",
+    "dataProvider": {
+        "id": 693,
+        "name": "OPUS - University of Technology Sydney",
+        "url": "https://api.core.ac.uk/v3/data-providers/693",
+        "logo": "https://api.core.ac.uk/data-providers/693/logo"
+    },
+    "depositedDate": "",
+    "documentType": "",
+    "doi": "",
+    "downloadUrl": "https://opus.lib.uts.edu.au/bitstream/10453/158778/1/01front.pdf",
+    "fullText": "",
+    "id": 541746083,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:opus.lib.uts.edu.au:10453/158778"
+    },
+    "title": "The Australian Marriage Law Postal Survey and the Mental Health of Lesbian, Gay, Bisexual, Transgender, Queer, and Questioning People",
+    "language": null,
+    "publishedDate": "2021-01-01T00:00:00+00:00",
+    "publisher": null,
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://opus.lib.uts.edu.au/bitstream/10453/158778/1/01front.pdf"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2021",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/541746083"
+        }
+    ],
+    "abstract": "University of Technology Sydney. Graduate School of Health.Lesbian, gay, bisexual, transgender, queer, or questioning (LGBTQ) people have roughly twice the risk of experiencing mental ill-health as the general population. A large body of research has convincingly demonstrated that this is due to minority stress – the chronic stress of navigating a social world marked by stigma and discrimination – rather than any inherent psychopathology. The advancement of LGBTQ rights, such as the passage of marriage equality legislation, has been proposed as an ameliorative pathway for reducing minority stress and improving LGBTQ wellbeing.\r\nMarriage equality legislation was passed in Australia in 2017 following a national survey of enrolled voters conducted via the postal system (“the postal survey”). While peak bodies supported the passage of marriage equality legislation, they opposed the conduct of the postal survey. They argued that it was unnecessary in Australia’s model of representative democracy and would expose LGBTQ people to stigmatising messages, thereby exacerbating minority stress processes. The research reported in this dissertation considers the relationship between the postal survey and the mental health of LGBTQ people in Australia. A mixed-methods research program of four studies was implemented, answering the research question with quantitative and qualitative approaches grounded in a critical realist perspective.\r\nIn Study 1, a quantitative longitudinal design found that indicators of psychological distress and minority stress were significantly greater during the postal survey than at three follow-up time points in the subsequent year. Studies 2, 3, and 4 used thematic analytic approaches to consider the lived experience of LGBTQ people during the postal survey. They respectively explored the cognitive-behavioural impacts of the postal survey on LGBTQ people, the positive experiences reported by LGBTQ people during the postal survey, and the way coping strategies contributed to resilience and the longer-term impacts of the postal survey.\r\nTaken together, the findings indicate that major LGBTQ rights campaigns like the postal survey pose a unique form of social stress for LGBTQ people. They have the potential to exacerbate minority stress processes by making social stigma more salient and contributing to social exclusion for LGBTQ people. However, LGBTQ people have also demonstrated capable ways of responding to these stressors, with strategies that emphasise interpersonal relationships, community connection, and political action. These findings are discussed with reference to the emerging scholarship regarding the postal survey, as well as their implications for clinical practice, policy making, service provision, and future research",
+    "tags": [
+        "Thesis"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "Thesis"
+    ],
+    "oai": "oai:opus.lib.uts.edu.au:10453/158778",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "693",
+        "openDoarId": 0,
+        "name": "OPUS - University of Technology Sydney",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 541746083,
+        "depositedDate": null,
+        "publishedDate": "2021-01-01T00:00:00+00:00",
+        "updatedDate": "2023-03-10T23:52:16+00:00",
+        "acceptedDate": null,
+        "createdDate": "2022-11-01T10:58:23+00:00"
+    },
+    "urls": [
+        "http://hdl.handle.net/10453/158778"
+    ],
+    "lastUpdate": "2023-03-10T23:52:16+00:00",
+    "setSpecs": []
+}

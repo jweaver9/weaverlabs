@@ -1,0 +1,100 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Macfarlane, Rachel T."
+        },
+        {
+            "name": "Fuller, Celene"
+        },
+        {
+            "name": "Wakefield, Chris"
+        },
+        {
+            "name": "Brents, Barbara G."
+        }
+    ],
+    "contributors": [
+        "Dmitri N. Shalin"
+    ],
+    "createdDate": "2019-07-09T15:33:53+01:00",
+    "dataProvider": {
+        "id": 2295,
+        "name": "University of Nevada, Las Vegas Repository",
+        "url": "https://api.core.ac.uk/v3/data-providers/2295",
+        "logo": "https://api.core.ac.uk/data-providers/2295/logo"
+    },
+    "depositedDate": "",
+    "documentType": "research",
+    "doi": "",
+    "downloadUrl": "https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1059&amp;context=social_health_nevada_reports",
+    "fullText": "",
+    "id": 215452303,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:digitalscholarship.unlv.edu:social_health_nevada_reports-1059"
+    },
+    "title": "Sex Industry and Sex Workers in Nevada",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2017-01-01T08:00:00+00:00",
+    "publisher": "Digital Scholarship@UNLV",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1059&amp;context=social_health_nevada_reports"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2017",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/215452303"
+        }
+    ],
+    "abstract": "Las Vegas has long been known as the symbolic center of the commercial sex industry. Nevada is host to the only legal system of prostitution in the United States. From the early legalization of quickie divorce and marriage to the marketing of its large resorts, sexuality has been a key component of Nevada’s tourist economy. If trends continue, for good or for ill, the sex industry will be an even larger part of the economy in the future.\nThe sex industry refers to all legal and illegal adult businesses that sell sexual products, sexual services, sexual fantasies, and actual sexual contact for profit in the commercial marketplace. The sex industry encompasses an exceedingly wide range of formal and informal, legal and illegal businesses, as well as a wide range of individuals who work in and around the industry.\nThis report will review the context in which sexually oriented commercial enterprises have flourished, discuss general trends in the Nevada sex industry, and make policy recommendations",
+    "tags": [
+        "report",
+        "Commercial sex industry",
+        "Adult businesses",
+        "Nevada sex industry",
+        "Community-Based Research",
+        "Gender and Sexuality"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "report"
+    ],
+    "oai": "oai:digitalscholarship.unlv.edu:social_health_nevada_reports-1059",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "2295",
+        "openDoarId": 0,
+        "name": "University of Nevada, Las Vegas Repository",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 215452303,
+        "depositedDate": null,
+        "publishedDate": "2017-01-01T08:00:00+00:00",
+        "updatedDate": "2024-01-21T01:57:20+00:00",
+        "acceptedDate": null,
+        "createdDate": "2019-07-09T15:33:53+01:00"
+    },
+    "urls": [
+        "https://digitalscholarship.unlv.edu/social_health_nevada_reports/57",
+        "https://digitalscholarship.unlv.edu/context/social_health_nevada_reports/article/1059/viewcontent/MacFarlaneR_etal_SexIndustryandSexWorkers_2017.pdf"
+    ],
+    "lastUpdate": "2024-01-21T01:57:20+00:00",
+    "setSpecs": []
+}

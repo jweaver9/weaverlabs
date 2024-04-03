@@ -1,0 +1,91 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Kruse, Katherine R."
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2013-06-21T11:49:26+01:00",
+    "dataProvider": {
+        "id": 258,
+        "name": "Scholarly Commons @ UNLV Law",
+        "url": "https://api.core.ac.uk/v3/data-providers/258",
+        "logo": "https://api.core.ac.uk/data-providers/258/logo"
+    },
+    "depositedDate": "",
+    "documentType": "research",
+    "doi": "",
+    "downloadUrl": "http://scholars.law.unlv.edu/facpub/697",
+    "fullText": "",
+    "id": 10678349,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:scholars.law.unlv.edu:facpub-1714"
+    },
+    "title": "Fidelity to Law and the Moral Pluralism Premise",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2012-01-01T08:00:00+00:00",
+    "publisher": "Scholarly Commons @ UNLV Boyd Law",
+    "references": [],
+    "sourceFulltextUrls": [
+        "http://scholars.law.unlv.edu/facpub/697"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2012",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/10678349"
+        }
+    ],
+    "abstract": "In Fidelity to Law, Wendel presents and defends a comprehensive theory of legal ethics with two interrelated arguments: a functional argument that law deserves respect because of its capacity to settle normative controversy in a morally pluralistic society; and a normative argument that law deserves respect because democratic lawmaking processes respect the equality and dignity of citizens.  This review essay questions Wendel’s move from the premise of moral pluralism to his conclusion that the function of law is to settle normative controversy in society on both practical and theoretical grounds.  Practically, it argues that law lacks the capacity to settle moral controversy--at least the deepest kind of controversy that Wendel envisions.  And, that\\u27s important to Wendel\\u27s argument, because law\\u27s capacity to do something for us that we cannot do for ourselves is the source of the respect that Wendel claims we owe the law.  More importantly, this essay questions whether, in a morally pluralistic society, we should want law to settle normative controversy.  Wendel argues that we need to settle such controversies so that we can move on and organize our affairs despite our deep disagreement about values.  I argue, however, that efforts to unsettle law need not be seen as a threat: the continual ebb and flow of normative controversy can be viewed as an incident of, rather than an impediment to, a free, just, and democratic society",
+    "tags": [
+        "text",
+        "legal ethics",
+        "normative ethics",
+        "moral pluralism",
+        "normative controversy",
+        "democratic society",
+        "Legal Ethics and Professional Responsibility",
+        "Legal Theory"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "text"
+    ],
+    "oai": "oai:scholars.law.unlv.edu:facpub-1714",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "258",
+        "openDoarId": 0,
+        "name": "Scholarly Commons @ UNLV Law",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 10678349,
+        "depositedDate": null,
+        "publishedDate": "2012-01-01T08:00:00+00:00",
+        "updatedDate": "2024-01-27T19:40:07+00:00",
+        "acceptedDate": null,
+        "createdDate": "2013-06-21T11:49:26+01:00"
+    },
+    "urls": [
+        "https://scholars.law.unlv.edu/facpub/697",
+        "https://scholars.law.unlv.edu/context/facpub/article/1714/viewcontent/kruse_fidelity_to_law_bk_rev_tx_l_rev_2012.pdf"
+    ],
+    "lastUpdate": "2024-01-27T19:40:07+00:00",
+    "setSpecs": []
+}

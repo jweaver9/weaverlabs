@@ -1,0 +1,93 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Ramonetti, Mona"
+        },
+        {
+            "name": "Pilato, Victoria"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2019-09-04T03:13:14+01:00",
+    "dataProvider": {
+        "id": 3713,
+        "name": "City University of New York",
+        "url": "https://api.core.ac.uk/v3/data-providers/3713",
+        "logo": "https://api.core.ac.uk/data-providers/3713/logo"
+    },
+    "depositedDate": "",
+    "documentType": "",
+    "doi": "",
+    "downloadUrl": "https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1196&context=ulj",
+    "fullText": "",
+    "id": 226778510,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:academicworks.cuny.edu:ulj-1196"
+    },
+    "title": "Keeping the Equity, Inclusion, and Diversity Conversations Going",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2019-08-06T08:00:00+01:00",
+    "publisher": "CUNY Academic Works",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1196&context=ulj"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2019",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/226778510"
+        }
+    ],
+    "abstract": "This article focuses on the challenges and successes Stony Brook University Libraries’ Equity, Inclusion, and Diversity Committee encountered from its inception in 2017 to the present. The formation of this committee was in response to a new university-wide program. A pool of more than 80 library personnel made quick and thoughtful decisions to determine the composition of the Committee. In the months that followed, members learned to navigate the challenges of goal setting, collaborating with others outside the library, funding, event planning, and marketing. One of the primary goals of the Committee was to initiate and maintain conversations and collaborations around equity, inclusion, and diversity. Efforts included the celebration of Native American heritage and culture, women’s history, hip-hop history, and others. Another goal was to produce a meaningful and relevant mission to serve as a guide for our fledgling committee. The committee’s efforts were inclusive of the communities both outside and inside of the library’s sphere. Efforts were made to increase awareness and sensitivity among our library personnel via lectures, self-reflection workshops, and discussions. Further, committee members’ attendance and participation at conferences and webinars provided many opportunities to engage in discussions with others who have started similar committees at their libraries",
+    "tags": [
+        "article",
+        "equity",
+        "inclusion",
+        "diversity",
+        "academic libraries",
+        "outreach",
+        "Library and Information Science"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "article"
+    ],
+    "oai": "oai:academicworks.cuny.edu:ulj-1196",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "3713",
+        "openDoarId": 0,
+        "name": "City University of New York",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 226778510,
+        "depositedDate": null,
+        "publishedDate": "2019-08-06T08:00:00+01:00",
+        "updatedDate": "2024-02-21T02:45:44+00:00",
+        "acceptedDate": null,
+        "createdDate": "2019-09-04T03:13:14+01:00"
+    },
+    "urls": [
+        "https://academicworks.cuny.edu/ulj/vol25/iss1/1",
+        "https://academicworks.cuny.edu/context/ulj/article/1196/viewcontent/auto_convert.pdf"
+    ],
+    "lastUpdate": "2024-02-21T02:45:44+00:00",
+    "setSpecs": []
+}

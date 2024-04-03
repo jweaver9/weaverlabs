@@ -1,0 +1,109 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Center for Gender and Sexuality Law,"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2023-06-16T07:43:43+01:00",
+    "dataProvider": {
+        "id": 13784,
+        "name": "Columbia Law School Scholarship Archive",
+        "url": "https://api.core.ac.uk/v3/data-providers/13784",
+        "logo": "https://api.core.ac.uk/data-providers/13784/logo"
+    },
+    "depositedDate": "",
+    "documentType": "",
+    "doi": "",
+    "downloadUrl": "https://core.ac.uk/download/568032816.pdf",
+    "fullText": "Columbia Law School Scholarship Archive Center for Gender & Sexuality Law Research Centers & Programs 10-2021 The Equal Rights Amendment and the Equality Act: Talking Points Center for Gender and Sexuality Law Follow this and additional works at: https://scholarship.law.columbia.edu/gender_sexuality_law  Part of the Constitutional Law Commons, and the Law and Gender Commons    The Equal Rights Amendment and the Equality Act: Talking Points  ● The Equal Rights Amendment, first proposed nearly 100 years ago, is still needed today. ○ The ERA is a constitutional amendment that would protect against discrimination on the basis of sex—including on the basis of sexual orientation, gender identity, and gender expression. ○ The ERA would also usher in advancements in sex equality in all three branches of government, empower advocates, and encourage recognition of related forms of discrimination such as pregnancy discrimination.  ○ By including the ERA in our Constitution, the United States would catch up with the more than 100 other countries with constitutional protections against sex-based discrimination.  ● The Equality Act would amend existing federal civil rights laws by applying an inclusive definition of sex that encompasses sexual orientation as well as gender identity and expression. ○ In Bostock v. Clayton County in 2020, the Supreme Court held that Title VII of the 1964 Civil Rights Act, which (among other things) prohibits employment discrimination based on “sex,” extends to discrimination against employees based on their sexual orientation and gender identity and expression. ○ The Equality Act would extend this protection to LGBTQ+ individuals in education, housing, credit opportunities, juries, federally funded programs, and more.  ○ The Equality Act would also expand existing sex discrimination protections; for example, it would prohibit gender-based differential pricing in commerce, sex discrimination in federal programs, and sexual harassment in places such as bars, restaurants, and hotels.   ● The same exclusionary rhetoric employed by anti-ERA advocates in the 1970s is currently being recycled in opposition to the Equality Act.  ○ Anti-ERA advocates including Phyllis Schlafly argued that ratification of the amendment would disadvantage “real” women, who work as caretakers in the home. The anti-ERA movement succeeded in stalling the ERA through this kind of messaging as well as claims that the ERA would legalize gay marriage, outlaw gendered bathrooms, force women to join the military, and more. ○ Today’s transgender-exclusionary radical feminists (TERFs) similarly criticize the Equality Act’s expansive definition of sex discrimination as something that would weaken equality protections for “real” women.  2  ● The ERA and the Equality Act fill related yet distinct gaps in our legal system and would interact as mutually reinforcing pillars of equality. ○ While the Equality Act would initiate immediate changes to legal equality by modernizing existing civil rights laws, the ERA would insulate sex equality protections from the whims of Congress and form a solid foundation for the Equality Act and further legislation. ○ Advancing the Equality Act alongside the ratification of the ERA will cement the inclusion of all gender identities and sexual orientations in the broader gender equality movement.   ",
+    "id": 568032816,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:scholarship.law.columbia.edu:gender_sexuality_law-1008"
+    },
+    "title": "The Equal Rights Amendment and the Equality Act: Talking Points",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2021-10-01T08:00:00+01:00",
+    "publisher": "'Center for Open Science'",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://scholarship.law.columbia.edu/cgi/viewcontent.cgi?article=1008&context=gender_sexuality_law"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2021",
+    "links": [
+        {
+            "type": "download",
+            "url": "https://core.ac.uk/download/568032816.pdf"
+        },
+        {
+            "type": "reader",
+            "url": "https://core.ac.uk/reader/568032816"
+        },
+        {
+            "type": "thumbnail_m",
+            "url": "https://core.ac.uk/image/568032816/medium"
+        },
+        {
+            "type": "thumbnail_l",
+            "url": "https://core.ac.uk/image/568032816/large"
+        },
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/568032816"
+        }
+    ],
+    "abstract": "The Equal Rights Amendment, first proposed nearly 100 years ago, is still needed today.   The ERA is a constitutional amendment that would protect against discrimination on the basis of sex—including on the basis of sexual orientation, gender identity, and gender expression. The ERA would also usher in advancements in sex equality in all three branches of government, empower advocates, and encourage recognition of related forms of discrimination such as pregnancy discrimination. By including the ERA in our Constitution, the United States would catch up with the more than 100 other countries with constitutional protections against sex-based discrimination",
+    "tags": [
+        "text",
+        "Equal Rights Amendment (ERA)",
+        "constitutional amendment",
+        "sex discrimination",
+        "sex equality",
+        "civil rights law",
+        "Equality Act",
+        "Constitutional Law",
+        "Law",
+        "Law and Gender"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "text"
+    ],
+    "oai": "oai:scholarship.law.columbia.edu:gender_sexuality_law-1008",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "13784",
+        "openDoarId": 0,
+        "name": "Columbia Law School Scholarship Archive",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 568032816,
+        "depositedDate": null,
+        "publishedDate": "2021-10-01T08:00:00+01:00",
+        "updatedDate": "2024-02-15T05:18:10+00:00",
+        "acceptedDate": null,
+        "createdDate": "2023-06-16T07:43:43+01:00"
+    },
+    "urls": [
+        "https://scholarship.law.columbia.edu/gender_sexuality_law/9",
+        "https://scholarship.law.columbia.edu/context/gender_sexuality_law/article/1008/viewcontent/ERA___Equality_Act_talking_points.pdf"
+    ],
+    "lastUpdate": "2024-02-15T05:18:10+00:00",
+    "setSpecs": []
+}

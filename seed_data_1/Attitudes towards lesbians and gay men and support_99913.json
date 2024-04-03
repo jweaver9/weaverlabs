@@ -1,0 +1,514 @@
+{
+    "acceptedDate": "2003-05-20T00:00:00+01:00",
+    "authors": [
+        {
+            "name": "Ellis, S. J."
+        },
+        {
+            "name": "Kitzinger, C."
+        },
+        {
+            "name": "Wilkinson, S."
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2012-07-04T03:57:34+01:00",
+    "dataProvider": {
+        "id": 102,
+        "name": "Sheffield Hallam University Research Archive",
+        "url": "https://api.core.ac.uk/v3/data-providers/102",
+        "logo": "https://api.core.ac.uk/data-providers/102/logo"
+    },
+    "depositedDate": "2003-05-20T00:00:00+01:00",
+    "documentType": "research",
+    "doi": "10.1300/J082v44n01_07",
+    "downloadUrl": "https://core.ac.uk/download/99913.pdf",
+    "fullText": "Attitudes towards lesbians and gay men and support for lesbian and gay human rights among psychology studentsELLIS, Sonja, KITZINGER, C. and WILKINSON, S.Available from Sheffield Hallam University Research Archive (SHURA) at:http://shura.shu.ac.uk/122/This document is the author deposited version.  You are advised to consult the publisher's version if you wish to cite from it.Published versionELLIS, Sonja, KITZINGER, C. and WILKINSON, S. (2003). Attitudes towards lesbians and gay men and support for lesbian and gay human rights among psychology students. Journal of homosexuality, 44 (1), 121-138.Repository use policyCopyright © and Moral Rights for the papers on this site are retained by the individual authors and/or other copyright owners. Users may download and/or print one copy of any article(s) in SHURA to facilitate their private study or for non-commercial research. You may not engage in further distribution of the material or use it for any profit-making activities or any commercial gain.Sheffield Hallam University Research Archivehttp://shura.shu.ac.uk 1Attitudes Towards Lesbians and Gay Men and Support for Lesbian and Gay HumanRights Among Psychology Students.Sonja J. Ellis, MSocSc, PhDCelia Kitzinger, MA, PhD, CPsychol, FBPsSSue Wilkinson, BSc, PhD, CPsychol, FBPsSLoughborough University, United Kingdom.AcknowledgementsThe research on which this paper is based is part of the first author’s doctoral researchprogramme. The financial assistance of the UK Committee of Vice-Chancellors andPrincipals (CVCP) and The Loughborough University Faculty of Social Sciences andHumanities is gratefully acknowledged.Sonja Ellis studied for her doctorate in the Department of Social Sciences, LoughboroughUniversity, UK and is now a Lecturer in Psychology at Sheffield Hallam University, UK. Atthe time of writing this paper all authors were based in the Department of Social Sciences,Loughborough University. Celia Kitzinger is now at The University of York, UK, where sheis Professor of Conversation Analysis, Gender and Sexuality; and Sue Wilkinson is now atSimon Fraser University, Vancouver, BC, Canada, where she holds the Ruth WynnWoodward Endowed Professorship of Women's Studies. All correspondence should beaddressed to Dr Sonja J. Ellis, School of Social Science and Law, Sheffield HallamUniversity, Collegiate Crescent Campus, Sheffield S10 2BP, United Kingdom. [e-mail:S.Ellis@shu.ac.uk].2AbstractA questionnaire comprising two scales, the short form of the Attitudes TowardsLesbians and Gay Men Scale (ATLG-S; Herek, 1984) and the newly devisedSupport for Lesbian and Gay Human Rights Scale (SLGHR) were administered to226 students taking undergraduate psychology courses at universities in theUnited Kingdom, to assess their attitudes towards lesbians and gay men, and theirlevel of support for lesbian and gay human rights. The results indicated that whilstonly a small percentage of respondents expressed negative attitudes towardslesbians and gay men on the ATLG-S, the sample as a whole did notoverwhelmingly support lesbian and gay human rights. The lack of support forlesbian and gay human rights is discussed in relation to its implications forpsychology students as future practitioners and policy makers.KeywordsPsychology students, attitudes, human rights, lesbian, gay, homosexuality.3Within psychology, the study of attitudes towards lesbians and gay men is well-established.Many studies have investigated and documented the attitudes towards lesbians and gay menof particular groups of individuals, such as psychologists and mental health professionals (e.g.Annesley & Coyle, 1995; Fort, Steiner, & Conrad, 1971; Garfinkle and Morin, 1978;DeCrescenzo, 1983-84), social workers (e.g. Berkman & Zinberg, 1997; Wisniewski &Toomey, 1987), medical trainees and professionals (e.g. Douglas, Kalman, & Kalman, 1985;Klamen, Grossman, & Kopacz, 1999), police officers (e.g. Fretz, 1975), students (e.g.Donnelly et al., 1997; Hudson & Ricketts, 1980; Matchinsky & Iverson, 1996; Proulx, 1997;Schellenberg, Hirt, & Sears, 1999), and resident assistants (D’Augelli, 1989). Recentpsychological research has explored attitudes towards lesbians and gay men both as a meansof identifying ‘homophobic’ individuals and groups, and to provide an impetus for initiatingaffirmative action in practice settings.Studies of this type have consistently reported that people are significantly morelikely to hold negative attitudes if they are male (Chng & Moore, 1991; D’Augelli, 1989;Donnelly et al., 1997; Klamen et al., 1999; Seltzer, 1992; Schellenberg et al., 1999), have areligious affiliation (Berkman & Zinberg, 1997; Seltzer, 1992; see also Eliason, 1995; Herek,1994), are of an ethnic minority (Klamen et al., 1999), and have few lesbian or gayacquaintances (Klamen et al., 1999). In addition, studies have found more positive attitudesamong students majoring in psychology as opposed to those with only a few credits inpsychology (Matchinsky & Iverson, 1996), and among arts and social science studentscompared with science and business students (Schellenberg et al., 1999), and also thatattitudes improve as a function of time spent in college education (Seltzer, 1992; see alsoEliason, 1995). Recent studies have also tended to find that attitudes towards gay men aresignificantly more negative than attitudes towards lesbians (Berkman & Zinberg, 1997;4Schellenberg et al., 1999). However, these findings do not necessarily appear to hold truewith non-western samples (e.g. see Proulx, 1997).In comparison, only a few studies (e.g. D’Augelli, 1989; Eliason, 1996; Malaney,Williams, & Geller, 1997) have explored support for gay and lesbian rights issues. Thesestudies have tended to indicate support for the rights of lesbians and gay men. Forexample, the majority of students surveyed in one study (Malaney et al., 1997) agreed thatlesbians and gay men should be allowed to teach in schools, marry, and have theirrelationships legally condoned. On the other hand, Malaney et al. (1997) found much lesssupport for lesbians and gay men to serve in the military, or to adopt children, and inanother study (Eliason, 1996) up to 26% of university staff surveyed did not support theright of lesbians and gay men to teach children.However, studies of this kind have tended to focus on a small range of issues, such aslesbian and gay parenting, lesbians and gay men serving in the armed forces, and employmentissues as part of a study of the climate (socio-cultural environment) for lesbians and gay menin a given setting. Studies exploring lesbian and gay rights issues, have omitted to report onpeople’s views in relation to (human) rights issues such as the right to life, the right toasylum, and the right to freedom of expression and access to information. Thus, no study todate appears to have explored people’s support for human rights issues (per se), specificallyas they apply to lesbians and gay men.Furthermore, although some studies have systematically investigated heterosexismin psychology textbooks (e.g. Pilkington & Cantor, 1996; Simoni, 1996), psychologicalassessment instruments (e.g. Chernin et al., 1997), and professional psychology trainingprograms (e.g. Pilkington & Cantor, 1996), few studies have looked at attitudes towardslesbians and gay men and/or endorsement of lesbian and gay rights among psychologystudents (per se). Although psychology students have often been employed as (generic)5‘students’ in attitude studies, the attitudes of psychology students (qua psychologystudents) have seldom been the subject of psychological study in the way that studies ofmedical students (e.g. Klamen et al., 1999) or social workers (e.g. Berkman & Zinberg,1997; Wisniewski & Toomey, 1987) have been. Consequently, this study documentsattitudes towards lesbians and gay men and support for lesbian and gay human rightsissues of students taking undergraduate psychology courses in the United Kingdom.METHODSubjectsParticipants comprised 226 undergraduate students attending psychology classes in threeuniversities in the United Kingdom. Consistent with the typical composition of psychologyclasses, 84% of the sample were female and 12% were male. The remaining 4% ofparticipants did not indicate their sex. The sample comprised predominantly white students(82%), however, a number of black (5%), Asian (5%), and ‘other’ (3%) ethnic groups werealso represented. A further 5% of respondents did not specify their ethnic origin. Mostparticipants identified themselves as 25 years of age or under (75%). Forty-eight percent ofrespondents reported their religious affiliation as Christian (Catholic or Protestant), 2% asMuslim, 2% as Jewish, 2% as Hindu, 2% as ‘other’, 39% of the sample identified themselvesas having no religious affiliation, and 5% did not indicate whether or not they had a religiousaffiliation. Students identifying themselves as heterosexual comprised the majority of thesample (89%), with 2% identifying themselves as lesbian, 4% as bisexual (all were female),one student as ‘unsure’, and 5% not specifying their sexuality. Most of the sample were full-time students (81%), and of the total sample, 13% were in their first year of study, 60% intheir second year, 21% in their third year, and a further 6% did not specify their year of study.Sixty-eight percent of the sample were majoring in psychology, whilst 22% were majoring in6other social science subjects (e.g. sociology, social policy, political science). Ten percent ofthe sample did not specify their majoring subject.ProcedureA questionnaire comprising 35 items was developed for this study. The newly devisedSupport for Lesbian and Gay Human Rights (SLGHR) scale (25 items of the questionnaire)was developed from surveys and interview schedules used in previous studies on lesbian andgay issues (e.g. Malaney, 1994; Maney & Cain, 1997), human rights issues (e.g. Diaz-Veizades et al., 1995; Doise et al., 1999) and moral issues (e.g. Ellsworth & Gross, 1994;Kahn, 1997).In order to construct this scale, an item pool was compiled by sifting through scales,tests, questionnaires, and interview schedules from previous psychological studies, andlocating items addressing human rights issues. Where necessary, items were modified tofocus on human rights in relation to lesbians and gay men (e.g. “A person’s race or sexshould not block that person’s access to basic rights and freedoms” (Diaz-Veizades et al.,1995) became “A person’s sexual orientation should not block that person’s access to basicrights and freedoms”). In addition, a number of items were created from scratch to representcurrent lesbian and gay human rights issues internationally, in areas not explored by previousstudies (e.g. “There is no situation in which it is justified to kill someone simply for beinglesbian or gay”). Next, items were systematically compared against the Universal Declarationof Human Rights, to ensure that all items which could conceivably apply to lesbians and gaymen (qua lesbians and gay men) were represented. Items were then sorted according to thearticle of the Universal Declaration to which each item pertained, their wording modified, andrepetitious items omitted. Scale items were finalised by systematically checking that eachrelevant article of the Universal Declaration was represented (in full or in part) by an item on7the scale, and that the wording of each item accurately reflected the essence of the article towhich it pertained. Around one third of the items were then reworded as opposing lesbian andgay human rights, and reverse-scored.In addition to the SLGHR, a pre-existing scale (with demonstrated reliability andvalidity), the short form of the Attitudes Towards Lesbians and Gay Men Scale (ATLG-S; seeHerek, 1994) was employed to measure attitudes towards lesbians and gay men. This scalecomprised five items relating to male homosexuality, and five items relating to lesbianism.Items of both scales were interspersed among one another, and participants were asked torate each statement on a 5-point scale from “strongly agree” to “strongly disagree”. Asemployed by others (e.g. see Berkman & Zinberg, 1997), a 5-point scale was used for theATLG-S, rather than the 9-point scale recommended by Herek (1994), so as to ensureuniformity with the SLGHR. Possible scores therefore ranged from 10 to 50 for the ATLG-S(with high scores indicating more negative attitudes) and from 15 to 125 for the SLGHR(with high scores indicating less support for human rights).Two composite scores were calculated from the data in this study: An attitudestowards lesbians and gay men score (ATLG-S) and a Support for Lesbian and Gay HumanRights (SLGHR) score. Group comparisons on a basis of sex (male vs female), ethnicity(white vs non-white), religious affiliation (affiliated to a religion vs no religious affiliation),major (psychology vs other social sciences), age (18-21 vs 22-25 vs over 25), and year ofstudy (first vs second vs third) were also undertaken for each item on the ATLG-S and for thecomposite scores. An independent-samples t-test (for sex, ethnicity, religious affiliation, andmajoring subject) and a two-way ANOVA (for age and year of study) were used for theseanalyses. Where the Levene’s test for equality of variances (on the t-test) was found to bestatistically significant, results have been reported using the t-test for unequal variances.8However, since the SLGHR comprised 25 items, a factor analysis was undertaken onthese items, resulting in three main factors (social and political rights; freedom of expressionissues; privacy of identity issues). Analyses by sex, ethnicity, age, religious affiliation,majoring subject, and year of study were then undertaken on each of these three factors usinga two-way ANOVA.RESULTSAttitudes Towards Lesbians and Gay MenSignificant differences in attitudes towards lesbians and gay men were found for sex,ethnicity, and religious affiliation, but not for age, majoring subject, and year of study. Maleswere significantly more negative in their attitudes towards lesbians and gay men than females(t = 3.13, df = 205, p < 0.002), Non-white participants were significantly more negative intheir attitudes towards lesbians and gay men than their white counterparts (t= -3.94, df = 205,p<0.001) and those who identified themselves as having some religious affiliation weresignificantly more negative in their attitudes towards lesbians and gay men than those whoidentified themselves as having no religious affiliation (t = 2.12, df = 205, p < 0.04). Inaddition, a highly statistically significant correlation (r = 0.865, N = 214, p < 0.001) wasfound between attitudes towards gay men (measured by the ATG subscale of the ATLG-S)and attitudes towards lesbians (measured by the ATL subscale), however, attitudes towardsgay men were significantly more negative than attitudes towards lesbians (t = 2.447, df = 214,p < 0.015).Results for each of the ten items of the ATLG-S are presented in table 1.9Table 1: Student Responses to Items on Herek’s ATLG-S (N=226) expressed aspercentages of the total sample.agree/stronglyagreeunsure/ neutral disagree/Stronglydisagree2. Just as in other species, male homosexuality is a naturalexpression of sexuality in human men.51.8 32.0% 13.66. Lesbians just can’t fit into our society. 2.7 7.9% 88.69. Female homosexuality in itself is no problem, but what societymakes of it can be a problem.76.3 14.9% 5.311. I think male homosexuals are disgusting. 6.1 7.9% 83.716. Lesbians are sick 2.2 6.1% 89.919. Male homosexuality is a perversion. 6.2 10.1% 82.023. Male homosexuality is merely a different kind of lifestyle thatshould not be condemned.86.8 6.1% 5.229. Female homosexuality is a sin. 7.9 6.1% 54.732. State laws regulating private, consenting lesbian behaviourshould be loosened.59.7 31.6% 6.635. Homosexual behaviour between two men is just plain wrong. 7.9 12.7% 77.6* Figures do not add up to 100% as some participants did not respond to all questions.Males were significantly more likely than females to endorse the statements “I thinkmale homosexuals are disgusting” (t = 3.03, df = 28.66, p < 0.005), “lesbians are sick” (t =2.66, df = 214, p < 0.008), “male homosexuality is a perversion” (t = 3.00, df = 214, p <0.003), and “homosexual behaviour is wrong” (t = 2.69, df = 29.07, p < 0.012). Similarly,males were significantly more likely than females to disagree that “male homosexuality ismerely a different kind of lifestyle that should not be condemned” (t = 2.53, df = 214, p <0.012),10For ethnicity, significant differences were found for all but one item. Non-whiteparticipants were significantly more likely than white participants to agree with the statements“lesbians just can’t fit into our society” (t = -2.41, df = 214, p < 0.017), “male homosexualsare disgusting” (t = -2.88, df = 212, p < 0.004), “lesbians are sick” (t = -2.14, df = 213, p <0.034), “male homosexuality is a perversion” (t = -2.56, df = 213, p < 0.011), “femalehomosexuality is a sin” (t = -3.57, df = 214, p < 0.001), and “homosexual behaviour betweentwo men is just plain wrong” (t= -3.52, df = 213, p < 0.001). Congruent with this, they weresignificantly more likely to disagree that “male homosexuality is a natural expression ofsexuality in human men” (t = -2.72, df = 212, p < 0.007), that “male homosexuality is merelya different kind of lifestyle which should not be condemned” (t = -2.36, df = 213, p < 0.019),and that “state laws regulating private, consenting lesbian behaviour should be loosened” (t =-2.22, df = 212, p < 0.027).Those who identified themselves as having a religious affiliation (e.g. Christian,Muslim, Jewish) were significantly more likely than those with no religious affiliation todisagree that “male homosexuality is a natural expression of sexuality in human men” (t =2.22, df = 212, p < 0.007), that “state laws regulating lesbian behaviour should be loosened”(t = -2.22, df = 212, p < 0.027), and that “male homosexuality is merely a different kind oflifestyle that should not be condemned” (t = 2.21, df = 212, p < 0.029). They were alsosignificantly more likely to agree that “female homosexuality is a sin” (t = 2.79, df = 211.89,p < 0.006).As with males, younger respondents were significantly more likely to agree with thestatement “I think male homosexuals are disgusting” than were older respondents (F [2, 214]= 3.32, p < 0.038). Similarly, younger participants were significantly more likely to disagreethat “state laws regulating private, consenting lesbian behaviour should be loosened” (F [2,214] = 4.14, p < 0.017).11Finally, for the statement “lesbians just can’t fit into our society” significantdifferences were found only for majoring subject. Psychology majors were found to besignificantly less likely to agree with this statement than other social science students (t = -2.61, df = 203, p < 0.01). Significant differences in responses were not found for year of studyon any item.Support for Human RightsSignificant differences in support for lesbian and gay human rights were found for sex,religious affiliation, and age, but not for ethnicity, majoring subject, and year of study. Maleswere significantly less supportive of lesbian and gay human rights than females (t = 2.69, df =207, p < 0.008), and those affiliated to a religion less supportive than those not affiliated toany religion (t = 2.65, df = 206, p < 0.009). Significant age differences in support for lesbianand gay human rights were also found (F [2, 208] = 3.84, p < 0.023), with older participantsindicating greater support than younger participants.Responses to individual questions showed inconsistencies in respondents’ overallsupport for lesbian and gay human rights. For example, to the statement “a person’s sexualorientation should not block that person’s access to basic rights and freedoms” 93.9% ofrespondents agreed or strongly agreed. However, when asked about specific human rightsissues, much fewer respondents indicated support for a pro-lesbian and gay rights position(see table 2). Fewer than half of respondents (43.4%) agreed that “lesbian and gay couplesshould have all the same parenting rights as heterosexuals,” and fewer than half (46.5%)expressed disagreement with the item “society has a right to prevent lesbians and gay menwho want to speak in schools from actively promoting homosexuality as equivalent toheterosexuality.”12Table 2: Student Responses to items from the SLGHR (N=226) expressed aspercentages of the total sample.Agree/StronglyagreeUnsure/neutralDisagree/ StronglydisagreeSocial and Political Rights34. Lesbian and gay couples should have all the same parentingrights as heterosexuals do (for example, adoption, fostering, andaccess to fertility services).47.6 29.9 22.528. Society has a right to prevent lesbians and gay men who wantto speak in schools from actively promoting homosexuality asequivalent to heterosexuality.24.0 27.4 48.613. Books promoting lesbianism and gay male homosexuality asa positive lifestyle should be freely available in school libraries.55.5 27.0 17.524. It should be acceptable for lesbian and gay male couplesopenly to express their affection for their partners in public withoutfear of harassment or violence.79.1 12.3 8.621. Lesbian and gay male couples should be legally permitted tomarry, just as heterosexual couples are.63.4 22.2 14.414. The age at which male homosexual sex is considered legalshould be the same as that for heterosexual sex.66.3 17.0 16.731. Just like people persecuted for their religious and politicalbeliefs, lesbians and gay men should be granted asylum inanother country when homosexuality is persecuted in their own.57.4 30.1 12.517. The partner of a lesbian or gay man should be entitled to thesame immigration rights (for example, permanent resident statusor citizenship) as is a partner of a heterosexual man or woman.78.0 15.7 6.326. All university modules in fields such as social psychology,education, history, English literature, and health studies shouldexplicitly include lesbian and gay male perspectives.48.8 36.2 15.033. It is not appropriate for lesbians and gay men to serve in thearmed forces.78.0 13.2 8.815. All employers should strive to develop just and favourableconditions in the workplace for lesbians and gay men.82.9 10.9 6.27. The partner of a lesbian or gay male employee should beentitled to the same spousal benefits (for example, parental leave,insurance cover, travel benefits, pension rights, etc) as a marriedor defacto partner of a heterosexual employee.71.5 19.3 9.25. Children should be taught respect for the rights of lesbians andgay men.83.1 11.4 5.513Table 2 continued…Agree/StronglyagreeUnsure/neutralDisagree/ StronglydisagreeFreedom of Expression Issues18. A person’s sexual orientation should not block that person’saccess to basic rights and freedoms.96.6 1.8 1.630. Lesbianism and male homosexuality should be listed inpolicies, legislation and treaties as protected from discrimination,in the same way that race, class, sex, and religion are.84.2 10.4 5.410. No one, in any country of the world should be arrested,detained, or exiled simply for being lesbian or gay.94.4 3.0 2.68. Lesbians and gay men should only be allowed to express theirviews as long as they don’t offend or upset the majority.14.4 11.2 74.420. If it is discovered that a primary school teacher is lesbian orgay, she/he should not be allowed to continue teaching.4.2 5.9 89.93. Lesbians and gay men should not have the right to flaunt theirsexuality in public at marches and demonstrations.7.8 17.1 75.112. A country should have the right to impose the death penaltyon lesbians and gay men if that is consistent with that culture’svalues and beliefs.4.8 5.4 89.84. Lesbians and gay men should not be fined or arrested forengaging in consenting sexual acts of whatever nature (forexample, anal intercourse or sadomasochism) in the privacy oftheir own homes.89.4 4.8 5.822. For the most part, policies which guarantee equal rights tolesbians and gay men in such matters as jobs and housingdamage society’s moral standards.7.3 9.8 82.91. There is never a situation in which someone’s homosexualityshould be a cause for job discrimination.82.6 8.0 9.4Privacy of Identity25. It is okay for a newspaper or organisation to publicise that aperson is lesbian or gay without that person’s permission.10.5 18.1 71.427. A man’s homosexuality or a woman’s lesbianism should notbe raised as an issue in a court of law, unless the case underconsideration directly relates to homosexual acts.90.1 7.7 2.2* Figures do not add up to 100% as some participants did not respond to all questions.14For Factor 1 (social and political rights) significant differences were found for age, sex, andreligious affiliation, but not for ethnicity, majoring subject, and year of study. Youngerrespondents were consistently found to be significantly less supportive of social and politicalrights for lesbians and gay men, than were older respondents (F [189, 2] = 5.64, p < 0.004);males less supportive than females (F [189, 1] = 4.31, p < 0.04); and those with religiousaffiliations less supportive than those with no religious affiliation (F [189, 1] = 6.45, p <0.01).For Factor 2 (freedom of expression issues) significant differences were found for age,ethnicity and sex, but not for religious affiliation, majoring subject, and year of study. Again,younger respondents were found to be significantly less supportive than older participants (F[190, 2] = 3.66, p < 0.03); non-white respondents significantly less supportive than whiteparticipants (F [190, 1] = 13.00, p < 0.001), and males significantly less supportive thanfemales (F [190, 1] = 9.32, p < 0.003).For Factor 3 (privacy of identity issues), significant differences were found for ageand for sex, but not for ethnicity, religious affiliation, majoring subject, and year of study.Like the other two factors, younger respondents were found to be less supportive than olderrespondents (F [2, 192] = 5.40, p < 0.05), and males less supportive than females (F [1, 192]= 9.18, p < 0.003).Attitudes towards Lesbians and Gay Men and Support for Human RightsA highly statistically significant relationship was found between attitudes toward lesbians andgay men and support for lesbian and gay human rights (r = 0.878, N = 207, p < 0.001). Thus,the more negative a participant’s attitude toward lesbians and gay men, the less likely he/shewas to indicate support for lesbian and gay rights.15DISCUSSIONIn the present study, 226 university students taking psychology modules were surveyed abouttheir attitudes towards lesbians and gay men, and their level of support for lesbian and gayhuman rights. Respondents were asked to rate the extent to which they agreed or disagreedwith a series of statements, and the completed questionnaires were then analysed on a basis ofthe whole sample, and with respect to selected demographic variables.Compared with other studies employing the ATLG, the response pattern of the wholesample in this study was similar to that in some studies (e.g. D’Augelli, 1989), but notuniformly consistent. For some items there was a marked difference in responses. Forexample, for four of the five items pertaining to gay men (“I think male homosexuals aredisgusting,” “male homosexuality is a perversion,” “male homosexuality is merely a differentkind of lifestyle that should not be condemned,” and “homosexual behaviour between twomen is just plain wrong”), a greater proportion of respondents in D’Augelli’s (1989) sampleindicated negative attitudes than the proportion of respondents who did so in the presentstudy. Similarly, a greater proportion of respondents in D’Augelli’s study respondednegatively to the statement “Female homosexuality is a sin” than did in this study.Furthermore, in Herek’s studies (see Herek, 1994), responses to all statements yielded a muchgreater proportion of negative responses. However, it may be that the difference in proportionof negative responses between this study and other studies is due to cultural differences, inthat both Herek’s and D’Augelli’s studies were undertaken in the United States where thereappears to be much stronger anti-lesbian/gay lobby than in the United Kingdom (e.g. seeConcerned Women for America, 1995; McFeely, 1999).16Since normative cut-off points are not given for the ATLG-S, and a 5-point ratherthan 9-point scale was employed in this study, it is not possible to compare mean attitudescores in this study with those in previous studies. Even so, it is striking that although overallscores for this sample were reasonably low on average (M = 18.4, SD = 7.0), around 16% ofrespondents did not disagree with the statement “male homosexuality is a perversion,” andalmost 9% did not disagree with the statement “lesbians are sick.”The finding that male respondents expressed significantly more negative attitudes thanfemale respondents is consistent with other recent studies (e.g. D’Augelli, 1989; Donnelly etal., 1997; Klamen et al., 1999; Malaney et al., 1997; Schellenberg et al., 1999; Seltzer, 1992),as is the finding that participants with some religious affiliation were more homophobic thanparticipants with no religious affiliation (Berkman & Zinberg, 1997; Seltzer, 1992; see alsoEliason, 1995; Herek, 1994). Similarly, although studies vary in whether or not they findsignificant differences for ethnicity, lesbian and gay psychologists have typically reported thatlesbians and gay men often experience difficulty in coming out due to negative attitudestowards homosexuality in their respective cultures (e.g. see Chan, 1989; Tremble et al.,1989). The finding of this study that non-white participants express more negative attitudes isconsistent with this. However, caution should be exercised in interpreting this finding giventhe substantial body of literature highlighting ethnocentric bias in psychometric measures(e.g. see Rogler, 1999; Walsh & Betz, 1990).However, our findings do not concur with those of Matchinsky & Iverson (1996), inthat significant differences in attitudes were not found for majoring subject. In the presentstudy, with only one exception (“lesbians just can’t fit into our society”), there were nosignificant differences between students majoring in psychology and those majoring in othersubjects, for any of the items in the questionnaire.17In relation to lesbian and gay human rights issues, at first sight the findings of thisstudy suggest that respondents were generally supportive of lesbian and gay human rights.This was evident in that the SLGHR scores for the sample were reasonably low on average(M = 49.3, SD = 15.4, compared with a maximum possible score of 125 indicating uniformlack of support for lesbian and gay human rights), and in that there was overwhelmingsupport (93.9%) for the statement “a person’s sexual orientation should not block thatperson’s access to basic rights and freedoms.” However, responses to questions about specifichuman rights issues did not show a level of support consistent with the response to thisgeneral statement. For example, fewer than half of respondents were willing to extendparenting rights to lesbians and gay men (43.4%); about a third (33.7%) did not agree thatlesbians and gay men should have the right to marry, and more than a quarter of therespondents (26.8%) did not agree that spousal benefits should be extended to the partners oflesbian and gay employees. These findings suggest that although SLGHR scores werereasonably high, respondents in the present study did not overwhelmingly support lesbian andgay human rights.At first, this inconsistency seems surprising. However, theory around racial attitudes(e.g. see Krysan, 1998; McConahay, Hardee, & Batts, 1981; Schuman, Steeh, & Bobo, 1985),seems to suggest that in the liberal ethos of today’s society, it is not generally consideredacceptable (particularly among university educated individuals) to express attitudes which areovertly discriminatory (i.e. sexist, racist, heterosexist). Consequently, respondents are likelyto endorse egalitarian values in responding to a statement such as “a person’s sexualorientation should not block that person’s access to basic rights and freedoms,” to which anegative response would clearly indicate a prejudiced viewpoint (cf. McConahay et al., 1981;Schuman et al., 1985). However, when presented with a specific issue (e.g. “society has aright to prevent lesbians and gay men who want to speak in schools from actively promoting18homosexuality as equivalent to heterosexuality”), people tend to perceive lesbians and gaymen as receiving something ‘extra’, and invoke the argument of equity (or what seems fair) inorder to absolve them from claims of being prejudiced (cf. Krysan, 1998). So, while peoplemay support equal rights as a general principle, they fail to extend that support to specificissues of equality. This pattern of response would seem to indicate the expressed belief inegalitarianism as a socially desirable value, but a lack of commitment to it, especially when itcomes into conflict with one’s personal values and beliefs (see Schuman et al., 1985).Although few previous studies have comprehensively investigated lesbian and gayrights issues, the findings of this study were comparable to those of other studies in somerespects. For example, questions relating to parenting issues and marriage yielded similarresponse patterns to those in other studies (e.g. Malaney et al., 1997). However, respondentsin this study showed greater support than in other studies with regard to issues such as theextension of spousal benefits to lesbian and gay couples (e.g. see Eliason, 1996), and inallowing lesbians and gay men to serve in the military (Malaney et al., 1997). It may be thatthis too is due to the cultural differences discussed earlier, or as with attitudes, social sciencesstudents (as employed in the present study) may be more supportive of lesbian and gay rightsthan students generally (cf. Schellenberg et al., 1999).Considering the results for the ALTG and the human rights subscales together, theseresults are a cause for concern. Like the medical students in Klamen et al.’s (1999) sample,many students taking psychology courses are likely to become practitioners or policy makersin the future, working directly with, or influencing the lives of lesbians and gay men. Theprevalence of negative attitudes toward lesbians and gay men, particularly in regard to thelack of endorsement of lesbian and gay human rights, does not bode well: If lesbian and gayrights are not supported in principle, they are unlikely to be supported in practice. Our19attention might therefore turn to how we might improve the attitudes of psychology studentsin relation to lesbian and gay issues.Psychology students often receive little (if any) exposure to lesbian and gay issues intheir courses, and are therefore not well prepared to become practitioners working with, or onbehalf of, lesbians and gay men (e.g. see Buhrke, 1989a; Kitzinger, 1990; Pilkington &Cantor, 1996). As many lesbian and gay psychologists (e.g. Allen, 1995; Cain, 1996; Eliason,1996; Kitzinger, 1989) have highlighted, lesbian and gay male invisibility perpetuatesnegative attitudes towards lesbians and gay men, and breeds ignorance about their issues,needs, and concerns. It is therefore important that heterosexual students (and those who teachthem) are encouraged to challenge their own negative attitudes, and to explore the ways inwhich these might prevent them from being ethically sound practitioners. Consequently,lesbian and gay issues could more frequently be made an integral part of the curriculum,through exposure to lesbian and gay perspectives in the classroom (e.g. see Burhke, 1989b;Chng & Moore, 1991; Wells, 1989), by inviting lesbian and gay speakers (e.g. see Berkman& Zinberg, 1997; Geasler, Croteau, Heineman, & Edlund, 1995; Long, 1996), throughprovision of lesbian and gay resources (e.g. see Long, 1996; Schreier, 1995), theestablishment and enforcement of anti-discrimination and human rights policies (see Eliason,1996; Travers & Schneider, 1996), and education in human rights. The importance ofmeasures such as these is one important strategy in promoting positive social change inattitudes towards lesbians and gay men, and in support for lesbian and gay human rights.20REFERENCESAllen, K. R. (1995). Opening the classroom closet: Sexual orientation and self-disclosure.Family Relations, 44, 136-141.Annesley, P. & Coyle, A. (1995). Clinical psychologists’ attitudes to lesbians. Journal ofCommunity and Applied Social Psychology, 5 (5), 327-331.Berkman, C. S., & Zinberg, G. (1997). Homophobia and heterosexism in social workers.Social Work, 42 (4), 319-332.Buhrke, R. A. (1989a). Female student perspectives on training in lesbian and gay issues.Counselling Psychologist, 17 (4), 629-636.Buhrke, R. A. (1989b). Incorporating lesbian and gay issues into counselor training: Aresource guide. Journal of Counseling and Development, 68, 77-80.Cain, R. (1996). Heterosexism and self-disclosure in the social work classroom. Journalof Social Work Education, 32 (1), 65-76.Chan, C. S. (1989). Issues of identity development among Asian-American lesbians andgay men. Journal of Counseling and Development, 68, 16-20.Chernin, J., Holden, J. M., & Chandler, C. (1997). Bias in psychological assessment:Heterosexism. Measurement and Evaluation in Counseling and Development, 30,68-76.Chng, C. L., & Moore, A. (1991). Can attitudes of college students towards AIDS andhomosexuality be changed in six weeks? The effects of a gay panel. Health Values,15 (2), 41-49.Concerned Women for America (1995). [Letter to CWA members]. Washington, DC:Author. Retrieved July 20, 1999 from the World Wide Web:http://mother.qrd.org/qrd/religion/anti/CWA/attacks.nea-11.9521D’Augelli, A. R. (1989). Homophobia in a university community: Views of prospectiveresident assistants. Journal of College Student Development, 30, 547 – 552.DeCrescenzo, T. A. (1983-84). Homophobia: A study of the attitudes of mental healthprofessionals toward homosexuality. Journal of Social Work and Human Sexuality, 2(2-3), 115 – 136.Diaz-Veizades, J., Widaman, K. F., Little, T. D., & Gibbs, K. W. (1995). The measurementand structure of human rights attitudes. The Journal of Social Psychology, 135 (3), 313-328.Doise, W., Spini, D., & Clémence, A. (1999). Human rights studied as social representationsin a cross-national context. European Journal of Social Psychology, 29, 1-29.Donnelly, J., Donnelly, M., Kittelson, M. J., Fogarty, K. J., Procaccino, A. T., & Duncan, D.F. (1997). An exploration of attitudes on sexuality at a northeastern urban university.Psychological Reports, 81 (2), 677 – 678.Douglas, C. J., Kalman, C. M., & Kalman, T. P. (1985). Homophobia among physicians andnurses: An empirical study. Hospital and Community Psychiatry, 36 (12) 1309 – 1311.[Abstract from Psychlit].Eliason, M. J. (1995). Attitudes about lesbians and gay men: A review and implications forsocial service training. Journal of Gay and Lesbian Social Services, 2 (2), 73-90.Eliason, M. J. (1996). A survey of the campus climate for lesbian, gay, and bisexualuniversity members. Journal of Psychology & Human Sexuality, 8 (4), 39-58.Ellsworth, P. C. & Gross, S. R. (1994). Hardening of the attitudes: Americans' views on thedeath penalty. Journal of Social Issues, 50 (2), 19-52.Fort, J., Steiner, C. M., & Conrad, F. (1971). Attitudes of mental health professionalstoward homosexuality and its treatment. Psychological reports, 29, 347-350.Fretz, B. R. (1975). Assessing attitudes toward sexual behaviors. Counseling22Psychologist, 5 (1), 100-106.Garfinkle, E. M., & Morin, S. F. (1978). Psychologists' attitudes toward homosexualpsychotherapy clients. Journal of Social Issues, 34 (3), 101-112.Geasler, M. J., Croteau, J. M., Heineman, C. J., & Edlund, C. J. (1995). A qualitativestudy of students’ expression of change after attending panel presentations bylesbian, gay, and bisexual speakers. Journal of College Student Development, 36(5), 483-492.Herek, G. M. (1994). Assessing heterosexuals’ attitudes toward lesbians and gay men: Areview of empirical research with the ATLG scale. In B. Greene & G. M. Herek(Eds.), Psychological perspectives on lesbian and gay issues, v.1: Lesbian and gaypsychology: Theory, research, and clinical applications. Newbury Park, CA: Sage.Hudson, W. W., & Ricketts, W. A. (1980). A strategy for the measurement ofhomophobia. Journal of Homosexuality, 5 (4), 357-372.Kahn, P. (1997). Children’s moral and ecological reasoning about the Prince William Soundoil spill. Developmental Psychology, 33 (6), 1091-1096.Kitzinger, C. (1989, September 6). Coming out once again. The Guardian, p. ?Kitzinger, C. (1990). Heterosexism in psychology. The Psychologist, September, 391-392.Klamen, D. L., Grossman, L. S., & Kopacz, D. R. (1999). Medical student homophobia.Journal of Homosexuality, 37 (1), 53 – 63.Krysan, M. (1998). Privacy and the expression of white racial attitudes: A comparison acrossthree contexts. Public Opinion Quarterly, 62, 506-544.Long, J. K. (1996). Working with lesbians, gays, and bisexuals: Addressing heterosexismin supervision. Family Process, 35, 377-388.23Malaney, G. D. (1994). Gay, lesbian, bisexual issues survey (S94-H). (Available fromauthor, The University of Massachussetts, Amherst, USA).Malaney, G. D., Williams, E. A., & Geller, W. W. (1997). Assessing campus climate forgays, lesbians, and bisexuals at two institutions. Journal of College StudentDevelopment, 38 (4), 365 – 375.Maney, D. W. & Cain, R. E. (1997). Preservice elementary teachers’ attitudes toward gay andlesbian parenting. Journal of School Health, 67 (6). 236-241.Matchinsky, D. J., & Iverson, T. G. (1997). Homophobia in heterosexual femaleundergraduates. Journal of Homosexuality, 31 (4), 123 – 128.McConahay, J. B., Hardee, B. B., & Batts, V. (1981). Has racism declined in America? Itdepends on who is asking and what is asked. Journal of Conflict Resolution, 25 (4),563-579.McFeely, T. (1999). Homosexuality is Not a Universal Human Right [Document].Washington, DC: Family Research Council. Retrieved September 23, 1999 from theWorld Wide Web: http://www.frc.org/insight/is99a2un.htmlPilkington, N. W., & Cantor, J. M. (1996). Perceptions of heterosexual bias inprofessional psychology programs: A survey of graduate students. ProfessionalPsychology: Research and Practice, 27 (6), 604-612.Proulx, R. (1997). Homophobia in northeastern Brazilian university students. Journal ofHomosexuality, 34 (1), 47-56.Rogler, L. H. (1999). Methodological sources of cultural insensitivity in mental healthresearch. American Psychologist, 54 (6), 424-433.Schellenberg, E. G., Hirt, J., & Sears, A. (1999). Attitudes towards homosexuals amongstudents at a Canadian university. Sex Roles, 40 (1-2), 139 – 152.24Schreier, B. A. (1995). Moving beyond tolerance: A new paradigm for programming abouthomophobia/biphobia and heterosexism. Journal of College Student Development, 36(1), 19-26.Schuman, H., Steeh, C., & Bobo, L. (1985). Racial attitudes in America: Trends andinterpretations. Cambridge, MA: Harvard University Press.Seltzer, R. (1992). The social location of those holding anti-homosexual attitudes. Sex Roles,26 (9/10), 391-398.Simoni, J. M. (1996). Confronting heterosexism in the teaching of psychology. Teachingof Psychology, 23 (4), 220-226.Travers, R., & Schneider, M. (1996). Barriers to accessibility for lesbian and gay youthneeding addictions services. Youth & Society, 27 (3), 356-378.Tremble, B., Schneider, M., & Appathurai, C. (1989). Growing up gay or lesbian in amulticultural context. Journal of Homosexuality, 17 (3), 253-267.Walsh, W. B., & Betz, N. E. (1990). Tests and Assessment (2nd Ed.). Englewood Cliffs,NJ: Prentice Hall.Wells, J. W. (1989). Teaching about gay and lesbian sexual and affectional orientationusing explicit films to reduce homophobia. Journal of Humanistic Education andDevelopment, 28, 18-34.Wisniewski, J. J., & Toomey, B. G. (1987). Are social workers homophobic? Social work, 32(5), 454 – 455.",
+    "id": 99913,
+    "identifiers": {
+        "doi": "10.1300/J082v44n01_07",
+        "oai": "oai:shura.shu.ac.uk:122"
+    },
+    "title": "Attitudes towards lesbians and gay men and support for lesbian and gay human rights among psychology students",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2003-08-25T00:00:00+01:00",
+    "publisher": null,
+    "references": [
+        {
+            "id": 844932,
+            "title": "[Letter to CWA members].",
+            "authors": [],
+            "date": "1995",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 856121,
+            "title": "6). Coming out once again.",
+            "authors": [],
+            "date": "1989",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 853600,
+            "title": "A qualitative study of students’ expression of change after attending panel presentations by lesbian, gay, and bisexual speakers.",
+            "authors": [],
+            "date": "1995",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 855005,
+            "title": "A strategy for the measurement of homophobia.",
+            "authors": [],
+            "date": "1980",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 850044,
+            "title": "A survey of the campus climate for lesbian, gay, and bisexual university members.",
+            "authors": [],
+            "date": "1996",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 848196,
+            "title": "An exploration of attitudes on sexuality at a northeastern urban university.",
+            "authors": [],
+            "date": "1997",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 868299,
+            "title": "Are social workers homophobic?",
+            "authors": [],
+            "date": "1987",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 852193,
+            "title": "Assessing attitudes toward sexual behaviors.",
+            "authors": [],
+            "date": "1975",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 858848,
+            "title": "Assessing campus climate for gays, lesbians, and bisexuals at two institutions.",
+            "authors": [],
+            "date": "1997",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 854311,
+            "title": "Assessing heterosexuals’ attitudes toward lesbians and gay men: A review of empirical research with the ATLG scale. In",
+            "authors": [],
+            "date": "1994",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 849396,
+            "title": "Attitudes about lesbians and gay men: A review and implications for social service training.",
+            "authors": [],
+            "date": "1995",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 851416,
+            "title": "Attitudes of mental health professionals toward homosexuality and its treatment.",
+            "authors": [],
+            "date": "1971",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 863472,
+            "title": "Attitudes towards homosexuals among students at a Canadian university.",
+            "authors": [],
+            "date": "1999",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 866258,
+            "title": "Barriers to accessibility for lesbian and gay youth needing addictions services.",
+            "authors": [],
+            "date": "1996",
+            "doi": "10.1177/0044118X96027003005",
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 844356,
+            "title": "Can attitudes of college students towards AIDS and homosexuality be changed in six weeks? The effects of a gay panel.",
+            "authors": [],
+            "date": "1991",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 855488,
+            "title": "Children’s moral and ecological reasoning about the Prince William Sound oil spill.",
+            "authors": [],
+            "date": "1997",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 840367,
+            "title": "Clinical psychologists’ attitudes to lesbians.",
+            "authors": [],
+            "date": "1995",
+            "doi": "10.1002/casp.2450050504",
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 865489,
+            "title": "Confronting heterosexism in the teaching of psychology.",
+            "authors": [],
+            "date": "1996",
+            "doi": "10.1207/s15328023top2304_3",
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 841713,
+            "title": "Female student perspectives on training in lesbian and gay issues.",
+            "authors": [],
+            "date": "1989",
+            "doi": "10.1177/0011000089174006",
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 862175,
+            "title": "from the World Wide Web: http://www.frc.org/insight/is99a2un.html",
+            "authors": [],
+            "date": "1999",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 858198,
+            "title": "Gay, lesbian, bisexual issues survey (S94-H). (Available from author,",
+            "authors": [],
+            "date": "1994",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 866962,
+            "title": "Growing up gay or lesbian in a multicultural context.",
+            "authors": [],
+            "date": "1989",
+            "doi": "10.1300/J082v17n03_03",
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 850708,
+            "title": "Hardening of the attitudes: Americans' views on the death penalty.",
+            "authors": [],
+            "date": "1994",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 860821,
+            "title": "Has racism declined in America? It depends on who is asking and what is asked.",
+            "authors": [],
+            "date": "1981",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 843030,
+            "title": "Heterosexism and self-disclosure in the social work classroom.",
+            "authors": [],
+            "date": "1996",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 848770,
+            "title": "Homophobia among physicians and nurses: An empirical study.",
+            "authors": [],
+            "date": "1985",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 841044,
+            "title": "Homophobia and heterosexism in social workers.",
+            "authors": [],
+            "date": "1997",
+            "doi": "10.1093/sw/42.4.319",
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 860162,
+            "title": "Homophobia in heterosexual female undergraduates.",
+            "authors": [],
+            "date": "1997",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 862265,
+            "title": "Homophobia in northeastern Brazilian university students.",
+            "authors": [],
+            "date": "1997",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 846312,
+            "title": "Homophobia: A study of the attitudes of mental health professionals toward homosexuality.",
+            "authors": [],
+            "date": "1983",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 861485,
+            "title": "Homosexuality is Not a Universal Human Right [Document].",
+            "authors": [],
+            "date": "1999",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 847551,
+            "title": "Human rights studied as social representations in a cross-national context.",
+            "authors": [],
+            "date": "1999",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 842410,
+            "title": "Incorporating lesbian and gay issues into counselor training: A resource guide.",
+            "authors": [],
+            "date": "1989",
+            "doi": "10.1002/j.1556-6676.1989.tb02498.x",
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 843658,
+            "title": "Issues of identity development among Asian-American lesbians and gay men.",
+            "authors": [],
+            "date": "1989",
+            "doi": "10.1002/j.1556-6676.1989.tb02485.x",
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 856401,
+            "title": "Medical student homophobia.",
+            "authors": [],
+            "date": "1999",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 862818,
+            "title": "Methodological sources of cultural insensitivity in mental health research.",
+            "authors": [],
+            "date": "1999",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 863583,
+            "title": "Moving beyond tolerance: A new paradigm for programming about homophobia/biphobia and heterosexism.",
+            "authors": [],
+            "date": "1995",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 839731,
+            "title": "Opening the classroom closet: Sexual orientation and self-disclosure.",
+            "authors": [],
+            "date": "1995",
+            "doi": "10.2307/584799",
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 859508,
+            "title": "Preservice elementary teachers’ attitudes toward gay and lesbian parenting.",
+            "authors": [],
+            "date": "1997",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 857107,
+            "title": "Privacy and the expression of white racial attitudes: A comparison across three contexts.",
+            "authors": [],
+            "date": "1998",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 852880,
+            "title": "Psychologists' attitudes toward homosexual psychotherapy clients.",
+            "authors": [],
+            "date": "1978",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 864312,
+            "title": "Racial attitudes in America: Trends and interpretations.",
+            "authors": [],
+            "date": "1985",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 867621,
+            "title": "Teaching about gay and lesbian sexual and affectional orientation using explicit films to reduce homophobia.",
+            "authors": [],
+            "date": "1989",
+            "doi": "10.1002/j.2164-4683.1989.tb00179.x",
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 846966,
+            "title": "The measurement and structure of human rights attitudes.",
+            "authors": [],
+            "date": "1995",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 864980,
+            "title": "The social location of those holding anti-homosexual attitudes.",
+            "authors": [],
+            "date": "1992",
+            "doi": "10.1007/BF00291550",
+            "raw": null,
+            "cites": null
+        },
+        {
+            "id": 857522,
+            "title": "Working with lesbians, gays, and bisexuals: Addressing heterosexism in supervision.",
+            "authors": [],
+            "date": "1996",
+            "doi": null,
+            "raw": null,
+            "cites": null
+        }
+    ],
+    "sourceFulltextUrls": [],
+    "updatedDate": "",
+    "yearPublished": "2003",
+    "links": [
+        {
+            "type": "download",
+            "url": "https://core.ac.uk/download/99913.pdf"
+        },
+        {
+            "type": "reader",
+            "url": "https://core.ac.uk/reader/99913"
+        },
+        {
+            "type": "thumbnail_m",
+            "url": "https://core.ac.uk/image/99913/medium"
+        },
+        {
+            "type": "thumbnail_l",
+            "url": "https://core.ac.uk/image/99913/large"
+        },
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/99913"
+        }
+    ],
+    "abstract": "A questionnaire comprising two scales, the short form of the Attitudes Towards Lesbians and Gay Men Scale (ATLG-S; Herek, 1984) and the newly devised Support for Lesbian and Gay Human Rights Scale (SLGHR) were administered to 226 students taking undergraduate psychology courses at universities in the United Kingdom, to assess their attitudes towards lesbians and gay men, and their level of support for lesbian and gay human rights. The results indicated that whilst only a small percentage of  respondents expressed negative attitudes towards lesbians and gay men on the ATLG-S, the sample as a whole did not overwhelmingly support lesbian and gay human rights. The lack of support for lesbian and gay human rights is discussed in relation to its implications for psychology students as future practitioners and policy makers.\n\n</p",
+    "tags": [],
+    "fulltextStatus": "enabled",
+    "subjects": [],
+    "oai": "oai:shura.shu.ac.uk:122",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "102",
+        "openDoarId": 0,
+        "name": "Sheffield Hallam University Research Archive",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 99913,
+        "depositedDate": "2003-05-20T00:00:00+01:00",
+        "publishedDate": "2003-08-25T00:00:00+01:00",
+        "updatedDate": "2024-02-12T08:48:30+00:00",
+        "acceptedDate": "2003-05-20T00:00:00+01:00",
+        "createdDate": "2012-07-04T03:57:34+01:00"
+    },
+    "urls": [
+        "https://shura.shu.ac.uk/122/1/fulltext.pdf"
+    ],
+    "lastUpdate": "2024-02-12T08:48:30+00:00",
+    "setSpecs": []
+}

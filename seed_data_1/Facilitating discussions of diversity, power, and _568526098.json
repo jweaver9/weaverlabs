@@ -1,0 +1,100 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Talarico, Giacinta"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2023-06-28T09:05:42+01:00",
+    "dataProvider": {
+        "id": 21429,
+        "name": "Kean Digital Learning Commons",
+        "url": "https://api.core.ac.uk/v3/data-providers/21429",
+        "logo": "https://api.core.ac.uk/data-providers/21429/logo"
+    },
+    "depositedDate": "",
+    "documentType": "",
+    "doi": "",
+    "downloadUrl": "https://core.ac.uk/download/568526098.pdf",
+    "fullText": "Facilitating discussions of diversity, power, and privilege for professional students with Loden's diversity wheel  Diversity wheels have been widely used since the 1990s to facilitate reflection and discussion regarding individual diversity and intersectionality in the workplace (Loden & Rosener, 1991). Now widely available online, these tools have been adapted for a variety of community-building exercises in the classroom. This participatory workshop demonstrates how these activities can be adapted to facilitate engaged dialogue among professional students in the interest of developing critical self-awareness that enhances justice, equity, and inclusion as they begin internships and careers in clinical practice.  Prior to the workshop, the facilitator will arrange identity label signs throughout the workshop room. After the facilitator briefly introduces the concept of the diversity wheel (Loden, 1995), participants will be prompted to complete identity wheels individually. Upon completion, the facilitator will ask the group a series of questions that prompt them to move to different sections of the room under the appropriate identity label sign. Participants will be asked to share – to the degree that they are comfortable – their reasoning for moving to various signs. The facilitator will participate in the activity, and will provide a brief explanation of the andragogical and feminist philosophy behind this choice. Participants will then be asked to brainstorm additional prompts in small groups that are specific to their various fields of expertise.  Loden, M. (1995). Implementing diversity. McGraw Hill. Loden, M. & Rosener, J. (1991). Workforce America! Managing employee diversity as a vital resource.  ",
+    "id": 568526098,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:digitalcommons.kean.edu:oer_conference-1069"
+    },
+    "title": "Facilitating discussions of diversity, power, and privilege for professional students with Loden\\u27s diversity wheel",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2023-04-13T23:00:00+01:00",
+    "publisher": "Kean Digital Learning Commons",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://digitalcommons.kean.edu/cgi/viewcontent.cgi?article=1069&context=oer_conference"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2023",
+    "links": [
+        {
+            "type": "download",
+            "url": "https://core.ac.uk/download/568526098.pdf"
+        },
+        {
+            "type": "reader",
+            "url": "https://core.ac.uk/reader/568526098"
+        },
+        {
+            "type": "thumbnail_m",
+            "url": "https://core.ac.uk/image/568526098/medium"
+        },
+        {
+            "type": "thumbnail_l",
+            "url": "https://core.ac.uk/image/568526098/large"
+        },
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/568526098"
+        }
+    ],
+    "abstract": "Diversity wheels have been widely used since the 1990s to facilitate reflection and discussion regarding individual diversity and intersectionality in the workplace (Loden & Rosener, 1991). Now widely available online, these tools have been adapted for a variety of community-building exercises in the classroom. This participatory workshop demonstrates how these activities can be adapted to facilitate engaged dialogue among professional students in the interest of developing critical self-awareness that enhances justice, equity, and inclusion as they begin internships and careers in clinical practice",
+    "tags": [
+        "text"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "text"
+    ],
+    "oai": "oai:digitalcommons.kean.edu:oer_conference-1069",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "21429",
+        "openDoarId": 0,
+        "name": "Kean Digital Learning Commons",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 568526098,
+        "depositedDate": null,
+        "publishedDate": "2023-04-13T23:00:00+01:00",
+        "updatedDate": "2024-01-20T05:18:50+00:00",
+        "acceptedDate": null,
+        "createdDate": "2023-06-28T09:05:42+01:00"
+    },
+    "urls": [
+        "https://digitalcommons.kean.edu/oer_conference/2023/April_13th_Schedule/8",
+        "https://digitalcommons.kean.edu/context/oer_conference/article/1069/viewcontent/auto_convert.pdf"
+    ],
+    "lastUpdate": "2024-01-20T05:18:50+00:00",
+    "setSpecs": []
+}

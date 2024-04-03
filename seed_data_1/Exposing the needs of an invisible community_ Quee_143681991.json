@@ -1,0 +1,102 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Kenny, Meghan"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2017-12-30T13:07:09+00:00",
+    "dataProvider": {
+        "id": 3375,
+        "name": "Wilfrid Laurier University",
+        "url": "https://api.core.ac.uk/v3/data-providers/3375",
+        "logo": "https://api.core.ac.uk/data-providers/3375/logo"
+    },
+    "depositedDate": "",
+    "documentType": "slides",
+    "doi": "",
+    "downloadUrl": "https://core.ac.uk/download/143681991.pdf",
+    "fullText": "Wilfrid Laurier University Scholars Commons @ Laurier Theses and Dissertations (Comprehensive) 2003 Exposing the needs of an invisible community: Queer youth in Kitchener-Waterloo Meghan Kenny Wilfrid Laurier University Follow this and additional works at: https://scholars.wlu.ca/etd  Part of the Community Psychology Commons, and the Lesbian, Gay, Bisexual, and Transgender Studies Commons Recommended Citation Kenny, Meghan, \"Exposing the needs of an invisible community: Queer youth in Kitchener-Waterloo\" (2003). Theses and Dissertations (Comprehensive). 741. https://scholars.wlu.ca/etd/741 This Thesis is brought to you for free and open access by Scholars Commons @ Laurier. It has been accepted for inclusion in Theses and Dissertations (Comprehensive) by an authorized administrator of Scholars Commons @ Laurier. For more information, please contact scholarscommons@wlu.ca. ",
+    "id": 143681991,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:scholars.wlu.ca:etd-1740"
+    },
+    "title": "Exposing the needs of an invisible community: Queer youth in Kitchener-Waterloo",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2003-01-01T08:00:00+00:00",
+    "publisher": "Scholars Commons @ Laurier",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://scholars.wlu.ca/cgi/viewcontent.cgi?article=1740&amp;context=etd"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2003",
+    "links": [
+        {
+            "type": "download",
+            "url": "https://core.ac.uk/download/143681991.pdf"
+        },
+        {
+            "type": "reader",
+            "url": "https://core.ac.uk/reader/143681991"
+        },
+        {
+            "type": "thumbnail_m",
+            "url": "https://core.ac.uk/image/143681991/medium"
+        },
+        {
+            "type": "thumbnail_l",
+            "url": "https://core.ac.uk/image/143681991/large"
+        },
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/143681991"
+        }
+    ],
+    "abstract": "Using a participatory action research approach, and a steering committee composed of stakeholders from the community, this thesis focused on identifying the needs of queer youth in Kitchener-Waterloo, Ontario. Multiple methods were used including focus groups, key informant interviews, and an online survey. A total of 31 participants were involved in this study including youth between the ages of 16 and 25 (who identified as lesbian, gay, bisexual, trans, questioning, or unsure), parents of queer youth and other community members. Barriers to queer youth wanting to access resources were addressed and strategies to overcome them are offered. In addition, suggestions for improving existing resources are discussed as well as recommendations for new resources or support services. Findings of this study revealed a severe lack of resources and support in local high schools, no inclusion of queer content in the curriculum, no safe space campaigns, and a general resistance to address the issue of supporting queer students. Finding relating to the two universities (Wilfrid Laurier University and University of Waterloo) suggested a need for a safe space campaign and increased community advertising of the services offered by the queer university groups. In the community, there are no safe spaces for underage queer youth to socialize, and no control location for queer youth to access information, resources, or support. The development of a queer community centre and queer youth drop-in centre was strongly recommended by participants. Main themes of the research centered on issues of visibility of queer resources and the queer community, as well as the significance of safety and acceptance in meeting the needs of queer youth. Recommendations are made for actions to be taken in high schools, universities, and in the community",
+    "tags": [
+        "text",
+        "Community Psychology",
+        "Lesbian, Gay, Bisexual, and Transgender Studies"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "text"
+    ],
+    "oai": "oai:scholars.wlu.ca:etd-1740",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "3375",
+        "openDoarId": 0,
+        "name": "Wilfrid Laurier University",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 143681991,
+        "depositedDate": null,
+        "publishedDate": "2003-01-01T08:00:00+00:00",
+        "updatedDate": "2024-01-24T02:39:58+00:00",
+        "acceptedDate": null,
+        "createdDate": "2017-12-30T13:07:09+00:00"
+    },
+    "urls": [
+        "https://scholars.wlu.ca/etd/741",
+        "https://scholars.wlu.ca/context/etd/article/1740/viewcontent/MQ86617.PDF"
+    ],
+    "lastUpdate": "2024-01-24T02:39:58+00:00",
+    "setSpecs": []
+}

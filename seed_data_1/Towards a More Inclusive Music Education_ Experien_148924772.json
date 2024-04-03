@@ -1,0 +1,95 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Holmes, Edward J."
+        },
+        {
+            "name": "Talbot, Brent C."
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2018-02-11T15:20:13+00:00",
+    "dataProvider": {
+        "id": 3454,
+        "name": "Gettysburg College",
+        "url": "https://api.core.ac.uk/v3/data-providers/3454",
+        "logo": "https://api.core.ac.uk/data-providers/3454/logo"
+    },
+    "depositedDate": "",
+    "documentType": "research",
+    "doi": "",
+    "downloadUrl": "https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1016&amp;context=consfacpub",
+    "fullText": "",
+    "id": 148924772,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:cupola.gettysburg.edu:consfacpub-1016"
+    },
+    "title": "Towards a More Inclusive Music Education: Experiences of LGBTQQIAA Students in Music Teacher Education Programs Across Pennsylvania",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2017-01-01T08:00:00+00:00",
+    "publisher": "The Cupola: Scholarship at Gettysburg College",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1016&amp;context=consfacpub"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2017",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/148924772"
+        }
+    ],
+    "abstract": "During the past decade, the field of music education has seen an increase in the amount of scholarship surrounding LGBTQ studies in music teaching and learning. For example, the University of Illinois hosted three symposia for the field of music education dedicated to LGBTQ studies (2010, 2012, 2016), and proceedings from these symposia were published in three separate issues of the of the Bulletin of the Council for Research in Music Education (2011, 2014, 2016). Other notable scholarship has been published in Action, Criticism, and Theory for Music Education (Gould 2005); the Music Educators Journal (Bergonzi, 2009; Carter, 2011; McBride, 2016); the Journal of Research in Music Education (Carter, 2013; Nicholas, 2013); and UPDATE: Applications of Research in Music Education (Garrett, 2012). (excerpt",
+    "tags": [
+        "article",
+        "LGBTQ",
+        "LGBTQQIAA",
+        "Music Education",
+        "Teacher Education",
+        "Pennsylvania",
+        "Lesbian, Gay, Bisexual, and Transgender Studies",
+        "Music Education",
+        "Teacher Education and Professional Development"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "article"
+    ],
+    "oai": "oai:cupola.gettysburg.edu:consfacpub-1016",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "3454",
+        "openDoarId": 0,
+        "name": "Gettysburg College",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 148924772,
+        "depositedDate": null,
+        "publishedDate": "2017-01-01T08:00:00+00:00",
+        "updatedDate": "2024-01-24T04:07:47+00:00",
+        "acceptedDate": null,
+        "createdDate": "2018-02-11T15:20:13+00:00"
+    },
+    "urls": [
+        "https://cupola.gettysburg.edu/consfacpub/17",
+        "https://cupola.gettysburg.edu/context/consfacpub/article/1016/viewcontent/pmea_pmea_news_winter_2017.pdf"
+    ],
+    "lastUpdate": "2024-01-24T04:07:47+00:00",
+    "setSpecs": []
+}

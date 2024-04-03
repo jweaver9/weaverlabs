@@ -1,0 +1,105 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Bosma, Linda M"
+        },
+        {
+            "name": "Vacca, Raffaele"
+        },
+        {
+            "name": "Boyle, Raymond G"
+        },
+        {
+            "name": "Martinez, Jaime L"
+        },
+        {
+            "name": "Lew, Rod"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2016-11-17T20:49:56+00:00",
+    "dataProvider": {
+        "id": 2295,
+        "name": "University of Nevada, Las Vegas Repository",
+        "url": "https://api.core.ac.uk/v3/data-providers/2295",
+        "logo": "https://api.core.ac.uk/data-providers/2295/logo"
+    },
+    "depositedDate": "",
+    "documentType": "research",
+    "doi": "",
+    "downloadUrl": "https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1394&amp;context=jhdrp",
+    "fullText": "",
+    "id": 62889706,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:digitalscholarship.unlv.edu:jhdrp-1394"
+    },
+    "title": "Developing Capacity, Skills, and Tobacco Control Networks to address Tobacco-related Disparities:  Leadership and Advocacy Institute to Advance Minnesota’s Parity for Priority Populations (LAAMPP)",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2016-03-31T23:56:02+01:00",
+    "publisher": "Digital Scholarship@UNLV",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1394&amp;context=jhdrp"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2016",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/62889706"
+        }
+    ],
+    "abstract": "Priority populations disproportionately experience tobacco-related disparities, despite population level declines in tobacco use. The Leadership and Advocacy Institute to Advance Minnesota’s Parity for Priority Populations (LAAMPP) recruits and trains African immigrants/African Americans, Asian Americans/Pacific Islanders, American Indians, Chicano/Latinos, and LGBTQ community members to develop leaders to address tobacco harms in their communities. This paper describes and evaluates the LAAMPP Institute, and discusses lessons learned through the Institute and future directions for community-based tobacco-control efforts.\nThe mixed-methods evaluation included qualitative key informant interviews with LAAMPP Fellows and community and project contacts, a Skills Assessment Tool, project case studies, and a social network analysis of the Fellows’ tobacco-control social networks at baseline and follow-up.\nAt follow-up, Fellows’ tobacco control networks were larger, more extensive and diverse, and included more actors perceived to be influential in tobacco control. Fellows’ skills increased in core competencies (tobacco control, advocacy, facilitation, collaboration, cultural/community competence) and Fellows used tobacco, advocacy and cultural/community competencies more frequently. Four of five cohorts successfully passed policies. The results of LAAMPP suggest that a cross-cultural leadership institute contributes to the successful development of capacity and leadership skills among priority populations and may be a useful model for others working toward health equity",
+    "tags": [
+        "text",
+        "Tobacco control",
+        "health disparities",
+        "leadership development",
+        "priority populations",
+        "social networks",
+        "Health Policy",
+        "Leadership Studies",
+        "Public Health",
+        "Public Health Education and Promotion"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "text"
+    ],
+    "oai": "oai:digitalscholarship.unlv.edu:jhdrp-1394",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "2295",
+        "openDoarId": 0,
+        "name": "University of Nevada, Las Vegas Repository",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 62889706,
+        "depositedDate": null,
+        "publishedDate": "2016-03-31T23:56:02+01:00",
+        "updatedDate": "2024-01-21T01:56:16+00:00",
+        "acceptedDate": null,
+        "createdDate": "2016-11-17T20:49:56+00:00"
+    },
+    "urls": [
+        "https://digitalscholarship.unlv.edu/jhdrp/vol9/iss1/8",
+        "https://digitalscholarship.unlv.edu/context/jhdrp/article/1394/viewcontent/auto_convert.pdf"
+    ],
+    "lastUpdate": "2024-01-21T01:56:16+00:00",
+    "setSpecs": []
+}

@@ -1,0 +1,102 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Costa, Francisco"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2020-03-11T00:26:28+00:00",
+    "dataProvider": {
+        "id": 124,
+        "name": "University of East Anglia digital repository",
+        "url": "https://api.core.ac.uk/v3/data-providers/124",
+        "logo": "https://api.core.ac.uk/data-providers/124/logo"
+    },
+    "depositedDate": "",
+    "documentType": "research",
+    "doi": "10.4000/ejas.11872",
+    "downloadUrl": "https://core.ac.uk/download/287602622.pdf",
+    "fullText": " European journal of American studies 11-3 | 2017Special Issue: Re-Queering The Nation: America’sQueer CrisisIntroduction: America’s Queer Past, Present, andFutureFrancisco CostaElectronic versionURL: http://journals.openedition.org/ejas/11872DOI: 10.4000/ejas.11872ISSN: 1991-9336PublisherEuropean Association for American Studies Electronic referenceFrancisco Costa, « Introduction: America’s Queer Past, Present, and Future », European journal ofAmerican studies [Online], 11-3 | 2017, Online since 27 January 2017, connection on 19 April 2019.URL : http://journals.openedition.org/ejas/11872  ; DOI : 10.4000/ejas.11872 This text was automatically generated on 19 April 2019.Creative Commons LicenseIntroduction: America’s Queer Past,Present, and FutureFrancisco Costa1 LGBTQ social, cultural, and political issues have become a defining feature of twenty-firstcentury American life, transforming on a national, international and transnational scale anumber of institutions. This special issue of the European Journal of American Studies setsout  to  stage a  timely  and much-needed conversation between American Studies  andQueer Studies, in order to address America’s ever-changing position in relation to LGBTQissues.12Silenced, hidden, censored, hinted, claimed, or celebrated, queer dynamics havealways  been  an integral  part  of  American  culture  and  history.  Much  has  changedparticularly  in  this  still  young  twenty-first  century:  films  and  television  shows  nowfeature openly gay characters and themes, which are celebrated by mainstream audiencesand achieve both commercial success and win major industry awards; same-sex marriagehas emerged as the most important civil rights cause for powerful organizations, such asthe Human Rights Campaign; the end of the military’s “don’t ask, don’t tell” policy nowallows gay men and women to serve openly;  urban campaigners and civic promotersencourage business districts directed to LGBTQ communities as a means for achievingvisibility  and  equality;  and  multibillion-dollar  markets  targeting  LGBTQ  tourists  arerapidly increasing. 3For  many,  such  expressions  of  LGBTQ identity  in  the  public  sphere  provideevidence of visibility,  equality,  and true social  and political  progress.  Yet in the pastdecade,  more  radical  activists  and  scholars  have  addressed  such  changes  not  asprogressive  signs  of  equality  and  liberation,  but as  responses  directly  linked  to  anauthoritative and dominant brand of neoliberal politics. Lisa Duggan, for example, hasidentified these developments as evidence of “the new homonormativity... a politics thatdoes not contest dominant heteronormative assumptions and institutions but upholdsand  sustains  them”  (50).  Following  this  rationale,  established  LGBTQ  organizationsIntroduction: America’s Queer Past, Present, and FutureEuropean journal of American studies, 11-3 | 20171increasingly  embrace  agendas  that  compete  for  acceptance  within  contemporaryeconomic  and  political  systems,  thus  abandoning earlier  commitments  to  protectingsexual  freedoms,  such as those who challenge serial  monogamy and those—includingbisexual,  pansexual,  transgender,  intersex  constituencies—who  feel  subjugated  by  abinary gender or sex system.4This special issue of the European Journal of American Studies has found its impulsein these debates and seeks to contribute to this conversation by addressing the multitudeof America’s queer expressions and dynamics. The seventeen articles in “Re-Queering theNation:  America’s  Queer  Crisis”  are  organized  in  four  separate  sections,  and  takentogether offer examinations of the place, role, use, and power of queer expressions anddynamics  in  the  face  of  a  rapidly  changing twenty-first  century  America.  This  issueincludes contributions by authors from across the globe and from a variety of disciplines(ethnic and postcolonial studies, performance studies, literature, history and politics, filmand  television  studies,  cultural  studies,  anthropology  and  sociology,  and  law  andreligion). These authors combine disparate theoretical fields of knowledge to explore themultiple  convergences  between  American  and  Queer  Studies  in  innovative  andcompelling  ways.  The  articles  do  so  by  examining  cultural,  political  and  socialparticularities  and  differences  of  queer  America,  by  presenting  new  analyticalframeworks  for  talking  about  LGBTQ culture  and history  that  expand and challengecurrent models of identity and community formation, and finally by proposing models ofpolitical  and  cultural  resistance  in  America.  Ultimately,  “Re-Queering  the  Nation:America’s  Queer Crisis”  seeks this  way to offer  examinations and re-examinations ofAmerica’s queer past and present, and point to America’s queer future.BIBLIOGRAPHYDuggan, Lisa. The Twilight of Equality? Neoliberalism, Cultural Politics, and the Attack on Democracy.Boston: Beacon Press, 2003. Print.NOTES1.  This special issue would not have reached its completion without the exemplary guidance andsupport of Marek Paryż, EJAS Senior Editor, the peer reviewers who anonymously shared theirexpertise, and the contributors who wrote stimulating essays.Introduction: America’s Queer Past, Present, and FutureEuropean journal of American studies, 11-3 | 20172AUTHORFRANCISCO COSTAUniversity of East AngliaIntroduction: America’s Queer Past, Present, and FutureEuropean journal of American studies, 11-3 | 20173",
+    "id": 287602622,
+    "identifiers": {
+        "doi": "10.4000/ejas.11872",
+        "oai": "oai:ueaeprints.uea.ac.uk:74240"
+    },
+    "title": "America’s Queer Past, Present, and Future",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2017-01-01T00:00:00+00:00",
+    "publisher": null,
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://ueaeprints.uea.ac.uk/id/eprint/74240/1/Published_Version.pdf"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2017",
+    "links": [
+        {
+            "type": "download",
+            "url": "https://core.ac.uk/download/287602622.pdf"
+        },
+        {
+            "type": "reader",
+            "url": "https://core.ac.uk/reader/287602622"
+        },
+        {
+            "type": "thumbnail_m",
+            "url": "https://core.ac.uk/image/287602622/medium"
+        },
+        {
+            "type": "thumbnail_l",
+            "url": "https://core.ac.uk/image/287602622/large"
+        },
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/287602622"
+        }
+    ],
+    "abstract": "",
+    "tags": [
+        "Article",
+        "PeerReviewed"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "Article",
+        "PeerReviewed"
+    ],
+    "oai": "oai:ueaeprints.uea.ac.uk:74240",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "124",
+        "openDoarId": 0,
+        "name": "University of East Anglia digital repository",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 287602622,
+        "depositedDate": null,
+        "publishedDate": "2017-01-01T00:00:00+00:00",
+        "updatedDate": "2024-02-19T09:08:07+00:00",
+        "acceptedDate": null,
+        "createdDate": "2020-03-11T00:26:28+00:00"
+    },
+    "urls": [
+        "https://ueaeprints.uea.ac.uk/id/eprint/74240/1/Published_Version.pdf",
+        "https://ueaeprints.uea.ac.uk/id/eprint/74240/"
+    ],
+    "lastUpdate": "2024-02-19T09:08:07+00:00",
+    "setSpecs": []
+}

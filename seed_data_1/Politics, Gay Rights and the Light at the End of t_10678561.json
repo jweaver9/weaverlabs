@@ -1,0 +1,89 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "LaFrance, Mary"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2013-06-21T11:49:27+01:00",
+    "dataProvider": {
+        "id": 258,
+        "name": "Scholarly Commons @ UNLV Law",
+        "url": "https://api.core.ac.uk/v3/data-providers/258",
+        "logo": "https://api.core.ac.uk/data-providers/258/logo"
+    },
+    "depositedDate": "",
+    "documentType": "research",
+    "doi": "",
+    "downloadUrl": "http://scholars.law.unlv.edu/nlj/vol1/iss1/16",
+    "fullText": "",
+    "id": 10678561,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:scholars.law.unlv.edu:nlj-1206"
+    },
+    "title": "Politics, Gay Rights and the Light at the End of the Rainbow",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2001-03-01T08:00:00+00:00",
+    "publisher": "Scholarly Commons @ UNLV Boyd Law",
+    "references": [],
+    "sourceFulltextUrls": [
+        "http://scholars.law.unlv.edu/nlj/vol1/iss1/16"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2001",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/10678561"
+        }
+    ],
+    "abstract": "",
+    "tags": [
+        "bookreviews",
+        "Marriage",
+        "equality",
+        "Romer",
+        "Law and Politics",
+        "Sexuality and the Law"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "bookreviews"
+    ],
+    "oai": "oai:scholars.law.unlv.edu:nlj-1206",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "258",
+        "openDoarId": 0,
+        "name": "Scholarly Commons @ UNLV Law",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 10678561,
+        "depositedDate": null,
+        "publishedDate": "2001-03-01T08:00:00+00:00",
+        "updatedDate": "2024-01-27T19:40:10+00:00",
+        "acceptedDate": null,
+        "createdDate": "2013-06-21T11:49:27+01:00"
+    },
+    "urls": [
+        "https://scholars.law.unlv.edu/nlj/vol1/iss1/16",
+        "https://scholars.law.unlv.edu/context/nlj/article/1206/viewcontent/18_1NevLJ441_2001_.pdf"
+    ],
+    "lastUpdate": "2024-01-27T19:40:10+00:00",
+    "setSpecs": []
+}

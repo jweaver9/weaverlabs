@@ -1,0 +1,82 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Wilkinson, Cai"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2013-12-13T02:09:55+00:00",
+    "dataProvider": {
+        "id": 530,
+        "name": "Deakin Research Online",
+        "url": "https://api.core.ac.uk/v3/data-providers/530",
+        "logo": "https://api.core.ac.uk/data-providers/530/logo"
+    },
+    "depositedDate": "",
+    "documentType": "research",
+    "doi": "",
+    "downloadUrl": "http://hdl.handle.net/10536/DRO/DU:30057923",
+    "fullText": "",
+    "id": 18427359,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:dro.deakin.edu.au:DU:30057923"
+    },
+    "title": "Putting traditional values into practice: Russia’s anti-gay laws",
+    "language": null,
+    "publishedDate": "2013-11-08T00:00:00+00:00",
+    "publisher": "'vdf Hochschulverlag AG an der ETH Zurich'",
+    "references": [],
+    "sourceFulltextUrls": [],
+    "updatedDate": "",
+    "yearPublished": "2013",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/18427359"
+        }
+    ],
+    "abstract": "This article examines the rise of so-called anti-gay laws in Russia as a response to international Russian-led support for using &ldquo;traditional values&rdquo; as the foundation for human rights norms. Viewed in this way, a logic of moral sovereignty emerges that purports to offer a compromise between international human rights obligations and local socio-cultural norms. However, in the case of anti-gay laws, moral panic over LGBTQ people has made homophobia a political proxy for understandings of traditional values, in the process implicitly legitimizing homophobic violence and discrimination, and setting a dangerous precedent for traditional values to be invoked as a justification for violations of human rights norms",
+    "tags": [
+        "Journal Article",
+        "anti-gay laws",
+        "human rights norms",
+        "Russia",
+        "homophobia"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "Journal Article"
+    ],
+    "oai": "oai:dro.deakin.edu.au:DU:30057923",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "530",
+        "openDoarId": 0,
+        "name": "Deakin Research Online",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 18427359,
+        "depositedDate": null,
+        "publishedDate": "2013-11-08T00:00:00+00:00",
+        "updatedDate": "2022-08-23T15:36:55+01:00",
+        "acceptedDate": null,
+        "createdDate": "2013-12-13T02:09:55+00:00"
+    },
+    "urls": [
+        "http://hdl.handle.net/10536/DRO/DU:30057923"
+    ],
+    "lastUpdate": "2022-08-23T15:36:55+01:00",
+    "setSpecs": []
+}

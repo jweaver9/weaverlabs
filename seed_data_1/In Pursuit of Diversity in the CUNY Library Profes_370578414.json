@@ -1,0 +1,88 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Sanchez-Rodriguez, Nilda Alexandra"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2021-01-13T03:10:00+00:00",
+    "dataProvider": {
+        "id": 3713,
+        "name": "City University of New York",
+        "url": "https://api.core.ac.uk/v3/data-providers/3713",
+        "logo": "https://api.core.ac.uk/data-providers/3713/logo"
+    },
+    "depositedDate": "",
+    "documentType": "",
+    "doi": "",
+    "downloadUrl": "https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1889&context=cc_pubs",
+    "fullText": "",
+    "id": 370578414,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:academicworks.cuny.edu:cc_pubs-1889"
+    },
+    "title": "In Pursuit of Diversity in the CUNY Library Profession: An Effective Approach to Leadership in Academic Libraries",
+    "language": null,
+    "publishedDate": "2020-12-12T08:00:00+00:00",
+    "publisher": "CUNY Academic Works",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1889&context=cc_pubs"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2020",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/370578414"
+        }
+    ],
+    "abstract": "Maximizing the current organizational culture and diversity/inclusion practices within CUNY libraries is crucial to retaining highly talented support staff with significant potential for future leadership roles. This research explores equity, diversity, and inclusion within the library profession, with the intention of implementing strategic frameworks to attract, recruit, and retain underrepresented groups within the University. To spotlight areas of upward mobility within CUNY academic libraries, a CUNY-wide Library Workplace Climate survey on the perceptions of diversity, universal inclusion, and career progression was conducted. The scope of the survey study compares the different perspectives of CUNY librarians, full-time library classified paraprofessionals, and part-time classified staff to measure CUNY’s commitment to addressing the diversity gap in the library profession. CUNY-wide, 141 library employees participated in a survey study to uncover professional development opportunities in support of career advancement and upward mobility. Nearly 2 in 5 African American/Black library staff-members are paraprofessionals, while 13.5% are faculty. A stark contrast to 3 in 5 or 64% CUNY library faculty, which identified as White/Caucasian. The findings reinforce the need for measures to maximize workplace diversity through support-staff mentoring, guidance, and recruitment. Workplace mentorship and career development—across all levels within CUNY libraries—cultivate skills for a better work environment that can lead to promotion and successful plans for succession. Investing and sustaining structured library professional development opportunities geared toward underrepresented groups—generally in paraprofessional and student-worker roles—will help identify next generation CUNY library leadership",
+    "tags": [
+        "article",
+        "Paraprofessionals",
+        "library diversity workplace management",
+        "academic libraries",
+        "higher education",
+        "professional development",
+        "succession planning",
+        "Library and Information Science"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "article"
+    ],
+    "oai": "oai:academicworks.cuny.edu:cc_pubs-1889",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "3713",
+        "openDoarId": 0,
+        "name": "City University of New York",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 370578414,
+        "depositedDate": null,
+        "publishedDate": "2020-12-12T08:00:00+00:00",
+        "updatedDate": "2024-02-21T02:46:32+00:00",
+        "acceptedDate": null,
+        "createdDate": "2021-01-13T03:10:00+00:00"
+    },
+    "urls": [
+        "https://academicworks.cuny.edu/cc_pubs/823",
+        "https://academicworks.cuny.edu/context/cc_pubs/article/1889/viewcontent/In_Pursuit_of_Diversity_in_the_CUNY_Library_Profession_An_Effective_Approach_to_Leadership_in_Academic_Libraries.pdf"
+    ],
+    "lastUpdate": "2024-02-21T02:46:32+00:00",
+    "setSpecs": []
+}

@@ -1,0 +1,118 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Budge, Stephanie L."
+        },
+        {
+            "name": "Thai, Jayden L."
+        },
+        {
+            "name": "Tebbe, Elliot A."
+        },
+        {
+            "name": "Howard, Kimberly A.S."
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2019-07-09T16:16:54+01:00",
+    "dataProvider": {
+        "id": 2851,
+        "name": "Boston University Institutional Repository (OpenBU)",
+        "url": "https://api.core.ac.uk/v3/data-providers/2851",
+        "logo": "https://api.core.ac.uk/data-providers/2851/logo"
+    },
+    "depositedDate": "",
+    "documentType": "research",
+    "doi": "10.1177/0011000015609046",
+    "downloadUrl": "https://open.bu.edu/bitstream/2144/33074/3/Budge%20Thai%20Tebbe%20Howard%20TCP%20Intersectionality%20final-1.pdf",
+    "fullText": "",
+    "id": 215940749,
+    "identifiers": {
+        "doi": "10.1177/0011000015609046",
+        "oai": "oai:open.bu.edu:2144/33074"
+    },
+    "title": "The intersection of race, sexual orientation, socioeconomic status, trans identity, and mental health outcomes",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2016-10-01T01:00:00+01:00",
+    "publisher": "SAGE PUBLICATIONS INC",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://open.bu.edu/bitstream/2144/33074/3/Budge%20Thai%20Tebbe%20Howard%20TCP%20Intersectionality%20final-1.pdf"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2016",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/215940749"
+        }
+    ],
+    "abstract": "The present study examined patterns in trans individuals’ multiple identities and mental health outcomes. Cluster 1 (socioeconomic and racial privilege; n = 239) was characterized by individuals who identified as trans women or cross-dressers, lesbian, bisexual, or questioning; had associates degrees; reported household incomes of $60,000 or more a year; and were non-Latino White. Cluster 2 (educational privilege; n = 191) was characterized by individuals who identified as trans men or genderqueer, gay, or queer; had a bachelor’s degree; reported household incomes of $10,000 or less a year; and were people of color. There was a pattern of individuals in Cluster 1 who identified with two privileged identities (identifying as White and having higher household incomes), whereas individuals in Cluster 2 identified only formal education as a privilege. Individuals in Cluster 2 reported statistically significant levels of anxiety. Implications of these results for future research and clinical practice are examined.Accepted manuscrip",
+    "tags": [
+        "Article",
+        "Social sciences",
+        "Psychology, applied",
+        "Psychology",
+        "Trans",
+        "Intersectionality",
+        "Identity",
+        "Privilege",
+        "Cluster analysis",
+        "Transgender persons",
+        "College students",
+        "Masculine norms",
+        "Social support",
+        "Depression",
+        "General psychology & cognitive sciences"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "Article"
+    ],
+    "oai": "oai:open.bu.edu:2144/33074",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": [
+        {
+            "title": "The Counseling Psychologist",
+            "identifiers": [
+                "0011-0000",
+                "issn:1552-3861",
+                "1552-3861",
+                "issn:0011-0000"
+            ]
+        }
+    ],
+    "repositories": {
+        "id": "2851",
+        "openDoarId": 0,
+        "name": "Boston University Institutional Repository (OpenBU)",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 215940749,
+        "depositedDate": null,
+        "publishedDate": "2016-10-01T01:00:00+01:00",
+        "updatedDate": "2024-01-21T02:15:51+00:00",
+        "acceptedDate": null,
+        "createdDate": "2019-07-09T16:16:54+01:00"
+    },
+    "urls": [
+        "https://doi.org/10.1177/0011000015609046",
+        "https://hdl.handle.net/2144/33074",
+        "http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcApp=PARTNER_APP&SrcAuth=LinksAMR&KeyUT=WOS:000389914400004&DestLinkType=FullRecord&DestApp=ALL_WOS&UsrCustomerID=6e74115fe3da270499c3d65c9b17d654"
+    ],
+    "lastUpdate": "2024-01-21T02:15:51+00:00",
+    "setSpecs": []
+}

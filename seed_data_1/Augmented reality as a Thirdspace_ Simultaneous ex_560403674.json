@@ -1,0 +1,85 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Eagle, Rob"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2023-04-02T00:22:54+01:00",
+    "dataProvider": {
+        "id": 144,
+        "name": "arXiv.org e-Print Archive",
+        "url": "https://api.core.ac.uk/v3/data-providers/144",
+        "logo": "https://api.core.ac.uk/data-providers/144/logo"
+    },
+    "depositedDate": "",
+    "documentType": "",
+    "doi": "10.1007/978-3-031-25906-7_39",
+    "downloadUrl": "http://arxiv.org/abs/2303.13550",
+    "fullText": "",
+    "id": 560403674,
+    "identifiers": {
+        "doi": "10.1007/978-3-031-25906-7_39",
+        "oai": "oai:arXiv.org:2303.13550"
+    },
+    "title": "Augmented reality as a Thirdspace: Simultaneous experience of the\n  physical and virtual",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2023-03-21T00:00:00+00:00",
+    "publisher": "'Springer Science and Business Media LLC'",
+    "references": [],
+    "sourceFulltextUrls": [
+        "http://arxiv.org/abs/2303.13550"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2023",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/560403674"
+        }
+    ],
+    "abstract": "With the proliferation of devices that display augmented reality (AR), now is\nthe time for scholars and practitioners to evaluate and engage critically with\nemerging applications of the medium. AR mediates the way users see their\nbodies, hear their environment and engage with places. Applied in various\nforms, including social media, e-commerce, gaming, enterprise and art, the\nmedium facilitates a hybrid experience of physical and digital spaces. This\narticle employs a model of real-and-imagined space from geographer Edward Soja\nto examine how the user of an AR app navigates the two intertwined spaces of\nphysical and digital, experiencing what Soja calls a 'Third-space'. The article\nillustrates the potential for headset-based AR to engender such a Thirdspace\nthrough the author's practice-led research project, the installation Through\nthe Wardrobe. This installation demonstrates how AR has the potential to shift\nthe way that users view and interact with their world with artistic\napplications providing an opportunity to question assumptions of social norms,\nidentity and uses of physical space.Comment: Preprint of chapter published in Proceedings of the 3rd International\n  and Interdisciplinary Conference on Images and Imagination, edited by D.\n  Villa and F. Zuccoli, 2023, Springer Nature, reproduced with permission of\n  Springer Natur",
+    "tags": [
+        "text",
+        "Computer Science - Human-Computer Interaction",
+        "Computer Science - Multimedia"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "text"
+    ],
+    "oai": "oai:arXiv.org:2303.13550",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "144",
+        "openDoarId": 0,
+        "name": "arXiv.org e-Print Archive",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 560403674,
+        "depositedDate": null,
+        "publishedDate": "2023-03-21T00:00:00+00:00",
+        "updatedDate": "2023-04-04T00:05:09+01:00",
+        "acceptedDate": null,
+        "createdDate": "2023-04-02T00:22:54+01:00"
+    },
+    "urls": [
+        "http://arxiv.org/abs/2303.13550"
+    ],
+    "lastUpdate": "2023-04-04T00:05:09+01:00",
+    "setSpecs": []
+}

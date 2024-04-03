@@ -1,0 +1,88 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "McGrath, James"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2013-06-21T11:49:27+01:00",
+    "dataProvider": {
+        "id": 258,
+        "name": "Scholarly Commons @ UNLV Law",
+        "url": "https://api.core.ac.uk/v3/data-providers/258",
+        "logo": "https://api.core.ac.uk/data-providers/258/logo"
+    },
+    "depositedDate": "",
+    "documentType": "research",
+    "doi": "",
+    "downloadUrl": "http://scholars.law.unlv.edu/nlj/vol9/iss2/5",
+    "fullText": "",
+    "id": 10678710,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:scholars.law.unlv.edu:nlj-1090"
+    },
+    "title": "Are You a Boy or a Girl? Show Me Your REAL ID",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2009-01-01T08:00:00+00:00",
+    "publisher": "Scholarly Commons @ UNLV Boyd Law",
+    "references": [],
+    "sourceFulltextUrls": [
+        "http://scholars.law.unlv.edu/nlj/vol9/iss2/5"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2009",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/10678710"
+        }
+    ],
+    "abstract": "",
+    "tags": [
+        "article",
+        "REAL ID Act",
+        "transgender",
+        "gender identity",
+        "Public Law and Legal Theory"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "article"
+    ],
+    "oai": "oai:scholars.law.unlv.edu:nlj-1090",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "258",
+        "openDoarId": 0,
+        "name": "Scholarly Commons @ UNLV Law",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 10678710,
+        "depositedDate": null,
+        "publishedDate": "2009-01-01T08:00:00+00:00",
+        "updatedDate": "2024-01-27T19:40:08+00:00",
+        "acceptedDate": null,
+        "createdDate": "2013-06-21T11:49:27+01:00"
+    },
+    "urls": [
+        "https://scholars.law.unlv.edu/nlj/vol9/iss2/5",
+        "https://scholars.law.unlv.edu/context/nlj/article/1090/viewcontent/NVJ204.pdf"
+    ],
+    "lastUpdate": "2024-01-27T19:40:08+00:00",
+    "setSpecs": []
+}

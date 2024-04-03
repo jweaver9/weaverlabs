@@ -1,0 +1,88 @@
+{
+    "acceptedDate": "2017-09-14T00:00:00+01:00",
+    "authors": [
+        {
+            "name": "Nick Drydakis"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2019-06-05T20:00:33+01:00",
+    "dataProvider": {
+        "id": 4786,
+        "name": "Crossref",
+        "url": "https://api.core.ac.uk/v3/data-providers/4786",
+        "logo": "https://api.core.ac.uk/data-providers/4786/logo"
+    },
+    "depositedDate": "2017-01-01T00:00:00+00:00",
+    "documentType": "",
+    "doi": "10.15185/izawol.386",
+    "downloadUrl": "https://wol.iza.org/uploads/articles/386/pdfs/trans-people-well-being-and-labor-market-outcomes.pdf",
+    "fullText": "",
+    "id": 208819880,
+    "identifiers": {
+        "doi": "10.15185/izawol.386",
+        "oai": "info:doi/10.15185%2Fizawol.386"
+    },
+    "title": "Trans people, well-being, and labor market outcomes",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2017-01-01T00:00:00+00:00",
+    "publisher": "Forschungsinstitut zur Zukunft der Arbeit GmbH",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://wol.iza.org/uploads/articles/386/pdfs/trans-people-well-being-and-labor-market-outcomes.pdf"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2017",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/208819880"
+        }
+    ],
+    "abstract": "",
+    "tags": [
+        "journal-article"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "journal-article"
+    ],
+    "oai": "info:doi/10.15185%2Fizawol.386",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": [
+        {
+            "title": "IZA World of Labor",
+            "identifiers": [
+                "2054-9571"
+            ]
+        }
+    ],
+    "repositories": {
+        "id": "4786",
+        "openDoarId": 0,
+        "name": "Crossref",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 208819880,
+        "depositedDate": "2017-01-01T00:00:00+00:00",
+        "publishedDate": "2017-01-01T00:00:00+00:00",
+        "updatedDate": "2024-02-27T15:04:47+00:00",
+        "acceptedDate": "2017-09-14T00:00:00+01:00",
+        "createdDate": "2019-06-05T20:00:33+01:00"
+    },
+    "urls": [],
+    "lastUpdate": "2024-02-27T15:04:47+00:00",
+    "setSpecs": []
+}

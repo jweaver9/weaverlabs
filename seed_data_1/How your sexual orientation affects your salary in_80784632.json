@@ -1,0 +1,105 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Askoy, Cevat Giray"
+        },
+        {
+            "name": "Carpenter, Christopher S."
+        },
+        {
+            "name": "Frank, Jefferson"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2017-04-19T18:56:05+01:00",
+    "dataProvider": {
+        "id": 67,
+        "name": "LSE Research Online",
+        "url": "https://api.core.ac.uk/v3/data-providers/67",
+        "logo": "https://api.core.ac.uk/data-providers/67/logo"
+    },
+    "depositedDate": "",
+    "documentType": "research",
+    "doi": "",
+    "downloadUrl": "https://core.ac.uk/download/80784632.pdf",
+    "fullText": "17/02/2017How your sexual orientation affects your salary in the UKblogs.lse.ac.uk/europpblog/2017/02/17/sexual-orientation-affects-salary-uk/Research concerning labour market discrimination based on sexual orientation has yielded varying outcomes so far.Studies were usually based on small on unrepresentative samples. Drawing on a large and previously unavailabledataset, Cevat Giray Aksoy , Christopher S. Carpenter and Jefferson Frank find that gay men earn less thanstraight ones and heterosexual women earn less than lesbians.Credits: Stanley Dai, under a CC0 licenceFinding the right dataSince the mid-1990s, labour market discrimination based on sexual orientation has been investigated by a numberof researchers (Badgett 1995, Black et al. 2003, Arabsheibani et al. 2005 and others). These studies frequently findsizeable earnings differences: 1) partnered gay men earn significantly less than partnered heterosexual men; and 2)partnered lesbian women earn significantly more than partnered heterosexual women.Where individual level self-reports of sexual orientation are available, the earnings differences are generally smaller.Due to limited data availability, the previous studies have struggled with a trade-off between representativeness andsample size. Couples-based data sets such as population censuses in Canada, the United States, and the UnitedKingdom yield very large samples of same-sex couples but do not identify the sexual identity of non-partneredindividuals. In contrast, data sets with individual level information on sexual orientation or sexual behaviour havegenerally been much smaller in size.The few studies with individual level information on sexual orientation and reasonably large samples of sexualminorities have been limited to single states (e.g., Carpenter 2005), limited to young adults (e.g., Plug and Berkhout2004), or lacked information on labour market earnings (Carpenter 2008a). As a result, it has been difficult to know1/4whether differences in estimated earnings effects of a minority sexual orientation in different studies are due todifferences in the samples, populations, or outcomes. Relatedly, it has been difficult to disentangle alternativetheories underlying sexual orientation-based differences in labour market outcomes (e.g., specialisation versusdiscrimination).We overcome these challenges by using confidential versions of the 2012-2014 UK Integrated Household Surveys(IHS) to which high quality labour market earnings data from the country’s Annual Population Survey have beenlinked (Aksoy et al. 2017). To our knowledge it is the first countrywide dataset with both partnership status and self-identified sexual orientation combined with high-quality data on labour market earnings.These data allow us to identify large samples of sexual minority individuals – over 2,500 self-identified lesbians, gaymen, and bisexuals (LGB) – through responses to a direct question about sexual orientation. It also permits us toidentify not only individual level sexual orientation but also same-sex partnerships. This means we can directly testfor how measurement of sexual orientation (i.e., individual level self-reports versus same-sex partnerships) is relatedto earnings differences between sexual minorities and heterosexuals. These data also allow us to comment moredirectly on the possible explanations for earnings differentials.Partnership status matters: full-time employmentWe show that having data on both partnered and non-partnered sexual minorities is substantively important. Ourfull-time employment models indicate that: gay men are 4.5) percentage points less likely to be working full timethan otherwise similar heterosexual men (while bisexual men are 11.9 percentage points less likely.)Notably, this difference for gay men is driven by the partnered sample. Partnered gay men are 6.1 percentage pointsless likely to be working full time than otherwise similar partnered heterosexual men. In contrast, the difference forbisexual men is driven primarily in the non-partnered sample, where non-partnered bisexual men are 11.7percentage points less likely to be working full time than otherwise similar non-partnered heterosexual men.For women, we show that lesbians are 8.2 percentage points more likely to be working full-time than otherwisesimilar heterosexual women, while bisexual women are 5.4 percentage points less likely to be working full-time. Aswith gay males, the lesbian difference in full-time employment (although of opposite sign to that for gay males) ispredominantly driven by the partnered sample. Partnered lesbians are 15.4 percentage points more likely to beworking full time than similar partnered heterosexual women.Partnership status matters: earningsTurning to the earnings models, after controlling for observable determinants of earnings (such as education,location, and family structure), we find a positive and statistically significant earnings differential for partneredlesbians compared to partnered heterosexual women but no earnings differential for non-partnered lesbianscompared with similarly situated non-partnered heterosexual women.We find a negative and marginally significant earnings penalty for partnered gay men compared to partneredheterosexual men but no earnings differential for non-partnered gay men compared with similarly situated non-partnered heterosexual men. Taking together the overall population of both partnered and non-partnered individuals,we find that the earnings difference associated with a gay sexual orientation for men is near zero, while theassociated population-based earnings difference among women associated with a lesbian orientation is a premiumof about 5.5 per cent and is statistically significant.Specialization or discrimination?We argue that our results are consistent with specialization. Traditional heterosexual partnerships typically involvegendered specialization, with the man more engaged in market activities than the woman, particularly given theprevalence of children among heterosexual couples. Even if the degree of household specialization were the same2/4in heterosexual and gay male households, gendered heterosexual specialization means that the average partneredheterosexual man will be more focused upon market activities than the average partnered gay man. By the sameargument, the average partnered lesbian will be more focused upon market activities than the average partneredheterosexual woman. These differences should not accrue to non-partnered individuals. These specialization-basedpredictions hold in our data. Our findings that the lesbian premium among partnered individuals accruesapproximately equally to lesbians who are household heads and lesbians who are not household heads alsosupports the idea that there is less specialization in a lesbian household.While comparative specialization within the household is our preferred explanation for most of our results, there issome limited evidence for the presence of discrimination as an explanatory factor. Our results show that it is oldergay men and partnered gay men that earn less than comparable heterosexual men. It is likely that the lack of aheterosexual marriage becomes more of a signal of sexual minority status as an individual gets older (Frank 2007).Partnered gay men may also be more observable as being gay than non-partnered counterparts. They may havephotos of a same-sex partner or list their same-sex partner as a beneficiary, for example. If there is discriminationagainst gay men, these more observable individuals may bear a greater penalty. Further, the gay male penalty onlyoccurs outside London, where there is likely to be a stronger taste for discrimination. Finally, the bisexual malepenalty only occurs in the private sector and not the public sector where there are greater protections againstdiscrimination.Taken together, then, our unique samples of partnered and non-partnered sexual minorities and high quality data onearnings provide novel evidence supporting a role for specialization in explaining sexual orientation-baseddifferences in labour market earnings, with less evidence for selectivity and limited and mixed support fordiscrimination.Note: The above is based on the authors’ paper Sexual orientation and earnings: new evidence from the UK, EBRDWorking Paper No. 196, also forthcoming in Industrial and Labor Relations Review. This article was first publishedat LSE Business Review. It gives the views of the author, and not the position of EUROPP – European Politics andPolicy, nor of the London School of Economics. _________________________________About the authorsCevat Giray Aksoy is a Principal Economist in the Office of the Chief Economist at the EuropeanBank for Reconstruction and Development in London and an Affiliated Researcher at the LondonSchool of Economics. His main research interests are inequalities in the labor market, femalelabor supply and economics of fertility. He tweets at @cevatgirayaksoy. Christopher S. Carpenter is a Professor of Economics, Professor of Law, Professor of Education,Professor of Medicine, Health, and Society, and Professor of Health Policy at Vanderbilt University.He is an empirical labor and health economist by training and has published widely on the effectsof public policies on health outcomes and on labor market outcomes for sexual minorities in theUnited States, Australia, Canada and United Kingdom. He is Associate Editor at Journal of theEuropean Economic Association and the Journal of Health Economics and on the Editorial Boardsof Journal of Policy Analysis and Management, American Journal of Health Economics, andIndustrial Relations. He holds a PhD in economics from UC Berkeley and a BA in mathematics,economics, and public service from Albion College (MI). His research has been supported by theAmerican Cancer Society, the National Institutes of Health, and the Robert Wood JohnsonFoundation.3/4Jefferson Frank is a Professor of Economics at University of London, Royal Holloway College.Prof. Frank obtained his PhD from Yale and has previously taught at Essex University, BirkbeckCollege, Sussex University, Harvard University and the University of California (Berkeley and SanDiego). 4/4",
+    "id": 80784632,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:eprints.lse.ac.uk:69951"
+    },
+    "title": "How your sexual orientation affects your salary in the UK",
+    "language": null,
+    "publishedDate": "2017-02-17T00:00:00+00:00",
+    "publisher": "London School of Economics and Political Science",
+    "references": [],
+    "sourceFulltextUrls": [],
+    "updatedDate": "",
+    "yearPublished": "2017",
+    "links": [
+        {
+            "type": "download",
+            "url": "https://core.ac.uk/download/80784632.pdf"
+        },
+        {
+            "type": "reader",
+            "url": "https://core.ac.uk/reader/80784632"
+        },
+        {
+            "type": "thumbnail_m",
+            "url": "https://core.ac.uk/image/80784632/medium"
+        },
+        {
+            "type": "thumbnail_l",
+            "url": "https://core.ac.uk/image/80784632/large"
+        },
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/80784632"
+        }
+    ],
+    "abstract": "Research concerning labour market discrimination based on sexual orientation has yielded varying outcomes so far. Studies were usually based on small on unrepresentative samples. Drawing on a large and previously unavailable dataset, Cevat Giray Aksoy, Christopher S. Carpenter and Jefferson Frank find that gay men earn less than straight ones and heterosexual women earn less than lesbians",
+    "tags": [
+        "Online resource",
+        "NonPeerReviewed",
+        "JN Political institutions (Europe)",
+        "JN101 Great Britain"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "Online resource",
+        "NonPeerReviewed"
+    ],
+    "oai": "oai:eprints.lse.ac.uk:69951",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "67",
+        "openDoarId": 0,
+        "name": "LSE Research Online",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 80784632,
+        "depositedDate": null,
+        "publishedDate": "2017-02-17T00:00:00+00:00",
+        "updatedDate": "2024-02-12T07:27:45+00:00",
+        "acceptedDate": null,
+        "createdDate": "2017-04-19T18:56:05+01:00"
+    },
+    "urls": [
+        "http://eprints.lse.ac.uk/69951/1/blogs.lse.ac.uk-How%20your%20sexual%20orientation%20affects%20your%20salary%20in%20the%20UK.pdf",
+        "http://eprints.lse.ac.uk/69951/"
+    ],
+    "lastUpdate": "2024-02-12T07:27:45+00:00",
+    "setSpecs": []
+}

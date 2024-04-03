@@ -1,0 +1,570 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Ahmed, S.F."
+        },
+        {
+            "name": "Achermann, J.C."
+        },
+        {
+            "name": "Arlt, W."
+        },
+        {
+            "name": "Balen, A.H."
+        },
+        {
+            "name": "Conway, G."
+        },
+        {
+            "name": "Edwards, Z.L."
+        },
+        {
+            "name": "Elford, S."
+        },
+        {
+            "name": "Hughes, I.A."
+        },
+        {
+            "name": "Izatt, L."
+        },
+        {
+            "name": "Krone, N."
+        },
+        {
+            "name": "Miles, H.L."
+        },
+        {
+            "name": "O'Toole, S."
+        },
+        {
+            "name": "Perry, L."
+        },
+        {
+            "name": "Sanders, C."
+        },
+        {
+            "name": "Simmonds, M."
+        },
+        {
+            "name": "Wallace, A.M."
+        },
+        {
+            "name": "Watt, A."
+        },
+        {
+            "name": "Willis, D."
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2012-10-08T04:59:41+01:00",
+    "dataProvider": {
+        "id": 42,
+        "name": "Enlighten",
+        "url": "https://api.core.ac.uk/v3/data-providers/42",
+        "logo": "https://api.core.ac.uk/data-providers/42/logo"
+    },
+    "depositedDate": "",
+    "documentType": "research",
+    "doi": "10.1111/j.1365-2265.2011.04076.x",
+    "downloadUrl": "https://eprints.gla.ac.uk/54217/1/54217.pdf",
+    "fullText": "         Ahmed, S.F., Achermann, J.C., Arlt, W., Balen, A.H., Conway, G., Edwards, Z.L., Elford, S., Hughes, I.A., Izatt, L., Krone, N., Miles, H.L., O'Toole, S., Perry, L., Sanders, C., Simmonds, M., Wallace, A.M., Watt, A., and Willis, D. UK guidance on the initial evaluation of an infant or an adolescent with a suspected disorder of sex development. Clinical Endocrinology, 75 (1). pp. 12-26. ISSN 0300-0664    Copyright © 2011 The Authors     http://eprints.gla.ac.uk/54217        Deposited on: 7 February 2013                    Enlighten – Research publications by members of the University of Glasgow http://eprints.gla.ac.uk S O C I E T Y F O R E N D O C R I N O L O G Y C L I N I C A L G U I D A N C E A R T I C L EUK guidance on the initial evaluation of an infant or an adolescentwith a suspected disorder of sex developmentS. Faisal Ahmed*, John C. Achermann†,Wiebke Arlt‡, AdamH. Balen§, Gerry Conway–, Zoe L. Edwards**,Sue Elford††, Ieuan A. Hughes‡‡, Louise Izatt§§, Nils Krone‡, Harriet L. Miles‡‡, Stuart O’Toole*, Les Perry––,Caroline Sanders***, Margaret Simmonds†††, A. Michael Wallace‡‡‡, AndrewWatt* and DebbieWillis§§§*Royal Hospital for Sick Children, University of Glasgow, Glasgow, †Developmental Endocrinology, UCL Institute of Child Health,University College London, London, ‡Institute of Biomedical Research, University of Birmingham, Birmingham, §Leeds Centre for Repro-ductive Medicine, Leeds Teaching Hospitals, Leeds, –Department of Endocrinology, University College London Hospitals, London, **AlderHey Children’s NHS Foundation Trust, Liverpool, ††CLIMB CAH Support Group, ‡‡Department of Paediatrics, University of Cam-bridge, Cambridge, §§Clinical Genetics Dept, Guy s Hospital, London, ––Dept Clinical Biochemistry, Barts and the London NHS Trust,London, ***Department Paediatric Urology, Alder Hey NHS Foundation Trust, Liverpool, †††AIS Support Group, ‡‡‡Department ofBiochemistry, Glasgow Royal Infirmary, Glasgow, UK and §§§Society for Endocrinology, Bristol, UKSummaryIt is paramount that any child or adolescent with a suspected disor-der of sex development (DSD) is assessed by an experienced clini-cian with adequate knowledge about the range of conditionsassociated with DSD. If there is any doubt, the case should be dis-cussed with the regional team. In most cases, particularly in the caseof the newborn, the paediatric endocrinologist within the regionalDSD team acts as the first point of contact. The underlying patho-physiology of DSD and the strengths and weaknesses of the tests thatcan be performed should be discussed with the parents and affectedyoung person and tests undertaken in a timely fashion. This clinicianshould be part of a multidisciplinary team experienced in manage-ment of DSD and should ensure that the affected person and parentsare as fully informed as possible and have access to specialist psycho-logical support. Finally, in the field of rare conditions, it is impera-tive that the clinician shares the experience with others throughnational and international clinical and research collaboration.(Received 8 February 2011; returned for revision 6 March 2011;finally revised 6 April 2011; accepted 12 April 2011)Introduction and development of guidanceDisorders of sex development (DSD) are a wide range of conditionswith diverse pathophysiology1 that most often present in thenewborn or the adolescent. Affected newborns usually present withatypical genitalia whereas adolescents present with atypical sexualdevelopment during the pubertal years. These clinical situations canoften be difficult to manage, particularly in those cases where thesex of rearing is uncertain. Establishing a dialogue and building rap-port with the affected child and the parents, evaluating the child andthen developing a logical, as well as pragmatic, plan for investiga-tions are central to the initial approach and ongoing management.The consensus that was reached in Chicago in 2005 on thegeneral principles of managing patients with DSD represented ahistoric milestone for international and multidisciplinary collabo-ration in this area.2,3 Some areas of care such as the initial approachto evaluating the infant or young person with suspected DSD werenot covered in detail as that was beyond the scope of the exercise.Guidance on the initial evaluation of a complex condition is oftencoloured by local provision of health care, and it was felt that reach-ing a consensus at a national, United Kingdom, level may be themost effective means of proceeding further. A UK DSD taskforcewas formed in March 2009 under the auspices of the Society forEndocrinology, and it was agreed that the remit of this groupwould be to concentrate on guidance on the initial evaluation pro-cess and the diagnostic approach rather than the clinical manage-ment of the condition once a provisional or definitive diagnosis hasbeen reached. This guidance would be aimed at a range of clinicalprofessionals who encounter newborns and adolescents with DSDand its purpose would not be to simply act as a manual but to har-monize good clinical practice. Stakeholder professional societiesand clinical professionals who could represent these societies wereidentified and approached to join the group as were members oftwo patient representative groups. These group members tookresponsibility for individual sections and based their opinion onobservational studies and expert opinion and the whole group con-sidered each draft. After completion, the guidelines were subject toopen external review by the involved professional societies andtheir members as well as patient group representatives. After thisperiod of open consultation of over 3 months, comments wereCorrespondence: S. Faisal Ahmed, British Society of Paediatric Endocrinol-ogy & Diabetes Society for Endocrinology. Tel.: +44-141 201 0767; Fax:+44-141 201 0837; E-mail: faisal.ahmed@glasgow.ac.ukRe-use of this article is permitted in accordance with the Terms andConditions set out at http://wileyonlinelibrary.com/online open#OnlineOpen_TermsClinical Endocrinology (2011) 75, 12–26 doi: 10.1111/j.1365-2265.2011.04076.x12 \u0002 2011 Blackwell Publishing Ltdreviewed and most suggestions were incorporated. All members ofthe group have approved the final draft of the guidance.Themultidisciplinary teamOptimal care for infants and adolescents with DSD requires anexperienced multidisciplinary team (MDT) that should be accessi-ble through regional centres. The team may exist as a clinical net-work with links between more than one specialist centre. As aminimum standard, the clinical team should include specialists inendocrinology, surgery and/or urology, clinical psychology/psychi-atry, radiology, nursing and neonatology. For infants with sus-pected DSD, this team should develop a plan for clinicalmanagement with respect to diagnosis, sex assignment and treat-ment options before making any recommendations to the parents.In addition, the clinical team should have links to a wider MDTthat consists of specialists from adult endocrinology, plastic sur-gery, gynaecology, clinical genetics, clinical biochemistry, adultclinical psychology, social work and, if possible, to a clinical ethicsforum (Table 1).4 Ideally, discussions with the family are lead byone professional, and in most situations, particularly in the case ofthe newborn, the endocrinologist assumes the role of clinical leadand oversees the timely involvement of other members of the team.However, the core composition of the team for each affected per-son and family will vary according to DSD type, family need or par-ent preference, local resources, developmental context and locationas well as the age of the person. The parents and the young personshould be informed of the range of help that is available from theMDT and should be provided with contact details of these person-nel. Ongoing communication with the family’s primary care physi-cian is important, and consent issues in relation to sharinginformation outside of the hospital setting should be discussedwith parents and young person. The team has a responsibility toeducate other healthcare staff and should have a forum to meet reg-ularly, in the context of a clinic and an educational meeting whereit can review and discuss its own performance. Audit of clinicalactivity, research studies, building collaborative working partner-ships with other DSD teams and attendance at joint clinics andeducation events are crucial if knowledge and information sharingis to be optimized across MDT teams. Transfer of care for the ado-lescent should be organized with the MDT operating in an environ-ment comprising specialists with experience in adolescent care.5Psychological support for the affected person andfamilyEarly psychological input, provided by a specialist clinical psychol-ogist with experience of supporting people with DSD and their par-ents, will allow the latter to examine and understand their earlyemotional reactions as well as explore present and future worries,adjust to the period of uncertainty during the diagnosis processand facilitate inclusion in informed decision making about them-selves or their child.6,7 The clinical psychologist is also well placedto assess how well the family is coping and functioning, assess andfacilitate the bonding of the parents with the infant, and, in the caseof the young person, perform an assessment of gender identity,Table 1. The clinical members of the MDT and their roles in providingcare to the patient and the parents. Professionals marked with an asteriskare core members of the MDT who should meet regularly to discuss cases ina clinic settingRoleNeonatologist or General PaediatricianInitial explanationManagement of the unwell childInitiation of first-line investigationsSeek advice from paediatric subspecialist (endocrine or surgical)with an interest in DSDPaediatric Endocrinologist*Detailed explanation over multiple visitsManagement of the unwell childInterpreting first-line investigations and planning second-lineinvestigationsOrganize timely and appropriate involvement of other members of MDTAct as the link between the parents and MDTInitiate and monitor long-term medical therapy such as steroid or sexsteroid therapyPaediatric RadiologistInterpret and often perform ultrasound scans in the newbornJudge the reliability of ultrasound scans in the newborn especiallywhen the results may influence sex assignmentAssessment of external anatomyPaediatric Urologist*Explanation of the anatomy and results of imagingExplanation of pros and cons of reconstructive surgeryDevelop a plan for complex imaging (other than pelvic ultrasound)and further assessment of the anatomyPerform procedures such as laparoscopy, biopsy, reconstructivesurgery and gonadectomyOrganize timely and appropriate involvement of other members ofMDTPaediatric Specialist Nurse*Provide general support to the patient and parents in addition tothat provided by other members of the MDTArrange specialist investigationsLiaise with the rest of the DSD team, especially the clinical psychologistClinical Psychologist*Provide specialist support to parents soon after birthProvide support to the growing child and the parentsDevelop an individualized plan for each familyGuide the MDT on timing and tempo of explanation of the conditionto the older child and adolescentClinical Endocrine Biochemist*Facilitate timely analysis of samplesProvide specialist support and interpretation of resultsGuide subsequent biochemical testsFacilitate storage of samples for analysis at a later stageClinical Geneticist*Facilitate timely analysis of karyotypeCloser involvement in the child with dysmorphic featuresOversee the process of genetic analysisFacilitate storage of samples for analysis at a later stageGenetic counsellingGynaecologist*Availability at an early stage to discuss future outcomeDiscuss issues related to sexual function, reproductive function andsurgeryAssess the understanding and review the diagnosisUK guidance on evaluation of DSD 13\u0002 2011 Blackwell Publishing Ltd, Clinical Endocrinology, 75, 12–26when appropriate. As a minimum, the parents of every newbornwith suspected DSD where there has been a delay in sex assignmentshould be offered clinical psychology input. In addition, alladolescents with a newly diagnosed DSD or existing DSD requiringmedical or surgical attention should be routinely offered clinicalpsychology input in addition to any support offered to their par-ents or wider family. The point of transfer from paediatric to adultservices offers an ideal opportunity for a routine assessment of theneed for clinical psychology input.Discussions with parents and young people need to occur onmultiple occasions in a quiet and peaceful setting, with enoughtime for the family and MDT to develop a shared understanding ofinvestigations, results, diagnosis, treatments and the value of ongo-ing psychological support for both themselves and/or their child.The pace of how information is shared should be set by the family,and issues of confidentiality discussed and respected.8 Parents’ andyoung people’s initial recollections of conversations with profes-sionals may have a long-lasting effect on them and their relation-ship with their affected child and health professionals.9 The use ofphrases such as ‘differences’ or ‘variations’ in sex development mayhelp to introduce the concept of the range of variation that mayoccur in sex development. A record of early discussions, either asaudiotapes or a letter, which is shared between the parents andother immediate members of the MDT and the general practitionermay be helpful. Use of drawings and written material during dis-cussion and a list of websites and support groups are useful aids forfamilies.Parents and young people need to be aware that the managementof the condition will require a stepwise approach that first targetsshort-term goals and then long-term goals that achieve optimallong-term well-being. It is very likely that families’ decisions will beshaped by their own expectations, experiences and their under-standing of sex and gender roles within the religious and culturalcontext of their own social networks. The MDT should also beaware of how their own values and beliefs are played out in consul-tation with the family. Some parents may consider early genital sur-gery as a mechanism that could possibly protect their child fromthe risk of future stigma. This will require a thorough discussionwith several members of the MDT team including the clinical psy-chologist, surgeons, gynaecologist and nurses so that the parentsare fully informed around the controversies around undertaking orwithholding early genital surgery.10 Parents and young people willneed support and guidance about how to share news following thebirth of their child/diagnosis and manage the social challenges theymay face at this time.8,11The role of the support groupSupport groups can provide ongoing support to parents and theaffected individual, including opportunities to gather and exploreinformation, promote autonomy and build knowledge and self-confidence regarding the diagnosis of DSD. For parents, gathering,using and questioning information will shape their understandingas they often act as the advocate for their child or young person andtherefore need to be fully informed about DSD practice, short- andlong-term outcomes of treatments and health risks and psychologi-cal challenges for their child. Support groups can provide a rangeof such information via websites and newsletters as well as throughphone helplines and group meetings for both families and profes-sionals.9 They can also work in collaboration with the MDT to helpfamilies as well as affected people in seeking appropriate medicalcare and improve patients’ understanding of their condition as wellas the reasons for medical therapy.6 Alongside the formal psycho-logical support provided by the specialist clinical psychologist, sup-port groups can also offer invaluable peer support to families andindividuals affected by DSD. By being in touch with others with asimilar condition and belonging to a support group, people cangain a sense of empowerment and the whole experience may alsonormalize a condition which may have previously been perceivedas a source of stigma and shame.12 Healthcare professionals rely onsupport groups for guidance on the development of healthcarestrategy as well as for providing the opportunity to interact withaffected people at national support group meetings and confer-ences.13 Contact details of support groups should be supplied asroutine as part of any written information. It is possible that fami-lies may prefer to talk to other local families affected in a similarway and regional services should attempt to create a local pool ofhelpers and explore locally organized support and education days.Which newborn should be investigated and howextensively?If the appearance of the external genitalia is sufficiently ambiguousto render sex assignment impossible or the phenotype is not consis-tent with prenatal genetic tests, then de facto, extensive investiga-tion is required. However, the extent of genital ambiguity maydepend on the expertise of the observer, and prior to presentationto a clinical expert, the label of ambiguous genitalia is oftenassigned to newborns where the most appropriate sex of rearing isnot immediately clear to those present at the child’s birth. The birthprevalence of genital anomalies may be as high as one in 300births14 but the birth prevalence of complex anomalies that maylead to true genital ambiguity on expert examination may be as lowas one in 5000 births.15Besides those whose genitalia are truly ambiguous, in the clinicalsituation, infants can often be divided into those who areTable 1. (Continued)RoleAssess the need for psychology support in the adolescent girlInitiate and monitor long-term sex steroid therapyAdult EndocrinologistInvestigate and manage the adolescent presenting for the first time afterthe age of 16 yearsLiaise with other members of the MDTAct as the link between the patient and MDTInitiate and monitor long-term medical therapy such as steroid or sex ste-roid therapyAct as the transition link for adolescents under paediatric careMDT, multidisciplinary team.14 S. Faisal Ahmed et al.\u0002 2011 Blackwell Publishing Ltd, Clinical Endocrinology, 75, 12–26apparently a boy with atypical genitalia and those who are appar-ently a girl with atypical genitalia. However, it is very important tobear in mind that the same girl with congenital adrenal hyperplasia(CAH) may present as an apparent girl with clitoromegaly or anapparent boy with bilateral undescended testes. When evaluatingthese infants, the clinical features of the external genitalia thatrequire examination include the presence of gonads in the labioscr-otal folds, the fusion of the labioscrotal folds, the size of the phallusand the site of the urinary meatus on the phallus, although the realsite of the urinary meatus may, sometimes, only become clear onsurgical exploration.16 These external features can be individuallyscored to provide an aggregate score, the external masculinizationscore (EMS; Fig. 1).17 Routine systematic examination of 423 con-secutive, apparently healthy, term newborn boys revealed that 412(98%) had the maximum EMS of 12, 10 had an EMS of 11 and only1 of 423 had an EMS of <11.17 In boys with genital anomalies, achromosomal anomaly may be present in approximately 3% ofthose with isolated cryptorchidism, 7% of those with hypospadiasand 13% of those with a combination of cryptorchidism and hypo-spadias.18 In infants with proximal hypospadias (penoscrotal, scro-tal, perineal), detailed biochemical and molecular studiesperformed a decade ago revealed a likely cause in 31% of cases.19With advances in biochemical and molecular techniques, it isunclear whether the diagnostic yield is even greater now.Infants with suspected DSD who require further clinical evalua-tion and need to be considered for investigation by a specialistshould include those with isolated perineal hypospadias, isolatedmicropenis, isolated clitoromegaly, any form of familial hypospa-dias and those who have a combination of genital anomalies withan EMS of <11. This will avoid unnecessary detailed investigationsinto boys with isolated glandular or mid-shaft hypospadias andboys with unilateral inguinal testis. The co-existence of a systemicmetabolic disorder, associated malformations or dysmorphic fea-tures would lower the threshold for investigation as would a familyhistory of consanguinity, stillbirths, multiple miscarriages, fertilityproblems, genital abnormalities, hernias, delayed puberty, genitalsurgery, unexplained deaths and the need for steroid replacement.In addition, maternal health and drug exposure during pregnancyand the pregnancy history itself may hold key information.In all infants with ambiguous genitalia and/or bilateral impalpa-ble gonads, a first tier of investigations should be undertaken todefine the sex chromosomes and delineate, by pelvic ultrasound,the internal genitalia and exclude life-threatening CAH – the com-monest cause of ambiguous genitalia of the newborn. This first tiershould, therefore, also include plasma glucose, serum 17OH-pro-gesterone (17OHP) and serum electrolytes. Serum 17OHP is usu-ally unreliable before the age of 36 h, and in the salt-losing form ofCAH, serum electrolytes usually do not become abnormal beforeday 4 of life. The results of PCR or FISH analysis using Y andX-specific markers should be available within one working day andthe 17OHP results should be available with a maximum of twoworking days in all specialist DSD centres. In situations where thelevel of suspicion of CAH is very high and the infant needs immedi-ate steroid replacement therapy, further serum samples should becollected and stored before starting therapy. These should be of asufficient volume to assess 17OHP, testosterone, androstenedioneand, possibly, renin activity or concentration, in that order of pri-ority. At least one spot or 24-h urine sample (at least 5 ml) for aurine steroid profile should be collected before starting therapy.The results of these initial investigations shall often dictate the sec-ond tier of investigations.In an infant with impalpable gonads, a karyotype of 46,XX, a sig-nificantly elevated serum 17OHP and the presence of a uterus makeCAH because of 21-hydroxylase deficiency very likely. A urine ste-roid profile can confirm this diagnosis and can also identify otherrare forms of CAH that may also be associated with a raised17OHP in the newborn. In infants with sex chromosomes otherthan 46,XX, a second tier of investigations is necessary to determinethe presence of testes and the adequacy of androgen productionand action. These tests include measurement of serum anti-Mu¨lle-rian hormone (AMH), the human chorionic gonadotrophin(hCG) stimulation test, further detailed imaging and laparoscopy.Confirmation of a specific diagnosis will often require further bio-chemical identification of a defect in the androgen biosynthesispathway and detailed genetic analysis.Which adolescent should be investigated and howextensively?The initial assessment in an affected adolescent should be aimed atestablishing a relationship with the patient and starting the processof diagnosis. In adolescents with an existing DSD, transferring toadult services is an opportunity to review the diagnosis and con-sider further investigations. An appropriate hospital setting is veryimportant for the sensitive management of complex conditionswith full access to the necessary medical, nursing and psychologicalcare. Whilst the explanation of the diagnosis to the patient and thefamily is critical, this needs to be performed sensitively and care-fully and expert psychological input is essential.Adolescents may typically present with a suspected DSD in threeways – a girl with primary amenorrhoea (with or without breastdevelopment), a girl who virilizes at puberty or a boy with pubertaldelay (Fig. 2). The potential psychological impact of examinationsUrethralmeatusDistalMidProxNormRightgonadLeftgonadL/SIngL/SIngAb Ab123Scrotal fusionMicropenisYN0 YN100·51·5Fig. 1 Calculating the External Masculinisation Score provides an objectiveaggregate score of the extent of masculinization of the external genitalia.Each individual feature of the genitalia (phallus size, labioscrotal fusion, siteof the gonads and location of urethral meatus) can be individually scored toprovide a score out of 12. 1Microphallus refers to a phallus below the malereference range. 2L/S, labioscrotal; Ing, inguinal; Ab, abdominal or absenton examination.UK guidance on evaluation of DSD 15\u0002 2011 Blackwell Publishing Ltd, Clinical Endocrinology, 75, 12–26and medical photography should be considered, and for the adoles-cent, a thorough physical examination by a surgeon and agynaecologist, depending on the sex of the adolescent, may only beappropriate under an anaesthetic.20In girls with primary amenorrhoea, investigations should be con-sidered at the age of 14 years if there is no pubertal developmentand at 16 years if other aspects of puberty, particularly breast devel-opment, have progressed normally. History should include a familyhistory and an assessment of co-existing chronic disease, exerciseand weight changes. Physical examination should include measure-ment of blood pressure, height and weight and assessment of sec-ondary sexual characteristics including clitoral enlargement.Vaginal examination to assess vaginal length is rarely indicatedwhen imaging is informative and should be clearly explained andperformed by a gynaecologist. An initial investigation screen shouldcomprise measurements of serum electrolytes, LH, FSH, prolactin,TSH, FT4, sex hormone binding globulin (SHBG), androstenedi-one, oestradiol, testosterone and transabdominal pelvic ultrasoundby sonographer who has experience of adolescent appearances.Raised gonadotrophins or an absent uterus in the presence of nor-mal breast development are indications for a karyotype.The appearance of clitoromegaly and hirsutism at puberty in thepresence of primary amenorrhoea is a classical presentation of two46,XY DSDs: 17b-hydroxysteroid dehydrogenase type 3(17bHSD3) deficiency and 5a-reductase type 2 deficiency. It is lesstypical of partial androgen insensitivity syndrome (PAIS) which isusually associated with ambiguous genitalia at birth. In all theseconditions, Mu¨llerian structures will not be detectable. Also, inpartial gonadal dysgenesis and ovotesticular DSD, the mild clitoro-megaly that may have been present at birth may have been over-looked but becomes a more prominent feature at adolescence. Thedifferential diagnosis would also include CAH and androgen-secreting tumours of the ovary or adrenal gland; in all these cases,Mu¨llerian structures are present. Investigations include serummeasurements of LH, FSH, dehydroepiandrosterone (DHEAS),SHBG, androstenedione, testosterone, dihydrotestosterone (DHT)and 17OHP. A 24-h urine collection for urinary steroid profile(USP) will confirm 5a-reductase type 2 deficiency, CAH or adreno-cortical tumour. A pelvic ultrasound will assess the presence of auterus and determine the need for a karyotype.Although the commonest cause of delayed puberty is constitu-tional delay, all boys with delayed puberty who are over the age of14 years should be assessed. Overweight boys need careful exami-nation so that a buried penis is not mistaken for micropenis.Rarely, PAIS, a disorder of testosterone biosynthesis or mild formsof testicular dysgenesis, can present in this age group, especially ifthere is a history of hypospadias repair or orchidopexy. Investiga-tions include a bone age and serum measurements of LH, FSH, tes-tosterone and prolactin. For those with raised gonadotrophins,karyotype should be performed to exclude disorders such as Kline-felter’s syndrome (47,XXY and variants) or 45,X/46,XY mosaicism.The role of the clinical geneticistEstablishing a specific molecular diagnosis is helpful in clinicalmanagement of cases and in offering accurate genetic counsellingfor the family. However, the number of diagnostic gene tests thatare available in accredited DNA laboratories in the United King-dom or internationally is limited and costly. As recent develop-ments in DNA and chromosomal analysis accelerate biomedicalresearch, many techniques such as multiplex ligation-dependentprobe amplification (MLPA) and comparative genomic hybridiza-tion (CGH) have the potential to become routine in clinicalpractice. Next-generation DNA sequencing platforms will allowwhole-genome sequencing for rare diseases to become a reality at arealistic price.21,22 The clinical geneticist at the specialist DSD cen-tre is correctly placed to evaluate complex genetic syndromes andalso judge which technique is appropriate and cost-effective forFSH Uterus ultrasoundHypogonadotrophic hypogonadismHypothalamic amenorrhoeaGonadal dysgenesis 46XX – Ovarian failure              45X    – Turner syndrome  46XY  – Swyer syndromePrimary amenorrhoeaBreast development?46XY – AIS46XX – Disorders of mullerian devpt- PCOS                                   - Outflow obstructionDelayedLow or normal High Absent PresentNormalFig. 2 Approach to investigating adolescent girlswith primary amenorrhoea.16 S. Faisal Ahmed et al.\u0002 2011 Blackwell Publishing Ltd, Clinical Endocrinology, 75, 12–26each clinical situation. DNA can be stored indefinitely withconsent, so when further diagnostic testing opportunities arise,aliquots of DNA can be accessed, avoiding repeated venepuncture.If a molecular diagnosis is reached in a research laboratory, thenconfirmation of this result in an accredited laboratory should besought where possible, before disclosing results to the family. Closeinvolvement of the clinical genetics service can ensure that theMDT covers all aspects of genetic counselling including provisionof information to the family, the mode of inheritance of the disor-der and the choices or options available for dealing with this risk.Established links with the clinical genetics service are also usefulwhen considering prenatal testing or interventions such as steroidtherapy in CAH (Fig. 3).Assessment of anatomyExamination and assessment by a paediatric surgeon withexperience of DSD is critically important in the affected newborn.Combining expert physical examination with endoscopic visualiza-tion and radiological assessment can provide information on thelocation and state of the gonads, the urogenital sinus and Mu¨llerianstructures. During this initial assessment, the anatomy and drain-age of the renal tract should also be assessed.23,24Ultrasonography is the first-line imaging modality and shouldinclude the adrenals, kidneys, pelvis, inguinal regions and scrotumwhere appropriate. In the neonate, the uterus, ovaries and adrenalsshould be identifiable but the reliability is child and operatordependent. It should also be borne in mind that the presence of auterine structure does not guarantee later function, and intra-abdominal testes and streak gonads are difficult to identify ultraso-nography. In the adolescent, it is sometimes difficult to confirm thepresence of a prepubertal uterus by ultrasonography and there maybe a place for repeat imaging after a 6-month course of oestrogen.Magnetic resonance imaging (MRI) should be reserved for caseswhere ultrasonography has failed to delineate the relationship ofthe Mu¨llerian structures and where there are abnormalities of theurinary tract. High-resolution MRI should include the pelvis andperineum, using high-resolution T2 with and without fatSuspected DSDA skin biopsy of genital skin or other sources (e.g. forearm) in cases of mosaicism may help to establish the distribution of cell linesEDTA and Li heparin samples for chromosome analysisBank DNA for storage/genetic testing at regional genetics laboratory (can be obtained from cord blood)Quantitative fluorescence (QF)-PCRor FISH for sex chromosomes Urgent karyotype, looking for mosaicism46,XX DSD or 46,XY DSDSex chromosome DSDDiagnosis confirmedSex chromosome mosaicism Additional FISH/MLPA/arrayCGH studies to characterize structural sex chromosome variationsCounselling by geneticist within DSD teamCascade genetic testing in the family Liaise and discuss results with geneticist in DSD team to help plan further tests or genetic counsellingArray CGH for submicroscopic imbalanceNormal karyotypeAbnormal karyotype Mosaic karyotypeDiagnosis confirmedDiagnosis confirmedAbnormal resultMolecular genetic tests for specific conditions sent to accredited DNA laboratoriesNo mutation identifiedMolecular diagnosis made    Confirm research results in accredited DNA laboratoryEthically approved research studiesNormal resultFig. 3 Role of the clinical genetics service within the specialist DSD team. FISH, fluorescence in situ hybridization; MLPA, Multiplex Ligation-dependentProbe Amplification.UK guidance on evaluation of DSD 17\u0002 2011 Blackwell Publishing Ltd, Clinical Endocrinology, 75, 12–26saturation and T1 in three planes where possible. MRI can identifyextra-abdominal ectopic testes and the presence of the spermaticcords, but is of less value in trying to define the presence and char-acter of intra-abdominal testes or streak gonads. In adolescents,MRI can delineate structural anomalies such as hydrometrocolposor hydronephrosis and identify secretory tumours. In general, T1imaging of the upper abdomen in adolescents is not required unlessthere is an adrenal mass in which case contrast enhancement shallalso be required.25,26Nowadays, the ‘genitogram’ is not routinely performed for diag-nostic purposes. It has been superseded by endoscopic examinationof the genital tract (genitoscopy), which provides a more detailedand thorough assessment. However, at the time of surgery, stentscan be accurately placed in various structures to allow a morefocused radiological examination. These investigations need toprovide information on the length of the urogenital sinus, the asso-ciated Mu¨llerian structures and the relationship of the urethra andits sphincter. In 46,XX DSD, genitoscopy can assess the need fordrainage of both the bladder and Mu¨llerian structures and providea detailed assessment of the urogenital anatomy. In 46,XY DSD,endoscopic examination can be used to identify any Mu¨llerianremnants that arise from the posterior urethra.Genitoscopy can be augmented by laparoscopy, but this is notnecessary in all cases of DSD. It is a very effective method of visual-izing the internal sex organs and facilitates direct inspection, biopsyor excision of intra-abdominal gonads. However, as laparoscopycan only visualize intraperitoneal structures, Mu¨llerian remnantsdeep within the pelvis or closely attached to the bladder may not beseen. In 46,XY DSD, laparoscopy is clearly indicated in all infantswith impalpable testes where the gonads need to be identified andbrought down to the scrotum if possible. Laparoscopy can also beused in adolescents who present with a DSD. However, MRI maybe a more suitable first-line investigation for defining the anatomy.Steroid measurement and its interpretationSteroid hormone analysis is a vital component of the biochemicalevaluation but the method of analysis can have a significant impacton the result.27 Analysis is most often performed by nonextraction,nonchromatographic (direct) immunoassays on automated plat-forms and these are subject to concerns of analytical specificity.28,29Liquid chromatography linked with tandem mass spectrometry(LC-MS/MS) allows multiple analyte analysis from a single samplewhilst maintaining analytical specificity.30 Thus, in cases of DSD,plasma or serum steroids should be measured by either LC-MS/MSor immunoassays after organic solvent extraction. As these aremore labour intensive, there may be an impact on the turnaroundtime for results and on clinical decision making. Close communica-tion between the clinical and biochemistry personnel within theDSD team is vital to enable correct interpretation of laboratoryresults and awareness that results should be available in a timelymanner.Urinary steroid profile analysis by gas chromatography massspectrometry (GC-MS) provides qualitative and quantitative dataon excretion of steroid metabolites. It is ideal for detecting alteredsteroid metabolites, especially in cases of CAH where the activity ofa combination of steroidogenic enzymes can produce unusualmetabolites that can cross-react in traditional serum assays.31 Thediagnosis of rarer forms of CAH such as P450 oxidoreductase defi-ciency (ORD) is best established using urinary GC-MS analysis as itallows for concurrent determination of all adrenal-derived steroidmetabolites.32 As gonadotrophins, androgens and precursors, fluc-tuate markedly over the first few months of life and may lead to adiagnostically blind window, there is a place to consider an earlyneonatal collection as well as further samples at a later stage. Aurine sample can be frozen and stored for many years and may helpwith a review of the diagnosis at a later stage. USP is not appropri-ate for suspected cases of 5a-reductase type 2 deficiency until after3 months of age as diagnostic pairs of 5b to 5a reduced metabolitesare not detectable until then.Normally, infants, particularly boys, have significant changes insteroid and other endocrine hormone concentrations during thefirst 100 days of birth.28,33 In boys, serum testosterone and DHTmay initially be high at birth but decline to <1 nmol/l or undetect-able, respectively. Concentrations then rise from around day 30after birth to peak at day 70 before declining to normal prepubertalconcentrations.33 These normal variations may influence the inter-pretation of sex steroid and gonadotrophin measurements as wellas the results of the hCG stimulation test. Furthermore, the actualvalue for the hormone concentration will vary depending on theassay methodology.SerumAnti-Mu¨llerian hormoneAnti-Mu¨llerian hormone, also known as Mu¨llerian-inhibiting sub-stance (MIS), is strongly expressed in Sertoli cells from the time oftesticular differentiation to puberty and to a much lesser degree ingranulosa cells from birth to menopause and is widely used nowa-days to assess ovarian reserve.34 Published information on circulat-ing AMH concentrations have to be interpreted with cautionbecause of differences in the way immunoassays are standardizedand the units used for measurement. It is, therefore, important toliaise with the specialist clinical biochemist to ensure appropriatereference ranges are used for interpretation. In boys, AMH isdetectable at birth at much higher circulating concentrations thanin girls and these concentrations rise over infancy before graduallydeclining at puberty. Therefore, up to date, age-, sex- and method-related reference ranges are necessary for interpretation.35 In maleneonates, levels that are close to the lower end of the normal rangeshould be repeated later in infancy as they should rise further inboys with normal testes. As summarized in Table 2, measurementof AMH is a powerful tool to assess Sertoli cell activity in childrenwith suspected DSD and may also have a diagnostic utility in con-ditions associated with androgen deficiency or insensitivity(Table 2).36The human chorionic gonadotrophin stimulation testStimulation with hCG allows the identification of functioning tes-ticular tissue as well as biosynthetic defects in testosterone synthesis(Fig. 4). However, it is an invasive test that should only beperformed as a second-line investigation after discussion with the18 S. Faisal Ahmed et al.\u0002 2011 Blackwell Publishing Ltd, Clinical Endocrinology, 75, 12–26paediatric endocrinologist in the regional DSD team. Most proto-cols for hCG stimulation in the United Kingdom use intramuscularhCG 1000–1500 units on three consecutive days.37 This can befollowed by further hCG stimulation with 1500 units on 2 days aweek for the following 2 weeks. In young infants and adolescents,3 days of hCG stimulation may be sufficient,38 and in the veryyoung infant with an intrinsically active gonadal axis, an hCG stim-ulation test may not be necessary if serial blood samples showraised serum testosterone concentrations. A testosterone responseto hCG may be labelled as normal if absolute testosterone concen-trations reach a level that is above the upper limit of the normalprepubertal range or rise by more than twice the baseline value. Asa minimum, other androgens that should be assessed include DHTand androstenedione. For these two metabolites, the post-hCG,day 4 sample is more important than the pre-hCG, day 1 sampleand there does not seem to be any additional benefit of analysing asample for these two metabolites on day 22, following prolongedhCG stimulation, if there are sufficient samples to analyse on day4.38 The day 22 sample that is collected for testosterone measure-ment should be stored and can be used to measure DHT or andro-stenedione if a sufficient sample was not available at day 4.In routine cases of XY DSD, a persistently low AMH may have ahigh predictive value for a low hCG-stimulated testosterone con-centration but a normal AMH has a low predictive value for a nor-mal hCG-stimulated testosterone value.35 These relationshipsbetween the two variables do not apply to cases of persistent Mu¨lle-rian duct syndrome where there is an intrinsic defect of AMH orthe AMH receptor. There is no evidence that a urine steroid profileor a serum AMH checked after hCG stimulation has any addeddiagnostic value. In the presence of a poor testosterone responsefollowing hCG stimulation, assessment of adrenal function by astandard short synacthen stimulation test should be considered inTable 2. Interpretation of serum AMH concentration in DSDSerum AMHTesticulartissue InterpretationUndetectable Absent 46,XX CAHComplete gonadal dysgenesisPMDS due to AMH gene defectWithin femaleage-relatedreference rangeUsuallyabsent46,XX CAHDysgenetic testes or ovotestesBelow male orabove femaleage-relatedreference rangePresent Dysgenic testesOvotestesWithin maleage-relatedreference rangeUsuallynormalNonspecific XY DSDHypogonadotrophic hypogonadismPMDS due to AMH-R defect46,XX testicular DSDOvotestesAbove maleage-relatedreference rangePresent AIS especially complete androgeninsensitivity syndrome5a-reductase deficiencyTestosterone biosynthetic defectLeydig cell hypoplasiaAMH, anti-Mu¨llerian hormone; CAH, congenital adrenal hyperplasia;DSD, Disorders of sex development.Low T and low precursorsLow T and high precursorsHigh T, low DHThigh Ur 5β:5αHigh/normal/low Tnormal DHTnormal/high AMHPoor functional response to TLHR Gon dysgSF-1StARP450sccSF-1CYP17A1PORHSD3B2SRD5A2 ARStandard HCG stimulationACTH stimulated cortisol response2CYP17A1 defPOR defHSD3B2 defHSD17B3 defProlonged HCG stimulation1Low T and low precursorsNormal Low Normal LowHSD17B3 Fig. 4 Interpretation of the results of the human chorionic gonadotrophin (hCG) stimulation test when investigating XY DSD and pointers for considerationof prolonged hCG stimulation and adrenocorticotrophin hormone stimulation. 1Prolonged hCG stimulation test should be considered in those cases wherethere is a poor testosterone (T) response to a standard hCG stimulation test. 2Synacthen stimulation test should be considered in those cases who show a poortestosterone response to hCG stimulation. 46,XY children with lipoid congenital adrenal hyperplasia due to a steroidogenic acute regulatory defect or P450sccdeficiency due to CYP11A1 defect will have female genitalia and present in a salt-losing state in the first days or weeks of life before synacthen performed.UK guidance on evaluation of DSD 19\u0002 2011 Blackwell Publishing Ltd, Clinical Endocrinology, 75, 12–26all cases. There is less experience as well as a lower demand for acorresponding test to assess ovarian tissue but recent reports ofovarian hormones following stimulation with FSH need to beexplored further.39,40 There is currently insufficient evidence to rec-ommend that everybody with XY DSD should have a synacthenstimulation test but clinicians should be aware of the clear associa-tion between some forms of DSD and primary adrenal insufficiencyand should consider thorough assessment of adrenal function inthose diagnoses where an association has already been describedand in those with any clinical suspicion of adrenal insufficiency,especially those with low steroid precursors on USP.XX DSD46,XX DSD can be classified into disorders of ovarian development,conditions with androgen excess and other syndromes, which areoften associated with other developmental abnormalities.Congenital adrenal hyperplasia is the commonest cause of 46,XXDSD with ambiguous genitalia in the neonatal period or earlyinfancy and is characterized by androgen excess and a variablealteration in glucocorticoid and mineralocorticoid function and aspecific profile of steroid hormones.41,42 This profile can identifythe enzyme defects including deficiency of 21a-hydroxylase (90–95% of cases), 11b-hydroxylase (4–8% of cases), 3b-hydroxyster-oid dehydrogenase type 2 (3bHSD2; rare) and P450 oxidoreductase(unknown prevalence). P450 ORD biochemically manifests asapparent combined CYP17A1 and CYP21A2 deficiency, sometimesalso resembling CYP19A1 (aromatase) deficiency. Unlike otherforms of CAH, ORD is characterized by increased androgen con-centrations only during the prenatal and early neonatal period, butrapidly develop sex hormone deficiency. Further details of theseenzyme defects are outlined in Table 3.46,XX DSD also includes disorders of gonadal developmentincluding 46,XX ovotesticular DSD and 46,XX testicular DSD.46,XX ovotesticular DSD commonly presents at birth with ambigu-ous genitalia and progressive virilization during puberty. In con-trast, individuals with 46,XX testicular DSD usually have a normalmale phenotype and absent Mu¨llerian structures and are oftendiagnosed after karyotype analysis during work-up for infertility.In 46,XX testicular DSD, about 80–90% of patients will have Ychromosomal material including a translocated SRY gene, which isonly rarely detected in 46,XX ovotesticular DSD. In other cases ofTable 3. Characteristics of 46, XX disorders of sex development due to androgen excessInheritanceand Gene GenitaliaWolffianductderivativesMu¨llerianductderivatives GonadsTypical signs andsymptoms Hormone profile21-hydroxylasedefAutosomalRecessive,CYP21A2Ambiguous Absent Normal Ovary Severe adrenalinsufficiency ininfancy ± salt loss;moderate to severeandrogenization at birthDecreased cortisol and/ormineralocorticoids.Increased 17-hydroxyprogesterone,21-deoxycortisol,androstenedione, testosterone,and/or plasma renin (activity)11b-hydroxylasedefAutosomalRecessive,CYP11B1Ambiguous Absent Normal Ovary Adrenal insufficiency ininfancy; moderate tosevere androgenizationat birth; arterialhypertension oftendeveloping at different agesDecreased cortisol, corticosterone,aldosterone, and/or plasma renin(activity)Increased 11-deoxycortisol,11-deoxycorticosterone,androstenedione, testosterone3b-hydroxysteroiddehydrogenaseII defAutosomalRecessive,HSD3B2Commonlyclitoromegalyor mildvirilization,also normalAbsent Normal Ovary Severe adrenal insufficiencyin infancy ± salt loss,androgenization duringchildhood and puberty,premature pubarcheIncreased concentrations ofD5 C21- and C19- steroids,17 hydroxypregnenolone andDHEA suppressible bydexamethasoneP450oxidoreductasedefAutosomalRecessive,PORAmbiguous ornormal femaleAbsent Normal Ovary Variable androgenization atbirth and puberty,glucocorticoid deficiency,features of skeletalmalformations.Maternal androgenizationduring pregnancy onsetsecond trimester possibleCombined P450c17 and P450c21insufficient, normal or lowcortisol with poor response toACTH stimulation, elevated17-hydroxyprogesterone,testosterone, progesterone andcorticosterone; low oestradiol.P450 aromatasedefAutosomalRecessive,CYP19A1Ambiguous Absent Normal Ovary Delayed bone age,development of ovariancysts during infancy,childhood and puberty.Maternal androgenizationduring pregnancyHigh androgens in cord blood,androgens may stay elevated ornormalize soon after birth20 S. Faisal Ahmed et al.\u0002 2011 Blackwell Publishing Ltd, Clinical Endocrinology, 75, 12–2646,XX testicular DSD, duplication or upregulation of the SOX9 orSOX3 gene and mutations of the RSPO1 gene have been described.In those with a suspicion of 46,XX ovotesticular DSD, functionaltesting will require detection of testicular and ovarian tissue by acombination of biochemical testing, imaging and surgical explora-tion.Disorders of Mu¨llerian development are another group of 46,XXDSD, and in these cases, ovarian function is usually normal butoften associated with cloacal anomalies and other characteristicmalformations. Although most cases of Mu¨llerian developmentdisorders are not associated with androgen excess, the presence ofthe latter, particularly in the adolescent, should alert the clinicianto a possible abnormality of the WNT4 gene.XY DSDwith low testosterone and low precursorsThe differential diagnosis of 46,XY DSD associated with low testos-terone and low precursors includes the following: high defects insteroid synthesis (steroidogenic acute regulatory (StAR) protein,P450side chain cleavage(scc) enzyme/CYP11A1, sometimes Smith-Lemli-Optiz/DHCR7); LH receptor defects (LHCGR); and partialand complete forms of gonadal (testicular) dysgenesis (Table 4).Of note, complete or partial combined 17a-hydroxylase/17,20-lyase deficiency (CYP17A1) may also present with ‘low testosteroneand low precursors’ if DHEAS and androstenedione are the onlyintermediates measured. The actual diagnosis can be reached byassessment of adrenal function by measuring ACTH, ACTH-stim-ulated cortisol, PRA, DOC, corticosterone, aldosterone, measure-ment of D5 (pregnenolone, 17OHPreg) and D4 (progesterone,17OHP) precursors or urine steroid analysis. Isolated 17,20-lyasedeficiency and ORD might also be diagnosed by this approach.Proximal blocks (StAR, P450scc) in the pathway affect steroidogen-esis in the adrenal gland as well as the developing gonad.Luteinizing hormone receptor defects (‘Leydig cell hypoplasia’)typically result in elevated basal LH, hyperresponsive LH to GnRHstimulation, low precursors and testosterone, and impaired andro-gen response to hCG stimulation. No Mu¨llerian structures will bepresent and adrenal function is normal. A spectrum of phenotypeshas been reported including ambiguous genitalia and micropenis.In some cases, basal LH may not be elevated at times when theHPG axis is quiescent (6 months to late childhood).In complete gonadal dysgenesis (‘Swyer syndrome’), affectedpeople will usually have a female phenotype with intra-abdominalstreak gonads. In some situations, ovotestes or even undifferenti-ated gonadal tissue may be found.43–45 Mu¨llerian structures areusually present because of impaired AMH secretion in early foetallife. Androgens and their precursors will be low, LH elevated,depending on age, and a poor or absent testosterone response tohCG stimulation is seen. AMH concentrations will be low or unde-tectable and adrenal function is usually normal unless the underly-ing defect is in steroidogenic factor-1 (SF-1) or related adrenal orgonadal factors.Partial gonadal (testicular) dysgenesis can present with a spec-trum of phenotypes ranging from clitoromegaly, to ambiguousgenitalia or severe hypospadias. Mu¨llerian structures may or maynot be present, and testes of variable size and architecture are pres-ent along the path of descent. The biochemical profile is similar tocomplete gonadal dysgenesis, but generally less severe. If milddegrees of clitoromegaly in infancy are overlooked, a 46,XY childwith partial gonadal dysgenesis may first present at puberty withprogressive androgenization. Genetic analysis and associated fea-tures may be useful in defining the molecular aetiology of someforms of gonadal dysgenesis.46XY DSDwith low testosterone and high steroidprecursors46,XY DSD with low testosterone and increased precursors can becaused by several variants of CAH, namely by 17a-hydroxylase(CYP17A1) deficiency, ORD and 3bHSD2 deficiency, caused byinactivating mutations in the corresponding genes CYP17A1, PORand HSD3B2, respectively. In addition, 46,XY DSD with low testos-terone and increased precursors can typically be found in individu-als affected by 17bHSD3 deficiency, caused by HSD17B3 mutations(Table 4).Deficiency of CYP17A1 leads to CAH in about 1% of cases of46,XY DSD. Characteristically, affected individuals present withfemale genitalia and low DHEA, androstenedione and testosterone.There is an increase in mineralocorticoid synthesis, and althoughthere may be cortisol deficiency, this is rarely manifested, as corti-costerone can also bind and activate the glucocorticoid receptor. InORD, sex steroids are characteristically low, sometimes low nor-mal, whilst pregnenolone and progesterone and their metabolitesaccumulate, as expression of the combined block of CYP21A2 andCYP17A1 activities. Although there is often a relative preponder-ance of mineralocorticoid over glucocorticoid metabolites inaffected cases, hypertension only manifests in adolescence or later.Although baseline glucocorticoid secretion is usually sufficient, inthe majority of cases, the stress response to ACTH is significantlyimpaired, requiring at least stress dose hydrocortisone cover or per-manent glucocorticoid replacement. 3b-HSD2 (also termed D4-D5isomerase) deficiency invariably leads to glucocorticoid deficiencyand as well as a variable degree of mineralocorticoid deficiency andits characteristic features are outlined in Table 4. 17b-HSD3 defi-ciency is responsible for the conversion of androstenedione to tes-tosterone in the gonad and has no effect on adrenalsteroidogenesis. Plasma steroids characteristically show increasedandrostenedione levels whilst testosterone levels are concurrentlylow, particularly after hCG stimulation. However, a low testoster-one to androstenedione ratio may also occur in cases of gonadaldysgenesis and the reliability of a low ratio in identifying 17b-HSD3 deficiency is unclear. In urine, the typical finding is anincrease in the androgen (and androstenedione) metabolites,androsterone (An) and etiocholanolone (Et), but it is unclearwhether this applies across all age groups.31XY DSDwith normal testosterone, normal precursorsand low DHTThe type 2 isoenzyme of 5a-reductase type 2 (SRD5A2) is highlyexpressed in androgen-sensitive tissues47 and converts testosteroneto the more potent androgen, DHT, required for the developmentUK guidance on evaluation of DSD 21\u0002 2011 Blackwell Publishing Ltd, Clinical Endocrinology, 75, 12–26Table 4. Characteristics of 46, XY disorders of sex developmentInheritanceand Gene GenitaliaWolffian ductderivativesMullerianductderivatives Gonads Typical features Hormone profileLeydig cellhypoplasiaAutosomalRecessive,LH/HCGRFemale,hypospadiasor micropenisHypoplastic Absent Testes Under androgenizationwith variable failure ofsex hormoneproduction at pubertyLow T and DHT, elevatedLH and FSH, exaggeratedLH response to LHRH, poorT and DHT response tohCG stimulationLipoid CAH AutosomalRecessive,StARFemale, rarelyambiguous ormaleHypoplasticor normalAbsent Testes Severe adrenalinsufficiency in infancywith salt loss, failure ofpubertal development,rare cases associatedwith isolatedglucocorticoiddeficiencyUsually deficient ofglucocorticoids,mineralocorticoidsand sex steroidsP450SCC def AutosomalRecessive,CYP11A1Female, rarelyambiguous orhypospadiasHypoplasticor normalAbsent Testes Severe adrenalinsufficiency in infancywith salt loss rangingto milder adrenalinsufficiency withonset in childhoodUsually deficient ofglucocorticoids,mineralocorticoidsand sex steroids3b-hydroxysteroiddehydrogenaseII defAutosomalRecessive,HSD3B2Ambiguous,hypospadiasNormal Absent Testes Severe adrenalinsufficiency ininfancy ± salt loss,poor androgenizationat puberty withgynaecomastiaIncreasedconcentrations of D5C21- andC19- steroids,17 hydroxypregnenoloneand DHEA suppressibleby dexamethasoneCombined17a-hydroxylase/17,20-lyase defAutosomalRecessive,CYP17A1Female,ambiguous,hypospadiasor micropenisAbsent orhypoplasticAbsent Testes Absent or poorvirilization at puberty,gynaecomastia,hypertensionDecreased T, increased LHand FSH, increased plasmadeoxycorticosterone,corticosterone andprogesterone, decreasedplasma renin activity, lowrenin hypertension withhypokalaemic alkalosisIsolated 17,20-lyase defAutosomalRecessive,CYP17A1,usuallyaffecting keyredoxdomains,alternativelycaused bycytochromeb5 mutations(CYB5)Female,ambiguous orhypospadiasAbsent orhypoplasticAbsent Testes Absent or poorandrogenization atpuberty, gynaecomastiaDecreased T, DHEA,androstenedione andoestradiol, abnormal increasein plasma17-hydroxyprogesteroneand 17-hydroxypregnenolone,increased LH and FSH,increased ratio ofC21-deoxysteroids toC19-steroids after hCG stimP450oxidoreductasedefAutosomalRecessive,PORAmbiguous,hypospadias ornormal maleAbsent orhypoplasticAbsent Testes Variable androgenizationat birth and puberty,glucocorticoiddeficiency, features ofskeletal malformations.Maternal androgenizationduring pregnancy onsetsecond trimesterpossibleCombined P450c17 and P450c21insuff, normal or low cortisolwith poor response to ACTHstim, elevated17-hydroxyprogesterone, T low22 S. Faisal Ahmed et al.\u0002 2011 Blackwell Publishing Ltd, Clinical Endocrinology, 75, 12–26of external male genitalia. At birth, the external appearance of thegenitalia of an infant with SRD5A2 deficiency can range from acompletely female phenotype to a range of hypospadias severity orjust isolated micropenis. A positive family history is often presentin this autosomal recessive condition. In serum, the testosterone/DHT ratio following hCG stimulation usually exceeds 30:1. Ininfants over 3–6 months, the defect should be easily identifiablesimply on a urine sample which shows a decreased ratio of 5a:5b-reduced C21 and C19 steroids and thus can be reached in a childwho had early gonadectomy. Early diagnosis of this condition isimportant as the affected infant may need sex reassignment if ini-tially raised as a girl. In the infant raised as a boy, application oftopical DHT cream may be a method of assessing the potential ofthe genitalia to virilize over the longer term.XY DSDwith normal testosterone, normal precursorsand normal DHTA defect in androgen signalling is most likely due to dysfunction ofthe androgen receptor (AR) and mutations resulting in a completelack of function of the AR cause complete androgen insensitivitysyndrome (CAIS).48 This presents in the newborn infant as a dis-cordance between a female phenotype and a prenatal karyotype of46,XY, a postnatal check because of a positive family history, or asinguinal swellings in an otherwise normal girl. CAIS usually pre-sents in adolescence as primary amenorrhoea with normal breastdevelopment. The presence of pubic hair is often reported in CAISand should not be used to exclude the diagnosis. Mutations thatresult in some residual AR function and varying degrees of andro-genization cause PAIS. Although children with AIS typically havenormal testosterone and DHT response to hCG stimulation and anormal USP, some demonstrate a poor response to hCG stimula-tion.37,49 The serum AMH concentration is normal or may even beelevated. LH levels are increased in the face of normal or elevatedserum testosterone, reflecting a state of androgen resistance.36 Afamily history of X-linked inheritance is informative although one-third of cases are the result of spontaneous new mutations.A functional assessment of androgen sensitivity may includeassessing the clinical effect of a short course of testosterone appliedon the phallus or by the effect of systemic testosterone followinghCG stimulation. However, there is no consensus on the choice ofandrogen, dosage, method of administration, timing, duration oftreatment and the definition of a satisfactory response in thegrowth of the phallus. Androgen sensitivity can be also assessed bymeasuring change in SHBG, an androgen-responsive protein whichnormally decreases following androgen exposure. This fall in SHBGis absent in CAIS, variable in PAIS50 and difficult to interpret inyoung infants who have highly variable circulating SHBG. ARTable 4. (Continued)Inheritanceand Gene GenitaliaWolffian ductderivativesMullerianductderivatives Gonads Typical features Hormone profile17b-hydroxysteroiddehydrogenasetype 3 defAutosomalRecessiveHSD17B3Female,ambiguous,blind vaginalpouchPresent Absent Testes Androgenisation atpuberty, gynaecomastiavariableIncreased plasma estrone,decreased ratio oftestosterone/androstenedioneand oestradiol after hCG stim,increased FSH and LH5a-reductase-2defAutosomalRecessiveSRD5A2Ambiguous,micropenis,hypospadias,blind vaginalpouchNormal Absent Testes Decreased facial and bodyhair, no temporal hairrecession, prostate notpalpableDecreased ratio of 5a/5bC21- and C19- steroids inurine, increased T/DHT ratiobefore and after hCG stim,modest increase in LH,decreased conversionof T to DHT in vitroCAIS X-linkedrecessiveARFemale with blindvaginal pouchOften presentdepending onmutationtypeAbsent orvestigialTestes Scant or absent pubic andaxillary hair, breastdevelopment and femalebody habitus at puberty,primary amenorrhoeaIncreased LH and T, increasedoestradiol, FSH levels normalor slightly increased,resistance to androgenic andmetabolic effects of T (may benormal in some cases)PAIS X-linkedrecessiveARAmbiguous withblind vaginalpouch, isolatedhypospadias,normal malewith infertility(mild)Often normal Absent Testes Decreased to normalaxillary and pubic hair,beard growth and bodyhair, gynaecomastiacommon at pubertyIncreased LH and T, increasedoestradiol, FSH levels may benormal or slightly increased,partial resistance to androgenicand metabolic effects of TDHT, dihydrotestosterone; FSH, follicle-stimulating hormone; hCG, human chorionic gonadotrophin; LH, luteinizing hormone; T, testosterone; DHEA,dehydroepiandrosterone; ACTH, adrenocorticotrophin hormone; AR, androgen receptor; CAIS, complete androgen insensitivity syndrome; PAIS, partialandrogen insensitivity syndrome.UK guidance on evaluation of DSD 23\u0002 2011 Blackwell Publishing Ltd, Clinical Endocrinology, 75, 12–26analysis may reveal a mutation in more than 80% of cases with aCAIS phenotype and 30% of cases with a PAIS phenotype,51 andAR binding studies are not necessary for routine diagnosis of AIS.A number of cases of XY DSD are loosely labelled as ‘PAIS’ whenno conclusive biochemical or genetic abnormalities are identifiedin gonadal function, androgen synthesis or androgen action. Theterm PAIS should be reserved for those children who have XY DSDand a pathogenic mutation in AR.Networks and registers for clinical care, audit andresearchIt is unrealistic to expect that every major clinical centre can possessa comprehensive, multidisciplinary DSD team as outlined earlier.Furthermore, in many cases, care at a local hospital may be moreappropriate for reasons of both convenience and necessity (forexample, adrenal crisis in CAH). For the less complex case of hypo-spadias, immediate multidisciplinary input may not be necessaryand initial discussion and explanation of the condition with the par-ents does not require urgent transfer of the baby at an emotionallysensitive period. Similarly, some investigations can also be per-formed at local centres that are affiliated to a regional centre. It is,however, important that all personnel who may be involved in thecare of an affected person have access to the regional DSD team andhave the opportunity to develop themselves professionally. Someregions have overcome these hurdles with the development of anational managed clinical network (http://www.sgan.nhsscot-land.com). A service model such as this ensures the provision of anequitable state-of-the-art service for all affected children and adoles-cents in a region. A formal organization allows a structured referralpathway within the region as well as beyond and provides the infra-structure for better long-term care of the patient as close to home aspossible. A network also facilitates the creation of nationally agreedprotocols for the care of the affected newborn, setting and monitor-ing of national standards of care, and rational utilization of otherservices such as clinical genetics and clinical biochemistry and pro-vides a forum for education and professional development.Research and audit are vital for the management of DSD, andclinical networks have a strong potential to drive these activities.The 2005 Consensus Workshop on DSD stressed the need for thecreation and maintenance of a database in centres of expertise.Clinical audit systems that collect information on clinical activityand outcome should be an integral component of national special-ist services. Such databases may exist at a less formal level in manyother regional centres and until recently have lacked internationaluniformity and the ability to crosstalk. A web-based register(https://tethys.nesc.gla.ac.uk/) has been approved by the UKNational Research Ethics Service as a multicentre research databasewhich does not require any further local research approvals butdoes require the approval of the patient or parent.52 This web-based register is currently helping the EuroDSD research pro-gramme and has the potential to address many unanswered ques-tions about long-term outcome in these rare conditions. Suchregisters of patients can also facilitate the development of local cir-cles of patients and parents with similar conditions who can sup-port each other.ConclusionThe rationale for investigating a newborn or an adolescent with asuspected disorder of sex development may include the need todetermine the sex of rearing, anticipate early medical problems,explain the aetiology to the young person and the parents of anaffected newborn and, finally, to develop a management plan thatleads to optimal long-term outcome. A rational and empathicapproach that relies on the skills and knowledge of the expertswithin the multidisciplinary team is essential for achieving thesegoals. An unequivocal diagnosis confirmed by biochemical andgenetic means remains elusive in many cases of disorders of sexdevelopment, particularly XY disorders of sex development. Thestepwise approach to reaching the final diagnosis needs to beexplained to parents and the most important goals of the initialperiod of assessment should be to support the affected person andthe parents, assign a sex of rearing and exclude the possibility ofany early medical problems.AcknowledgementsThis document is dedicated to the memory of Professor MikeWallace who sadly passed away in the final stages of its develop-ment. The members of the UK DSD working group are gratefulfor the generous support from the Society for Endocrinology andthe British Society of Paediatric Endocrinology & Diabetes.Thanks are also due to Abhi Vora for administrative support.SFA, JCA, WA, IAH and NK are funded in part by EuroDSD (inthe European Community’s Seventh Framework ProgrammeFP7/2007–2013 under grant agreement no.201444). In addition,JCA is supported by a Senior Fellowship in Clinical Science fromthe Wellcome Trust (079666), WA is supported by a programmegrant from the MRC (0900567), NK is supported by a ClinicianScientist Fellowship from the Wellcome Trust (GR079865MA)and IAH is supported by the NIHR Cambridge BiomedicalResearch Centre. The Society for Endocrinology retains copyrightand all other rights in the manuscript of this article as submittedfor publication.Authors &Members of theWorking GroupS. Faisal Ahmed: British Society of Paediatric Endocrinology &Diabetes, Society for Endocrinology, Chair & CorrespondingAuthorJohn C. Achermann: British Society of Paediatric Endocrinology &Diabetes, Society for EndocrinologyWiebke Arlt: Society for EndocrinologyAdam Balen: British Society of Paediatric & Adolescent GynaecologyGerry Conway: Society for EndocrinologyZoe Edwards: Chartered Member of the British PsychologicalSocietySue Elford: CLIMB CAH Support GroupIeuan A. Hughes: British Society of Paediatric Endocrinology &Diabetes, Society for EndocrinologyLouise Izatt: British Society of Human Genetics, Clinical GeneticsSociety24 S. Faisal Ahmed et al.\u0002 2011 Blackwell Publishing Ltd, Clinical Endocrinology, 75, 12–26Nils Krone: British Society of Paediatric Endocrinology & Diabetes,Society for EndocrinologyHarriet Miles: British Society of Paediatric Endocrinology &DiabetesStuart O’Toole: Member of British Association of PaediatricUrologistsLes Perry: Association for Clinical Biochemistry, Society forEndocrinologyCaroline Sanders: Royal College of NursingMargaret Simmonds: AIS Support GroupA. Michael Wallace: Association for Clinical Biochemistry, BritishSociety of Paediatric Endocrinology & Diabetes, Society forEndocrinologyAndrew Watt: British Society of Paediatric RadiologyDebbie Willis: Society for EndocrinologyReferences1 Biason-Lauber, A. (2010) Control of sex development. BestPractice and Research. Clinical Endocrinology and Metabolism,24, 163–186.2 Hughes, I.A., Houk, C., Ahmed, S.F. et al. (2006) Consensus state-ment on management of intersex disorders. Archives of Disease inChildhood, 91, 554–563.3 Pasterski, V., Prentice, P. & Hughes, I.A. (2010) Consequences ofthe Chicago consensus on disorders of sex development (DSD):current practices in Europe. Archives of Disease in Childhood, 95,618–623.4 Brain, C.E., Creighton, S.M., Mushtaq, I. et al. (2010) Holisticmanagement of DSD. Best Practice and Research. Clinical Endocri-nology and Metabolism, 24, 335–354.5 Liao, L.M., Tacconelli, E., Wood, D. et al. (2010) Adolescent girlswith disorders of sex development: a needs analysis of transitionalcare. Journal of Pediatric Urology, 6, 609–613.6 Karzakis, K. (2009) Fixing Sex: Intersex, Medical Authority, andLived Experience. Duke University Press, Durham and London.7 Karkazis, K., Tamar-Mattis, A. & Kon, A.A. (2010) Genital surgeryfor disorders of sex development: implementing a shared decision-making approach. Journal of Pediatric Endocrinology and Metabo-lism, 23, 789–805.8 Duguid, A., Morrison, S., Robertson, A. et al. (2007) The psycho-logical impact of genital anomalies on the parents of affected chil-dren. Acta Paediatrica, 96:348–352.9 Cull, M.L. & Simmonds, M. (2010) Importance of support groupsfor intersex (disorders of sex development) patients, families andthe medical profession. Sex Development, 4, 310–312.10 Wiesemann, C., Ude-Koeller, S., Sinnecker, G.H. et al. (2010) Ethi-cal principles and recommendations for the medical managementof differences of sex development (DSD)/intersex in children andadolescents. European Journal of Pediatrics, 169, 671–679.11 Liao, L.M. (2003) Learning to assist women born with atypical gen-italia: journey through ignorance, taboo and dilemma. Journal ofReproductive and Infant Psychology, 21, 229–238.12 Bartlett, Y.K. & Coulson, N.S. (2011) An investigation into theempowerment effects of using online support groups and how thisaffects health professional/patient communication. Patient Educa-tion and Counseling, 83, 113–119.13 Creighton, S.M., Minto, C.L., Liao, L.M. et al. (2004) Meetingbetween experts: evaluation of the first UK forum for lay andprofessional experts in intersex. Patient Education and Counseling,54, 153–157.14 Ahmed, S.F., Dobbie, R., Finlayson, A.R. et al. (2004) Regional &temporal variation in the occurrence of genital anomalies amongstsingleton births, 1988–1997, Scotland. Archives of Disease in Child-hood, 89, F149–F151.15 Thyen, U., Lanz, K., Holterhus, P.M. et al. (2006) Epidemiologyand initial management of ambiguous genitalia at birth in Ger-many. Hormone Research, 66:195–203.16 Vidal, I., Gorduza, D.B., Haraux, E. et al. (2010) Surgical optionsin disorders of sex development with ambiguous genitalia. BestPractice and Research. Clinical Endocrinology and Metabolism, 24,311–324.17 Ahmed, S.F., Khwaja, O. & Hughes, I.A. (2000) Clinical featuresand gender assignment in cases of male undermasculinisation: therole for a masculinisation score. British Journal of Urology Interna-tional, 85, 120–124.18 Moreno-Garcia, M. & Miranda, E.B. (2002) Chromosomal anoma-lies in cryptorchidism and hypospadias. Journal of Urology, 168,2170–2172.19 Boehmer, A.L.M., Nijman, R.J.M., Lammers, B.A.S. et al. (2001)Etiological studies of severe or familial hypospadias. Journal ofUrology, 165, 1246–1254.20 Creighton, S., Alderson, J., Brown, S. et al. (2002) Medical photog-raphy: ethics, consent and the intersex patient. British Journal ofUrology International, 89, 67–71.21 Shendure, J. & Ji, H. (2008) Next-generation DNA sequencing.Nature Biotechnology, 26, 1135–1145.22 Bashamboo, A., Ledig, S., Wieacker, P. et al. (2010) New technolo-gies for the identification of novel genetic markers of disorders ofsex development (DSD). Sex Development, 4, 213–224.23 Chertin, B., Koulikov, D., Alberton, J. et al. (2006) The use of lapa-roscopy in intersex patients. Pediatric Surgery International, 22,405–408.24 Denes, F.T., Cocuzza, M.A., Schneider-Monteiro, E.D. et al. (2005)The laparoscopic management of intersex patients: the preferredapproach. British Journal of Urology International, 95, 863–867.25 Chavhan, G.B., Parra, D.A., Oudjhane, K. et al. (2008) Imaging ofambiguous genitalia: classification and diagnostic approach. Radio-graphics, 28, 1891–1904.26 Wright, N.B., Smith, C., Rickwood, A.M. et al. (1995) Imagingchildren with ambiguous genitalia and intersex states. ClinicalRadiology, 50, 823–829.27 Tomlinson, C., Wallace, A.M. & Ahmed, S.F. (2004) Erroneous tes-tosterone assay causing diagnostic confusion in a newborn infantwith intersex anomalies. Acta Paediatrica, 93, 1004–1005.28 Tomlinson, C., Macintyre, H., Dorrian, C.A. et al. (2004) Testos-terone measurements in early infancy. Archives of Disease in Child-hood. Fetal and Neonatal Edition, 89, F558–F559.29 Albrecht, L. & Styne, D. (2007) Laboratory testing of gonadal ste-roids in children. Pediatric Endocrinology Reviews, 5(Suppl. 1),599–607.30 Nakamoto, J. & Fuqua, J.S. (2007) Laboratory assays in pediatricendocrinology: common aspects. Pediatric Endocrinology Reviews,5(Suppl. 1), 539–554.31 Krone, N., Hughes, B.A., Lavery, G.G. et al. (2010) Gas chromatog-raphy/mass spectrometry (GC/MS) remains a pre-eminent discov-ery tool in clinical steroid investigations even in the era of fastliquid chromatography tandem mass spectrometry (LC/MS/MS).Journal of Steroid Biochemistry and Molecular Biology, 121, 496–504.UK guidance on evaluation of DSD 25\u0002 2011 Blackwell Publishing Ltd, Clinical Endocrinology, 75, 12–2632 Shackleton, C., Marcos, J., Malunowicz, E.M. et al. (2004) Bio-chemical diagnosis of Antley-Bixler syndrome by steroid analysis.American Journal of Medical Genetics 128A, 223–231.33 Kulle, A.E., Riepe, F.G., Melchior, D. et al. (2010) A novel ultra-pressure liquid chromatography tandem mass spectrometrymethod for the simultaneous determination of androstenedione,testosterone, and dihydrotestosterone in pediatric blood samples:age- and sex-specific reference data. Journal of Clinical Endocrinol-ogy and Metabolism, 95, 2399–2409.34 Teixeira, J., Maheswaran, S. & Donahoe, P.K. (2001) Mu¨llerianinhibiting substance: an instructive developmental hormone withdiagnostic and possible therapeutic applications. EndocrineReviews, 22, 657–674.35 Ahmed, S.F., Keir, L., McNeilly, J. et al. (2010) The concordancebetween serum anti-mullerian hormone and testosterone concen-trations depends on duration pf hCG stimulation in boys with dis-orders of sex development. Clinical Endocrinology, 72, 814–819.36 Grinspon, R.P. & Rey, R.A. (2010) Anti-mu¨llerian hormone andsertoli cell function in paediatric male hypogonadism. HormoneResearch in Paediatrics 73, 81–92.37 Ahmed, S.F., Cheng, A. & Hughes, I.A. (1999) Biochemical evalua-tion of the gonadotrophin-gonadal axis in androgen insensitivitysyndrome. Archives of Disease in Childhood, 80, 324–329.38 Dixon, J.R., Wallace, A.M., O’Toole, S. et al. (2007) Prolongedhuman chorionic gonadotrophin (hCG) stimulation as a tool forinvestigating and managing undescended testes. Clinical Endocri-nology, 67, 816–821.39 Steinmetz, L., Rocha, M.N., Longui, C.A. et al. (2009) Inhibin Aproduction after gonadotropin stimulus: a new method to detectovarian tissue in ovotesticular disorder of sex development. Hor-mone Research, 71, 94–99.40 Rosencrantz, M.A., Wachs, D.S., Coffler, M.S. et al. (2010) Com-parison of inhibin B and estradiol responses to intravenous FSH inwomen with polycystic ovary syndrome and normal women.Human Reproduction, 25, 198–203.41 Krone, N., Dhir, V., Ivison, H.E. et al. (2007) Congenital adrenalhyperplasia and P450 oxidoreductase deficiency. Clinical Endocri-nology, 66, 162–172.42 Shackleton, C.H. (2008) Genetic disorders of steroid metabolismdiagnosed my mass spectrometry. In: N. Blau, M. Duren, K.M.Gibson eds. Laboratory Guide to the Methods in Biochemical Genet-ics, 1 edn. Springer, Berlin Heidelberg, pp. 549–605.43 Cameron, F.J., Hageman, R.M., Cooke-Yarborough, C. et al.(1996) A novel germ line mutation in SOX9 causes familial cam-pomelic dysplasia and sex reversal. Human Molecular Genetics, 5,1625–1630.44 Harley, V.R., Clarkson, M.J. & Argentaro, A. (2003) The molecularaction and regulation of the testis-determining factors, SRY (sex-determining region on the Y chromosome) and SOX9 [SRY-relatedhigh-mobility group (HMG) box 9]. Endocrine Reviews, 24, 466–487.45 Biason-Lauber, A., Konrad, D., Meyer, M. et al. (2009) Ovaries andfemale phenotype in a girl with 46,XY karyotype and mutations inthe CBX2 gene. American Journal of Human Genetics, 84, 658–663.46 Lin, L. & Achermann, J.C. (2008) Steroidogenic factor-1 (SF-1,Ad4BP, NR5A1) and disorders of testis development. Sex Develop-ment, 2, 200–209.47 Zhu, Y.S. & Imperato-McGinley, J.L. (2009) 5alpha-reductase iso-zymes and androgen actions in the prostate. Annals of the New YorkAcademy of Sciences, 1155, 43–56.48 Lubahn, D.B., Brown, T.R., Simental, J.A. et al. (1989) Sequence ofthe intron/exon junctions of the coding region of the humanandrogen receptor gene and identification of a point mutation in afamily with complete androgen insensitivity. Proceedings of theNational Academy of Sciences of the United States of America, 86,9534–9538.49 Bouvattier, C., Carel, J.C., Lecointre, C. et al. (2002) Postnatalchanges of T, LH, and FSH in 46,XY infants with mutations in theAR gene. Journal of Clinical Endocrinology and Metabolism, 87, 29–32.50 Belgorosky, A. & Rivarola, M.A. (1985) Sex hormone binding glob-ulin response to testosterone. An androgen sensitivity test. Acta En-docrinologica (Copenhagen), 109, 130–138.51 Ahmed, S.F., Cheng, A., Dovey, L.A. et al. (2000) Clinical features,androgen receptor binding and mutational analysis in 278 reportedcases of the androgen insensitivity syndrome. Journal of ClinicalEndocrinology and Metabolism, 85, 658–665.52 Ahmed, S.F., Rodie, M., Jiang, J. et al. (2010) The European DSDRegistry – a virtual research environment. Sexual development. SexDevelopment, 4, 192–198.26 S. Faisal Ahmed et al.\u0002 2011 Blackwell Publishing Ltd, Clinical Endocrinology, 75, 12–26",
+    "id": 9391339,
+    "identifiers": {
+        "doi": "10.1111/j.1365-2265.2011.04076.x",
+        "oai": "oai:eprints.gla.ac.uk:54217"
+    },
+    "title": "UK guidance on the initial evaluation of an infant or an adolescent with a suspected disorder of sex development",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2011-07-01T01:00:00+01:00",
+    "publisher": "Blackwell Publishing",
+    "references": [
+        {
+            "id": 18101635,
+            "title": "5alpha-reductase isozymes and androgen actions in the prostate.",
+            "authors": [],
+            "date": "2009",
+            "doi": "10.1111/j.1749-6632.2009.04115.x",
+            "raw": "Zhu, Y.S. & Imperato-McGinley, J.L. (2009) 5alpha-reductase isozymes and androgen actions in the prostate. Annals of the New York Academy of Sciences, 1155, 43–56.",
+            "cites": null
+        },
+        {
+            "id": 18101631,
+            "title": "A novel germ line mutation in SOX9 causes familial campomelic dysplasia and sex reversal.",
+            "authors": [],
+            "date": "1996",
+            "doi": "10.1093/hmg/5.10.1625",
+            "raw": "Cameron, F.J., Hageman, R.M., Cooke-Yarborough, C. et al. (1996) A novel germ line mutation in SOX9 causes familial campomelic dysplasia and sex reversal. Human Molecular Genetics, 5,",
+            "cites": null
+        },
+        {
+            "id": 18101611,
+            "title": "A novel ultrapressure liquid chromatography tandem mass spectrometry method for the simultaneous determination of androstenedione, testosterone, and dihydrotestosterone in pediatric blood samples: age- and sex-speciﬁc reference data.",
+            "authors": [],
+            "date": "2010",
+            "doi": "10.1210/jc.2009-1670",
+            "raw": "Kulle, A.E., Riepe, F.G., Melchior, D. et al. (2010) A novel ultrapressure liquid chromatography tandem mass spectrometry method for the simultaneous determination of androstenedione, testosterone, and dihydrotestosterone in pediatric blood samples: age- and sex-speciﬁc reference data. Journal of Clinical Endocrinology and Metabolism, 95, 2399–2409.",
+            "cites": null
+        },
+        {
+            "id": 18101557,
+            "title": "Adolescent girls with disorders of sex development: a needs analysis of transitional care.",
+            "authors": [],
+            "date": "2010",
+            "doi": "10.1016/j.jpurol.2010.07.006",
+            "raw": "Liao, L.M., Tacconelli, E., Wood, D. et al. (2010) Adolescent girls with disorders of sex development: a needs analysis of transitional care. Journal of Pediatric Urology, 6, 609–613.",
+            "cites": null
+        },
+        {
+            "id": 18101578,
+            "title": "An investigation into the empowerment effects of using online support groups and how this affects health professional/patient communication.",
+            "authors": [],
+            "date": "2011",
+            "doi": "10.1016/j.pec.2010.05.029",
+            "raw": "Bartlett, Y.K. & Coulson, N.S. (2011) An investigation into the empowerment effects of using online support groups and how this affects health professional/patient communication. Patient Education and Counseling, 83, 113–119.",
+            "cites": null
+        },
+        {
+            "id": 18101616,
+            "title": "Anti-mu ¨llerian hormone and sertoli cell function in paediatric male hypogonadism.",
+            "authors": [],
+            "date": "2010",
+            "doi": "10.1159/000277140",
+            "raw": "Grinspon, R.P. & Rey, R.A. (2010) Anti-mu ¨llerian hormone and sertoli cell function in paediatric male hypogonadism. Hormone Research in Paediatrics 73, 81–92.",
+            "cites": null
+        },
+        {
+            "id": 18101625,
+            "title": "Biochemical evaluation of the gonadotrophin-gonadal axis in androgen insensitivity syndrome.",
+            "authors": [],
+            "date": "1999",
+            "doi": "10.1136/adc.80.4.324",
+            "raw": "Ahmed, S.F., Cheng, A. & Hughes, I.A. (1999) Biochemical evaluation of the gonadotrophin-gonadal axis in androgen insensitivity syndrome. Archives of Disease in Childhood, 80, 324–329.",
+            "cites": null
+        },
+        {
+            "id": 18101585,
+            "title": "Chromosomal anomalies in cryptorchidism and hypospadias.",
+            "authors": [],
+            "date": "2002",
+            "doi": "10.1016/s0022-5347(05)64346-7",
+            "raw": "Moreno-Garcia, M. & Miranda, E.B. (2002) Chromosomal anomalies in cryptorchidism and hypospadias. Journal of Urology, 168,",
+            "cites": null
+        },
+        {
+            "id": 18101584,
+            "title": "Clinical features and gender assignment in cases of male undermasculinisation: the role for a masculinisation score.",
+            "authors": [],
+            "date": "2000",
+            "doi": null,
+            "raw": "Ahmed, S.F., Khwaja, O. & Hughes, I.A. (2000) Clinical features and gender assignment in cases of male undermasculinisation: the role for a masculinisation score. British Journal of Urology International, 85, 120–124.",
+            "cites": null
+        },
+        {
+            "id": 18101643,
+            "title": "Clinical features, androgen receptor binding and mutational analysis in 278 reported cases of the androgen insensitivity syndrome.",
+            "authors": [],
+            "date": "2000",
+            "doi": "10.1210/jcem.85.2.6337",
+            "raw": "Ahmed, S.F., Cheng, A., Dovey, L.A. et al. (2000) Clinical features, androgen receptor binding and mutational analysis in 278 reported cases of the androgen insensitivity syndrome. Journal of Clinical Endocrinology and Metabolism, 85, 658–665.",
+            "cites": null
+        },
+        {
+            "id": 18101628,
+            "title": "Comparison of inhibin B and estradiol responses to intravenous FSH in women with polycystic ovary syndrome and normal women.",
+            "authors": [],
+            "date": "2010",
+            "doi": "10.1093/humrep/dep373",
+            "raw": "Rosencrantz, M.A., Wachs, D.S., Cofﬂer, M.S. et al. (2010) Comparison of inhibin B and estradiol responses to intravenous FSH in women with polycystic ovary syndrome and normal women. Human Reproduction, 25, 198–203.",
+            "cites": null
+        },
+        {
+            "id": 18101629,
+            "title": "Congenital adrenal hyperplasia and P450 oxidoreductase deﬁciency.",
+            "authors": [],
+            "date": "2007",
+            "doi": "10.1111/j.1365-2265.2006.02740.x",
+            "raw": "Krone, N., Dhir, V., Ivison, H.E. et al. (2007) Congenital adrenal hyperplasia and P450 oxidoreductase deﬁciency. Clinical Endocrinology, 66, 162–172.",
+            "cites": null
+        },
+        {
+            "id": 18101553,
+            "title": "Consensus statement on management of intersex disorders.",
+            "authors": [],
+            "date": "2006",
+            "doi": "10.1542/peds.2006-0737",
+            "raw": "Hughes, I.A., Houk, C., Ahmed, S.F. et al. (2006) Consensus statement on management of intersex disorders. Archives of Disease in Childhood, 91, 554–563.",
+            "cites": null
+        },
+        {
+            "id": 18101555,
+            "title": "Consequences of the Chicago consensus on disorders of sex development (DSD): current practices",
+            "authors": [],
+            "date": "2010",
+            "doi": "10.1136/adc.2009.163840",
+            "raw": "Pasterski, V., Prentice, P. & Hughes, I.A. (2010) Consequences of the Chicago consensus on disorders of sex development (DSD): current practices in Europe. Archives of Disease in Childhood, 95,",
+            "cites": null
+        },
+        {
+            "id": 18101551,
+            "title": "Control of sex development. Best Practice and Research. Clinical Endocrinology and Metabolism,",
+            "authors": [],
+            "date": "2010",
+            "doi": "10.1016/j.beem.2009.12.002",
+            "raw": "Biason-Lauber, A. (2010) Control of sex development. Best Practice and Research. Clinical Endocrinology and Metabolism,",
+            "cites": null
+        },
+        {
+            "id": 18101581,
+            "title": "Epidemiology and initial management of ambiguous genitalia at birth in Germany. Hormone Research,",
+            "authors": [],
+            "date": "2006",
+            "doi": "10.1159/000094782",
+            "raw": "Thyen, U., Lanz, K., Holterhus, P.M. et al. (2006) Epidemiology and initial management of ambiguous genitalia at birth in Germany. Hormone Research, 66:195–203.",
+            "cites": null
+        },
+        {
+            "id": 18101601,
+            "title": "Erroneous testosterone assay causing diagnostic confusion in a newborn infant with intersex anomalies.",
+            "authors": [],
+            "date": "2004",
+            "doi": "10.1111/j.1651-2227.2004.tb02704.x",
+            "raw": "Tomlinson, C., Wallace, A.M. & Ahmed, S.F. (2004) Erroneous testosterone assay causing diagnostic confusion in a newborn infant with intersex anomalies. Acta Paediatrica, 93, 1004–1005.",
+            "cites": null
+        },
+        {
+            "id": 18101576,
+            "title": "Ethical principles and recommendations for the medical management of differences of sex development (DSD)/intersex in children and adolescents.",
+            "authors": [],
+            "date": "2010",
+            "doi": "10.1007/s00431-009-1086-x",
+            "raw": "Wiesemann, C., Ude-Koeller, S., Sinnecker, G.H. et al. (2010) Ethical principles and recommendations for the medical management of differences of sex development (DSD)/intersex in children and adolescents. European Journal of Pediatrics, 169, 671–679.",
+            "cites": null
+        },
+        {
+            "id": 18101586,
+            "title": "Etiological studies of severe or familial hypospadias.",
+            "authors": [],
+            "date": "2001",
+            "doi": "10.1016/s0022-5347(05)66505-6",
+            "raw": "Boehmer, A.L.M., Nijman, R.J.M., Lammers, B.A.S. et al. (2001) Etiological studies of severe or familial hypospadias. Journal of Urology, 165, 1246–1254.",
+            "cites": null
+        },
+        {
+            "id": 18101558,
+            "title": "Fixing Sex: Intersex, Medical Authority, and Lived Experience.",
+            "authors": [],
+            "date": "2009",
+            "doi": "10.1215/9780822389217",
+            "raw": "Karzakis, K. (2009) Fixing Sex: Intersex, Medical Authority, and Lived Experience. Duke University Press, Durham and London.",
+            "cites": null
+        },
+        {
+            "id": 18101609,
+            "title": "Gas chromatography/mass spectrometry (GC/MS) remains a pre-eminent discovery tool in clinical steroid investigations even in the era of fast liquid chromatography tandem mass spectrometry (LC/MS/MS).",
+            "authors": [],
+            "date": "2010",
+            "doi": "10.1016/j.jsbmb.2010.04.010",
+            "raw": "Krone, N., Hughes, B.A., Lavery, G.G. et al. (2010) Gas chromatography/mass spectrometry (GC/MS) remains a pre-eminent discovery tool in clinical steroid investigations even in the era of fast liquid chromatography tandem mass spectrometry (LC/MS/MS). Journal of Steroid Biochemistry and Molecular Biology,121,496–504. UK guidance on evaluation of DSD 25  2011 Blackwell Publishing Ltd, Clinical Endocrinology, 75, 12–2632 Shackleton, C., Marcos, J., Malunowicz, E.M. et al. (2004) Biochemical diagnosis of Antley-Bixler syndrome by steroid analysis. American Journal of Medical Genetics 128A, 223–231.",
+            "cites": null
+        },
+        {
+            "id": 18101630,
+            "title": "Genetic disorders of steroid metabolism diagnosed my mass spectrometry. In:",
+            "authors": [],
+            "date": "2008",
+            "doi": "10.1007/978-3-540-76698-8_26",
+            "raw": "Shackleton, C.H. (2008) Genetic disorders of steroid metabolism diagnosed my mass spectrometry. In: N. Blau, M. Duren, K.M. Gibson eds. Laboratory Guide to the Methods in Biochemical Genetics, 1 edn. Springer, Berlin Heidelberg, pp. 549–605.",
+            "cites": null
+        },
+        {
+            "id": 18101560,
+            "title": "Genital surgery for disorders of sex development: implementing a shared decisionmaking approach.",
+            "authors": [],
+            "date": "2010",
+            "doi": "10.1515/jpem.2010.129",
+            "raw": "Karkazis, K., Tamar-Mattis, A. & Kon, A.A. (2010) Genital surgery for disorders of sex development: implementing a shared decisionmaking approach. Journal of Pediatric Endocrinology and Metabolism, 23, 789–805.",
+            "cites": null
+        },
+        {
+            "id": 18101598,
+            "title": "Imaging children with ambiguous genitalia and intersex states.",
+            "authors": [],
+            "date": "1995",
+            "doi": "10.1016/s0009-9260(05)83101-0",
+            "raw": "Wright, N.B., Smith, C., Rickwood, A.M. et al. (1995) Imaging children with ambiguous genitalia and intersex states. Clinical Radiology, 50, 823–829.",
+            "cites": null
+        },
+        {
+            "id": 18101596,
+            "title": "Imaging of ambiguous genitalia: classiﬁcation and diagnostic approach.",
+            "authors": [],
+            "date": "2008",
+            "doi": "10.1148/rg.287085034",
+            "raw": "Chavhan, G.B., Parra, D.A., Oudjhane, K. et al. (2008) Imaging of ambiguous genitalia: classiﬁcation and diagnostic approach. Radiographics, 28, 1891–1904.",
+            "cites": null
+        },
+        {
+            "id": 18101574,
+            "title": "Importance of support groups for intersex (disorders of sex development) patients, families and the medical profession.",
+            "authors": [],
+            "date": "2010",
+            "doi": "10.1159/000313889",
+            "raw": "Cull, M.L. & Simmonds, M. (2010) Importance of support groups for intersex (disorders of sex development) patients, families and the medical profession. Sex Development, 4, 310–312.",
+            "cites": null
+        },
+        {
+            "id": 18101627,
+            "title": "Inhibin A production after gonadotropin stimulus: a new method to detect ovarian tissue in ovotesticular disorder of sex development.",
+            "authors": [],
+            "date": "2009",
+            "doi": "10.1159/000183898",
+            "raw": "Steinmetz, L., Rocha, M.N., Longui, C.A. et al. (2009) Inhibin A production after gonadotropin stimulus: a new method to detect ovarian tissue in ovotesticular disorder of sex development. Hormone Research, 71, 94–99.",
+            "cites": null
+        },
+        {
+            "id": 18101607,
+            "title": "Laboratory assays in pediatric endocrinology: common aspects. Pediatric Endocrinology Reviews,",
+            "authors": [],
+            "date": "2007",
+            "doi": null,
+            "raw": "Nakamoto, J. & Fuqua, J.S. (2007) Laboratory assays in pediatric endocrinology: common aspects. Pediatric Endocrinology Reviews,",
+            "cites": null
+        },
+        {
+            "id": 18101605,
+            "title": "Laboratory testing of gonadal steroids in children. Pediatric Endocrinology Reviews,",
+            "authors": [],
+            "date": "2007",
+            "doi": null,
+            "raw": "Albrecht, L. & Styne, D. (2007) Laboratory testing of gonadal steroids in children. Pediatric Endocrinology Reviews, 5(Suppl. 1),",
+            "cites": null
+        },
+        {
+            "id": 18101577,
+            "title": "Learning to assist women born with atypical genitalia: journey through ignorance, taboo and dilemma.",
+            "authors": [],
+            "date": "2003",
+            "doi": "10.1080/0264683031000154971",
+            "raw": "Liao, L.M. (2003) Learning to assist women born with atypical genitalia: journey through ignorance, taboo and dilemma. Journal of Reproductive and Infant Psychology, 21, 229–238.",
+            "cites": null
+        },
+        {
+            "id": 18101587,
+            "title": "Medical photography: ethics, consent and the intersex patient.",
+            "authors": [],
+            "date": "2002",
+            "doi": "10.1046/j.1464-410x.2002.02558.x",
+            "raw": "Creighton, S., Alderson, J., Brown, S. et al. (2002) Medical photography: ethics, consent and the intersex patient. British Journal of Urology International, 89, 67–71.",
+            "cites": null
+        },
+        {
+            "id": 18101579,
+            "title": "Meeting between experts: evaluation of the ﬁrst UK forum for lay and professional experts in intersex. Patient Education and Counseling,",
+            "authors": [],
+            "date": "2004",
+            "doi": "10.1016/s0738-3991(03)00202-7",
+            "raw": "Creighton, S.M., Minto, C.L., Liao, L.M. et al. (2004) Meeting between experts: evaluation of the ﬁrst UK forum for lay and professional experts in intersex. Patient Education and Counseling,",
+            "cites": null
+        },
+        {
+            "id": 18101613,
+            "title": "Mu ¨llerian inhibiting substance: an instructive developmental hormone with diagnostic and possible therapeutic applications.",
+            "authors": [],
+            "date": "2001",
+            "doi": "10.1210/edrv.22.5.0445",
+            "raw": "Teixeira, J., Maheswaran, S. & Donahoe, P.K. (2001) Mu ¨llerian inhibiting substance: an instructive developmental hormone with diagnostic and possible therapeutic applications. Endocrine Reviews, 22, 657–674.",
+            "cites": null
+        },
+        {
+            "id": 18101592,
+            "title": "New technologies for the identiﬁcation of novel genetic markers of disorders of sex development (DSD).",
+            "authors": [],
+            "date": "2010",
+            "doi": "10.1159/000314917",
+            "raw": "Bashamboo, A., Ledig, S., Wieacker, P. et al. (2010) New technologies for the identiﬁcation of novel genetic markers of disorders of sex development (DSD). Sex Development, 4, 213–224.",
+            "cites": null
+        },
+        {
+            "id": 18101591,
+            "title": "Next-generation DNA sequencing.",
+            "authors": [],
+            "date": "2008",
+            "doi": "10.1038/nbt1486",
+            "raw": "Shendure, J. & Ji, H. (2008) Next-generation DNA sequencing. Nature Biotechnology, 26, 1135–1145.",
+            "cites": null
+        },
+        {
+            "id": 18101633,
+            "title": "Ovaries and female phenotype in a girl with 46,XY karyotype and mutations in the CBX2 gene.",
+            "authors": [],
+            "date": "2009",
+            "doi": "10.1016/j.ajhg.2009.03.016",
+            "raw": "Biason-Lauber, A., Konrad, D., Meyer, M. et al. (2009) Ovaries and female phenotype in a girl with 46,XY karyotype and mutations in the CBX2 gene. American Journal of Human Genetics, 84, 658–663.",
+            "cites": null
+        },
+        {
+            "id": 18101640,
+            "title": "Postnatal changes of T, LH, and FSH in 46,XY infants with mutations in the AR gene.",
+            "authors": [],
+            "date": "2002",
+            "doi": "10.1210/jcem.87.1.7923",
+            "raw": "Bouvattier, C., Carel, J.C., Lecointre, C. et al. (2002) Postnatal changes of T, LH, and FSH in 46,XY infants with mutations in the AR gene. Journal of Clinical Endocrinology and Metabolism, 87, 29–",
+            "cites": null
+        },
+        {
+            "id": 18101626,
+            "title": "Prolonged human chorionic gonadotrophin (hCG) stimulation as a tool for investigating and managing undescended testes.",
+            "authors": [],
+            "date": "2007",
+            "doi": "10.1111/j.1365-2265.2007.02968.x",
+            "raw": "Dixon, J.R., Wallace, A.M., O’Toole, S. et al. (2007) Prolonged human chorionic gonadotrophin (hCG) stimulation as a tool for investigating and managing undescended testes. Clinical Endocrinology, 67, 816–821.",
+            "cites": null
+        },
+        {
+            "id": 18101580,
+            "title": "Regional & temporal variation in the occurrence of genital anomalies amongst singleton births, 1988–1997,",
+            "authors": [],
+            "date": "2004",
+            "doi": null,
+            "raw": "Ahmed, S.F., Dobbie, R., Finlayson, A.R. et al. (2004) Regional & temporal variation in the occurrence of genital anomalies amongst singleton births, 1988–1997, Scotland. Archives of Disease in Childhood, 89, F149–F151.",
+            "cites": null
+        },
+        {
+            "id": 18101638,
+            "title": "Sequence of the intron/exon junctions of the coding region of the human androgen receptor gene and identiﬁcation of a point mutation in a family with complete androgen insensitivity.",
+            "authors": [],
+            "date": "1989",
+            "doi": "10.1073/pnas.86.23.9534",
+            "raw": "Lubahn, D.B., Brown, T.R., Simental, J.A. et al. (1989) Sequence of the intron/exon junctions of the coding region of the human androgen receptor gene and identiﬁcation of a point mutation in a family with complete androgen insensitivity. Proceedings of the National Academy of Sciences of the United States of America, 86,",
+            "cites": null
+        },
+        {
+            "id": 18101642,
+            "title": "Sex hormone binding globulin response to testosterone. An androgen sensitivity test.",
+            "authors": [],
+            "date": "1985",
+            "doi": "10.1530/acta.0.1090130",
+            "raw": "Belgorosky, A. & Rivarola, M.A. (1985) Sex hormone binding globulin response to testosterone. An androgen sensitivity test. Acta Endocrinologica (Copenhagen), 109, 130–138.",
+            "cites": null
+        },
+        {
+            "id": 18101582,
+            "title": "Surgical options in disorders of sex development with ambiguous genitalia.",
+            "authors": [],
+            "date": "2010",
+            "doi": "10.1016/j.beem.2009.10.004",
+            "raw": "Vidal, I., Gorduza, D.B., Haraux, E. et al. (2010) Surgical options in disorders of sex development with ambiguous genitalia. Best Practice and Research. Clinical Endocrinology and Metabolism, 24,",
+            "cites": null
+        },
+        {
+            "id": 18101603,
+            "title": "Testosterone measurements in early infancy.",
+            "authors": [],
+            "date": "2004",
+            "doi": null,
+            "raw": "Tomlinson, C., Macintyre, H., Dorrian, C.A. et al. (2004) Testosterone measurements in early infancy. Archives of Disease in Childhood. Fetal and Neonatal Edition, 89, F558–F559.",
+            "cites": null
+        },
+        {
+            "id": 18101615,
+            "title": "The concordance between serum anti-mullerian hormone and testosterone concentrations depends on duration pf hCG stimulation in boys with disorders of sex development.",
+            "authors": [],
+            "date": "2010",
+            "doi": "10.1111/j.1365-2265.2009.03724.x",
+            "raw": "Ahmed, S.F., Keir, L., McNeilly, J. et al. (2010) The concordance between serum anti-mullerian hormone and testosterone concentrations depends on duration pf hCG stimulation in boys with disorders of sex development. Clinical Endocrinology, 72, 814–819.",
+            "cites": null
+        },
+        {
+            "id": 18101644,
+            "title": "The European DSD Registry – a virtual research environment. Sexual development.",
+            "authors": [],
+            "date": "2010",
+            "doi": "10.1159/000313434",
+            "raw": "Ahmed, S.F., Rodie, M., Jiang, J. et al. (2010) The European DSD Registry – a virtual research environment. Sexual development. Sex Development, 4, 192–198.",
+            "cites": null
+        },
+        {
+            "id": 18101594,
+            "title": "The laparoscopic management of intersex patients: the preferred approach.",
+            "authors": [],
+            "date": "2005",
+            "doi": "10.1111/j.1464-410x.2005.05417.x",
+            "raw": "Denes, F.T., Cocuzza, M.A., Schneider-Monteiro, E.D. et al. (2005) The laparoscopic management of intersex patients: the preferred approach. British Journal of Urology International, 95, 863–867.",
+            "cites": null
+        },
+        {
+            "id": 18101632,
+            "title": "The molecular action and regulation of the testis-determining factors, SRY (sexdetermining region on the Y chromosome) and SOX9 [SRY-related high-mobility group (HMG) box 9].",
+            "authors": [],
+            "date": "2003",
+            "doi": "10.1210/er.2002-0025",
+            "raw": "Harley, V.R., Clarkson, M.J. & Argentaro, A. (2003) The molecular action and regulation of the testis-determining factors, SRY (sexdetermining region on the Y chromosome) and SOX9 [SRY-related high-mobility group (HMG) box 9]. Endocrine Reviews, 24, 466–",
+            "cites": null
+        },
+        {
+            "id": 18101572,
+            "title": "The psychological impact of genital anomalies on the parents of affected children.",
+            "authors": [],
+            "date": "2007",
+            "doi": "10.1111/j.1651-2227.2006.00112.x",
+            "raw": "Duguid, A., Morrison, S., Robertson, A. et al. (2007) The psychological impact of genital anomalies on the parents of affected children. Acta Paediatrica, 96:348–352.",
+            "cites": null
+        },
+        {
+            "id": 18101593,
+            "title": "The use of laparoscopy in intersex patients.",
+            "authors": [],
+            "date": "2006",
+            "doi": "10.1007/s00383-006-1662-3",
+            "raw": "Chertin, B., Koulikov, D., Alberton, J. et al. (2006) The use of laparoscopy in intersex patients. Pediatric Surgery International, 22,",
+            "cites": null
+        }
+    ],
+    "sourceFulltextUrls": [],
+    "updatedDate": "",
+    "yearPublished": "2011",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/9391339"
+        }
+    ],
+    "abstract": "It is paramount that any child or adolescent with a suspected disorder of sex development (DSD) is assessed by an experienced clinician with adequate knowledge about the range of conditions associated with DSD. If there is any doubt, the case should be discussed with the regional team. In most cases, particularly in the case of the newborn, the paediatric endocrinologist within the regional DSD team acts as the first point of contact. The underlying pathophysiology of DSD and the strengths and weaknesses of the tests that can be performed should be discussed with the parents and affected young person and tests undertaken in a timely fashion. This clinician should be part of a multidisciplinary team experienced in management of DSD and should ensure that the affected person and parents are as fully informed as possible and have access to specialist psychological support. Finally, in the field of rare conditions, it is imperative that the clinician shares the experience with others through national and international clinical and research collaboratio",
+    "tags": [],
+    "fulltextStatus": "enabled",
+    "subjects": [],
+    "oai": "oai:eprints.gla.ac.uk:54217",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "42",
+        "openDoarId": 0,
+        "name": "Enlighten",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 9391339,
+        "depositedDate": null,
+        "publishedDate": "2011-07-01T01:00:00+01:00",
+        "updatedDate": "2024-02-12T08:39:58+00:00",
+        "acceptedDate": null,
+        "createdDate": "2012-10-08T04:59:41+01:00"
+    },
+    "urls": [
+        "https://eprints.gla.ac.uk/54217/1/54217.pdf"
+    ],
+    "lastUpdate": "2024-02-12T08:39:58+00:00",
+    "setSpecs": []
+}

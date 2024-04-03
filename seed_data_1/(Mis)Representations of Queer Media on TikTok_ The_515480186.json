@@ -1,0 +1,100 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Gingrich, Jordan"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2022-05-18T21:56:03+01:00",
+    "dataProvider": {
+        "id": 1320,
+        "name": "DigitalCommons@Kennesaw State University",
+        "url": "https://api.core.ac.uk/v3/data-providers/1320",
+        "logo": "https://api.core.ac.uk/data-providers/1320/logo"
+    },
+    "depositedDate": "",
+    "documentType": "",
+    "doi": "",
+    "downloadUrl": "https://core.ac.uk/download/515480186.pdf",
+    "fullText": "Kennesaw State University DigitalCommons@Kennesaw State University Symposium of Student Scholars 26th Annual Symposium of Student Scholars - 2022 (Mis)Representations of Queer Media on TikTok: The Politics of Coming Out Jordan Gingrich Follow this and additional works at: https://digitalcommons.kennesaw.edu/undergradsymposiumksu Gingrich, Jordan, \"(Mis)Representations of Queer Media on TikTok: The Politics of Coming Out\" (2022). Symposium of Student Scholars. 250. https://digitalcommons.kennesaw.edu/undergradsymposiumksu/spring2022/presentations/250 This Oral Presentation (15-min time slots) is brought to you for free and open access by the Office of Undergraduate Research at DigitalCommons@Kennesaw State University. It has been accepted for inclusion in Symposium of Student Scholars by an authorized administrator of DigitalCommons@Kennesaw State University. For more information, please contact digitalcommons@kennesaw.edu.   (Mis)Representations of Queer Media on TikTok: The Politics of Coming Out   LGBTQ+ representation in the media can be hard to find and even when it is, pertinent questions must be posed about it. Given the complexities that arise within the consumption, curation, and production of queer media, I investigate the implications of cisgender and heterosexual (what I call non-LGBTQ+) storytellers utilizing queer stories and how users on TikTok are discussing these utilizations. The portrayal of queer stories by non-LGBTQ+ individuals may not only be unauthentic, but they may also be harmful. This textual analysis of TikToks aims to answer this question by centering on LGBTQ+ media that is being written, portrayed, and expressed by non-LGBTQ+ individuals. The findings highlight that LGBTQ+ youth often do not feel represented in LGBTQ+ media that is not created by queer and transgender content creators. However, the individuals engaging in this discussion are non-experts and their discussions lack nuance. This lack of nuance can be harmful as it may create an environment where storytellers who appear non-LGBTQ+ to the public who are actually LGBTQ+ may feel forced into coming out.   Keywords: Queer, Gay, Transgender, Lesbian, Media, Representation, Authenticity   ",
+    "id": 515480186,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:digitalcommons.kennesaw.edu:undergradsymposiumksu-2220"
+    },
+    "title": "(Mis)Representations of Queer Media on TikTok: The Politics of Coming Out",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2022-04-15T18:51:07+01:00",
+    "publisher": "DigitalCommons@Kennesaw State University",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://digitalcommons.kennesaw.edu/cgi/viewcontent.cgi?article=2220&context=undergradsymposiumksu"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2022",
+    "links": [
+        {
+            "type": "download",
+            "url": "https://core.ac.uk/download/515480186.pdf"
+        },
+        {
+            "type": "reader",
+            "url": "https://core.ac.uk/reader/515480186"
+        },
+        {
+            "type": "thumbnail_m",
+            "url": "https://core.ac.uk/image/515480186/medium"
+        },
+        {
+            "type": "thumbnail_l",
+            "url": "https://core.ac.uk/image/515480186/large"
+        },
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/515480186"
+        }
+    ],
+    "abstract": "(Mis)Representations of Queer Media on TikTok: The Politics of Coming Out\nLGBTQ+ representation in the media can be hard to find and even when it is, pertinent questions must be posed about it. Given the complexities that arise within the consumption, curation, and production of queer media, I investigate the implications of cisgender and heterosexual (what I call non-LGBTQ+) storytellers utilizing queer stories and how users on TikTok are discussing these utilizations. The portrayal of queer stories by non-LGBTQ+ individuals may not only be unauthentic, but they may also be harmful. This textual analysis of TikToks aims to answer this question by centering on LGBTQ+ media that is being written, portrayed, and expressed by non-LGBTQ+ individuals. The findings highlight that LGBTQ+ youth often do not feel represented in LGBTQ+ media that is not created by queer and transgender content creators. However, the individuals engaging in this discussion are non-experts and their discussions lack nuance. This lack of nuance can be harmful as it may create an environment where storytellers who appear non-LGBTQ+ to the public who are actually LGBTQ+ may feel forced into coming out.\nKeywords: Queer, Gay, Transgender, Lesbian, Media, Representation, Authenticit",
+    "tags": [
+        "text"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "text"
+    ],
+    "oai": "oai:digitalcommons.kennesaw.edu:undergradsymposiumksu-2220",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "1320",
+        "openDoarId": 0,
+        "name": "DigitalCommons@Kennesaw State University",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 515480186,
+        "depositedDate": null,
+        "publishedDate": "2022-04-15T18:51:07+01:00",
+        "updatedDate": "2024-01-23T23:57:24+00:00",
+        "acceptedDate": null,
+        "createdDate": "2022-05-18T21:56:03+01:00"
+    },
+    "urls": [
+        "https://digitalcommons.kennesaw.edu/undergradsymposiumksu/spring2022/presentations/250",
+        "https://digitalcommons.kennesaw.edu/context/undergradsymposiumksu/article/2220/viewcontent/auto_convert.pdf"
+    ],
+    "lastUpdate": "2024-01-23T23:57:24+00:00",
+    "setSpecs": []
+}

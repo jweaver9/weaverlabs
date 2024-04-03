@@ -1,0 +1,94 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Haimson, Oliver L."
+        }
+    ],
+    "contributors": [
+        "Information, School of",
+        "Ann Arbor"
+    ],
+    "createdDate": "2020-04-06T11:10:01+01:00",
+    "dataProvider": {
+        "id": 158,
+        "name": "Deep Blue at the University of Michigan",
+        "url": "https://api.core.ac.uk/v3/data-providers/158",
+        "logo": "https://api.core.ac.uk/data-providers/158/logo"
+    },
+    "depositedDate": "",
+    "documentType": "",
+    "doi": "10.1177/2056305120905365",
+    "downloadUrl": "https://deepblue.lib.umich.edu/bitstream/2027.42/154683/1/HaimsonChallengingGettingBetter.pdf",
+    "fullText": "",
+    "id": 294316386,
+    "identifiers": {
+        "doi": "10.1177/2056305120905365",
+        "oai": "oai:deepblue.lib.umich.edu:2027.42/154683"
+    },
+    "title": "Challenging “Getting Better” Social Media Narratives With Intersectional Transgender Lived Experiences",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2020-03-09T00:00:00+00:00",
+    "publisher": "Sage Publications",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://deepblue.lib.umich.edu/bitstream/2027.42/154683/1/HaimsonChallengingGettingBetter.pdf"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2020",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/294316386"
+        }
+    ],
+    "abstract": "A dominant media narrative of “getting better” over time is often projected onto LGBTQ people’s personal life experiences. In this research study, I examine this narrative’s role in transgender people’s emotional well-being throughout transition. A “getting better” narrative was pervasive in my qualitative analysis of 240 Tumblr transition blogs and 20 interviews with bloggers, signaling that it impacted people’s self-concept both as presented on social media and when talking about their experiences. This narrative causes undue emotional harm given contrast between one’s post-transition reality, which may involve distress (despite greater congruence between one’s body and identity), and a dominant cultural expectation of happiness. I argue that an intersectional approach to understanding trans people’s emotional well-being—by considering multiple salient identity facets and life transitions—makes trans lives more livable by complicating the cultural imperative to feel better, and to present a unilaterally positive self-image online, post-transition. Even though trans people on average feel better after gender transition, everyday realities are often in contrast to the dominant narrative’s positioning of gender transition as a process with a single, simple goal of feeling better. Challenging the “getting better” narrative gives trans people the freedom to live and exist in their post-transition identities, whether or not they feel “better.”National Science Foundation Graduate Research Fellowships Program Grant No. DGE-1321846University of California, Irvine, James Harvey Scholar AwardPeer Reviewedhttps://deepblue.lib.umich.edu/bitstream/2027.42/154683/1/HaimsonChallengingGettingBetter.pdfDescription of HaimsonChallengingGettingBetter.pdf : Main articl",
+    "tags": [
+        "Article",
+        "social media",
+        "transgender",
+        "life transitions",
+        "emotional well-being",
+        "intersectionality",
+        "Tumblr",
+        "Information and Library Science",
+        "Social Sciences"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "Article"
+    ],
+    "oai": "oai:deepblue.lib.umich.edu:2027.42/154683",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "158",
+        "openDoarId": 0,
+        "name": "Deep Blue at the University of Michigan",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 294316386,
+        "depositedDate": null,
+        "publishedDate": "2020-03-09T00:00:00+00:00",
+        "updatedDate": "2024-02-15T22:33:42+00:00",
+        "acceptedDate": null,
+        "createdDate": "2020-04-06T11:10:01+01:00"
+    },
+    "urls": [
+        "http://hdl.handle.net/2027.42/154683"
+    ],
+    "lastUpdate": "2024-02-15T22:33:42+00:00",
+    "setSpecs": []
+}

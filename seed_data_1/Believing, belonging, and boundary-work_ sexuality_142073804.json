@@ -1,0 +1,89 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Donovan, Holly"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2017-12-19T14:48:12+00:00",
+    "dataProvider": {
+        "id": 2851,
+        "name": "Boston University Institutional Repository (OpenBU)",
+        "url": "https://api.core.ac.uk/v3/data-providers/2851",
+        "logo": "https://api.core.ac.uk/data-providers/2851/logo"
+    },
+    "depositedDate": "",
+    "documentType": "thesis",
+    "doi": "",
+    "downloadUrl": "https://open.bu.edu/bitstream/2144/19713/1/Donovan_bu_0017E_12262.pdf",
+    "fullText": "",
+    "id": 142073804,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:open.bu.edu:2144/19713"
+    },
+    "title": "Believing, belonging, and boundary-work: sexuality In interaction",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2016-12-04T02:06:39+00:00",
+    "publisher": null,
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://open.bu.edu/bitstream/2144/19713/1/Donovan_bu_0017E_12262.pdf"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2016",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/142073804"
+        }
+    ],
+    "abstract": "In this dissertation, I describe patterns of interaction that were identified from in-depth narrative interviews with LGBTQ (lesbian, gay, bisexual, transgender, and queer) people in two contrasting research sites.  Thirty-five participants live in a small town in the Midwest known for its religious and political conservatism, and thirty-one live in a mid-sized city on the east coast that is known for being “liberal.”  The dissertation focuses on these patterns of interaction at three key social sites.  First, in interactions with straight family and friends, I show that sexuality—like race, class, or gender—influences the emotion work one is expected to perform.  LGBTQs’ deliberations about belonging lead them to suppress or evoke emotions as they work to overcome relational boundaries.  Second, in interactions with the general public, I find that LGBTQs in the small town describe a moral framework of “respect” that compels them to refrain from acts of visibility; while LGBTQs in the urban site feel they have a “responsibility” to enact a visible gay presence.   Beliefs, in this case, influence LGBTQs’ decisions to engage in acts of “everyday queer visibility.”  Finally, I find that rural LGBTQs engage in a process of intragroup boundary-work as they distance themselves from other LGBTQ people and from a larger gay community.  Contrary to other scholarship and hypotheses about how marginalized people construct identity and community, LGBTQ people in this site reject collective identity, while simultaneously solidifying boundaries between “straight” and “gay.”  \r\n\r\nWhile a good deal of other research focuses on LGBTQ identity, this dissertation utilizes a “critical interactionist” framework in order to examine the influence of dominant, place-based ideologies on LGBTQs’ patterns of interaction.   Such an approach offers a more inclusive portrayal of the variety of LGBTQ experience, one that does not simply privilege narratives of resistance, but also sheds light on how social power functions in the everyday lives of LGBTQs",
+    "tags": [
+        "Thesis/Dissertation",
+        "Sociology",
+        "Place",
+        "Sexualities",
+        "Rural sexualities",
+        "Symbolic interaction",
+        "Urban sexualities"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "Thesis/Dissertation"
+    ],
+    "oai": "oai:open.bu.edu:2144/19713",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "2851",
+        "openDoarId": 0,
+        "name": "Boston University Institutional Repository (OpenBU)",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 142073804,
+        "depositedDate": null,
+        "publishedDate": "2016-12-04T02:06:39+00:00",
+        "updatedDate": "2024-01-21T02:13:57+00:00",
+        "acceptedDate": null,
+        "createdDate": "2017-12-19T14:48:12+00:00"
+    },
+    "urls": [
+        "https://hdl.handle.net/2144/19713"
+    ],
+    "lastUpdate": "2024-01-21T02:13:57+00:00",
+    "setSpecs": []
+}

@@ -1,0 +1,95 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Yeung, Tsz-Ying"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2018-02-11T15:18:49+00:00",
+    "dataProvider": {
+        "id": 3454,
+        "name": "Gettysburg College",
+        "url": "https://api.core.ac.uk/v3/data-providers/3454",
+        "logo": "https://api.core.ac.uk/data-providers/3454/logo"
+    },
+    "depositedDate": "",
+    "documentType": "research",
+    "doi": "",
+    "downloadUrl": "https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1002&amp;context=ger",
+    "fullText": "",
+    "id": 148919976,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:cupola.gettysburg.edu:ger-1002"
+    },
+    "title": "The Effects of Sexual Orientation on Earnings",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2006-01-01T08:00:00+00:00",
+    "publisher": "The Cupola: Scholarship at Gettysburg College",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1002&amp;context=ger"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2006",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/148919976"
+        }
+    ],
+    "abstract": "Gay and lesbian topics have received much media attention in recent years. Debates have revolved around issues such as gay marriage, adoption rights, and the legal relationship of children born to a homosexual couple with their nonbiological second parent. Corporations have started to provide partner benefits to gay and lesbian employees. Many companies today have added the words “sexual orientation” to their equal rights hiring policies. Nevertheless, discrimination against homosexual people in the workplace is still widely perceived to exist.\nIn this paper, I address the question, does earnings discrimination against homosexual and bisexual workers exist in the U.S. labor market? Homophobia can greatly affect homosexual workers’ productivity. “It is homophobia in the workplace that tells me I am not safe, that I must keep on the mask.” Sexual preference stigma can cause homosexual workers stress and anxiety, which is likely to have a negative effect on their working ability. [excerpt",
+    "tags": [
+        "article",
+        "LGBTQ",
+        "homosexual",
+        "discrimination",
+        "labor market",
+        "homophobia",
+        "sexual orientation",
+        "worker productivity",
+        "Behavioral Economics",
+        "Economics",
+        "Labor Economics",
+        "Public Economics"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "article"
+    ],
+    "oai": "oai:cupola.gettysburg.edu:ger-1002",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "3454",
+        "openDoarId": 0,
+        "name": "Gettysburg College",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 148919976,
+        "depositedDate": null,
+        "publishedDate": "2006-01-01T08:00:00+00:00",
+        "updatedDate": "2024-01-24T04:06:26+00:00",
+        "acceptedDate": null,
+        "createdDate": "2018-02-11T15:18:49+00:00"
+    },
+    "urls": [
+        "https://cupola.gettysburg.edu/ger/vol1/iss1/5",
+        "https://cupola.gettysburg.edu/context/ger/article/1002/viewcontent/The_Effects_of_Sexual_Orientation_on_Earnings.pdf"
+    ],
+    "lastUpdate": "2024-01-24T04:06:26+00:00",
+    "setSpecs": []
+}

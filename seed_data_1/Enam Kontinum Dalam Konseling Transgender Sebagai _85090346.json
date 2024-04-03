@@ -1,0 +1,81 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Azmi, K. R. (Khilman)"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2017-08-19T05:47:08+01:00",
+    "dataProvider": {
+        "id": 2432,
+        "name": "Neliti",
+        "url": "https://api.core.ac.uk/v3/data-providers/2432",
+        "logo": "https://api.core.ac.uk/data-providers/2432/logo"
+    },
+    "depositedDate": "",
+    "documentType": "research",
+    "doi": "",
+    "downloadUrl": "https://media.neliti.com/media/publications/126439-ID-enam-kontinum-dalam-konseling-transgende.pdf",
+    "fullText": "",
+    "id": 85090346,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:neliti.com:126439"
+    },
+    "title": "Enam Kontinum Dalam Konseling Transgender Sebagai Alternatif Solusi Untuk Konseli Lgbt",
+    "language": null,
+    "publishedDate": "2015-06-30T01:00:00+01:00",
+    "publisher": "State University of Makassar",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://media.neliti.com/media/publications/126439-ID-enam-kontinum-dalam-konseling-transgende.pdf"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2015",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/85090346"
+        }
+    ],
+    "abstract": "Globalization caused by modern and dynamic society, creates several kinds of concepts, terms, and new theories today. The development in psychological science, and guidance and counseling are indicators of science development. Society problems come from the result of the change from that society, for example modern lifestyle that gives positive and negative impact. Transgender, gay, and lesbian phenomenon is one of the alternative lifestyle that spreads in Indonesia which is experienced by teenagers. It creates new problem for teenagers, their family, and their surroundings. The biggest problem in this case is there's no specific step for counselor and psychiatrist to help transgender, gay, or lesbian counselee. The new concept that offered in this article is  Six Continuum of Transgender Counseling. Six continuum are aimed to give direction for counselor  that may help gay, lesbian, and transgender counselee by doing counseling. Six continuum that have to be passed by counselor are (1) self, (2) relationship, (3) differential of feeling, (4) spiritual intervention, (5) acceptance of environment. Researchers are using literature study as their research method, by explored and examined some literatures: books, journal, dissertation, e-book, and some cases that happened in our society. This article especially developed and inspired by previous article. The article's tittle is Transgender Counseling Through (Wisdom-Oriented Counseling Approach)",
+    "tags": [
+        "Journal:eArticle",
+        "Indonesia"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "Journal:eArticle"
+    ],
+    "oai": "oai:neliti.com:126439",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "2432",
+        "openDoarId": 0,
+        "name": "Neliti",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 85090346,
+        "depositedDate": null,
+        "publishedDate": "2015-06-30T01:00:00+01:00",
+        "updatedDate": "2023-12-08T15:50:58+00:00",
+        "acceptedDate": null,
+        "createdDate": "2017-08-19T05:47:08+01:00"
+    },
+    "urls": [
+        "https://www.neliti.com/publications/126439/enam-kontinum-dalam-konseling-transgender-sebagai-alternatif-solusi-untuk-konsel"
+    ],
+    "lastUpdate": "2023-12-08T15:50:58+00:00",
+    "setSpecs": []
+}

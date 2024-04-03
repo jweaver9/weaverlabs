@@ -1,0 +1,106 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Behnke, Janna"
+        },
+        {
+            "name": "Rispens, Sonja"
+        },
+        {
+            "name": "Demerouti, Evangelia"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2023-08-11T11:42:28+01:00",
+    "dataProvider": {
+        "id": 22340,
+        "name": "Pure OAI Repository",
+        "url": "https://api.core.ac.uk/v3/data-providers/22340",
+        "logo": "https://api.core.ac.uk/data-providers/22340/logo"
+    },
+    "depositedDate": "",
+    "documentType": "",
+    "doi": "",
+    "downloadUrl": "https://core.ac.uk/download/577061175.pdf",
+    "fullText": " How workforce diversity and inclusion influence the effects ofworkplace demands on individual outcomesCitation for published version (APA):Behnke, J., Rispens, S., & Demerouti, E. (2019). How workforce diversity and inclusion influence the effects ofworkplace demands on individual outcomes. Poster session presented at EAWOP 2019 - European Associationof Work and Organizational Psychology , Turin, Italy.Document status and date:Published: 31/05/2019Document Version:Publisher’s PDF, also known as Version of Record (includes final page, issue and volume numbers)Please check the document version of this publication:• A submitted manuscript is the version of the article upon submission and before peer-review. There can beimportant differences between the submitted version and the official published version of record. Peopleinterested in the research are advised to contact the author for the final version of the publication, or visit theDOI to the publisher's website.• The final author version and the galley proof are versions of the publication after peer review.• The final published version features the final layout of the paper including the volume, issue and pagenumbers.Link to publicationGeneral rightsCopyright and moral rights for the publications made accessible in the public portal are retained by the authors and/or other copyright ownersand it is a condition of accessing publications that users recognise and abide by the legal requirements associated with these rights.            • Users may download and print one copy of any publication from the public portal for the purpose of private study or research.            • You may not further distribute the material or use it for any profit-making activity or commercial gain            • You may freely distribute the URL identifying the publication in the public portal.If the publication is distributed under the terms of Article 25fa of the Dutch Copyright Act, indicated by the “Taverne” license above, pleasefollow below link for the End User Agreement:www.tue.nl/taverneTake down policyIf you believe that this document breaches copyright please contact us at:openaccess@tue.nlproviding details and we will investigate your claim.Download date: 04. Oct. 2023How workforce diversity and inclusion influence the effects of workplace demands on individual outcomesInclusion protects employees, in diverse workplaces, from harmful work demands.METHODSo N = 1759, employee datao Online survey study at a Technical UniversityRESULTS• As predicted, high inclusion was essential in high diversity environments to prevent detrimental effects from demandsDISCUSSION• Simultaneously to building more diverse workforces in STEM universities, inclusion among employees needs to be increased• HRM practices, aiming to support efficient diversity management, need to increase employees’ feelings of inclusion to assure that employees can deal with work demands stemming from work characteristics as well as from workforce diversity Janna Behnke, Sonja Rispens, Evangelia DemeroutiContact:j.behnke@tue.nlhttp://hpmcenter.nl/BACKGROUND• Workforce diversity as a double sided sword:• Diversity might improve or harm individual well-being and performance• Inclusion is argued to be an approach through which benefits of diversity can be reached• Work naturally consists of certain demands (e.g. work load or work-self conflict) that imply an energy loss and affect employee well-being and performanceDoes perceived diversity add additional demands to an employee and can experienced inclusion function as a resource to buffer harmful effects?Experienced inclusion: Someone's feeling of belonging to a social unit and the extent to which this unit values one’s unique characteristics (Jansen et al., 2014).",
+    "id": 577061175,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:pure.tue.nl:openaire_cris_publications/679792f6-ea8b-4304-a508-4471cba3da7a"
+    },
+    "title": "How workforce diversity and inclusion influence the effects of workplace demands on individual outcomes",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2019-05-31T01:00:00+01:00",
+    "publisher": null,
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://pure.tue.nl/ws/files/137123118/Poster.pdf"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2019",
+    "links": [
+        {
+            "type": "download",
+            "url": "https://core.ac.uk/download/577061175.pdf"
+        },
+        {
+            "type": "reader",
+            "url": "https://core.ac.uk/reader/577061175"
+        },
+        {
+            "type": "thumbnail_m",
+            "url": "https://core.ac.uk/image/577061175/medium"
+        },
+        {
+            "type": "thumbnail_l",
+            "url": "https://core.ac.uk/image/577061175/large"
+        },
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/577061175"
+        }
+    ],
+    "abstract": "",
+    "tags": [
+        "conferenceObject"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "conferenceObject"
+    ],
+    "oai": "oai:pure.tue.nl:openaire_cris_publications/679792f6-ea8b-4304-a508-4471cba3da7a",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "22340",
+        "openDoarId": 0,
+        "name": "Pure OAI Repository",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 577061175,
+        "depositedDate": null,
+        "publishedDate": "2019-05-31T01:00:00+01:00",
+        "updatedDate": "2024-02-06T17:51:29+00:00",
+        "acceptedDate": null,
+        "createdDate": "2023-08-11T11:42:28+01:00"
+    },
+    "urls": [
+        "https://pure.tue.nl/ws/files/137123118/Poster.pdf",
+        "https://research.tue.nl/en/publications/679792f6-ea8b-4304-a508-4471cba3da7a"
+    ],
+    "lastUpdate": "2024-02-06T17:51:29+00:00",
+    "setSpecs": []
+}

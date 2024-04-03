@@ -1,0 +1,108 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "St. John, Alex"
+        },
+        {
+            "name": "Travers, Robb"
+        },
+        {
+            "name": "Munro, Lauren"
+        },
+        {
+            "name": "Liboro, Renato M."
+        },
+        {
+            "name": "Schneider, Margaret"
+        },
+        {
+            "name": "Greig, Carrie L."
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2019-10-29T01:51:15+00:00",
+    "dataProvider": {
+        "id": 2295,
+        "name": "University of Nevada, Las Vegas Repository",
+        "url": "https://api.core.ac.uk/v3/data-providers/2295",
+        "logo": "https://api.core.ac.uk/data-providers/2295/logo"
+    },
+    "depositedDate": "",
+    "documentType": "research",
+    "doi": "10.1080/19361653.2014.878564",
+    "downloadUrl": "https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1382&amp;context=psychology_fac_articles",
+    "fullText": "",
+    "id": 232208134,
+    "identifiers": {
+        "doi": "10.1080/19361653.2014.878564",
+        "oai": "oai:digitalscholarship.unlv.edu:psychology_fac_articles-1382"
+    },
+    "title": "The Success of Gay–Straight Alliances in Waterloo Region, Ontario: A Confluence of Political and Social Factors",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2014-04-04T08:00:00+01:00",
+    "publisher": "Digital Scholarship@UNLV",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1382&amp;context=psychology_fac_articles"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2014",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/232208134"
+        }
+    ],
+    "abstract": "This article outlines how gay–straight alliances (GSAs) work to connect youth with community resources, and outlines the political and social context of GSAs in Waterloo Region, Ontario, Canada. Fifteen individuals (youth, teachers, and a lesbian, gay, bisexual, transgender, and queer [LGBTQ] youth service provider) participated in interviews about the role of GSAs in creating supportive school environments for LGBTQ youth and their allies. Analyses of the interview data found that, apart from providing direct support to LGBTQ students, GSAs in Waterloo Region decrease isolation by connecting youth with other LGBTQ community members, events, and resources. This article discusses how the confluence of government and school board policy and community agency support facilitates the implementation, maintenance, and success of GSAs",
+    "tags": [
+        "article",
+        "Canada",
+        "Educational policy",
+        "Gay–straight alliances",
+        "LGBTQ youth",
+        "Minority stress",
+        "Teachers",
+        "Community Psychology",
+        "Education Policy",
+        "Lesbian, Gay, Bisexual, and Transgender Studies"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "article"
+    ],
+    "oai": "oai:digitalscholarship.unlv.edu:psychology_fac_articles-1382",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "2295",
+        "openDoarId": 0,
+        "name": "University of Nevada, Las Vegas Repository",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 232208134,
+        "depositedDate": null,
+        "publishedDate": "2014-04-04T08:00:00+01:00",
+        "updatedDate": "2024-01-21T01:57:30+00:00",
+        "acceptedDate": null,
+        "createdDate": "2019-10-29T01:51:15+00:00"
+    },
+    "urls": [
+        "https://digitalscholarship.unlv.edu/psychology_fac_articles/382",
+        "https://digitalscholarship.unlv.edu/context/psychology_fac_articles/article/1382/viewcontent/Liboro___Success_of_GSAs.pdf"
+    ],
+    "lastUpdate": "2024-01-21T01:57:30+00:00",
+    "setSpecs": []
+}

@@ -1,0 +1,85 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Needham, Jayesh"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2016-11-17T19:57:20+00:00",
+    "dataProvider": {
+        "id": 1382,
+        "name": "Duke Law Scholarship Repository",
+        "url": "https://api.core.ac.uk/v3/data-providers/1382",
+        "logo": "https://api.core.ac.uk/data-providers/1382/logo"
+    },
+    "depositedDate": "",
+    "documentType": "research",
+    "doi": "",
+    "downloadUrl": "https://scholarship.law.duke.edu/djglp/vol20/iss2/3",
+    "fullText": "",
+    "id": 62560163,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:scholarship.law.duke.edu:djglp-1242"
+    },
+    "title": "After the Arab Spring: A New Opportunity for LGBT Human Rights Advocacy?",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2013-09-01T08:00:00+01:00",
+    "publisher": "Duke University School of Law",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=1242&amp;context=djglp"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2013",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/62560163"
+        }
+    ],
+    "abstract": "",
+    "tags": [
+        "text",
+        "Law"
+    ],
+    "fulltextStatus": "disabled",
+    "subjects": [
+        "text"
+    ],
+    "oai": "oai:scholarship.law.duke.edu:djglp-1242",
+    "deleted": "DISABLED",
+    "disabled": true,
+    "journals": null,
+    "repositories": {
+        "id": "1382",
+        "openDoarId": 0,
+        "name": "Duke Law Scholarship Repository",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 62560163,
+        "depositedDate": null,
+        "publishedDate": "2013-09-01T08:00:00+01:00",
+        "updatedDate": "2023-01-26T05:34:54+00:00",
+        "acceptedDate": null,
+        "createdDate": "2016-11-17T19:57:20+00:00"
+    },
+    "urls": [
+        "https://scholarship.law.duke.edu/djglp/vol20/iss2/3",
+        "https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=1242&amp;context=djglp"
+    ],
+    "lastUpdate": "2023-01-26T05:34:54+00:00",
+    "setSpecs": []
+}

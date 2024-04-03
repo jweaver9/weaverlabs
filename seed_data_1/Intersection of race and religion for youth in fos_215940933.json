@@ -1,0 +1,96 @@
+{
+    "acceptedDate": "2019-01-04T00:00:00+00:00",
+    "authors": [
+        {
+            "name": "Collins, Mary E."
+        },
+        {
+            "name": "Scott, Judith"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2019-07-09T16:16:56+01:00",
+    "dataProvider": {
+        "id": 2851,
+        "name": "Boston University Institutional Repository (OpenBU)",
+        "url": "https://api.core.ac.uk/v3/data-providers/2851",
+        "logo": "https://api.core.ac.uk/data-providers/2851/logo"
+    },
+    "depositedDate": "2019-03-01T00:00:00+00:00",
+    "documentType": "research",
+    "doi": "10.1016/j.childyouth.2019.01.003",
+    "downloadUrl": "https://open.bu.edu/bitstream/2144/33693/1/Intersection%20of%20race%20and%20religion%20for%20youth%20in%20foster%20care-%20Examining%20policy%20and%20practice.pdf",
+    "fullText": "",
+    "id": 215940933,
+    "identifiers": {
+        "doi": "10.1016/j.childyouth.2019.01.003",
+        "oai": "oai:open.bu.edu:2144/33693"
+    },
+    "title": "Intersection of race and religion for youth in foster care: examining policy and practice",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2019-01-04T00:00:00+00:00",
+    "publisher": "Elsevier",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://open.bu.edu/bitstream/2144/33693/1/Intersection%20of%20race%20and%20religion%20for%20youth%20in%20foster%20care-%20Examining%20policy%20and%20practice.pdf"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2019",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/215940933"
+        }
+    ],
+    "abstract": "Religion and race are primary forces affecting both individuals' identities and social relations. Consequently, their impacts on child welfare systems, and the clients of the system, are important to understand. In addition to protections against discrimination on the basis of religion and race, positive affirmations and connection to relevant communities are also needed to achieve client well-being. This analysis examines both historical and contemporary approaches to addressing religion and race in child welfare policy and practice, with a particular focus on adolescent youth. Our primary focus is on Blacks and Christians because these groups have received predominant attention in the literature. We argue that because racial/ethnic and religious identity development are critical to adolescent well-being, race and religion must receive explicit and consistent attention in child welfare practice. Moreover, the importance of religion has often been overlooked, particularly in its intersection with race. Quality practice needs more explicit attention to religion, but this also raises cautions in the current political environment.Accepted manuscrip",
+    "tags": [
+        "Article",
+        "Social work"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "Article"
+    ],
+    "oai": "oai:open.bu.edu:2144/33693",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": [
+        {
+            "title": "Children and Youth Services Review",
+            "identifiers": [
+                "issn:0190-7409",
+                "0190-7409"
+            ]
+        }
+    ],
+    "repositories": {
+        "id": "2851",
+        "openDoarId": 0,
+        "name": "Boston University Institutional Repository (OpenBU)",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 215940933,
+        "depositedDate": "2019-03-01T00:00:00+00:00",
+        "publishedDate": "2019-01-04T00:00:00+00:00",
+        "updatedDate": "2024-01-21T02:15:53+00:00",
+        "acceptedDate": "2019-01-04T00:00:00+00:00",
+        "createdDate": "2019-07-09T16:16:56+01:00"
+    },
+    "urls": [
+        "https://doi.org/10.1016/j.childyouth.2019.01.003",
+        "https://hdl.handle.net/2144/33693"
+    ],
+    "lastUpdate": "2024-01-21T02:15:53+00:00",
+    "setSpecs": []
+}

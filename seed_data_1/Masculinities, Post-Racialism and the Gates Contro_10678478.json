@@ -1,0 +1,88 @@
+{
+    "acceptedDate": "2012-01-04T00:00:00+00:00",
+    "authors": [
+        {
+            "name": "Cooper, Frank Rudy"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2013-06-21T11:49:27+01:00",
+    "dataProvider": {
+        "id": 258,
+        "name": "Scholarly Commons @ UNLV Law",
+        "url": "https://api.core.ac.uk/v3/data-providers/258",
+        "logo": "https://api.core.ac.uk/data-providers/258/logo"
+    },
+    "depositedDate": "2010-01-01T00:00:00+00:00",
+    "documentType": "research",
+    "doi": "10.2139/ssrn.1576751",
+    "downloadUrl": "http://scholars.law.unlv.edu/nlj/vol11/iss1/2",
+    "fullText": "",
+    "id": 10678478,
+    "identifiers": {
+        "doi": "10.2139/ssrn.1576751",
+        "oai": "oai:scholars.law.unlv.edu:nlj-1151"
+    },
+    "title": "Masculinities, Post-Racialism and the Gates Controversy: The False Equivalence Between Officer and Civilian",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2010-10-01T08:00:00+01:00",
+    "publisher": "Scholarly Commons @ UNLV Boyd Law",
+    "references": [],
+    "sourceFulltextUrls": [
+        "http://scholars.law.unlv.edu/nlj/vol11/iss1/2"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2010",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/10678478"
+        }
+    ],
+    "abstract": "",
+    "tags": [
+        "article",
+        "masculinity",
+        "racial profiling",
+        "Henry Louis Gates Jr",
+        "Civil Rights and Discrimination"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "article"
+    ],
+    "oai": "oai:scholars.law.unlv.edu:nlj-1151",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "258",
+        "openDoarId": 0,
+        "name": "Scholarly Commons @ UNLV Law",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 10678478,
+        "depositedDate": "2010-01-01T00:00:00+00:00",
+        "publishedDate": "2010-10-01T08:00:00+01:00",
+        "updatedDate": "2024-01-27T19:40:09+00:00",
+        "acceptedDate": "2012-01-04T00:00:00+00:00",
+        "createdDate": "2013-06-21T11:49:27+01:00"
+    },
+    "urls": [
+        "https://scholars.law.unlv.edu/nlj/vol11/iss1/2",
+        "https://scholars.law.unlv.edu/context/nlj/article/1151/viewcontent/nvj11_1_1_Cooper.pdf"
+    ],
+    "lastUpdate": "2024-01-27T19:40:09+00:00",
+    "setSpecs": []
+}

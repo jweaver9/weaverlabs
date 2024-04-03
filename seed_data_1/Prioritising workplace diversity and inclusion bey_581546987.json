@@ -1,0 +1,97 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Ogbonnaya, Chidiebere"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2023-09-05T00:08:39+01:00",
+    "dataProvider": {
+        "id": 57,
+        "name": "Kent Academic Repository",
+        "url": "https://api.core.ac.uk/v3/data-providers/57",
+        "logo": "https://api.core.ac.uk/data-providers/57/logo"
+    },
+    "depositedDate": "",
+    "documentType": "",
+    "doi": "",
+    "downloadUrl": "https://core.ac.uk/download/581546987.docx",
+    "fullText": "Prioritising workplace diversity and inclusion beyond a checkbox exerciseAs key organisational decision-makers, managers play a big role in promoting diversity and inclusion in the workplace. It is not just a moral responsibility, but also a necessity for growth and nurturing an environment where all employees are treated fairly and free to express their true selves.However, managers often struggle to create a safe and welcoming workplace. They treat diversity and inclusion as a checkbox exercise, formality, or legal requirement, rather than a way to genuinely support their employees. Diversity and inclusion are then reduced to buzzwords or a politically correct statement that is not always backed up by strong workplace policies and actions. In many instances, the ‘diversity and inclusion language’ is used in recruitment ads, performance appraisals, and staff promotion guidelines, but there are no real plans to put it into practice.We must remember that organisations with a supportive, fair, and welcoming culture can improve employee engagement, creativity, and financial performance. A recent McKinsey report shows that effective diversity and inclusion management not only presents a strong business case, but also improves the wellbeing and performance of an organisation over time. Another CIPD report confirms that managers who prioritise diversity and inclusion perform better than those who do not. When employees feel valued and respected, they tend to be happier and more productive, which can be good for the organisation's bottom line.So, how can managers ensure that diversity and inclusion remain a top business priority and not merely a formality to be checked off? In today's tough economic climate – with high inflation, rising costs, and a looming global recession – what practical skills will make a real difference to diversity and inclusion management? How can we strike a good balance between the need for high performance and effective diversity and inclusion management at work?The answers are not simple, and no one-size-fits-all strategy works for everyone. But here are a few good starting points:Prioritise employees' interests and try to understand their feelings. This means valuing each employee as an individual and giving them space to share their views. Create mentorship programs to help employees from diverse backgrounds feel supported and included.Managers often face tough decisions due to limited resources or competing demands, but it is your responsibility to communicate openly with employees and act in a supportive and consistent manner. Even if diversity and inclusion policies are already in place, lead your team by example and dismiss all forms of discrimination. Regularly train employees to avoid implicit biases and stereotypes when making decisions at work.Ultimately, effective diversity and inclusion management should not be viewed as a mere routine activity. It is the right thing to do and good for both employees and the organisation as a whole. But there is still a long way before it receives the attention and priority that it deserves. If sufficient time and resources are devoted to making a real difference in managing diversity and inclusion at work, all employees can enjoy a more positive organisational culture.",
+    "id": 581546987,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:kar.kent.ac.uk:102634"
+    },
+    "title": "Prioritising workplace diversity and inclusion beyond a checkbox exercise",
+    "language": null,
+    "publishedDate": "2023-06-12T01:00:00+01:00",
+    "publisher": null,
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://kar.kent.ac.uk/102634/1/EDI%20piece%20-%20Chidiebere%20Ogbonnaya%2017.05.2023.docx"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2023",
+    "links": [
+        {
+            "type": "download",
+            "url": "https://core.ac.uk/download/581546987.docx"
+        },
+        {
+            "type": "reader",
+            "url": "https://core.ac.uk/reader/581546987"
+        },
+        {
+            "type": "thumbnail_m",
+            "url": "https://core.ac.uk/image/581546987/medium"
+        },
+        {
+            "type": "thumbnail_l",
+            "url": "https://core.ac.uk/image/581546987/large"
+        },
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/581546987"
+        }
+    ],
+    "abstract": "",
+    "tags": [
+        "H",
+        "H"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "H"
+    ],
+    "oai": "oai:kar.kent.ac.uk:102634",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "57",
+        "openDoarId": 0,
+        "name": "Kent Academic Repository",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 581546987,
+        "depositedDate": null,
+        "publishedDate": "2023-06-12T01:00:00+01:00",
+        "updatedDate": "2024-02-12T07:04:40+00:00",
+        "acceptedDate": null,
+        "createdDate": "2023-09-05T00:08:39+01:00"
+    },
+    "urls": [
+        "https://kar.kent.ac.uk/102634/1/EDI%20piece%20-%20Chidiebere%20Ogbonnaya%2017.05.2023.docx"
+    ],
+    "lastUpdate": "2024-02-12T07:04:40+00:00",
+    "setSpecs": []
+}

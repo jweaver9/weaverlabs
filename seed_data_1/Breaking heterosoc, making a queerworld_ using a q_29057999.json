@@ -1,0 +1,978 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Rademeyer, Philip"
+        }
+    ],
+    "contributors": [
+        "Hyland, Geoffrey"
+    ],
+    "createdDate": "2015-03-09T12:56:18+00:00",
+    "dataProvider": {
+        "id": 674,
+        "name": "Cape Town University OpenUCT",
+        "url": "https://api.core.ac.uk/v3/data-providers/674",
+        "logo": "https://api.core.ac.uk/data-providers/674/logo"
+    },
+    "depositedDate": "",
+    "documentType": "research",
+    "doi": "",
+    "downloadUrl": "https://core.ac.uk/download/29057999.pdf",
+    "fullText": "         The copyright of this thesis vests in the author. No quotation from it or information derived from it is to be published without full acknowledgement of the source. The thesis is to be used for private study or non-commercial research purposes only.  Published by the University of Cape Town (UCT) in terms of the non-exclusive license granted to UCT by the author.  University f Cape TownUniversity of Cape Town  Breaking Heterosoc, Making a Queerworld: Using a queer directorial aesthetic to re-envision Hedda Gabler  Philip Rademeyer (RDMPHI001)    A minor dissertation submitted in partial fulfillment of the requirements for the award of the degree of Master of Arts in Theatre and Performance (Directing Practice)   Faculty of the Humanities University of Cape Town 2011   The financial assistance of the National Research Foundation (NRF) towards this research is hereby acknowledged. Opinions expressed and conclusions arrived at, are those of the author and are not necessarily to be attributed to the NRF.   COMPULSORY DECLARATION This work has not been previously submitted in whole, or in part, for the award of any degree. It is my own work.  Each significant contribution to, and quotation in, this dissertation from the work, or works, of other people has been attributed, and has been cited and referenced.  Signature:      Date:       University of Cape TownAcknowledgements   The financial assistance of the National Research Foundation (NRF) towards this research is hereby acknowledged. Opinions expressed and conclusions arrived at, are those of the author and are not necessarily to be attributed to the NRF.  I hereby acknowledge additional financial assistance through a Masters Research Scholarship and a University Research Scholarship from the Postgraduate Funding Office at the University of Cape Town.     I would like to extend my sincere gratitude to: My supervisor Geoffrey Hyland for the tough love and the opportunities he has given me  Mwenya Kabwe for her support, advice and open door  Hazel Barnes for her continuous feedback and support  My fellow M.A. students, Cathy Dodders and Laen Herschler, for their support on this bumpy ride The UCT Drama Department The UCT Drama Department’s administrational staff The Little Theatre office, wardrobe and workshop staff for putting up with my (usually over-the-top) requests The Hiddingh Hall Library staff for their invaluable assistance Moeneeb Dalwai for anything and everything electronic     Furthermore I would like to thank: My Ma, Pa, Mariska & Maryke – Dankie vir die liefde en ondersteuning en kos en kuier en vir al jul geduld met my slegte buie. Ilse Fourie – Ilse, my balkon-buddy, dankie vir jou vriendskap, die ondersteuning, die sigarette, die kla en kerm, die enorme hoeveelheid koffie wat ons saam gedrink het, die idees en inspirasies. Sonder jou sou die afgelope twee jaar onmoontlik gewees het. Penny Youngleson – Pen, thank you for sharing feedback, encouragement, advice and ideas with me, whether over brunch, coffee, dinner or a glass of wine. Your love and friendship are limitless and thanks to you I have emerged from the past two years with my sanity intact.    University of Cape TownAbstract  This essay explicates the queering of a seminal realist text, Henrik Ibsen’s Hedda Gabler, by means of a queer directorial aesthetic. Using queer theory, the heterosexual matrix (built on a rigid gender binary) and the nuclear family are posited as the crux of heteronormativity, which is the assumption and expectation that subjects are heterosexual. Theatrical realism and narrative, as products of an unqueer history, are posited as complicit in maintaining heteronormativity, since they present inescapable realms that constrain characters and shut down queer options and lives. Through queering a realist text like Hedda Gabler, the text’s inherent heteronormativity can be destabilised and characters can be released from their narrative prison. A conscious play with form is thus an important part of queering a text. Such a queering, while remaining true to the characters and world of a text, necessarily negates authorial intent.  Drawing on queer theory, I conceptualise two kinds of queer subjects/characters for the thesis production – one an unreal, unnatural, vampiric character that exists outside of our current grids of intelligibility (taking form as a childhood version of Hedda); the other an ungendered character who is similarly liminal and not bound by reality (taking form as a male actor playing the adult Hedda). Through these characters, and particularly through gender play, one can create queer moments, which are moments that destabilise a text’s hetero- and gender-normativity. These characters, as unreal, can lay claim to reality (and realism) in order to restructure it.  In order to gain intelligibility, however, queer subjects must destroy the current social order that emphasises the nuclear family and heterosexual reproduction. Following Muñoz (2009), I posit the creation of an alternative queerworld, a queer utopia that rests in notions of futurity, as a means of destroying the social order and providing queers with options beyond heteronormative life scripts. As a Foucaultian heterotopia – a site where utopia can be enacted – the theatre provides a space of fantasy, imagination and creativity where an only-dreamed-of queerworld can become reality. With this in mind, I explicate an alternative ending for the thesis production, Hedda – one in which the title character rejects heteronormativity, the heterosexual matrix, motherhood and Ibsen’s fateful narrative in order to discard her confining “here and now” and enact a queer “there and then,” a queerworld.  This explication supplements the thesis production, which at the time of writing is still being conceptualised, as part of an M.A. in Theatre & Performance (Directing Practice) at the University of Cape Town. University of Cape Town!!!!!\"#$%&'()!*$+$#,-,./0!1%&'()!%!23$$#4,#567!8-'()!%!93$$#!6'#$.+,#'%5!%$-+:$+'.!!+,!#$;$(<'-',(! \"##$%&$'(\")!  =:'5'>!?%6$@$A$#!   [Queer is] the freedom to personalize anything you see or hear then shoot it back into the stupid world more distorted and amazing than it w s before.  (Cooper in Sullivan 2003:45)   Find a dusty old play and violate it.  (Jarman in Pencak 2002:83)   Queerness is not yet here… The here and now is a prison house. We must strive, in the face of the here and now’s totalizing rendering of reality, to think and feel a then and there.  (Muñoz 2009:1)   Hedda. I mean for me. It gives me a sense of freedom to know that a deed of deliberate courage is still possible in this world – a deed of spontaneous beauty. (Ibsen 1890:595)                                                  1 Filmmaker Derek Jarman’s term for the heterosexist hegemony or heteronormativity (Jarman 1993:19).    University of Cape Town 2  Table of Contents  Introduction .......................................................................................................................................... 3 People don’t do such things! .............................................................................................................. 4 Chapter 1: The way things are (and how they remain so) ................................................................ 7 The inescapable realm of heteronormativity, or, Boys will be boys, girls will be girls,  and damn it they will like each other ................................................................................................. 8 The inescapable realm of realism and narrative ............................................................................... 11 Towards a queer aesthetic, or, Allowing for queer moments of escape from realist narrative restrictions ........................................................................................................................................ 12 Chapter 2: The unreal subject (being queer) ................................................................................... 16 The unreal queer subject, or, Creating Child Hedda ........................................................................ 17 Que(e)rying gender, or, Creating Hedda .......................................................................................... 20 Chapter 3: Doing queer towards a future (when tomorrow will be today) ................................... 24 Doing queer for directing ................................................................................................................. 25 No future? ......................................................................................................................................... 27 Carving out a Queerworld ................................................................................................................ 28 A future for Hedda, or, What’s wrong with a happy ending? .......................................................... 31 Conclusion ........................................................................................................................................... 33 Hedda Tesman, Hedda Gabler, Hedda, with vine-leaves in his/her hair ......................................... 34 References ............................................................................................................................................ 36   University of Cape Town !!!!!\"#$%&'()$\"&#!!!University of Cape Town 4 People don’t do such things! [A shot is heard within… HEDDA lies stretched on the sofa, lifeless… Brack (half-fainting in the armchair). Good God! – people don’t do such things. (Ibsen 1890:601) As a director of queer theatre, I view myself as standing between the highly theoretical world of queer theory and a canon of dramatic texts entrenched in heteronormativity. These two worlds collide (sometimes harmoniously, sometimes violently) in the rehearsal venue and onstage. The focus of this research is the development of a queer directorial aesthetic that challenges the inherent heteronormativity of realist texts. This research is not about directing methods nor the director’s work with actors, rather it is about the director as scenographer – creating an aesthetic that queers realist texts, discovering or embedding queer moments in a production, changing content through this act of queering form. Though the research focuses on the conceptual aspect of the director’s role, this is not meant to negate the directing process, as it is in this process between director and actor that discoveries are made, that a written text becomes a performance, that characters like Hedda Gabler are given life. I posit the heterosexual matrix and its underpinning, the nuclear family, as the crux of heteronormativity and propose the theatrical form of realism as complicit in maintaining heteronormativity. I propose a queer directorial aesthetic as a means of challenging heteronormativity and as a means of positing a queer utopia resting in the notion of futurity. The major device I propose to realise the above is the creation of unreal queer characters in a seminal realist text – not only as an act of queer reclamation of straight texts, but in order to create an only-dreamed-of queerworld. The text used for the practical exploration of this research is Ibsen’s Hedda Gabler, which I am changing to Hedda in order to remove the title character from any familial or marital definitions.2 Why Hedda Gabler? The theoretical reasons for this choice will be explicated throughout this paper, but I have personal reasons for choosing this text. The text attracts me due to its portrayal of an imprisoned character, which is a theme I have explored practically and theoretically throughout my research. Since my first reading of the play I have always been disappointed, if not saddened, by the end. Though Hedda has been derided as a monster who acts without motivation, I constantly find myself attracted to her, rooting for her. As a queer theatre director I must ask whether characters have options outside of their seemingly written-in-stone heteronormative and realist scripts; whether they can, in fact, have queer moments of escape. Hedda is certainly trapped by scripts – familial, social, gender and heteronormative scripts. Despite her efforts to control her world, she is always at the mercy of her husband’s career and whims, Thea and Aunt Julie’s portrayals of ideal femininity and Judge Brack’s sexual come-ons. Essentially, Hedda is trapped by a patriarchal society that demands women define themselves only as wives, mothers or entertaining hostesses. I am by no means trying                                                 2 Ibsen himself stated his title shows that Hedda is her father’s daughter rather than her husband’s wife (Salomé 1989:39). University of Cape Town 5 to valorise Hedda – she makes very conscious decisions that contribute to her downfall – but claiming her actions are unmotivated is reductive. As Ibsen forces Hedda to shoot herself, I ask myself whether she can escape her fate. Without negating the conditions that force Hedda to make her final suicidal decision, but necessarily negating (or queering) Ibsen’s authorial intent, I imagine a different outcome – one in which Hedda lives. Hedda occupies a liminal position (much like queer subjects as I explicate in this paper), and I imagine her embracing this liminality, striving for a queerworld, a there and then that counteracts the here and now of heteronormativity.  In Chapter 1: The way things are (and how they remain so), I describe how dominant ideologies become “inescapable realm[s]” (Muñoz 1999:15), and I posit hetero- and gender-normativity as two of the most unyielding ideologies. These two ideologies come together in the heterosexual matrix, which insists “if one identifies as a given gender, one must desire a different gender” (Butler 1997:24). This matrix helps to maintain the nuclear family as the only viable form of kinship (Butler 2004, Lehring 1997). Through positing the theatrical form of realism as complicit in maintaining heteronormativity (Dolan 2010, Case 2009, Solomon 1993), I explain my reasons for choosing to direct a realist text, Hedda Gabler. By queering a seminal realist text, one can destabilise the text’s inherent heteronormativity and release the characters from their narrative prison. The crux of this research is the development of a queer aesthetic for Hedda Gabler that questions hetero- and gender-normativity and the heterosexual matrix. I posit a conscious play between realism and fantasy as a starting point for such an aesthetic. In Chapter 2: The unreal subject (being queer), I conceptualise two kinds of queer characters. I posit the queer subject as liminal by looking at Case’s (2009) notion of the vampire, Butler’s (2004) notion of the unreal, and conceptions of queer children as invisible. The queer subject is cast as “fundamentally unintelligible” since it occupies a position of “unthinkability”  (Butler 2004:30, 106), trapped between reality and the unreal, life and death, subjectivity and nothingness. These notions are used to conceive a childhood version of Hedda. I also posit the adult Hedda as liminal through theories of gender play. Adult Hedda, played by a male, will be presented as an ungendered character in order to create confusion around gender. I contend these two characters, as unreal, can escape heteronormative and narrative restrictions and lay claim to reality in order to restructure it.    In Chapter 3: Doing queer towards a future (when tomorrow will be today), I argue queerness, or queer moments, can be produced in texts regardless of authorial intent. In my conception a major means of queering a text is the creation of a queerworld. Edelman (2004) argues there is no future for queers, since the future is defined through heterosexual reproduction and the image of the Child, and he therefore argues for a restructuring of the social order. Muñoz (2009) proposes a view of queerness that looks towards a queer future. The essence of queerness is rejecting the “here and now” in favour of a “then and there”, which is a utopian dream that insists a queer(er) world is possible (Muñoz 2009:1). One means of achieving this queerworld is through performance, since it is through imagining a queerworld that the foundations for such a world can be laid (Muñoz 2009, Dolan 2005). University of Cape Town 6 I posit theatre as a Foucaultian heterotopia in which a queer utopia can be realised. In Hedda a queerworld, denied by Ibsen’s narrative and Hedda’s looming nuclear family, will be imagined. In the heterotopic space of the theatre, Hedda and her childhood self can dream of a queer future, and also enact it.  As director I cast myself as the unreal, vampiric character I describe in Chapter 2. This character, this creature that lurks in the shadows, this queer Hedda, seeks to up-end the current social order and existing notions of intelligibility, looking to a queer utopia that seemingly sits in the future but has the potential to become the present with each passing moment. Similarly, the director is a liminal figure. While working intensively with actors, designers and technicians for a number of weeks, when the curtains go up the director retreats into a void. As director I lurk in the shadows, through Hedda critiquing the here and now and dreaming of a then and there, a then and there that has the potential of becoming the here and now in the heterotopic space of the theatre.  University of Cape Town !!!!!\"#$%&'(!)*!&#'!+$,!&#-./0!$('!!1$.2!#3+!&#',!('4$-.!035!       To find that you are fundamentally unintelligible (indeed, that the laws of culture and of language find you to be an impossibility) is to find that you have not yet achieved access to the human, to find yourself speaking only and always as if you were human, but with the sense that you are not, to find that your language is hollow, that no recognition is forthcoming because the norms by which recognition takes place are not in your favour.  (Butler 2004:30) ! University of Cape Town 8 The inescapable realm of heteronormativity, or Boys will be boys, girls will be girls, and damn it they will like each other Althusser uses the term ideology, Barthes describes myths and Foucault refers to discourse to describe what Gramsci terms hegemony, or “the extent to which belief systems are thoroughly naturalized and deeply dominate the consciousness of individuals, who think they submit freely to the reigning economic and political system but who are more or less programmed to do so” (Hall 2004:87). Hegemonic beliefs are maintained through regulation, which is both “that which makes regular” and the Foucaultian notion of “a mode of discipline and surveillance” (Butler 2004:55). Naturalized ideologies and forms of representation create a seemingly “inescapable realm” (Muñoz 1999:15), or “an unalterable hierarchy of the world” (Barthes 2000:154). For a social formation to reproduce itself, it must ensure that subjects continue to subscribe to that formation, which is achieved through “ideological state apparatuses” (ISAs) such as the government, religion, education, media, family and arts (Althusser 1971:136). Through ISAs, subjects are acculturated into their roles, or “called into being through ideology” (Muñoz 1999:15), through an unconscious process called interpellation (Althusser 1971). Through naturalisation, social and cultural ideologies lose their historical contingency, making them seem natural, eternal and incontestable (Barthes 2000). For Foucault, certain forms of representation are naturalized (Belsey 2002, Hall 2004), placing limits on “what is possible for us to think and say” (Davies in Hall 2004:91), making representation difficult for those outside of dominant ideology. Subjects are thus forced to perceive themselves and the world “in and through the grids of intelligibility that exist in our culture, and which we have embodied, which, in effect, we are” (Sullivan 2003:76). Moving onto uncharted spaces on these grids, stepping outside of normativity, makes subjects unintellig ble and unnatural, and it becomes “unclear whether we are still living” (Butler 2004:206). The inescapable realm, then, casts some people as “human” and others as “less-than-human”, which “does not lead to a viable life” (Butler 2004:2). In order to effectively resist dominant ideology, the ground of that ideology must be shifted, new points of reference must be found and imagined (Butler 2004, Hall 2004). This means stepping outside of the grids of intelligibility that culture provides.  One of the most ubiquitous ideologies is heteronormativity (Sullivan 2003, Case 2009), or “the hegemonic discourse of the assumption of heterosexuality” (Scherer 2010:1). Since all the ISAs “cherish normative ideas of gender and sexuality” (Sinfield in Richardson 2009:29), heterosexuality appears natural, thus making it invisible, assumed and demanded (Sullivan 2003, Dyer 1993, Pellegrini 2002). Sexuality and gender are “regulatory fictions” (Butler in Wilson 1997:103)3, normalizing certain modes of being and casting queers as less-than-human. Sexuality and gender are linked through the heterosexual matrix, which insists “if one identifies as a given gender, one must desire a different gender” (Butler 1997:24). The heterosexual matrix                                                 3 “Regulatory” here refers to Butler’s definition as that which makes regular and also a means of surveillance.   University of Cape Town 9 assumes that masculinity (males) must be attracted to femininity (females), and vice versa (Richardson 2009:25, Sedgwick 1990:87), which upholds the gender binary. Strict gender norms posit exaggerated ideals of femininity and masculinity, which are “almost always tied to the idealization of the heterosexual bond” (Spurlin 1999:167). The gender binary has a “historicity of force”, accumulating authority over time through repetition (Butler 1997:13). It is upheld based on morality and family values and is reinforced through language (Belsey 2002, Glover & Kaplan 2000, Harris 1999, Davis 2008), as well as gender socialization, which starts at an early age (Epstein & Straub 1991, Herdt 2007, Jackson 2007). Normative gender scripts are accompanied by “heterosexualizing narratives” – social and political narratives that posit heterosexuality as ideal for all subjects (Edelman 2004:135).  The heterosexual matrix leads to the “heterosexualization of the social bond” (Butler 1997:13), since it upholds the nuclear family, concomitant with heterosexual marriage and reproduction, as “sacrosanct” (Lehring 1997:182), and the only viable form of kinship (Pellegrini 2002, Butler 2004). Heteronormativity assumes “all children are straight” and will therefore perpetuate the nuclear family (Lehring 1997:182). Forms of kinship that deviate from the heterosexual nuclear family model are considered “dangerous for the child but [also] perilous to the putative natural and cultural laws said to sustain human intelligibility” (Butler 2004:104). Other kinship models, tied to nonnormative genders and sexualities, thus exist outside the grids of intelligibility, in the Butlerian space of the unreal. Hedda Gabler interests me because, by killing the title character, it provides no options outside of the gender binary, the heterosexual matrix and the nuclear family, and posits motherhood and self-sacrificing servitude as the only viable existence for women. The world of Hedda Gabler presents an “unalterable hierarchy” – no matter how much Hedda strives for control, she is never able to obtain it. She wants to live life on her own terms (when this is not possible she dies on her own terms) and attempts to obtain power through manipulating other characters. I argue this is due to the fact that Hedda is a woman in a patriarchal society which denies women agency, autonomy and self-fulfilment in terms of a career or involvement in public life (Walkington 1991). All Hedda can be, is a “woman” – something she fails at miserably. She has been called a “monster wife” who is “destructive and petty” (Salomé 1989:40, 131), “a degenerate woman” who is “bewildering, demonic” (Mortensen 2007:178, 169). Hedda is certainly not the feminine (or human) ideal – she subverts normative notions of womanhood (and humanness) through being extremely manipulative, scheming and cold. However, simply calling her a monster implies her essence is monstrous and ignores the social circumstances that cause her to act in a monstrous way. It can be argued that the other female characters, Thea Elvsted and Miss Tesman, occupy the same subjugated position as Hedda, yet they do not resort to her extreme behaviour. However, Thea and Miss Tesman represent the Victorian ideal of the subservient, selfless woman who behaves in a “proper feminine” way (Templeton 1997:21). Both are self-sacrificing nurturers – Miss Tesman dedicates her life to taking care of others, whilst Thea takes pride in the fact that she rehabilitated Eilert Lovborg and had a “child” (the manuscript) University of Cape Town 10 with him. Though Thea challenges Victorian notions of womanhood by walking away from her husband and family, thus echoing Nora in A Doll’s House, I do not consider her as radical as Nora – Thea abandons children that are not hers, and she leaves her husband to follow Lovborg, with whom she has a “child” (Ibsen 1890:580). Unlike Nora who leaves in order to obtain self-fulfilment, Thea leaves to look after her own “family,” to be Lovborg’s companion and caretaker. When Lovborg dies, she immediately becomes subservient to George Tesman. Thea, then, despite the courage it took to walk away from her husband, keeps defining herself in relation to men.4 From the start it is clear that Hedda is not the type of woman who gets fulfilment from her socially-ordained sacrificial roles of wife and mother.5 She married Tesman for convenience, because he has a potentially fruitful career ahead of him and she was getting older. Throughout the play, she refuses to discuss or even acknowledge her pregnancy, perhaps because it reminds her of her status as a woman (Gray 1977, Garton 1994). Critics often view this rejection of pregnancy as “abnormality” since it is not considered normative female behaviour (Templeton 1997:362). I contend that since motherhood is posited as a woman’s destiny and vocation (Finney 1994, Templeton 1997), Hedda views it as entrapping her and foreclosing other possibilities. For Hedda to challenge the dominant social order, to break out of the inescapable realm, she must reject motherhood.6 Whereas Hedda has often been described as motiveless (Templeton 1997:205), her motives stem from the realization of her entrapment. Hedda wants to determine her own life but society and other characters do not allow this. We can think of “culture” as a prison that presents rules and regulations, controls its subjects, and closes off freedom and possibilities. Foucault describes a “panoptic gaze”, an omniscient and authoritative gaze that regulates subjects’ behaviour according to dominant cultural codes (Whitehead 2002:194). The gaze functions through “self-surveillance” as individuals start to regulate their own behaviour due to knowledge of the authoritative gaze (Whitehead 2002:195). Hedda has a constant tension between a private self and a public self – she wants autonomy outside of her role as woman, but is highly dependent on maintaining social prestige (seen in her extreme fear of scandal). She is thus very aware of the panoptic gaze, and there is continuous conflict between her self-surveillance and how she actually desires to live. In the end this conflict, this clash between her reality and her aspirations, drives her to seek invisibility through death. The text suggests individuals have little power against a dominant group unless they can challenge that group. In order to do so they must create new rules, new grounds of intelligibility. The final line of the play, Brack’s exclamation of “Good God! – people don’t do such things” when Hedda shoots herself (Ibsen 1890:601), shows the powerful drive for social conformity, but also                                                 4 Thea’s courage also serves as a foil for Hedda’s lack of courage, something that increases Hedda’s jealousy of Thea and contributes to Hedda’s destructive actions. 5 Even as Hedda Gabler, she is still defined as the General’s daughter, thus still defined in relation to a man. 6 Doing so through suicide obviously also forecloses other possibilities.  University of Cape Town 11 confirms Hedda’s status as less-than-human. She explains to Lovborg that if only she had courage, “life would perhaps be liveable” (Ibsen 1890:558) – she does not find her life liveable and is thus cast as unviable and unintelligible, outside the norms of what is considered human. As Templeton argues, “Hedda’s detractors base their arguments against her on the unstated premise that she should have been other than she was” (Templeton 1997:210), in other words they negate Hedda as a human.   The inescapable realm of realism and narrative If the theatrical form of realism is considered an inappropriate mode of representation for queers (Dolan 2010), why do I insist on queering seminal realist texts? Though other forms may be more suited to a queer aesthetic, one of my tasks as a director of queer theatre is to take existing works and give it a queer reinterpretation, which follows queer theory’s call to reappropriate history, myths, narratives and texts (De Jongh in Monforte 2007a:124, Parks in Pencak 2002:12). Muñoz argues new worlds can be imagined through “recycling and rethinking” dominant culture, “scrambl[ing] and reconstruct[ing] the encoded message of a cultural text” (Muñoz 1999:31). Such “rewiring” of dominant culture’s “mastering plot” can expose its naturalization and create new texts and imagine new worlds in order to make intelligible that which dominant culture has “rendered unthinkable” (Muñoz 1999:21, 31). Theatrical texts like Hedda Gabler, couched in heteronormativity due to their particular historical context, can thus be interrogated and used as “raw material” for a contemporary performance that critiques heteronormativity (Muñoz 1999:31). Queer filmmaker Derek Jarman, whose work interrogated the heterosexist bias of historical and literary narratives, also encourages queer artists to “[f]ind a dusty old play and violate it” (Jarman in Pencak 2002:83). The greatest reason for queering realist texts is that realism and narrative posit “its version of the world as a singular version” (Parkinson Zamora & Faris in Woodman 2010:305), presenting a monolithic claim to truth that excises other possibilities (Case 2009:46). Realism and naturalism eradicate the “day dream, imagination” (Case 2009:36), which are crucial weapons for queers. Theatrical realism, as a product of an unqueer history, is widely regarded as complicit with heteronormativity, shutting down queer options and so foreclosing a (queer) future. In realism, thus, there is no room for queers as I posit them in this research, creating the need to queer realist texts which have an “ideological entrenchment” in heteronormativity, texts that present “hermetic world[s]” that constrain characters (Dolan 2010:24, 15). Realist narratives offer “no way out of the gender system” (Solomon 1993:151), which means violence is often perpetrated against women (Case 2009:46, Solomon 1993:153). This is very evident in Hedda Gabler, with Hedda trapped by normative notions of family and sexuality. Furthermore, realist texts often do not represent or recognize queer characters, and often “marginalize, demean, or, worse still, exile or murder” them (Dolan 2010:15). By staging such texts unaltered, heteronormativity is simply perpetuated.  Theatrical realism thus presents an inescapable narrative realm. To liberate female and queer characters from their narrative confines Case commands, “Cast the realism aside” (Case 2009:47). University of Cape Town 12 Various queer practitioners, like lesbian group Split Britches, have heeded this call. Their collaboration with gay male group Bloolips, Belle Reprieve (Bourne et al. 1996), is a queer deconstruction of Tennessee Williams’ A Streetcar Named Desire. Streetcar was chosen because its “hallowed place in the canon made it perfect for queer parody” and because of the text’s “highly gendered meanings” (Dolan 2010:62). Belle Reprieve completely deconstructs Williams’ text, showing how the heterosexual matrix limits “our imaginations and our lives” (Dolan 2010:66). It actively posits realism and narrative as confining; for example, Stella notes, “Now we all talked about this, and we decided that realism works against us” (Bourne et al. 1996:178). At one point, Blanche insists on returning to Williams’ original narrative, but this insistence leads to the rape scene which is only avoided by once again stepping into “non-narrative margins” (Solomon 1993:154).  Hedda Gabler, as a product of an unqueer history, is entrenched in heteronormativity and thus provides an exciting prospect for a queer interpretation. The play is part of Ibsen’s modernist work, which contained an “aesthetic rejection of idealism by introducing realism and prose” (Mortensen 2007:169). This realism, however, traps Ibsen’s characters in their narratives. Hedda’s world is an inescapable realm, and has been described as a “prisonhouse” or “prison” (Templeton 1997:218, Ostermeier in Gallagher-Ross 2007:88), with “unfree” characters “following the construction of a story” (Von Mayenburg in Gallagher-Ross 2007:91). Queering such a text can thus critique its complicity in heteronormativity and release the characters from their prison.7 Ibsen kills his female character who does not comply to gender norms and who cannot achieve self-fulfilment in the public (through a career) or private (through marriage and motherhood) sphere. In order to escape her fate, Hedda must thus step out of realism. In Belle Reprieve, Blanche (played by drag queen Bette Bourne) possesses a “liminality” that frees her – through a “step-by-step refusal of realism’s inevitable ravages, Bourne/Blanche avoids the violent, devastating ending Williams wrote for the character” (Dolan 2010:69-70). Hedda, too, must refuse realism – as the play progresses she will become aware of her confinement, of how the narrative pushes her forward, and through this awareness can effect an escape from Ibsen’s fate for her.   Towards a queer aesthetic, or Allowing for queer moments of escape from realist narrative restrictions One way of avoiding Hedda’s fate might be a complete deconstruction of the text, with a simultaneous side-stepping of realism. However, as a director my task is to interpret existing texts and I do not intend to deconstruct the text – what seems more challenging and exciting is keeping Hedda Gabler’s narrative largely intact and finding innovative ways of critiquing heteronormativity through                                                 7 A non-realist interpretation of Hedda Gabler is not a new idea; for example, director Ingmar Bergman used a more symbolic approach since he believed a naturalist approach allowed the stage detail to overshadow the drama. His productions have been described as showing an “eerie unreality” in which “[t]he outside world, the world of reality, had no place whatsoever” (Marker & Marker 1994:192). University of Cape Town 13 a queer aesthetic.8 This aesthetic is not “radical” in the sense of radical queer theatre arising alongside queer activism in the 1980s. Such theatre was often sexually explicit, since this was considered the most transgressive means of queer activism through performance. Explicit public transgression was considered an effective way for queers, generally underrepresented and desexualised under the identity politics movement, to claim public space and visibility (Dolan 2007). Since then, queers have received greater visibility, and explicit transgression is no longer necessary (Dolan 2007). Perhaps due to the greater exposure of the body in the media, the shock and transgression of explicit performance has also diminished.9  Aesthetically queer theatre is theatre with an “oppositional and anti-normative aesthetic agenda” (Halferty 2006:140). A queer aesthetic questions “the natural” (Muñoz 2009:138), and posits a particularly queer view of a text, which implies a destabilisation of a text’s normative aesthetic (in this case realism). A queer aesthetic will attempt to queer the visual world, themes and characters of a play. I contend this will bring about a change in form and a consequent change in content (Dolan 2010:16). The question is whether a seemingly non-radical queer directorial aesthetic can destabilise the inescapable realms of heteronormativity, realism and Hedda Gabler.  For Hedda, I propose a conscious play between realism and alternate forms that can “work against [the original text’s] narrativity” (de Lauretis 2011:244). I propose an interaction between the text’s realism and the forms of fantasy and magical realism. These forms can assist in the creation of a queerworld that undercuts the confined world that realist and narrative texts circumscribe. Butler argues  Fantasy is not the opposite of reality; it is what reality forecloses… The critical promise of fantasy, when and where it exists, is to challenge the contingent limits of what will and will not be called reality. Fantasy is what allows us to imagine ourselves and others otherwise; it establishes the possible in excess of the real; it points elsewhere, and when it is embodied, it brings the elsewhere home. (Butler 2004:29) Fantasy provides “imaginary possibilities” (Rodríguez 2011:343), imagining “another life, another time, another place – a version of heaven on earth” (Muñoz 2009:144). Dolan claims “performance is an act of public dreaming” (Dolan 2005:92), implying that theatre is necessarily an invocation of fantasy. Fantasy, as that which is in excess of the real, thus allows us to enter a realm of possibilities in which the boundaries of the real become porous, in which what is considered normative can be reworked. Fantasy allows a re-envisioning of the reality it exceeds, allowing queers to “occupy a space of our own creation” (Rodríguez 2011:341). A form that allows for the expression of fantasy is magical realism, a genre that challenges monolithic claims to authenticity and avoids “the singularity                                                 8 Ideally, the text would remain exactly as is. However, due to concerns over length, the text will be cut; for example, the character of the maid will be cut as she is not involved in the action of the play. The cuts will simply serve to “streamline” the play, but the overall narrative, plot and structure will be kept tightly intact. 9 Muñoz also claims an idea of the radical that simply means “extremity, righteousness, or affirmation of newness” is not always valuable (Muñoz 2009:11). University of Cape Town 14 of realism” (Woodman 2010:305). Through interweaving the magical with the real, it can interweave the queer with the normative (Woodman 2010:304). Magical realism and fantasy can present queers in ways that realism cannot, since they are not bound by attempts to represent “reality” and can thus offer an escape from restrictive life and textual narratives. Butler warns the foreclosure of fantasy can lead to “the social death of persons” (Butler 2004:29). For those cast as less-than-human, “[f]or those who are still looking to become possible, possibility is a necessity” (Butler 2004:31). The major vehicle that will allow for an interplay between realism and fantasy in Hedda is the design. I propose two playing spaces: a clearly delineated realist space surrounded by a queer space. The realist space will be an all-white naturalistic living room with naturalistic lighting, while the queer space will be dark red (perhaps covered with confetti), with minimal lighting and no furniture apart from a mirror.10 A white picket fence will separate the two spaces. In the queer space the pickets will detach from each other, converging in one corner and rising off the floor to form three large ribs encasing the realist space. Due to my emphasis on destabilising the heterosexual matrix and nuclear family, the overall design of the production symbolizes these constructs – the ribs and red colour are intended to symbolize an encased womb (the organ that houses the fetus and by extension the future), whereas the fence, the confetti and the colour white serve as symbols of marriage, family and purity. In the realist space the characters will follow the script written for them, unaware of the queer space. The drama Ibsen wrote – the world, characters, relationships and plot he created – will take place in this space. The actors and I will use a realist interpretation to create this world, which will include period costume. The characters will remain confined to this space, which thus represents the inescapable realm – a space of theatrical convention, a space of heteronormativity, an “identificatory prison” that contains characters (Richardson 2009:156). The queer space will be an unreal or unnatural space of fantasy and magic in which anything is possible, in which the possible in excess of the real can materialize. In this space a fantastical queer childhood version of Hedda, Child Hedda, will exist.11 Here the characters (and actors) will be allowed to be more spontaneous in terms of physicality and voice. By means of a moveable doorframe, a threshold between the two worlds, Hedda will be the only character able to move between the realist and queer spaces, able to communicate with the realist characters and Child Hedda.  Through these two spaces I will essentially present two plays – in the realist space, following realist conventions, the Ibsen narrative will play itself out, while the queer space will have its own narrative that attempts to work against the text’s narrativity. This narrative will include the discovery of Child Hedda, the gradual breakdown of Hedda’s realism and eventually the decision to upend Ibsen’s narrative. Child Hedda will occupy the queer space, constantly scrutinizing the realist space.                                                 10 Bergman’s production of Hedda Gabler (first staged in 1964) had a dark red set that became a “velvetlike enclosure” (Marker & Marker 1994:192). In his production, as in mine, Hedda never left the stage, creating the feeling that she was under constant scrutiny. The audience thus embodies the panoptic gaze. 11 This character is conceptualised in greater detail in Chapter 2. University of Cape Town 15 The details of this character will be created with the actress, but her action will revolve around making contact with Hedda, plotting a way to release Hedda from her narrative, and instigating actions to that end. As the play progresses Hedda will gradually become aware of the confines of realism and enter the queer space as an escape from realist (and reality’s) conventions and from her role of Hedda Gabler – mother-to-be, wife and woman. In this space she can tear off her confining period costume, reflect in front of her mirror, and interact with Child Hedda. In this space gender and sexual conventions can break down, Hedda can control her narrative, she can dream and enact utopia. This space will seek to destabilise the rigid boundaries that circumscribe so-called reality. It can allow for escape from dominant forms of representation and provide a way out of restricting narratives towards a place beyond sex and gender, a place where a new sociality is possible, a place where the unintelligible queer can redefine intelligibility. University of Cape Town !!!!!\"#$%&'(!)*!&#'!+,('$-!.+/0'\"&!!1/'2,3!4+''(5!       I wanted to create a feeling of things being out of kilter, so I wore a big blue ‘50s prom dress. I wasn’t really doing drag. I just wanted to create a queasy feeling about gender – to provoke some anxiety about what role I was in.  (Blake in Senelick 2000:413) ! University of Cape Town 17 The unreal queer subject, or  Creating Child Hedda Since Hedda’s characterization is central to my queering of Hedda Gabler, it is necessary to theorise a particularly queer subject. Queer theory challenges the seemingly immutable binaries of gender and sexual orientation as these limit subjectivity, provide a hierarchy of sexual and gendered identities, and provide normative scripts which all subjects are expected to follow. Queer attempts to destabilise essentialised identity categories by positing identity as fluid, non-monolithic and performative, thus by presenting an ontological challenge to the notion of identity. Queer “defin[es] itself against the normal rather than the heterosexual” (Warner in Richardson 2009:148), enabling it to oppose “the logic of opposition” that dichotomies set up (Edelman 2004:4). Though identity labels may create political visibility, this visibility is a trap that simply places subjects inside dominant social scripts as an other, allowing them to be controlled (Garcia 2010, Lehring 1997, Dyer 1993, Phelan 1993). Queer can be summarized as  the open mesh of possibilities, gaps, overlaps, dissonances and resonances, lapses and excesses of meaning when constituent elements of anyone’s gender, of anyone’s sexuality aren’t made (or can’t be made) to signify monolithically. (Sedgwick in Woodman 2010:308) I propose the creation of Child Hedda to help Hedda escape the strictures of heteronormativity and realism. To conceptualise this character, I turn to the theories of Butler’s unreal, Case’s vampire and notions of queer childhood. Queer presents an ontological challenge, attempting “to shift the ground of being itself, thus challenging… the borders of life and death” (Case 2009:68). In the life/death binary the living is defined as the natural. Heterosexuality, constituted as a “life-giving sexuality”, is similarly considered natural, whereas the sterility of queer sex is “an unlive practice” that casts queers as “unnatural… unlive, without the right to life” (Case 2009:69). Queers are thus produced as Butler’s less-than-human. Essentially, “hetero=sex=life and homo=sex=unlife” (Case 2009:69).  To give figure to the unlive queer, Case posits the image of a vampire, a “monster”, a figure that is excluded and transgressive, lurking in the dark, “in the vacuum, outside of natural creation” (Case 2009:81, 73). The vampire is a figure of invisibility – it cannot be seen in a mirror and thus has no reflection and representation. Similarly, queers are “embedded in the dominant discursive mandate to disappear” and asking them to appear “is like asking the vampire to appear in the mirror” which is impossible since “the apparatus of representation still belongs to the un-queer” (Case 2009:74), or the grids of intelligibility do not acknowledge queers. Case appropriates the image of this unnatural being, arguing that “[l]ike the Phantom of the Opera, the queer dwells underground, below the operatic overtones of the dominant; frightening to look at, desiring, as it plays its own organ, producing its own music” (Case 2009:68-69). The queer is a figure of unintelligibility, but in “producing its own music” it can redefine the notion of intelligibility.  University of Cape Town 18 Similarly, Butler (2004) posits queers as unreal, outside normative notions of the human. She argues the queer project is not a struggle for rights “that attach to my person, but we are struggling to be conceived as persons” (Butler 2004:32). Being unreal is being “fundamentally unintelligible” since “the laws of culture and of language find you to be an impossibility” (Butler 2004:30). Heteronormative codes of recognition do not recognize queers. This means the unreal subject is not human, but “is the inhuman, the beyond the human, the less than human, the border that secures the human in its ostensible reality”; the unreal subject speaks “only and always as if you were human, but with the sense that you are not” (Butler 2004:30). For the unreal, humanity is denied, but being unreal can open up new grids of intelligibility. As Muñoz contends, queerness “promises a human that is not yet here, thus disrupting any ossified understanding of the human” (Muñoz 2009:25-26), which implies that the unreal can challenge the ontology of humanness.12 The queer child can be seen as a liminal figure. The normative Romantic image of children posits them as innocent, beautiful and free (Higonnet 1998, Mavor 2002, Kincaid 1996, Brown 2002). Edelman (2004) argues this image of the (straight) child defines the social order, but “the cult of the Child permits no shrines to the queerness of boys and girls, since queerness… is understood as bringing children and childhood to an end” (Edelman 2004:19). Queer children are not recognized, are undesired, considered a threat to straight children, grow up with few models for queerness, are expected to be straight and are socialised into hetero- and gender-normativity (Markowe 2002, Goldman & Goldman 1982, Edelman 2004). Due to heteronormativity’s prevalence, the child experiences discord as the representations offered by heteronormative society do not line up with the child’s developing sense of self. The queer child does not experience the “edenic bliss” accompanying Romantic notions of childhood (Higonnet 1998:216), but rather experiences condemnation, conflict and shame, “learn[ing] and feel[ing] the wisdom of invisibility and dishonesty” (Savin-Williams 1990:178). This child, then, is similar to the unreal figures Butler and Case present, challenging heteronormativity and constructions of childhood. Seeing the queer child as unreal can help us imagine a queer future becoming a queer present through this child – as the child steps from its prison of unintelligibility and invisibility into adulthood, it brings with it potentiality for a queer future. Through the above figures, I posit Child Hedda as a liminal figure, an unreal character existing in the shadows between life and death, between memory, dream and fantasy, between Hedda’s past and a potential future. This child will embody Muñoz’s notion of potentiality, which is a “mode of nonbeing… that is present but not actually existing in the present tense” (Muñoz 2009:9). This nonbeing, unacknowledged by dominant culture, has the potential of materializing, of becoming the present, the real. By definition the unreal subject occupies a position of “unthinkability”, which is “a site unco-opted by normativity” (Butler 2004:106). Since Child Hedda exists outside of normativity,                                                 12 Edelman, too, “insist[s] on the unintelligible’s unintelligibility”, calling on queers to “embrace the impossibility, the inhumanity” and so turn away from the human while “enlarging the inhuman” (Edelman 2004:106, 109, 152).  University of Cape Town 19 she can thus aid Hedda in challenging heteronormativity. It is “when the unreal lays claim to reality, or enters into its domain… [that] norms themselves can become rattled, display their instability, and become open to resignification” (Butler 2004:27-28). Child Hedda, brimming with potentiality, has her whole (queer) life still ahead of her. She will embody fantasy and the unreal in order to bring “elsewhere”, that place beyond reality, home (Butler 2004:29), and to lay claim to a newly imagined queer reality. Not only will Child Hedda represent a potential future, she will also reference Hedda’s past. She is the child unrestricted by social conventions and expectations of femininity, a child who has not yet been interpellated by heteronormativity – she is the uninhibited girl growing up under her father’s guidance, freely riding horses with him, shooting pistols, and playing wild dances on the piano. Though some commentators suggest Hedda behaves the way she does because she was sexually abused by her father as a child (Thompson in Farfan 2007), there is no textual evidence for this. General Gabler certainly had an enormous influence on Hedda growing up, as seen in her obsession with items from her childhood and in the central placement of General Gabler’s portrait in the Tesman house. Hedda’s attachment to her father’s things indicates a close relationship with him, and I interpret her childhood days as queer and unrestricted. Her father did not acculturate her into “proper femininity” – he allowed her to accompany him in doing the traditionally masculine activities he enjoyed. Hedda’s personal items – the pistols, the piano and her father’s portrait – represent a freer time: a time before she learned femininity (in school, through peers or by means of sanctions imposed on unfeminine behaviour?), and before making life-constraining decisions (like marrying Tesman). As a result these items will be queered in some way (for example the piano will be replaced by a plastic children’s piano) in order to distance them very clearly from the realist space of the Tesman household. Child Hedda’s costuming will reference the past and the future: she will wear riding boots and a dress made from vine leaves – vine leaves, for Hedda, represent an unbridled spirit, freedom and courage. Heterosexuality and homosexuality “haunt” each other (Sullivan 2003:51). Sullivan’s use of the word “haunt” indicates the almost-invisibility, the ghostliness, of the unreal as it traces the real. Child Hedda will exist in the queer fantasy space onstage, tracing the perimeter of the realist space, haunting it. As the Ibsen narrative draws to a close, she will claim the realist space in order to destabilise and subsequently restructure it as a queerworld.13 Child Hedda, like a vampire, will be a shadow – dark, scheming, transgressive, subversive and even violent. She will be that part of Hedda that incites action, giving her agency to escape the inescapable realm. She will not speak, as language will place her in Ibsen’s narrative and in reality. Language is a form of representation embedded in dominant cultural codes (Belsey 2002, Dyer 1993). Since language assigns intelligibility, differentiating humans from nonhumans, by rejecting speech Child Hedda can embrace unintelligibility and reject the                                                 13 The end of the play is discussed in Chapter 3. University of Cape Town 20 “prison-house of language” (Glover & Kaplan 2000:xxx). Part of queering a text is “disrupt[ing] the referentiality of language and the referentiality of images” (de Lauretis 2011:244), which I hope to achieve through Child Hedda and Hedda’s childhood items.  Que(e)rying gender, or Creating Hedda In terms of the adult Hedda I propose cross-gendered casting as a means of destabilising the heterosexual matrix and the nuclear family, since the gender binary is key in maintaining heteronormativity. The gender binary produces ideal notions of masculinity and femininity that serve heterosexual discourse (Richardson 2009, Spurlin 1999, Butler 1993). Challenging gender norms can “depriv[e] the naturalizing narratives of compulsory heterosexuality of their central protagonists: ‘man’ and ‘woman’” (Butler in Wilson 1997:103). Hedda will explore gender performativity and gender ambiguity through casting a male in the title role. I contend this will place the character in the realm of the unreal. Cross-gendered performance, associated with theories of genderfuck, drag and camp, can act as an aesthetic and political device, providing an ontological challenge to gender (Power 2009, Butler 2004, Bullough & Bullough 1993).  Some theorists call for the destruction of the concept of gender, which can aid in challenging the current social order. Gender fluidity allows a person’s identity to shift continually, which destabilizes the notion of boundaries since it is “hard to cross a boundary that keeps moving” (Bornstein in Whittle 1996:211). Genderfuck or gender-bending, then, deliberately aims to create gender ambiguity as “what was once dutifully thought to be fixed becomes chameleon-like” (Glover & Kaplan 2000:ix).  Theories of gender performativity argue gender is not an essence or inherent quality of bodies, but an effect of repeated behaviours over time (Butler 1997, Wilchins 2002, Plummer 1996). No gendered subject exists before the acts of gender are performed. Gender performativity does not mean gender is voluntary, since this assumption “presumes a subject, intact, prior to its gendering” (Butler 1997:16). Gender is an unconscious “doing” rather than a “being” (Richardson 2009:10). The acts of gender are drawn from a “shared cultural reservoir” of “existing signifiers and codes” (Sullivan 2003:90), which attempt to approximate ideal masculinity or femininity (Butler 1993). However, these gender ideals can never be reached since they are an illusion. From one gendered act to another, “gaps [can be] opened up in regulatory norms, in the interpellating work of such norms”, making gender unstable and always on the brink of failure (Butler 1997:17). Drag and camp are performative means of playing with gender.14 These forms are “subversive repetition[s]” that parody the concept of gender itself (Oram 2006, Butler 1993, Tyler 1991). As parody,  drag and camp critique dominant culture by using its signs as raw material for creating new expressions (Meyer 1994), thus undermining notions of “originality” and “normality” (Bergman                                                 14 I am not employing a particularly camp aesthetic in Hedda, but I am including it here with drag since many of the theoretical notions behind camp are similar to those of drag.  University of Cape Town 21 1993:11). The “parodic replication and resignification of heterosexual constructs within non-heterosexual frames brings into relief the utterly constructed status of the so-called original” (Butler 1993:314). Drag and camp thus show that the original (femininity) is already a copy, not an essence. Drag and camp create an “incongruous contrast” between a feminine gendered performance and a seemingly male body (Babuscio 1993:20, Cohan 2005, Davy 1994, Newton 1993), critiquing ideal masculinity and femininity by placing the signs of gender on an oppositely-gendered body (Butler 1997:22). Through exaggeration, normative femininity and masculinity are highlighted as constructed excess and as aesthetic (Sullivan 2003, Butler 1997, Babuscio 1993, Long 1993). Drag, thus, is a “playing with thresholds” (Ferris 1993:9), presenting a “gender paradox” that challenges gender norms (Volcano & Windh 2005:133). It is an attempt “to create a feeling of things being out of kilter” (Blake in Senelick 2000:413).15  Senelick argues theatre is an effective vehicle for challenging gender normativity, as gender play can present “chimeras” that refuse categorization and can posit “fresh configurations of gender never seen outside the theatre” (Senelick 2000:11). Gender manipulation in performance can be achieved easily by using materials like costumes and wigs, and behaviours like gesture and posture, thus highlighting gender’s construction (Senelick 2000:3). Gender play in performance can provide a means of escaping the narrative strictures of realism and of reality itself, since it creates “distance between represented and real”, creating a void in which new realities are possible (Pellegrini 2007:171). Gender play makes use of dominant codes of gender and sexuality, “engag[ing] in creative recycling of the past as a way to produce a different relation to the present and the future” (Pellegrini 2007:184). Gender play in theatre can thus challenge hetero- and gender-normativity, and also realist narrative restrictions, allowing for the articulation of fantasy and notions of futurity. Performance artist Kate Bornstein notes  A number of social changes over the last few decades have resulted in the rise of cross-gendered casting… but cross-gendered casting merely scratches the surface of what we could really be doing theatrically with gender. There is so much more to playing with gender than simply going from man to woman or from woman to man. (Bornstein in Power 2009:24) This is a call for theatre to interrogate gendered representations creatively. I will attempt this with Hedda – I am casting a male in a female role as an aid to creating a character that exists at an ungendered locus. Director Geoffrey Hyland creates genderless characters that are “not bound by the limitations of illusion and reality. This character occupies an interstitial space. He/she may move freely between what is known and what is unknown” (Anderson 2006:165). Such characters can undo reality and become “un-being[s]” (Anderson 2006:160). Ungendered characters, unrestricted by                                                 15 Some claim drag and camp are misogynistic and reinforce gay stereotypes (see Bergman 1993, Ferris 1993, Phelan 1993, Tyler 1991). Such views fail to acknowledge these forms’ roots in gay culture (Case 2009, Cohan 2005, Morrill 1994, Babuscio 1993). These arguments are countered by claiming camp and drag “refus[e] to refuse” gay stereotypes (Pellegrini 2007:178), and do not critique actual women “but society in general” (Baker 1994:107).  University of Cape Town 22 gender norms, are thus similar to the vampiric figure of the queer. Through cross-gendered casting, I thus aim to posit Hedda as a liminal un-being not bound by reality or realism. I explored gender play in Portrait, which strung together two Tennessee Williams one-acts (This Property is Condemned and Portrait of a Madonna) with minimal changes to the texts. The female protagonists in the original texts, Willie and Lucretia, were turned into one male character, Luke/Lucretia, played by a male actor. Portrait showed two snapshots of this character’s life – one of the character as a boy, Luke, dressing in his deceased sister’s clothes; and one of the character as an adult male, Lucretia, who imagined himself to be female and fully adopted femininity, even claiming pregnancy at the end of the piece. Luke was a relatively boyish queer boy who, in the liminal space between the two parts of the production (as the audience moved from one space to another), transformed from child to adult, from queer boy to queer woman. This transition happened in front of a mirror, which became the site for the construction and rehearsal of femininity. The piece aimed to create gender confusion, questioning the stability of gender and the sanctions imposed on queer gender nonconformity. I perceive Hedda as a liminal character with a need for control in a society that grants her no autonomy. She is stuck between the past and the present, memory and hope for the future, her socially-ordained role of wife and mother and a desire to be independent, reality and aspiration, desire and fear of losing control. Various critics also position Hedda as liminal, describing her as possessing an “otherness” (Garton 1994:106), or as “a bird who is damned to homelessness among its peers” (Salomé 1989:154). Having a male play Hedda in order to explore an ungendered state can express this liminality, and I contend this will cast Hedda, existing in a world with strict gender binaries, as an unreal being. The intention is for the aud ence to experience a queer moment when confronted with a biological male playing a well-known, seminal female role. This queerness will be amplified due to Hedda’s seemingly normative marriage to Tesman, her use of sexuality to manipulate others, and particularly due to her pregnancy. Hedda has been called an “unreal woman in [a] realistic play” (Templeton 1997:204), and casting a male in this role will amplify this notion.   Since an ungendered state allows characters to occupy an interstitial space, moving between the known and the unknown, Hedda will move between the realist and queer spaces onstage, between Ibsen’s world and an unreal world, onto and off the grids of intelligibility. In the realist space the other characters will recognize her as female (thus not acknowledging her queerness, so amplifying her invisibility and unintelligibility), and she will in fact play at femininity – the actor will employ constructs of traditionally “feminine” behaviour and physicality to create this character. This will be done to highlight the construction of gender, and to show Hedda’s compliance, however reluctant, to the realist world Ibsen created for her. It will also show self-surveillance, as Hedda modifies her behaviour to comply to the gender role she is expected to perform. In the queer space, free from Ibsen’s narrative and realist conventions, this feminine performance will break down to become more gender-fluid and unrestricted – the vocal and physical characterization for this space will be explored University of Cape Town 23 with the actor during rehearsals. Hedda as male will also queer the patriarchal oppression she experiences, perhaps placing her in a position to resist it. Commentators try to rationalize Hedda’s actions by, for example, claiming she suffered childhood abuse (Thompson in Farfan 2007), or that she is homosexual (Mortensen 2007) – it seems these critics are trying to make Hedda’s unintelligibility intelligible. Most often, Hedda’s actions are justified by describing her as masculine, as denying womanhood or as desiring to be a man (Garton 1994, Finney 1994, Mortensen 2007). Simply positing Hedda as masculine to explain her flaws is reductive – it reinforces the gender binary, places blame squarely on Hedda’s shoulders and ignores the fact that her actions can be attributed to “the fact of being a woman” (Garton 1994:122). Furthermore, such a view does not posit viable options for ambiguously gendered beings. The fact that Hedda dies means “unconventional” gender has no place in this world. Allowing an ungendered Hedda to live can restructure the social order as determined by the heterosexual matrix.  Having a male play Hedda may reinforce the above ideas. It is my hope that a conscious play between an ungendered state and a performed femininity will not position Hedda as male, but as “out of kilter” in the face of heteronormativity. Templeton (1997) argues that simply seeing Hedda as masculine denies her status as a person. Though I am certainly positioning Hedda as less-than-human, I am doing so in order for her to claim humanity. The value in positing Hedda as an unreal, ungendered character is that she can, accompanied by Child Hedda, lay claim to reality, destabilise it and posit a reinvented reality, a new social order with different definitions of what is considered human.   University of Cape Town !!!!!\"#$%&'(!)*!+,-./!01''(!&,2$(+3!$!41&1('!!52#'.!&,6,((,2!2-77!8'!&,+$9:!       A map of the world that does not include utopia is not even worth glancing at.  (Wilde in Muñoz 2009:40) ! University of Cape Town 25 Doing queer for directing Queer can be seen as a doing rather than a being (Power 2009, Sullivan 2003), as a means to “spoil, quiz, disorder, denaturalise” heteronormativity (Sullivan 2003:52), or “the freedom to personalize anything you see or hear then shoot it back into the stupid world more distorted and amazing than it was before” (Cooper in Sullivan 2003:45). Part of the queer project is “self-creation” outside of existing categories (Cornell 2004:50). Queer can thus be generative, creating new conceptions of normativity, codes of representation, forms of kinship and life narratives (Weiner & Young 2011, Kemp 2009, Halberstam 2005, Butler 2004).  Queering a text, which is simply to “reread any representation from a queer perspective”, is such a doing (Dolan 2010:17). Texts are part of discourse, but can also be sites of resistance to discourse (Hall 2004). Dramatic texts, as cultural contributors to discourse, can thus be queered. Muñoz contends a  posterior glance at different moments, objects, and spaces might offer us an anticipatory illumination of queerness… to access queer visuality we may need to squint, to strain our vision and force it to see otherwise, beyond the limited vista of the here and now. (Muñoz 2009:22)  Past texts can thus be interrogated to unveil a queerer world. Queerness does not necessarily inhere in past objects, but a queer viewing might mean forcing oneself “to see otherwise.”16 This relates to Bloch’s notion of the anticipatory illumination of art, which involves uncovering traces of the “not-yet-conscious” in cultural works, where the not-yet-conscious is “a utopian feeling” (Muñoz 2009:3). For Muñoz, the anticipatory illumination of art is “a performance of futurity embedded in the aesthetic” (Muñoz 2009:87). Hints of a future, of another world, exist in art as a “surplus of both affect and meaning” (Muñoz 2009:3), and the task of a queer director, then, is to bring these hints of a queer future to light.  Doty argues one can create “queer moments” in heteronormative texts, or “moments of narrative disruption which destabilise heteronormativity, and the meanings and identities it engenders, by bringing to light all that is disavowed by, and yet integral to, heteronormative logic” (Sullivan 2003:191). Finding queer moments is about “discover[ing] a textual surplus, which does more than simply “reveal” lesbians or gays between the lines” and these moments are “not necessarily identical with the desires of the characters or the authors of the text” (Wiedlack 2010:316). Queer moments thus do not necessarily inhere in a text, but can be read into a text, sometimes by negating authorial intent. This “textual surplus,” then, can not only be discovered, but also created. Like the writing of a text, reading a text is historically and culturally specific, and queerness in texts can thus be produced culturally (Sullivan 2003:191). Queering a text thus involves creating queer moments “that irritate the binary gender system” and challenge heteronormativity (Wiedlack 2010:317). Such queer moments were created in Portrait.                                                 16 At first glance Hedda Gabler might not jump out as an ideal text for queering, but through squinting, through a close reading of the play alongside queer theory, one finds the text provides material for queering. University of Cape Town 26 In This Property is Condemned, Tom asks Willie to dance for him with her clothes off, since she did this for another boy, Frank. In Portrait, with Willie now the boy Luke, Tom’s request became a queer moment hinting at a world of preadolescent queer sexuality. During one performance, as Lucretia announced her pregnancy, there was muffled laughter in the audience, indicating the discomfort that the queer moment of a biological male claiming pregnancy had created. Cross-gendered performance in seminal texts allows for queer moments as it can make heterosexual couples homosexual, showing “the gay male under, alongside, and outside of the straight male and female characters valorized in these canonical texts” (Davy 1994:139). Having a male play Hedda will queer the male characters’ desire for her. An example of a queer moment in Hedda can be found in Act 3 (Ibsen 1890:576):  Hedda (rising). Are you going through the garden? Brack. Yes, it's a short cut for me. Hedda. And then it is a back way, too. Brack. Quite so. I have no objection to back ways. They may be stimulating17 enough at times. Hedda. When there is ball practice going on, you mean? Brack (in the doorway, laughing to her). Oh, people don't shoot their tame poultry, I fancy. Hedda (also laughing). Oh, no, when there is only one cock in the basket— Having this exchange between two males immediately queers the subtext. Senelick questions whether it is possible to have cross-gendered performances of Hedda Gabler and Willie Loman (Senelick 2000:486). “The question of whether the characters, created out of socially determined gender assumptions, can be interpreted in this way should not be admissible” since “critics and audiences continue to regard gender cross-casting in the classics as a political rather than an aesthetic choice” (Senelick 2000:486, 488). Gender play should be left to “fringe theatre” since new works allow “more freedom… to reconfigure gender” and “[t]he drama of the past, in its language, form and cultural values, can yield only so far to the pressure of ‘relevance’” (Senelick 2000:489).  Gender play is a political and aesthetic choice, and it is important to assert the necessity of the choice as political, which Senelick seems to disregard. Seminal texts were written in specific socio-historic contexts and staging such texts unchanged simply perpetuates their attendant ideologies. Though Hedda Gabler was considered radical at the time of writing,18 it remains entrenched in heteronormativity. Not reimagining such texts perpetuates their heteronormativity. Gender play in classic texts challenges theatre conventions and “problematizes the notion of sexual norms in the Western canon” (Anderson 2006:172). There is truth to the argument that conventional dramatic structure restricts the presentation of gender fluidity, but because of this it is all the more necessary to queer such texts. Senelick derides “the pressure of ‘relevance’”, but fails to take into account that                                                  17 In the original English translation (which I have used throughout this explication) the word “piquant” is used, but various translations use the word “stimulating.” 18 It was considered radical due to its portrayal of a seemingly cruel and motiveless woman (Templeton 1997). University of Cape Town 27 the intelligibility of any given performance depends on the manner in which it is specifically staged or located within, through and against the history of theatre as a discursive institution, in a fashion that is beyond ‘author’s intentions’. (Harris 1999:77)  The challenge for queer theatre is to move beyond a text’s historical contingencies. It seems that Senelick simply accepts the heteronormative conventions of texts like Hedda Gabler, but my task as queer director is precisely to challenge those conventions. Regardless of author’s intentions, queerness is something that can be produced in a text for our current context. As a director in the current moment, I must ask what I can change about a text’s context. Why can Hedda not have a happy ending? I thus propose queering the text as a reimagining of the context in order to give Hedda a possible future.  No future? A current debate in queer theory pits proponents of queer futurity against those who argue queers are antisocial and have no future. Edelman (2004) is one of the major proponents of the antisocial thesis. In his view queers should “embrace the negativity that we structurally represent” instead of seeking recognition under heteronormative codes (Halberstam 2008:141), since queers have always been cast as negative and “threatening” as they are unable to reproduce the family and the social order (Dean in Caserio et al. 2006:826). Queerness, thus, does not conform to the “familial narrativity of reproductive futurism” (Edelman 2004:17). Edelman argues heteronormativity is based on “reproductive futurism,” the notion that the future is dependent on reproduction, which is the domain of heterosexuality. Heterosexual reproduction is the guarantor of the future and queers, unable to reproduce, are thus excluded from the social bond and the future. Whereas heterosexual sex is a drive for life that seeks attachment and social bonds, queer sex is “the social order’s death drive” (Edelman 2004:3), which weakens “the cohesion of the social” (de Lauretis 2011:250). At the centre of reproductive futurism is the image of the Child19 – that which promises a future (Edelman 2004). The Child embodies “the telos of the social order”, it defines the social order (Edelman 2004:11). Since the Child cannot be a product of queer sex and must be protected from social outsiders like queers, queers have no value in the social order. Edelman exhorts, “Fuck the social order and the Child in whose name we’re collectively terrorized”, claiming queers are “the advocates of abortion; that the Child as futurity’s emblem must die; that the future is mere repetition and just as lethal as the past” (Edelman 2004:29, 31). Edelman argues against the image of the Child, the family and the future, all of which are complicit in maintaining heteronormativity. To this end, he argues queer is not about “marking a space for queers in the social” (Garcia 2010:13), but about undoing the social order and current notions of intelligibility (Edelman 2004).                                                 19 Edelman uses the capitalized Child to refer to the image of the Child, that which it symbolizes. University of Cape Town 28 Though I do not subscribe to the idea of no future and an end to sociality, there are parts of Edelman’s theory that are applicable to Hedda. The call to undo the social order and Hedda’s rejection of the Child through rejecting motherhood will be discussed later in this chapter. It must be made clear that Child Hedda does not represent Edelman’s Child, since she is an unreal queer being who already exists outside the social order and is therefore not complicit in reproductive futurism. She can rather be seen as that which threatens the Child, a queer Other who has the potential to destabilise the image of the Child. Instead of seeking recognition in heteronormativity, Child Hedda embraces negativity. The antisocial thesis claims we should not look for “happy endings” since these reproduce prevailing systems like heteronormativity (Halberstam 2008:149). Queer must embrace “rage, rudeness, anger, spite, impatience…” (Halberstam 2008:152), and queerness must promise to fail, to make a mess, to fuck shit up, to be loud, unruly, impolite, to breed resentment, to bash back, to speak up and out, to disrupt, to assassinate, shock and annihilate, and, to quote Jamaica Kincaid, to make everyone a little less happy! (Halberstam 2008:154) Hedda uses a variety of tactics to gain control over people and can certainly be seen as spiteful, angry and disruptive. As the unreal vampire existing in a queer space of negativity, Child Hedda will be the subversive part of Hedda, encouraging her to take control and manipulate the other characters. She will be the one who turns everything Hedda touches “ludicrous and mean” (Ibsen 1890:596). Child Hedda, then, will be the one who instigates the burning of the manuscript. The manuscript, Lovborg and Thea’s “child,” can be seen as the guarantor of their future and that which legitimises their otherwise illicit relationship. Through burning this child, their heteronormative union is broken and their heteronormative, straight-and-narrow future is shattered. Often considered an unmotivated act of cruelty and jealousy, burning the manuscript here becomes Hedda’s first step to destroying the social order and also foreshadows the altered ending of the play. When Lovborg dies, Thea unites with Tesman to rewrite the manuscript. Hedda is discarded as Tesman and Thea prepare to make their own child (showing the resilience of reproductive futurism), which catalyses Hedda’s more drastic action at the end of the play.  Carving out a Queerworld  In contrast to the antisocial thesis, some theorists posit queerness as collective and social, arguing uniquely queer models of kinship, or queer bonds, are needed to disrupt the social order (Rodríguez 2011, Butler 2011, Garcia 2010, Muñoz 2009, Halberstam 2005).20 Edelman’s negativity can be a productive starting point for the formation of queer bonds, as these bonds “occur not in spite of but because of some force of negation, in which it is precisely negativity that organizes scenes of togetherness” (Weiner & Young 2011:236). Through exclusion by heteronormative society, queers can imagine alternative bonds that go beyond “the conjugal frame” to imagine kinship outside of                                                 20 Many contemporary gays and lesbians marry and choose traditional family settings, but these are heteronormative constructs and thus do not challenge the social order. University of Cape Town 29 heteronormativity (Butler 2004:26). Queers must imagine “different modes of living” as current forms “make life unliveable” (Butler 2004:4).  Since the current social order does not allow for the formation of queer bonds, we need a queer temporality that can “open up new life narratives” outside of heteronormative life scripts (Halberstam 2005:2). Part of queer temporality is imagining a future. For Edelman,  there are no queers in that future as there can be no future for queers, chosen as they are to bear the bad tidings that there can be no future at all, that the future, as Annie’s hymn to the hope of “Tomorrow” understands, is “always/A day/Away.” (Edelman 2004:30).  The future is always deferred, always a dream. For Muñoz, however, the future is the domain of queers.  Muñoz acknowledges queers are “a people without children… a people without a future” (Muñoz 2009:98), but insists queerness is about “futurity and hope” in “the face of hopeless heteronormative maps of the present” (Muñoz 2009:11, 28). The present is “toxic for queers” and therefore we need a queer futurity, a utopian project recognizing “that queerness, what we will really know as queerness, does not yet exist” (Muñoz 2007:458, 454). For Muñoz queerness is  the warm illumination of a horizon imbued with potentiality. We have never been queer, yet queerness exists for us as an ideality that can be distilled from the past and used to imagine a future. The future is queerness’s domain… The here and now is a prison house. We must strive, in the face of the here and now’s totalizing rendering of reality, to think and feel a then and there. (Muñoz 2009:1)  What is important here is potentiality, or the “concrete possibility for another world” (Muñoz 2009:1), which is embodied in Child Hedda. She represents the potential of the “not yet” and “not here” (Dolan 2005:20), or “the thing-that-is-not-yet-imagined” (Muñoz 2009:21), all of which can be thought of as a future, a way of being that is imminent.  Muñoz argues we can envision the then and there through utopia, which is a “critique of the here and now” that discounts queers (Muñoz 2009:99).21 Utopias are “imaginative territories that map themselves over the real” (Dolan 2005:38), not only passive dreams of a better world. Utopia critiques and denaturalizes our reality, which means  The field of the possible is now opened beyond that of the actual… Utopia is the way in which we radically rethink what is family, consumption, government, religion, and so on. The fantasy of an alternative society and its topographical configuration “nowhere” works as the most formidable contestation of what is. (Ricouer in Dolan 2005:89-90)  Utopia is not a finished product, but a “possible futures-in-process” (McKenna in Dolan 2005:149), and is therefore not totalizing like the present (Muñoz 2009:99). Utopia moves beyond our grids of intelligibility and current codes of representation (Dolan 2005).                                                 21 Muñoz realizes the concept of utopia can be discarded as naïve and impractical, but he argues utopia is “profoundly resistant to the stultifying temporal logic of a broken-down present” (Muñoz 2009:12). University of Cape Town 30 Muñoz (1999) calls a queer utopia a queerworld. Glimpses of a queerworld can be found in art, which harkens back to Bloch’s anticipatory illumination of art, that “utopian feeling” embedded in art allowing us “to see the not-yet-conscious” (Muñoz 2009:3). An anticipatory illumination of a queerworld, then, is “a sign of an actually existing queer reality, a kernel of political possibility within a stultifying heterosexual present” that can be perceived in performance (Muñoz 2009:49). Performance can offer a “utopian blueprint for a possible future”, allowing us to “map out a future… [and] alternate views of the world… that reshape as they deconstruct reality” (Muñoz 1999:200, 195-6). Performance can thus offer a utopian feeling, “a trace or potential that exists or lingers after a performance… a “not here” or “not now” in the performance that suggests a futurity” (Muñoz 2009:99). Dolan (2005) argues the liveness of performance allows it to enact utopia – the “present-tenseness of performance lets audiences imagine utopia not as some idea of future perfection that might never arrive, but as brief enactments of the possibilities of a process that starts now, in this moment at the theater” (Dolan 2005:17). Moments of utopia, or utopian performatives, are  moments in which performance calls the attention of the audience in a way that lifts everyone slightly above the present, into a hopeful feeling of what the world might be like if every moment of our lives were as emotionally voluminous, generous, aesthetically striking, and intersubjectively intense. (Dolan 2005:5)  As a performative, utopia is not simply a vague ideal or wish, but something that can be done and enacted (Dolan 2005). Utopian performatives lift people “above the present”, for queers above the toxicity and heteronormativity of the present. Dolan stresses the affective nature of these performatives – for her utopia is strongly tied to the feelings of community that theatre can engender. By extension, moments of queer utopia can start to create queer community and kinship. Furthermore, utopian performatives are “aesthetically striking” and go beyond a play’s content (Dolan 2005:8), suggesting a queer aesthetic can aid in positing a queerworld.22 A queerworld destabilises heteronormative space, time and narrative, creating queer space and time in which queer bonds do not succumb to the interpellating call of heteronormativity. It is a world that restructures the social order, and unlike Halberstam’s formulation of “no happy endings,” a queerworld projects into the future to imagine a sociality tied up in new queer bonds. Perhaps there is a queer time and place, but it is not this time and place. Perhaps it is a world beyond words and language which function to contain queer lives. Perhaps it is a fantasy or a future in which gender and sexuality simply do not matter or do not exist, perhaps it is a naïve ideal, perhaps it is unreal or perhaps it destroys and recycles the present world. The productive value of this queerworld lies in its                                                 22 Dolan warns utopian moments are “idiosyncratic, spontaneous, and unpredictable” (Dolan 2005:5). There is no guideline for creating utopian moments, and not all utopian moments affect all spectators since theatrical reception is subjective. I am fully aware that the utopian moments I seek will not necessarily be felt by all spectators, but it is my hope that the end of Hedda will be seen as such a moment. A queerworld is an intimation of a future world, one consciously created by myself and the actors, and hopefully recognized by spectators, if not necessarily felt. University of Cape Town 31 imagining, in the “perhaps.” Perhaps through an imagining this queerworld can become a reality replacing the dead-end narratives of our current reality with endless streams of possibility. Perhaps the future here is a future of chaos, a future that recognizes that the future is simultaneously never reached and always reached. Through this queerworld the future is always becoming the present, tomorrow is always becoming today, and it is in this continuous transition that an unreal future utopia can be enacted.  A future for Hedda, or What’s wrong with a happy ending? I believe an important part of queering a text is positing a utopian vision of a queerworld. Portrait failed to present Lucretia with options.23 She was not given a reprieve from the fate Williams wrote for her and was eventually taken to an asylum. In Jack/David, the first practical component of my research, the characters were given a queer utopia, but only in death. With Hedda I thus aim to posit a future, which obviously necessitates changing the end of the play. At the end of Hedda Gabler, as more and restrictions are placed on Hedda – Aunt Julie’s continuous pressure on Hedda to reveal her pregnancy, Lovborg’s mundane death, Thea and Tesman’s unification, Brack’s sexual blackmail – Hedda has two options: continue living in a world that is now more confining than ever, or kill herself. In my conceptualization, since Hedda, with the help of Child Hedda, becomes aware of the realist conventions pushing her towards narrative closure, a third option arises: destroy Ibsen’s narrative and the heteronormative social order. In the original text Hedda commits suicide in order to escape life – the only freedom she has left is the ability to choose when and how she will die. Since my Hedda is already less-than-human and outside of intelligibility, death can serve her no purpose. Hedda’s suicide will not change anything – perhaps the social order will be shaken, destabilised, but it will inevitably continue as before. What Hedda needs is not to destabilise the social order and heteronormativity, but to destroy it. To destroy her world, she must choose a future, a queerworld. Through imagination and fantasy the two Heddas can dream of a queer utopia, but as the play nears its end, it becomes time to enact that utopia. Only through destroying Heterosoc and making a queerworld can Hedda’s life become liveable. To choose a queer liveability, she must completely reject heteronormativity with its concomitant notions of family and reproductive futurism, she must reject marriage and motherhood, she must reject the Tesman prison-house and the life growing inside her.  To this end, instead of shooting herself, Hedda, prompted by Child Hedda, will abort the child (and Edelman’s Child) she is carrying and burn down the Tesman house. This act can have no realist consequences (like Hedda being caught and imprisoned), since the act of burning down the house                                                 23 Hedda Gabler shows the effects of patriarchy on women’s autonomy and tries to challenge the strict enforcement of the gender binary (Finney 1994, Walkington 1991), but it also fails to provide its characters with options. University of Cape Town 32 destroys the social order and its rules, untangling Hedda from any social and narrative restrictions. Her final act, an act of destruction when viewed through our current grids of intelligibility, is a queer act of creation, an enactment of utopia that brings the queer future into the present. This act turns Hedda’s queer then and there into the here and now, and allows her to transition from less-than-human into a human. For both Heddas, a queerworld that is always on the brink of becoming passes into a queer present during the production. The Heddas can walk into this indescribable queerworld, creating indefinable queer bonds, with vine-leaves in their hair.  University of Cape Town !!!!!\"#$%&'()#$  University of Cape Town 34 Hedda Tesman, Hedda Gabler,  Hedda, with vine-leaves in his/her hair Hedda. Ah, yes – courage! If one only had that! Lövborg. What then? What do you mean? Hedda. Then life would perhaps be liveable, after all. (Ibsen 1890:558) I have described the queer as occupying a liminal position, as denying the real while being formed in it, as existing but being denied existence, as finding life through fantasy and imagination while finding reality unliveable. I will draw on these notions in order to create a queer aesthetic in terms of design and the broader directorial concept, but also to create two characters, one an indefinable Child Hedda and the other an ungendered adult Hedda. These characters can present an ontological challenge not only to gender and sexuality but also to humanness. They can embrace fantasy to rewire the mastering plot of heteronormativity and of traditional narrative. Through these characters an alternate vision of the world, with new forms of kinship, is possible. This world may seem unreal and unintelligible in our world, but it is through its existence in the future that it can become real. In every imperceptible transition from future to present, in every moment, this queerworld can slip from its space in our imagination into the here and now. “For those who are still looking to become possible, possibility is a necessity” (Butler 2004:31); those spaces that engender possibility – fantasy, the future, utopia, gender and sexual ambiguity – are thus also a necessity. Foucault views utopias as “fundamentally unreal spaces” and describes heterotopias, or “real places… a kind of effectively enacted utopia” in which various real spaces are represented simultaneously (Foucault 1967). Foucault explains heterotopias through the metaphor of a ship, which is “a floating piece of space, a place without a place, that exists by itself, that is closed in on itself and at the same time is given over to the infinity of the sea” (Foucault 1967). Heterotopias are sites where the real and the ideal come together, where “that what is does not necessarily have to be” (Hall 2004:130). I posit the theatre as such a heterotopia, since “performance always exceeds its space and its image, since it lives only in its doing, which is imagining, in the good no-place that is theater” (Dolan 2005:13). In theatre, a no-place of imagination, fantasy and creativity, utopia can be enacted. Here one has the queer “freedom to personalize anything you see or hear then shoot it back into the stupid world more distorted and amazing than it was before” (Cooper in Sullivan 2003:45). The theatre becomes a place to experiment with the theories discussed above, and to create a queerworld. The theatre not only allows for imagination and fantasy, but for the enactment of imagination and fantasy. I cast the queer characters as unreal, yet they are very real in terms of their physical presence in the theatre, and therefore they are not only possible, but immediately enacted. At the time of writing rehearsals for Hedda have not yet started and things might therefore change as the live bodies and minds of the actors join my own body and mind in the rehearsal space. It is during rehearsal that the theories and concepts, captured in this essay in finite form, are explored and enacted. In rehearsal the research is activated, the focus shifts to the process of directing, the University of Cape Town 35 process of making a text come to life, which means some concepts and theories might be discarded and others added. At this time, however, I propose Hedda as imprisoned by the conventions of realism and by the heterosexual matrix, and by extension her marriage and impending motherhood. For Hedda, contained and cast as impossible, possibility is a necessity. The then and there must become the here and now, and this is achievable through the creation of a queerworld that destroys heteronormativity and the realistic world Ibsen placed Hedda in. Though this queerworld can be dismissed as idealistic, it is first through imagining this world that its foundations can be laid. As Rodríguez states, “sometimes the promise is enough” (Rodríguez 2011:338). In this section’s epigraph Hedda reveals a major clue about herself – she does not find life liveable. Though she posits courage as the means of gaining a liveable life, she exalts Lovborg’s courage to kill himself and summons this courage to kill herself. Courage, then, is misappropriated and leads to her demise. To attain liveability, Hedda certainly needs courage, combined with the ability to envisage a better world. Enacting this world requires enormous courage, perhaps more courage than killing herself, but Hedda must enact this queerworld in order to become intelligible, to finally see herself in a queer mirror. University of Cape Town !!!!!\"#$#%#&'#(!!University of Cape Town 37 References Althusser, L. 1971. Ideology and ideological state apparatuses. In Lenin and philosophy and other essays. London: NLB. Anderson, L. 2006. Obsession and the other: A critique of the influence of the Japanese aesthetic in the work of Geoffrey Hyland. SATJ 20. 150-174. Babuscio, J. 1993. Camp and the gay sensibility. In Bergman, D. (ed). Camp Grounds: Style and homosexuality. Amherst: University of Massachusetts Press. Baker, R. 1994. Drag: A history of female impersonation in the performing arts. NY: New York University Press. Barthes, R. 2000. Mythologies. Trans. A. Lavers. London: Vintage. (Originally published in 1957). Belsey, C. 2002. Poststructuralism: A very short introduction. Oxford: Oxford University Press. Bergman, D. (ed). 1993. Camp Grounds: Style and homosexuality. Amherst: University of Massachusetts Press. Brown, M.R. (ed). 2002. Picturing children: Constructions of childhood between Rousseau and Freud. Hants & Burlington, VT: Ashgate. Bullough, V.L. & Bullough, B. 1993. Cross dressing, sex, and gender. Philadelphia: University of Pennsylvania. Butler, J. 2011. Remarks on “Queer Bonds”. GLQ 17.2-3. 381-387. Butler, J. 2004. Undoing gender. NY & London: Routledge. Butler, J. 1997. Critically queer. In Phelan, S. (ed). Playing with fire: Queer politics, queer theories. NY & London: Routledge. Butler, J. 1993. Imitation and gender subordination. In Abelove, H., Barale, M.A. & Halperin, D.M. (eds). The lesbian and gay studies reader. New York & London: Routledge. Case, S-E. 2009. Feminist and queer performance. Hampshire & NY: Palgrave MacMillan. Caserio, R.L., Edelman, L., Halberstam, J., Muñoz, J.E. & Dean, T. 2006. Forum: Conference Debates: The antisocial thesis in queer theory. PMLA 121.3. 819-828. Cohan, S. 2005. Introduction. In Incongruous entertainment: Camp, cultural value, and the MGM musical. Durham & London: Duke University Press. Cornell, D. 2004. Gender in America. In Tazi, N. (ed). Keywords: Gender for a different kind of globalization. Cape Town: Double Storey Books. Davis, E.C. 2008. Situating “fluidity”: (Trans)gender identification and the regulation of gender diversity. GLQ 15.1. 97-139. Davy, K. 1994. Fe/male impersonation: the discourse of camp. In Meyer, M. (ed). The politics and poetics of camp. London & New York: Routledge. De Lauretis, T. 2011. Queer texts, bad habits, and the issue of a future. GLQ 17.2-3. 243-263. Dolan, J. 2010. Theatre and sexuality. Hampshire & New York: Palgrave Macmillan. University of Cape Town 38 Dolan, J. 2007. Practicing cultural disruptions: Gay and lesbian representation and sexuality. In Reinelt, J.G & Roach, J.R. (eds). Critical theory and performance: Revised and enlarged edition. Ann Arbor, MI: University of Michigan Press. Dolan, J. 2005. Utopia in performance: Finding hope at the theater. Ann Arbor: University of Michigan Press. Dyer, R. 1993. The matter of images: Essays on representations. London & NY: Routledge. Edelman, L. 2004. No future: Queer theory and the death drive. Durham and London: Duke University Press. Epstein, J. & Straub, K. (eds). 1991. Body guards: The cultural politics of gender ambiguity. NY & London: Routledge. Farfan, P. 2007. “Hedda Gabler remains a question mark”: A conversation with Judith Thompson. Canadian Theatre Review 132. 92-96. Ferris, L. (ed). 1993. Crossing the stage: Controversies on cross-dressing. London & NY: Routledge. Finney, G. 1994. Ibsen and feminism. In McFarlane, J. (ed). The Cambridge companion to Ibsen. Cambridge & New York: Cambridge University Press. Foucault, M. 1967. Of other spaces (1967), Heterotopias. Trans. J. Miskowiec.  Available: http://foucault.info/documents/heteroTopia/foucault.heteroTopia.en.html. Accessed 26 June 2011. Gallagher-Ross, J. (ed). 2007. Ibsen our contemporary: Contemporary directors on the playwright’s centenary. Theater 37.3. 87-115. Garcia, C. 2010. General Queer; or, Lee Edelman and the oppositional meaning of queer. In Scherer, B. (ed). Queering paradigms. Bern: Peter Lang. Garton, J. 1994. The middle plays. In McFarlane, J. (ed). The Cambridge companion to Ibsen. Cambridge & New York: Cambridge University Press. Glover, D. & Kaplan, C. 2000. Genders. London & NY: Routledge.  Goldman, R. & Goldman, J. 1982. Children’s sexual thinking: A comparative study of children aged 5 to 15 years in Australia, North America, Britain and Sweden. London, Boston, Melbourne and Henley: Routledge and Kegan Paul. Gray, R. 1977. Hedda Gabler. In Ibsen – A dissenting view: A study of the last twelve plays. Cambridge & New York: Cambridge University Press. Halberstam, J. 2008. The anti-social turn in queer studies. Graduate Journal of Social Science 5.2. 140-156. Halberstam, J. 2005. In a queer time and place: Transgender bodies, subcultural lives. NY & London: New York University Press. Halferty, J. P. 2006. Queer and now: The queer signifier at Buddies in Bad Times Theatre. Theatre Research in Canada 27.1. 123-154. Hall, D.E. 2004. The politics of identity. In Hall, D.E. Subjectivity. NY & London: Routledge. University of Cape Town 39 Harris, G. 1999. Staging femininities: Performance and performativity. Manchester & NY: Manchester University Press. Herdt, G. 2007. Sexual development, social oppression, and local culture. In Kimmel, M. (ed). The sexual self: The construction of sexual scripts. Nashville: Vanderbilt University Press. Higonnet, A. 1998. Pictures of innocence: The history and crisis of ideal childhood. London: Thames and Hudson. Jackson, S. 2007. The sexual self in late modernity. In Kimmel, M. (ed). The sexual self: The construction of sexual scripts. Nashville: Vanderbilt University Press. Jarman, D. 1993. At your own risk: A saint’s testament. London: Vintage. Kaplan, M.B. 1997. Intimacy and equality: The question of lesbian and gay marriage. In Phelan, S. (ed). Playing with fire: Queer politics, queer theories. NY & London: Routledge. Kemp, J. 2009. Queer Past, queer present, queer future. Graduate Journal of Social Science 6.1. 3-23. Kincaid, J.R. 1996. Producing erotic children. In Fuss, D. (ed). Human, all too human. New York & London: Routledge. Lehring, G. 1997. Essentialism and the political articulation of identity. In Phelan, S. (ed). Playing with fire: Queer politics, queer theories. NY & London: Routledge. Long, S. 1993. The loneliness of camp. In Bergman, D. (ed). Camp Grounds: Style and homosexuality. Amherst: University of Massachusetts Press. Marker, F.J. & Marker, L. 1994. Ibsen and the twentieth-century stage. In McFarlane, J. (ed). 1994. The Cambridge companion to Ibsen. Cambridge & New York: Cambridge University Press. Markowe, L.A. 2002. Coming out as lesbian. In Coyle, A. & Kitzinger, C. (eds). Lesbian and gay psychology: New perspectives. Oxford & Malden, MA: BPS Blackwell Publishers. Mavor, C. 2002. Introduction: the unmaking of childhood. In Brown, M.R. (ed). Picturing children: Constructions of childhood between Rousseau and Freud. Hants & Burlington, VT: Ashgate. Meyer, M. (ed). 1994. The politics and poetics of camp. London & New York: Routledge. Monforte, E. 2007a. Nicholas de Jongh. In Aragay, M., Klein, H., Monforte, E. & Zozaya, P. (eds). British theatre of the 1990s: Interviews with directors, playwrights, critics and academics. Hampshire & New York: Palgrave MacMillan. Morrill, C. 1994. Revamping the gay sensibility: Queer Camp and dyke noir. In Meyer, M. (ed). The politics and poetics of camp. London & New York: Routledge. Mortensen, E. 2007. Ibsen and the scandalous: Ghosts and Hedda Gabler. Ibsen Studies 7.2. 169-187. Muñoz, J. E. 2009. Cruising utopia: The then and there of queer futurity. New York & London: New York University Press. Muñoz, J. E. 2007. Queerness as horizon: Utopian hermeneutics in the face of gay pragmatism. In Haggerty, G.E. & McGarry, M. (eds). A companion to lesbian, gay, bisexual, transgender and queer studies. Malden, MA & Oxford: Blsckwell Publishing. University of Cape Town 40 Muñoz, J. E. 1999. Disidentifications: Queers of color and the performance of politics. Minneapolis & London: University of Minnesota Press. Newton, E. 1993. Role models. In Bergman, D. (ed). Camp Grounds: Style and homosexuality. Amherst: University of Massachusetts Press. Oram, A. 2006. Cross-dressing and transgender. In Cocks, H.G. & Houlbrook, M. (eds). Palgrave advances in the modern history of sexuality. New York & Hampshire: Palgrave MacMillan. Pellegrini, A. 2007. After Sontag: Future notes on camp. In Haggerty, G.E. & McGarry, M. (eds). A companion to lesbian, gay, bisexual, transgender and queer studies. Malden, MA & Oxford: Blackwell Publishing. 168-193. Pellegrini, A. 2002. Consuming lifestyle: Commodity capitalism and transformations in gay identity. In Cruz-Malavé, A. & Manalansan IV, M.F. (eds). Queer globalisations: Citizenship and the afterlife of colonialism. NY & London: New York University Press. Pencak, W. 2002. The films of Derek Jarman. Jefferson, NC & London: McFarland and Company, Inc. Phelan, P. 1993. Unmarked: The politics of performance. London & NY: Routledge. Plummer, K. 1996. Foreword: Genders in question. In Ekins, R. & King, D. (eds). Blending genders: Social aspects of cross-dressing and sex-changing. London & NY: Routledge. Power, T. 2009. For queer eyes only?: Creating queer performance art at university. Graduate Journal of Social Science 6.1. 24-41. Richardson, N. 2009. The queer cinema of Derek Jarman: Critical and cultural readings. London & New York: I.B. Taurus. Rodríguez, J.M. 2011. Queer sociality and other sexual fantasies. GLQ 17.2-3. 331-348. Salomé, L. 1989. Ibsen’s heroines. Edited and translated by S. Mandel. New York: Limelight Editions. Savin-Williams, R.C. 1990. Gay and lesbian youth: Expressions of identity. New York, Washington, Philadelphia, London: Hemisphere Publishing Corporation. Scherer, B. (ed). 2010. Queering paradigms. Bern: Peter Lang. Sedgwick, E.K. 1990. Axiomatic. In Morland, I. & Willox, A. (eds). 2005. Queer theory. Hampshire & New York: Palgrave MacMillan. Senelick, L. 2000. The changing room: Sex, drag and theatre. London & NY: Routledge. Solomon, A. 1993. It’s never too late to switch: Crossing toward power. In Ferris, L. (ed). Crossing the stage: Controversies on cross-dressing. London & NY: Routledge. Spurlin, J. 1999. I’d rather be the princess than the queen! Mourning Diana as a gay icon. In Morland, I. & Willox, A. (eds). 2005. Queer theory. Hampshire & New York: Palgrave MacMillan. Sullivan, N. 2003. A critical introduction to queer theory. Edinburgh: Edinburgh University Press. Templeton, J. 1997. Ibsen’s women. Cambridge & New York: Cambridge University Press. University of Cape Town 41 Tyler, C. 1991. Boys will be girls: the politics of gay drag. In Fuss , D. (ed). Inside/out: Lesbian theories, gay theories. NY & London: Routledge. Volcano, D.L. & Windh, I. 2005. GenderFusion. In Morland, I. & Willox, A. (eds). 2005. Queer theory. Hampshire & New York: Palgrave MacMillan. Walkington, J.W. 1991. Women and power in Henrik Ibsen and Adrienne Rich. The English Journal 80.3. 64-68. Weiner, J.J. & Young, D. 2011. Queer bonds. GLQ 17.2-3. 223-241. Whittle, S. 1996. Gender fucking or fucking gender: Current cultural contributions to theories of gender blending. In Ekins, R. & King, D. (eds). Blending genders: Social aspects of cross-dressing and sex-changing. London & NY: Routledge. Wiedlack, M.K. 2010. Transgressing genders – A queer reading of German literature: Judith Hermann’s “Sonja” and Annemarie Schwarzenbach’s Lyric Novella. In Scherer, B. (ed). Queering paradigms. Bern: Peter Lang. Wilchins, R. 2002. A certain kind of freedom: Power and the truth of bodies – Four essays on gender. In Nestle, J., Howell, C. & Wilchins, R. (eds). GenderQueer: Voices from beyond the sexual binary. Los Angeles: Alyson Publications. Wilson, A.R. 1997. Somewhere over the rainbow: Queer translating. In Phelan, S. (ed). Playing with fire: Queer politics, queer theories. NY & London: Routledge. Woodman, J. 2010. Life is not always a cabaret: Queer, working-class, magical realism in Marked for Life (1996), Does it Show? (1997) and Could it be Magic? (1999) by Paul Magrs. In Scherer, B. (ed). Queering paradigms. Bern: Peter Lang.  Bibliography Adams, R. & Savran, D. (eds). 2002. The masculinity studies reader. Malden, MA & Oxford: Blackwell Publishers. Aronowitz, S. 1995. My masculinity. In Berger, M., Wallis, B. & Watson, S. (eds). Constructing masculinity. NY & London: Routledge. Bailey, J.M. 2003. The man who would be Queen: The science of gender-bending and transsexualism. Washington, D.C.: Joseph Henry Press. Bartsch, S. 2006. The mirror of the self: Sexuality, self-knowledge, and the gaze in the Early Roman Empire. Chicago & London: University of Chicago Press. Berger, M. (ed). 1994. Man Trouble. Artforum 32.8. 74-83. Berger, M., Wallis, B. & Watson, S. (eds). 1995. Constructing masculinity. NY & London: Routledge.  Bergman, D. 1993a. Strategic camp: The art of gay rhetoric. In Bergman, D. (ed). Camp Grounds: Style and homosexuality. Amherst: University of Massachusetts Press. University of Cape Town 42 Bhabha, H.K. 1995. Are you a man or a mouse? In Berger, M., Wallis, B. & Watson, S. (eds). Constructing masculinity. NY & London: Routledge. Bigsby, C.W.E. 1997. Entering The Glass Menagerie. In Roudané, M.C. (ed). The Cambridge companion to Tennessee Williams. Cambridge: Cambridge University Press. Bonenfant, Y. 2010. Queer listening to queer vocal timbres. Performance Research 15.3. 74-80. Boswell, J. 2009. Christianity, social tolerance, homosexuality: An introduction. In Krondorfer, B. (ed). Men and masculinities in Christianity and Judaism: A critical reader. London: SCM Press. Buck-Morrs, S. 1992. Aesthetics and anaesthetics: Walter Benjamin’s artwork essay reconsidered. October 62. 3-41. Carrigan, T., Connell, B. & Lee, J. 2002. Toward a new sociology of masculinity. In Adams, R. & Savran, D. (eds). The masculinity studies reader. Malden, MA & Oxford: Blackwell Publishers. Clum, J.M. 2000. Still acting gay: Male homosexuality in modern drama. New York: St. Martin’s Griffin. Connell, R.W. 2002. The history of masculinity. In Adams, R. & Savran, D. (eds). The masculinity studies reader. Malden, MA & Oxford: Blackwell Publishers. Cruz-Malavé, A. & Manalansan IV, M.F. (eds). 2002. Queer globalisations: Citizenship and the afterlife of colonialism. NY & London: New York University Press. Delgado, M.M. & Heritage, P. (eds). 1996. In contact with the gods? Directors talk theatre. Manchester & New York: Manchester University Press. Doty, W.G. 1993. Myths of masculinity. NY: Crossroad. Dworkin, S.L. & O’Sullivan, L.F. 2007. “It’s less work for us and it shows us she has good taste”: Masculinity, sexual initiation, and contemporary sexual scripts. In Kimmel, M. (ed). The sexual self: The construction of sexual scripts. Nashville: Vanderbilt University Press. Eagleton, T. 1990. The ideology of the aesthetic. Malden, MA & Oxford: Blackwell Publishing. Ekins, R. 1993. The career path of the male female. In Ekins, R. & King, D. (eds). 1996. Blending genders: Social aspects of cross-dressing and sex-changing. London & NY: Routledge. Ekins, R. & King, D. (eds). 1996. Blending genders: Social aspects of cross-dressing and sex-changing. London & NY: Routledge. Finque, S. 1997. Making theater from a queer aesthetic. In Jonas, S., Proehl, G.S. & Lupu, M. (eds). Dramaturgy in American theater: A sourcebook. Fort Worth: Harcourt Brace College Publishers.  Fisher, J. 2002. The theatre of Tony Kushner: Living past hope. New York & London: Routledge. Fleche, A. 1995. When a door is a jar, or out in the theatre: Tennessee Williams and queer space. Theatre Journal 47:2. 253-267. Fortier, M. 1997. Theory/theatre: An introduction. London: Routledge. University of Cape Town 43 Foucault, M. 1978. The history of sexuality: The will to knowledge. Translated from the French by R. Hurley. London: Penguin Books. (Originally published in 1976). Fuss , D. (ed). 1991. Inside/out: Lesbian theories, gay theories. NY & London: Routledge. Gabilondo, J. 2002. Like blood for chocolate, like queers for vampires: Border and global consumption in Rodríquez, Tarantino, Anau, Esquivel, and Troyano (Notes on baroque, camp, kitsch, and hybridization). In Cruz-Malavé, A. & Manalansan IV, M.F. (eds). Queer globalisations: Citizenship and the afterlife of colonialism. NY & London: New York University Press. Gevisser, M. & Cameron, E. (eds). 1994. Defiant desire: Gay and lesbian lives in South Africa. Raven Press: Johannesburg. Giannnachi, G. & Luckhurst, M. (eds). 1999. On directing: Interviews with directors. London: Faber & Faber. Goodman, N.1978. Ways of worldmaking. Sussex: The Harvester Press. Griggs, C. 1998. S/he: Changing sex and changing clothes. Oxford & NY: Berg. Guicharnaud , J. 1979. The glory of annihilation: Jean Genet. In Brooks, P. & Halpern, J. (eds). Genet: A collection of critical essays. Englewood Cliffs, NJ: Prentice-Hall, Inc. Halberstam, J. 2002. An introduction to female masculinity: Masculinity without men. In Adams, R. & Savran, D. (eds). The masculinity studies reader. Malden, MA & Oxford: Blackwell Publishers. Halperin, D.M. 1993. Is there a history of sexuality? In Abelove, H., Barale, M.A. & Halperin, D.M. (eds). The lesbian and gay studies reader. New York & London: Routledge. Hammer, S.B. 2002. “That Quiet Little Play”: Bourgeois tragedy, female impersonation, and a portrait of the artist in Glass Menagerie. In Gross, R.F. (ed). Tennessee Williams: A casebook. New York & London: Routledge. Hayes, S. & Ball, M. 2010. Queering cyberspace: Fan fiction communities as spaces for expressing and exploring sexuality. In Scherer, B. (ed). Queering paradigms. Bern: Peter Lang. Haynes, J. 1994. Lines of flight. In Berger, M. (ed). Man Trouble. Artforum 32.8. 74-83. Hekman, S. J. 2004. Private selves, public identities: Reconsidering identity politics. University Park, PA: Pennsylvania State University Press. Hirsch, F. 1979. A portrait of the artist: The plays of Tennessee Williams. Port Washington, NY: Kennikat Press. Keller, K. 1993. Walt Whitman camping. In Bergman, D. (ed). Camp Grounds: Style and homosexuality. Amherst: University of Massachusetts Press. Kimmel, M. (ed). 2007. The sexual self: The construction of sexual scripts. Nashville: Vanderbilt University Press. Kleinhans, C. 1994. Taking out the trash: Camp and the politics of parody. In Meyer, M. (ed). The politics and poetics of camp. London & New York: Routledge. University of Cape Town 44 Koestenbaum, W. 1995. The Aryan boy who pissed on my father’s head. In Berger, M., Wallis, B. & Watson, S. (eds). Constructing masculinity. NY & London: Routledge. Lance, M.N. & Tanesini, A. 2005. Identity judgements, queer politics. In Morland, I. & Willox, A. (eds). 2005. Queer theory. Hampshire & New York: Palgrave MacMillan. Leap, W.L. 2002. “Strangers on a train”: Sexual citizenship and the politics of public transportation in Apartheid Cape Town. In Cruz-Malavé, A. & Manalansan IV, M.F. (eds). Queer globalisations: Citizenship and the afterlife of colonialism. NY & London: New York University Press. Lucas, I. 1994. Impertinent decorum: Gay theatrical manoeuvres. London & New York: Cassell. McFarlane, J. (ed). 1994. The Cambridge companion to Ibsen. Cambridge & New York: Cambridge University Press. Monforte, E. 2007b. Alan Sinfield. In Aragay, M., Klein, H., Monforte, E. & Zozaya, P. (eds). British theatre of the 1990s: Interviews with directors, playwrights, critics and academics. Hampshire & New York: Palgrave MacMillan. Monforte, E. 2007c. Neil Bartlett. In Aragay, M., Klein, H., Monforte, E. & Zozaya, P. (eds). British theatre of the 1990s: Interviews with directors, playwrights, critics and academics. Hampshire & New York: Palgrave MacMillan. Morland, I. & Willox, A. (eds). 2005. Queer theory. Hampshire & New York: Palgrave MacMillan. Motswapong, P.E. 2010. Surviving behind the mask: Lesbians and gays in Botswana. In Scherer, B. (ed). Queering paradigms. Bern: Peter Lang. Munro, B.M. 2009. Queer family romance: Writing the “new” South Africa in the 1990s. GLQ 15.3. 397-439. Nealon, C. 2008. Queer tradition. GLQ 14.4. 617-622. Nestle, J., Howell, C. & Wilchins, R. (eds). 2002. GenderQueer: Voices from beyond the sexual binary. Los Angeles: Alyson Publications. Ostermeier, T. 2010. Reading and staging Ibsen. Ibsen Studies 10.2. 68-74. Pavis, P. 1998. Aesthetics of drama. In Dictionary of the theatre: Terms, concepts, and analysis. Translated by C. Shantz. Toronto & Buffalo: University of Toronto Press. Peterson, D. 2010. “Everything built on that”: Queering Western space in Proulx’s “Brokeback Mountain”. In Scherer, B. (ed). Queering paradigms. Bern: Peter Lang. Phelan, P. 1993a. Crisscrossing cultures. In Ferris, L. (ed). Crossing the stage: Controversies on cross-dressing. London & NY: Routledge. Phelan, S. (ed). 1997. Playing with fire: Queer politics, queer theories. NY & London: Routledge. Plante, R.F. 2007. In search of sexual subjectivities: Exploring the sociological construction of sexual selves. In Kimmel, M. (ed). The sexual self: The construction of sexual scripts. Nashville: Vanderbilt University Press. University of Cape Town 45 Plummer, K. 2007. Queers, bodies, and postmodern sexualities: A note on revising the ‘sexual’ in symbolic interactionism. In Kimmel, M. (ed). The sexual self: The construction of sexual scripts. Nashville: Vanderbilt University Press. Roberts, B. 2000. Whatever happened to gay theatre? New Theatre Quarterly 16:62. 175-185. Robertson, P. 1993. “The kinda comedy that imitates me”: Mae West’s identification with the feminist camp. In Bergman, D. (ed). Camp Grounds: Style and homosexuality. Amherst: University of Massachusetts Press. Roth, M. 1993. Homosexual expression and homophobic censorship: the situation of the text. In Bergman, D. (ed). Camp Grounds: Style and homosexuality. Amherst: University of Massachusetts Press. Roudané, M.C. (ed). 1997. The Cambridge companion to Tennessee Williams. Cambridge: Cambridge University Press. Sauntson, H. & Morrish, L. 2010. Performing lesbian sexual identity through discourse. In Scherer, B. (ed). Queering paradigms. Bern: Peter Lang. 27-47. Savin-Williams, R.C. 2005. The new gay teenager. Cambridge, MA & London: Harvard University Press. Savran, D. 1999. The playwright’s voice: American dramatists on memory, writing and the politics of culture. New York: Theatre Communications Group. Savran, D. 1998. Taking it like a man: White masculinity, masochism, and contemporary American culture. Princeton, NJ: Princeton University Press. Schwartz P. 2007. The social construction of heterosexuality. In Kimmel, M. (ed). The sexual self: The construction of sexual scripts. Nashville: Vanderbilt University Press. Sedgwick, E.K. 2002. The beast in the closet: James and the writing of homosexual panic. In Adams, R. & Savran, D. (eds). The masculinity studies reader. Malden, MA & Oxford: Blackwell Publishers. Sedgwick, E.K. 1995. Gosh, Boy George, you must be awfully secure in your masculinity! In Berger, M., Wallis, B. & Watson, S. (eds). Constructing masculinity. NY & London: Routledge. Sedgwick, E.K. 1985. Between men: English literature and male homosocial desire. New York: Columbia University Press. Shapiro, J. 1991. Transsexualism: Reflections on the persistence of gender and the mutability of sex. In Epstein, J. & Straub, K. (eds). Body guards: The cultural politics of gender ambiguity. NY & London: Routledge. Shepard, B. 2010. Queer politics and anti-capitalism: From theory to practice. In Scherer, B. (ed). Queering paradigms. Bern: Peter Lang. Shevtsova, M. & Innes, C. (eds). 2009. Directors/directing: Conversations on theatre. Cambridge & New York: Cambridge University Press. Sinfield, A. 2004. On sexuality and power. New York: Columbia University Press. University of Cape Town 46 Smith, P. 1995. Eastwood bound. In Berger, M., Wallis, B. & Watson, S. (eds). Constructing masculinity. NY & London: Routledge. Smith, R. 1994. Frock tactics. In Baker, R. Drag: A history of female impersonation in the performing arts. NY: New York University Press. Solomon-Godeau, A. 1995. Male trouble. In Berger, M., Wallis, B. & Watson, S. (eds). Constructing masculinity. NY & London: Routledge. Sussman, H. 1994. His infinite variety. In Berger, M. (ed). Man Trouble. Artforum 32.8. 74-83. Suthrell, C. 2004. Unzipping gender: Sex, cross-dressing and culture. Oxford & NY: Berg. Tait, P. 2005. Circus bodies: Cultural identity in aerial performance. London & NY: Routledge. Thomsen, C.B. 1991. Fassbinder: The life and work of a provocative genius. London & Boston: Faber & Faber. Thornton, M.B. 2006. Tennessee Williams: Notebooks. New Haven & London: Yale University Press. Thresher, T. 2008. “Vinløv i håret”: The relationship between women, language, and power in Ibsen’s Hedda Gabler. Modern Drama 51.1. 73-83. Tucker, A. 2009. Queer visibilities: Space, identity and interaction in Cape Town. Chichester, UK: Wiley-Blackwell. Van Zyl, M. & Steyn, M. (eds). 2005. Performing queer: shaping sexualities 1994-2004 volume one. Roggebaai: Kwela Books. Vance, C.S. 1995. Social construction theory and sexuality. In Berger, M., Wallis, B. & Watson, S. (eds). Constructing masculinity. NY & London: Routledge. Walters, S. D. 1996. From here to queer: Radical feminism, postmodernism, and the lesbian menace. In Morland, I. & Willox, A. (eds). 2005. Queer theory. Hampshire & New York: Palgrave MacMillan. Watney, S. 1994. Aphrodite of the future. In Berger, M. (ed). Man Trouble. Artforum 32.8. 74-83. Whitehead, S.M. 2002. Men and masculinities: Key themes and new directions. Cambridge & Malden, MA: Polity Press. Whittier, D.K. & Melendez, R.M. 2007. Sexual scripting and self-process: Intersubjectivity among gay men. In Kimmel, M. (ed). The sexual self: The construction of sexual scripts. Nashville: Vanderbilt University Press. Wilchins, R. 2002a. A continuous nonverbal communication. In Nestle, J., Howell, C. & Wilchins, R. (eds). GenderQueer: Voices from beyond the sexual binary. Los Angeles: Alyson Publications. Wilchins, R.A. 1997. Read my lips: Sexual subversion and the end of gender. Ithaca, NY: Firebrand Books.  Films, Performances & Plays Bourne, B., Shaw, P., Shaw, P. & Weaver, L. 1996. Belle Reprieve: A collaboration. In Case, S. (ed). Split Britches: Lesbian practice/feminist performance. London & New York: Routledge. University of Cape Town 47 Fassbinder, R.W. 2006 (1972). Die Bitteren Tränen der Petra von Kant. [DVD]. UK: Arrow Films. Fassbinder, R.W. 1982. Querelle. [DVD]. Paris: Gaumont & Munich: Planet Film. Genet, J. 1950. Un Chant d’amour. [DVD]. France: The British Film Institute Video Publishing. Hyland, G. 2010. Salomé. Arena Theatre, UCT, Cape Town. 21-29 May 2010. Ibsen, H. 1890. Hedda Gabler. Trans. E. Gosse & W. Archer. (Originally published in Norwegian, originally published in English in 1890). In Mencken, H.L. (ed). 1947. Eleven plays of Henrik Ibsen. New York: The Modern Library. Jarman, D. 1986. Caravaggio. [DVD]. UK: Zeitgeist Films. Jarman, D. 1991. Edward II. [DVD]. UK: Fine Line Features. Jarman, D. 1976. Sebastiane. [DVD]. UK: Kino on Video. Rademeyer, P. 2010. Portrait – This Property is Condemned and Portrait of a Madonna by Tennessee Williams. Arena Theatre, UCT, Cape Town. 12-13 November 2010. Rademeyer, P. 2010a. Jack/David – An adaptation of Jack by David Greenspan. Rehearsal Studio, UCT, Cape Town. 12-15 May 2010.   ",
+    "id": 29057999,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:open.uct.ac.za:11427/11639"
+    },
+    "title": "Breaking heterosoc, making a queerworld: using a queer directorial aesthetic to re-envision Hedda Gabler",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2011-01-01T00:00:00+00:00",
+    "publisher": "'University of Cape Town'",
+    "references": [
+        {
+            "id": 36866219,
+            "title": "(Originally published in Norwegian, originally published in English in 1890).",
+            "authors": [],
+            "date": null,
+            "doi": null,
+            "raw": "Ibsen, H. 1890. Hedda Gabler. Trans. E. Gosse & W. Archer. (Originally published in Norwegian, originally published in English in 1890). In Mencken, H.L. (ed). 1947. Eleven plays of Henrik Ibsen. New York: The Modern Library.",
+            "cites": null
+        },
+        {
+            "id": 36866210,
+            "title": "A continuous nonverbal communication. In",
+            "authors": [],
+            "date": "2002",
+            "doi": null,
+            "raw": "Wilchins, R. 2002a. A continuous nonverbal communication. In Nestle, J., Howell, C. & Wilchins, R. (eds). GenderQueer: Voices from beyond the sexual binary. Los Angeles: Alyson Publications.",
+            "cites": null
+        },
+        {
+            "id": 36866117,
+            "title": "A portrait of the artist: The plays of Tennessee",
+            "authors": [],
+            "date": "1979",
+            "doi": null,
+            "raw": "Hirsch, F. 1979. A portrait of the artist: The plays of Tennessee Williams. Port Washington, NY: Kennikat Press.",
+            "cites": null
+        },
+        {
+            "id": 36866087,
+            "title": "Aesthetics and anaesthetics: Walter Benjamin’s artwork essay reconsidered.",
+            "authors": [],
+            "date": "1992",
+            "doi": "10.2307/778700",
+            "raw": "Buck-Morrs, S. 1992. Aesthetics and anaesthetics: Walter Benjamin’s artwork essay reconsidered. October 62. 3-41.",
+            "cites": null
+        },
+        {
+            "id": 36866142,
+            "title": "Aesthetics of drama. In Dictionary of the theatre: Terms, concepts, and analysis. Translated by",
+            "authors": [],
+            "date": "1998",
+            "doi": null,
+            "raw": "Pavis,  P.  1998.  Aesthetics  of  drama.  In  Dictionary of the theatre: Terms, concepts, and analysis. Translated by C. Shantz. Toronto & Buffalo: University of Toronto Press.",
+            "cites": null
+        },
+        {
+            "id": 36866111,
+            "title": "An introduction to female masculinity: Masculinity without men. In",
+            "authors": [],
+            "date": "2002",
+            "doi": "10.1215/9780822378112-001",
+            "raw": "Halberstam, J. 2002. An introduction to female masculinity: Masculinity without men. In Adams, R. &  Savran,  D.  (eds).  The  masculinity  studies  reader.  Malden,  MA  &  Oxford:  Blackwell Publishers.",
+            "cites": null
+        },
+        {
+            "id": 36866204,
+            "title": "Aphrodite of the future.",
+            "authors": [],
+            "date": "1994",
+            "doi": null,
+            "raw": "Watney, S. 1994. Aphrodite of the future. In Berger, M. (ed). Man Trouble. Artforum 32.8. 74-83.",
+            "cites": null
+        },
+        {
+            "id": 36866214,
+            "title": "Belle Reprieve: A collaboration. In",
+            "authors": [],
+            "date": "1996",
+            "doi": "10.2307/3207596",
+            "raw": "Films, Performances & Plays Bourne, B., Shaw, P., Shaw, P. & Weaver, L. 1996. Belle Reprieve: A collaboration. In Case, S. (ed).",
+            "cites": null
+        },
+        {
+            "id": 36866174,
+            "title": "Between men: English literature and male homosocial desire.",
+            "authors": [],
+            "date": "1985",
+            "doi": "10.2307/2905456",
+            "raw": "Sedgwick,  E.K.  1985.  Between men: English literature and male homosocial desire.  New  York: Columbia University Press.",
+            "cites": null
+        },
+        {
+            "id": 36866097,
+            "title": "Blending genders: Social aspects of cross-dressing and sexchanging. London &",
+            "authors": [],
+            "date": "1996",
+            "doi": "10.2307/2654041",
+            "raw": "Ekins,  R.  &  King,  D.  (eds).  1996.  Blending  genders:  Social  aspects  of  cross-dressing  and  sexchanging. London & NY: Routledge.",
+            "cites": null
+        },
+        {
+            "id": 36866129,
+            "title": "British theatre of the 1990s: Interviews with directors, playwrights, critics and academics. Hampshire &",
+            "authors": [],
+            "date": null,
+            "doi": "10.1017/s0266464x08000201",
+            "raw": "Monforte, E. 2007b. Alan Sinfield. In Aragay, M., Klein, H., Monforte, E. & Zozaya, P. (eds). British theatre of the 1990s: Interviews with directors, playwrights, critics and academics. Hampshire & New York: Palgrave MacMillan.",
+            "cites": null
+        },
+        {
+            "id": 36866086,
+            "title": "Christianity, social tolerance, homosexuality: An introduction.",
+            "authors": [],
+            "date": "2009",
+            "doi": "10.1558/tse.v15i3.349",
+            "raw": "Boswell, J. 2009. Christianity, social tolerance, homosexuality: An introduction. In Krondorfer, B. (ed).  Men  and  masculinities  in  Christianity  and  Judaism:  A  critical  reader.  London:  SCM Press.",
+            "cites": null
+        },
+        {
+            "id": 36866190,
+            "title": "Circus bodies: Cultural identity in aerial performance. London &",
+            "authors": [],
+            "date": "2005",
+            "doi": "10.4324/9780203391303",
+            "raw": "Tait, P. 2005. Circus bodies: Cultural identity in aerial performance. London & NY: Routledge.",
+            "cites": null
+        },
+        {
+            "id": 36866082,
+            "title": "Constructing masculinity.",
+            "authors": [],
+            "date": "1995",
+            "doi": "10.4324/9780203699072",
+            "raw": "Berger,  M.,  Wallis,  B.  &  Watson,  S.  (eds).  1995.  Constructing  masculinity.  NY  &  London: Routledge.",
+            "cites": null
+        },
+        {
+            "id": 36866146,
+            "title": "Crisscrossing cultures. In",
+            "authors": [],
+            "date": "1993",
+            "doi": null,
+            "raw": "Phelan,  P.  1993a.  Crisscrossing  cultures.  In  Ferris,  L.  (ed).  Crossing the stage: Controversies on cross-dressing. London & NY: Routledge.",
+            "cites": null
+        },
+        {
+            "id": 36866106,
+            "title": "Defiant desire: Gay and lesbian lives in South Africa.",
+            "authors": [],
+            "date": "1994",
+            "doi": "10.4324/9781315021782",
+            "raw": "Gevisser,  M.  &  Cameron,  E.  (eds).  1994.  Defiant desire: Gay and lesbian lives in South Africa. Raven Press: Johannesburg.",
+            "cites": null
+        },
+        {
+            "id": 36866179,
+            "title": "Directors/directing: Conversations on theatre. Cambridge & New York:",
+            "authors": [],
+            "date": "2009",
+            "doi": "10.1017/s0266464x10000126",
+            "raw": "Shevtsova, M. & Innes, C. (eds). 2009. Directors/directing: Conversations on theatre. Cambridge & New York: Cambridge University Press.",
+            "cites": null
+        },
+        {
+            "id": 36866220,
+            "title": "Edward II. [DVD]. UK: Fine Line Features.",
+            "authors": [],
+            "date": "1991",
+            "doi": null,
+            "raw": "Jarman, D. 1991. Edward II. [DVD]. UK: Fine Line Features.",
+            "cites": null
+        },
+        {
+            "id": 36866084,
+            "title": "Entering The Glass Menagerie. In",
+            "authors": [],
+            "date": "1997",
+            "doi": "10.1017/ccol0521495334.003",
+            "raw": "Bigsby,  C.W.E.  1997.  Entering  The  Glass  Menagerie.  In  Roudané,  M.C.  (ed).  The  Cambridge companion to Tennessee Williams. Cambridge: Cambridge University Press.",
+            "cites": null
+        },
+        {
+            "id": 36866144,
+            "title": "Everything built on that”: Queering Western space in Proulx’s “Brokeback Mountain”. In",
+            "authors": [],
+            "date": "2010",
+            "doi": "10.3366/edinburgh/9780748633821.003.0003",
+            "raw": "Peterson,  D.  2010.  “Everything  built  on  that”:  Queering  Western  space  in  Proulx’s  “Brokeback Mountain”. In Scherer, B. (ed). Queering paradigms. Bern: Peter Lang.",
+            "cites": null
+        },
+        {
+            "id": 36866192,
+            "title": "Fassbinder: The life and work of a provocative genius. London &",
+            "authors": [],
+            "date": "1991",
+            "doi": null,
+            "raw": "Thomsen,  C.B.  1991.  Fassbinder: The life and work of a provocative genius.  London  &  Boston: Faber & Faber.",
+            "cites": null
+        },
+        {
+            "id": 36866183,
+            "title": "Frock tactics. In",
+            "authors": [],
+            "date": "1994",
+            "doi": null,
+            "raw": "Smith, R. 1994. Frock tactics. In Baker, R. Drag: A history of female impersonation in the performing arts. NY: New York University Press.",
+            "cites": null
+        },
+        {
+            "id": 36866202,
+            "title": "From here to queer: Radical feminism, postmodernism, and the lesbian menace.",
+            "authors": [],
+            "date": "1996",
+            "doi": "10.1086/495123",
+            "raw": "Walters, S. D. 1996. From here to queer: Radical feminism, postmodernism, and the lesbian menace.",
+            "cites": null
+        },
+        {
+            "id": 36866138,
+            "title": "GenderQueer: Voices from beyond the sexual binary. Los Angeles:",
+            "authors": [],
+            "date": "2002",
+            "doi": null,
+            "raw": "Nestle,  J.,  Howell,  C.  &  Wilchins,  R.  (eds).  2002.  GenderQueer: Voices from beyond the sexual binary. Los Angeles: Alyson Publications.",
+            "cites": null
+        },
+        {
+            "id": 36866172,
+            "title": "Gosh, Boy George, you must be awfully secure in your masculinity! In",
+            "authors": [],
+            "date": "1995",
+            "doi": null,
+            "raw": "Sedgwick, E.K. 1995. Gosh, Boy George, you must be awfully secure in your masculinity! In Berger, M., Wallis, B. & Watson, S. (eds). Constructing masculinity. NY & London: Routledge.",
+            "cites": null
+        },
+        {
+            "id": 36866186,
+            "title": "His infinite variety.",
+            "authors": [],
+            "date": "1994",
+            "doi": null,
+            "raw": "Sussman, H. 1994. His infinite variety. In Berger, M. (ed). Man Trouble. Artforum 32.8. 74-83.",
+            "cites": null
+        },
+        {
+            "id": 36866156,
+            "title": "Homosexual expression and homophobic censorship: the situation of the text.",
+            "authors": [],
+            "date": "1993",
+            "doi": null,
+            "raw": "Roth, M. 1993. Homosexual expression and homophobic censorship: the situation of the text. In Bergman,  D.  (ed).  Camp  Grounds:  Style  and  homosexuality.  Amherst:  University  of Massachusetts Press.",
+            "cites": null
+        },
+        {
+            "id": 36866121,
+            "title": "Identity judgements, queer politics.",
+            "authors": [],
+            "date": "2005",
+            "doi": null,
+            "raw": "Lance, M.N. & Tanesini, A. 2005. Identity judgements, queer politics. In Morland, I. & Willox, A.",
+            "cites": null
+        },
+        {
+            "id": 36866126,
+            "title": "Impertinent decorum: Gay theatrical manoeuvres. London &",
+            "authors": [],
+            "date": "1994",
+            "doi": null,
+            "raw": "Lucas, I. 1994. Impertinent decorum: Gay theatrical manoeuvres. London & New York: Cassell.",
+            "cites": null
+        },
+        {
+            "id": 36866150,
+            "title": "In search of sexual subjectivities: Exploring the sociological construction of sexual selves. In",
+            "authors": [],
+            "date": "2007",
+            "doi": null,
+            "raw": "Plante, R.F. 2007. In search of sexual subjectivities: Exploring the sociological construction of sexual selves.  In  Kimmel,  M.  (ed).  The sexual self: The construction of sexual scripts.  Nashville: Vanderbilt University Press. University of Cape Town Plummer, K. 2007. Queers, bodies, and postmodern sexualities: A note on revising the ‘sexual’ in symbolic  interactionism.  In  Kimmel,  M.  (ed).  The  sexual  self:  The  construction  of  sexual scripts. Nashville: Vanderbilt University Press.",
+            "cites": null
+        },
+        {
+            "id": 36866104,
+            "title": "Inside/out: Lesbian theories, gay theories.",
+            "authors": [],
+            "date": "1991",
+            "doi": "10.4324/9780203699553",
+            "raw": "Fuss , D. (ed). 1991. Inside/out: Lesbian theories, gay theories. NY & London: Routledge.",
+            "cites": null
+        },
+        {
+            "id": 36866112,
+            "title": "Is there a history of sexuality? In",
+            "authors": [],
+            "date": "1993",
+            "doi": null,
+            "raw": "Halperin, D.M. 1993. Is there a history of sexuality? In Abelove, H., Barale, M.A. & Halperin, D.M. (eds). The lesbian and gay studies reader. New York & London: Routledge.",
+            "cites": null
+        },
+        {
+            "id": 36866093,
+            "title": "It’s less work for us and it shows us she has good taste”: Masculinity, sexual initiation, and contemporary sexual scripts. In",
+            "authors": [],
+            "date": "2007",
+            "doi": null,
+            "raw": "Dworkin, S.L. & O’Sullivan, L.F. 2007. “It’s less work for us and it shows us she has good taste”: Masculinity, sexual initiation, and contemporary sexual scripts. In Kimmel, M. (ed). The sexual self: The construction of sexual scripts. Nashville: Vanderbilt University Press.",
+            "cites": null
+        },
+        {
+            "id": 36866222,
+            "title": "Jack/David – An adaptation of Jack by David Greenspan. Rehearsal Studio, UCT, Cape Town.",
+            "authors": [],
+            "date": "2010",
+            "doi": null,
+            "raw": "Rademeyer, P. 2010a. Jack/David – An adaptation of Jack by David Greenspan. Rehearsal Studio, UCT, Cape Town. 12-15 May 2010.",
+            "cites": null
+        },
+        {
+            "id": 36866215,
+            "title": "Lesbian practice/feminist performance. London &",
+            "authors": [],
+            "date": "2006",
+            "doi": "10.4324/9781315004280",
+            "raw": "Split Britches: Lesbian practice/feminist performance. London & New York: Routledge. University of Cape Town Fassbinder, R.W. 2006 (1972). Die Bitteren Tränen der Petra von Kant. [DVD]. UK: Arrow Films.",
+            "cites": null
+        },
+        {
+            "id": 36866105,
+            "title": "Like blood for chocolate, like queers for vampires: Border and global consumption in Rodríquez, Tarantino, Anau, Esquivel, and Troyano (Notes on baroque, camp, kitsch, and hybridization).",
+            "authors": [],
+            "date": "2002",
+            "doi": null,
+            "raw": "Gabilondo,  J.  2002.  Like  blood  for  chocolate,  like  queers  for  vampires:  Border  and  global consumption in Rodríquez, Tarantino, Anau, Esquivel, and Troyano (Notes on baroque, camp, kitsch,  and  hybridization).  In  Cruz-Malavé,  A.  &  Manalansan  IV,  M.F.  (eds).  Queer globalisations:  Citizenship  and  the  afterlife  of  colonialism.  NY  &  London:  New  York University Press.",
+            "cites": null
+        },
+        {
+            "id": 36866115,
+            "title": "Lines of flight.",
+            "authors": [],
+            "date": "1994",
+            "doi": null,
+            "raw": "Haynes, J. 1994. Lines of flight. In Berger, M. (ed). Man Trouble. Artforum 32.8. 74-83.",
+            "cites": null
+        },
+        {
+            "id": 36866103,
+            "title": "London: Penguin Books.",
+            "authors": [],
+            "date": "1976",
+            "doi": null,
+            "raw": "Hurley. London: Penguin Books. (Originally published in 1976).",
+            "cites": null
+        },
+        {
+            "id": 36866099,
+            "title": "Making theater from a queer aesthetic. In",
+            "authors": [],
+            "date": "1997",
+            "doi": null,
+            "raw": "Finque, S. 1997. Making theater from a queer aesthetic. In Jonas, S., Proehl, G.S. & Lupu, M. (eds). Dramaturgy  in  American  theater:  A  sourcebook.  Fort  Worth:  Harcourt  Brace  College Publishers.",
+            "cites": null
+        },
+        {
+            "id": 36866184,
+            "title": "Male trouble. In",
+            "authors": [],
+            "date": "1995",
+            "doi": "10.1111/j.1467-8365.1993.tb00525.x",
+            "raw": "Solomon-Godeau, A. 1995. Male trouble. In Berger, M., Wallis, B. & Watson, S. (eds). Constructing masculinity. NY & London: Routledge.",
+            "cites": null
+        },
+        {
+            "id": 36866206,
+            "title": "Men and masculinities: Key themes and new directions. Cambridge &",
+            "authors": [],
+            "date": "2002",
+            "doi": "10.2307/1556467",
+            "raw": "Whitehead,  S.M.  2002.  Men  and  masculinities:  Key  themes  and  new  directions.  Cambridge  & Malden, MA: Polity Press.",
+            "cites": null
+        },
+        {
+            "id": 36866079,
+            "title": "My masculinity. In",
+            "authors": [],
+            "date": "1995",
+            "doi": null,
+            "raw": "Aronowitz, S. 1995. My masculinity. In Berger, M., Wallis, B. & Watson, S. (eds). Constructing masculinity. NY & London: Routledge.",
+            "cites": null
+        },
+        {
+            "id": 36866092,
+            "title": "Myths of masculinity.",
+            "authors": [],
+            "date": "1993",
+            "doi": null,
+            "raw": "Doty, W.G. 1993. Myths of masculinity. NY: Crossroad.",
+            "cites": null
+        },
+        {
+            "id": 36866107,
+            "title": "On directing: Interviews with directors.",
+            "authors": [],
+            "date": "1999",
+            "doi": "10.1017/s0266464x00014469",
+            "raw": "Giannnachi, G. & Luckhurst, M. (eds). 1999. On directing: Interviews with directors. London: Faber & Faber.",
+            "cites": null
+        },
+        {
+            "id": 36866181,
+            "title": "On sexuality and power. New York:",
+            "authors": [],
+            "date": "2004",
+            "doi": null,
+            "raw": "Sinfield, A. 2004. On sexuality and power. New York: Columbia University Press. University of Cape Town Smith,  P.  1995.  Eastwood  bound.  In  Berger,  M.,  Wallis,  B.  &  Watson,  S.  (eds).  Constructing masculinity. NY & London: Routledge.",
+            "cites": null
+        },
+        {
+            "id": 36866160,
+            "title": "Performing lesbian sexual identity through discourse.",
+            "authors": [],
+            "date": "2010",
+            "doi": "10.1080/10894160.2010.490519",
+            "raw": "Sauntson, H. & Morrish, L. 2010. Performing lesbian sexual identity through discourse. In Scherer, B. (ed). Queering paradigms. Bern: Peter Lang. 27-47.",
+            "cites": null
+        },
+        {
+            "id": 36866198,
+            "title": "Performing queer: shaping sexualities 1994-2004 volume one. Roggebaai:",
+            "authors": [],
+            "date": "2005",
+            "doi": null,
+            "raw": "Van Zyl, M. & Steyn, M. (eds). 2005. Performing queer: shaping sexualities 1994-2004 volume one. Roggebaai: Kwela Books.",
+            "cites": null
+        },
+        {
+            "id": 36866148,
+            "title": "Playing with fire: Queer politics, queer theories.",
+            "authors": [],
+            "date": "1997",
+            "doi": "10.4324/9780203884225",
+            "raw": "Phelan, S. (ed). 1997. Playing with fire: Queer politics, queer theories. NY & London: Routledge.",
+            "cites": null
+        },
+        {
+            "id": 36866221,
+            "title": "Portrait – This Property is Condemned and Portrait of a Madonna by Tennessee Williams. Arena Theatre, UCT, Cape Town.",
+            "authors": [],
+            "date": "2010",
+            "doi": null,
+            "raw": "Rademeyer,  P.  2010.  Portrait  –  This  Property  is  Condemned  and  Portrait  of  a  Madonna  by Tennessee Williams. Arena Theatre, UCT, Cape Town. 12-13 November 2010.",
+            "cites": null
+        },
+        {
+            "id": 36866116,
+            "title": "Private selves, public identities: Reconsidering identity politics.",
+            "authors": [],
+            "date": "2004",
+            "doi": "10.2979/hyp.2007.22.2.204",
+            "raw": "Hekman, S. J. 2004. Private selves, public identities: Reconsidering identity politics. University Park, PA: Pennsylvania State University Press.",
+            "cites": null
+        },
+        {
+            "id": 36866134,
+            "title": "Queer family romance: Writing the “new” South Africa in the 1990s.",
+            "authors": [],
+            "date": "2009",
+            "doi": "10.1215/10642684-2008-030",
+            "raw": "Munro, B.M. 2009. Queer family romance: Writing the “new” South Africa in the 1990s. GLQ 15.3. 397-439.",
+            "cites": null
+        },
+        {
+            "id": 36866091,
+            "title": "Queer globalisations: Citizenship and the afterlife of colonialism.",
+            "authors": [],
+            "date": "2002",
+            "doi": null,
+            "raw": "Cruz-Malavé,  A.  &  Manalansan  IV,  M.F.  (eds).  2002.  Queer globalisations: Citizenship and the afterlife of colonialism. NY & London: New York University Press.",
+            "cites": null
+        },
+        {
+            "id": 36866085,
+            "title": "Queer listening to queer vocal timbres.",
+            "authors": [],
+            "date": "2010",
+            "doi": "10.1080/13528165.2010.527210",
+            "raw": "Bonenfant, Y. 2010. Queer listening to queer vocal timbres. Performance Research 15.3. 74-80.",
+            "cites": null
+        },
+        {
+            "id": 36866178,
+            "title": "Queer politics and anti-capitalism: From theory to practice.",
+            "authors": [],
+            "date": "2010",
+            "doi": null,
+            "raw": "Shepard, B. 2010. Queer politics and anti-capitalism: From theory to practice. In Scherer, B. (ed). Queering paradigms. Bern: Peter Lang.",
+            "cites": null
+        },
+        {
+            "id": 36866122,
+            "title": "Queer theory. Hampshire &",
+            "authors": [],
+            "date": "2005",
+            "doi": "10.3366/edinburgh/9780748634040.003.0001",
+            "raw": "(eds). 2005. Queer theory. Hampshire & New York: Palgrave MacMillan.",
+            "cites": null
+        },
+        {
+            "id": 36866136,
+            "title": "Queer tradition.",
+            "authors": [],
+            "date": "2008",
+            "doi": "10.1215/10642684-2008-009",
+            "raw": "Nealon, C. 2008. Queer tradition. GLQ 14.4. 617-622.",
+            "cites": null
+        },
+        {
+            "id": 36866196,
+            "title": "Queer visibilities: Space, identity and interaction in Cape Town.",
+            "authors": [],
+            "date": "2009",
+            "doi": "10.1111/j.1475-4762.2010.00983_5.x",
+            "raw": "Tucker, A. 2009. Queer visibilities: Space, identity and interaction in Cape Town. Chichester, UK: Wiley-Blackwell.",
+            "cites": null
+        },
+        {
+            "id": 36866114,
+            "title": "Queering cyberspace: Fan fiction communities as spaces for expressing and exploring sexuality.",
+            "authors": [],
+            "date": "2010",
+            "doi": null,
+            "raw": "Hayes, S. & Ball, M. 2010. Queering cyberspace: Fan fiction communities as spaces for expressing and exploring sexuality. In Scherer, B. (ed). Queering paradigms. Bern: Peter Lang.",
+            "cites": null
+        },
+        {
+            "id": 36866212,
+            "title": "Read my lips: Sexual subversion and the end of gender.",
+            "authors": [],
+            "date": "1997",
+            "doi": null,
+            "raw": "Wilchins, R.A. 1997. Read my lips: Sexual subversion and the end of gender. Ithaca, NY: Firebrand Books.",
+            "cites": null
+        },
+        {
+            "id": 36866140,
+            "title": "Reading and staging Ibsen.",
+            "authors": [],
+            "date": "2010",
+            "doi": "10.1080/15021866.2010.537889",
+            "raw": "Ostermeier, T. 2010. Reading and staging Ibsen. Ibsen Studies 10.2. 68-74.",
+            "cites": null
+        },
+        {
+            "id": 36866109,
+            "title": "S/he: Changing sex and changing clothes.",
+            "authors": [],
+            "date": "1998",
+            "doi": null,
+            "raw": "Griggs, C. 1998. S/he: Changing sex and changing clothes. Oxford & NY: Berg.",
+            "cites": null
+        },
+        {
+            "id": 36866218,
+            "title": "Salomé. Arena Theatre, UCT, Cape Town.",
+            "authors": [],
+            "date": "2010",
+            "doi": null,
+            "raw": "Hyland, G. 2010. Salomé. Arena Theatre, UCT, Cape Town. 21-29 May 2010.",
+            "cites": null
+        },
+        {
+            "id": 36866208,
+            "title": "Sexual scripting and self-process: Intersubjectivity among gay men. In",
+            "authors": [],
+            "date": "2007",
+            "doi": "10.1080/13691050310001607250",
+            "raw": "Whittier, D.K. & Melendez, R.M. 2007. Sexual scripting and self-process: Intersubjectivity among gay men. In Kimmel, M. (ed). The sexual self: The construction of sexual scripts. Nashville: Vanderbilt University Press.",
+            "cites": null
+        },
+        {
+            "id": 36866201,
+            "title": "Social construction theory and sexuality. In",
+            "authors": [],
+            "date": "1995",
+            "doi": null,
+            "raw": "Vance, C.S. 1995. Social construction theory and sexuality. In Berger, M., Wallis, B. & Watson, S. (eds). Constructing masculinity. NY & London: Routledge.",
+            "cites": null
+        },
+        {
+            "id": 36866089,
+            "title": "Still acting gay: Male homosexuality in modern drama.",
+            "authors": [],
+            "date": "2000",
+            "doi": "10.2307/2927330",
+            "raw": "Clum, J.M. 2000. Still acting gay: Male homosexuality in modern drama. New York: St. Martin’s Griffin.",
+            "cites": null
+        },
+        {
+            "id": 36866123,
+            "title": "Strangers on a train”: Sexual citizenship and the politics of public transportation in Apartheid Cape Town.",
+            "authors": [],
+            "date": "2002",
+            "doi": null,
+            "raw": "Leap, W.L. 2002. “Strangers on a train”: Sexual citizenship and the politics of public transportation in Apartheid  Cape  Town.  In  Cruz-Malavé,  A.  &  Manalansan  IV,  M.F.  (eds).  Queer globalisations:  Citizenship  and  the  afterlife  of  colonialism.  NY  &  London:  New  York University Press.",
+            "cites": null
+        },
+        {
+            "id": 36866083,
+            "title": "Strategic camp: The art of gay rhetoric. In",
+            "authors": [],
+            "date": "1993",
+            "doi": null,
+            "raw": "Bergman, D. 1993a. Strategic camp: The art of gay rhetoric. In Bergman, D. (ed). Camp Grounds: Style and homosexuality. Amherst: University of Massachusetts Press. University of Cape Town Bhabha, H.K. 1995. Are you a man or a mouse? In Berger, M., Wallis, B. & Watson, S. (eds). Constructing masculinity. NY & London: Routledge.",
+            "cites": null
+        },
+        {
+            "id": 36866132,
+            "title": "Surviving behind the mask: Lesbians and gays in Botswana.",
+            "authors": [],
+            "date": "2010",
+            "doi": null,
+            "raw": "Motswapong, P.E. 2010. Surviving behind the mask: Lesbians and gays in Botswana. In Scherer, B. (ed). Queering paradigms. Bern: Peter Lang.",
+            "cites": null
+        },
+        {
+            "id": 36866166,
+            "title": "Taking it like a man: White masculinity, masochism, and contemporary American culture.",
+            "authors": [],
+            "date": "1998",
+            "doi": "10.1515/9781400822461",
+            "raw": "Savran, D. 1998. Taking it like a man: White masculinity, masochism, and contemporary American culture. Princeton, NJ: Princeton University Press.",
+            "cites": null
+        },
+        {
+            "id": 36866120,
+            "title": "Taking out the trash: Camp and the politics of parody. In",
+            "authors": [],
+            "date": "1994",
+            "doi": null,
+            "raw": "Kleinhans, C. 1994. Taking out the trash: Camp and the politics of parody. In Meyer, M. (ed). The politics and poetics of camp. London & New York: Routledge. University of Cape Town Koestenbaum, W. 1995. The Aryan boy who pissed on my father’s head. In Berger, M., Wallis, B. & Watson, S. (eds). Constructing masculinity. NY & London: Routledge.",
+            "cites": null
+        },
+        {
+            "id": 36866113,
+            "title": "That Quiet Little Play”: Bourgeois tragedy, female impersonation, and a portrait of the artist in Glass Menagerie.",
+            "authors": [],
+            "date": "2002",
+            "doi": null,
+            "raw": "Hammer,  S.B.  2002.  “That  Quiet  Little  Play”:  Bourgeois  tragedy,  female  impersonation,  and  a portrait of the artist in Glass Menagerie. In Gross, R.F. (ed). Tennessee Williams: A casebook. New York & London: Routledge.",
+            "cites": null
+        },
+        {
+            "id": 36866170,
+            "title": "The beast in the closet: James and the writing of homosexual panic. In",
+            "authors": [],
+            "date": "2002",
+            "doi": null,
+            "raw": "Sedgwick, E.K. 2002. The beast in the closet: James and the writing of homosexual panic. In Adams, R.  &  Savran,  D.  (eds).  The masculinity studies reader.  Malden,  MA  &  Oxford:  Blackwell Publishers.",
+            "cites": null
+        },
+        {
+            "id": 36866128,
+            "title": "The Cambridge companion to Ibsen. Cambridge & New York:",
+            "authors": [],
+            "date": "1994",
+            "doi": "10.1017/ccol0521411661",
+            "raw": "McFarlane, J. (ed). 1994. The Cambridge companion to Ibsen. Cambridge & New York: Cambridge University Press.",
+            "cites": null
+        },
+        {
+            "id": 36866158,
+            "title": "The Cambridge companion to Tennessee Williams. Cambridge:",
+            "authors": [],
+            "date": "1997",
+            "doi": "10.1017/ccol0521495334",
+            "raw": "Roudané,  M.C.  (ed).  1997.  The  Cambridge  companion  to  Tennessee  Williams.  Cambridge: Cambridge University Press.",
+            "cites": null
+        },
+        {
+            "id": 36866095,
+            "title": "The career path of the male female. In",
+            "authors": [],
+            "date": "1993",
+            "doi": null,
+            "raw": "Ekins, R. 1993. The career path of the male female. In Ekins, R. & King, D. (eds). 1996. Blending genders: Social aspects of cross-dressing and sex-changing. London & NY: Routledge.",
+            "cites": null
+        },
+        {
+            "id": 36866110,
+            "title": "The glory of annihilation: Jean Genet. In",
+            "authors": [],
+            "date": "1979",
+            "doi": null,
+            "raw": "Guicharnaud , J. 1979. The glory of annihilation: Jean Genet. In Brooks, P. & Halpern, J. (eds). Genet: A collection of critical essays. Englewood Cliffs, NJ: Prentice-Hall, Inc.",
+            "cites": null
+        },
+        {
+            "id": 36866090,
+            "title": "The history of masculinity. In",
+            "authors": [],
+            "date": "2002",
+            "doi": "10.1007/s11614-010-0054-z",
+            "raw": "Connell, R.W. 2002. The history of masculinity. In Adams, R. & Savran, D. (eds). The masculinity studies reader. Malden, MA & Oxford: Blackwell Publishers.",
+            "cites": null
+        },
+        {
+            "id": 36866094,
+            "title": "The ideology of the aesthetic.",
+            "authors": [],
+            "date": "1990",
+            "doi": "10.2307/1772692",
+            "raw": "Eagleton, T. 1990. The ideology of the aesthetic. Malden, MA & Oxford: Blackwell Publishing.",
+            "cites": null
+        },
+        {
+            "id": 36866154,
+            "title": "The kinda comedy that imitates me”: Mae West’s identification with the feminist camp.",
+            "authors": [],
+            "date": "1993",
+            "doi": "10.2307/1225605",
+            "raw": "Robertson,  P.  1993.  “The  kinda  comedy  that  imitates  me”:  Mae  West’s  identification  with  the feminist  camp.  In  Bergman,  D.  (ed).  Camp  Grounds:  Style  and  homosexuality.  Amherst: University of Massachusetts Press.",
+            "cites": null
+        },
+        {
+            "id": 36866080,
+            "title": "The man who would be Queen: The science of gender-bending and transsexualism.",
+            "authors": [],
+            "date": "2003",
+            "doi": "10.5860/choice.41-0613",
+            "raw": "Bailey, J.M. 2003. The man who would be Queen: The science of gender-bending and transsexualism. Washington, D.C.: Joseph Henry Press.",
+            "cites": null
+        },
+        {
+            "id": 36866078,
+            "title": "The masculinity studies reader.",
+            "authors": [],
+            "date": "2002",
+            "doi": "10.2307/3089183",
+            "raw": "Adams,  R.  &  Savran,  D.  (eds).  2002.  The  masculinity  studies  reader.  Malden,  MA  &  Oxford: Blackwell Publishers.",
+            "cites": null
+        },
+        {
+            "id": 36866081,
+            "title": "The mirror of the self: Sexuality, self-knowledge, and the gaze in the Early Roman Empire. Chicago & London:",
+            "authors": [],
+            "date": "2006",
+            "doi": "10.1017/s0009840x0700217x",
+            "raw": "Bartsch, S. 2006. The mirror of the self: Sexuality, self-knowledge, and the gaze in the Early Roman Empire. Chicago & London: University of Chicago Press.",
+            "cites": null
+        },
+        {
+            "id": 36866162,
+            "title": "The new gay teenager.",
+            "authors": [],
+            "date": "2005",
+            "doi": "10.1037/e524592011-005",
+            "raw": "Savin-Williams, R.C. 2005. The new gay teenager. Cambridge, MA & London: Harvard University Press.",
+            "cites": null
+        },
+        {
+            "id": 36866164,
+            "title": "The playwright’s voice: American dramatists on memory, writing and the politics of culture.",
+            "authors": [],
+            "date": "1999",
+            "doi": null,
+            "raw": "Savran, D. 1999. The playwright’s voice: American dramatists on memory, writing and the politics of culture. New York: Theatre Communications Group.",
+            "cites": null
+        },
+        {
+            "id": 36866119,
+            "title": "The sexual self: The construction of sexual scripts.",
+            "authors": [],
+            "date": "2007",
+            "doi": "10.1080/14681990801910869",
+            "raw": "Kimmel, M. (ed). 2007. The sexual self: The construction of sexual scripts. Nashville: Vanderbilt University Press.",
+            "cites": null
+        },
+        {
+            "id": 36866168,
+            "title": "The social construction of heterosexuality. In",
+            "authors": [],
+            "date": "2007",
+            "doi": "10.4135/9781446217382.n2",
+            "raw": "Schwartz P. 2007. The social construction of heterosexuality. In Kimmel, M. (ed). The sexual self: The construction of sexual scripts. Nashville: Vanderbilt University Press.",
+            "cites": null
+        },
+        {
+            "id": 36866100,
+            "title": "The theatre of Tony Kushner: Living past hope.",
+            "authors": [],
+            "date": "2002",
+            "doi": "10.2307/40157644",
+            "raw": "Fisher, J. 2002. The theatre of Tony Kushner: Living past hope. New York & London: Routledge.",
+            "cites": null
+        },
+        {
+            "id": 36866102,
+            "title": "Theory/theatre: An introduction. London: Routledge.",
+            "authors": [],
+            "date": "1997",
+            "doi": "10.4324/9780203141052",
+            "raw": "Fortier, M. 1997. Theory/theatre: An introduction. London: Routledge. University of Cape Town Foucault, M. 1978. The history of sexuality: The will to knowledge. Translated from the French by R.",
+            "cites": null
+        },
+        {
+            "id": 36866088,
+            "title": "Toward a new sociology of masculinity. In",
+            "authors": [],
+            "date": "2002",
+            "doi": "10.1007/bf00160017",
+            "raw": "Carrigan, T., Connell, B. & Lee, J. 2002. Toward a new sociology of masculinity. In Adams, R. & Savran, D. (eds). The masculinity studies reader. Malden, MA & Oxford: Blackwell Publishers.",
+            "cites": null
+        },
+        {
+            "id": 36866176,
+            "title": "Transsexualism: Reflections on the persistence of gender and the mutability of sex. In",
+            "authors": [],
+            "date": "1991",
+            "doi": "10.1002/9780470775981.ch8",
+            "raw": "Shapiro, J. 1991. Transsexualism: Reflections on the persistence of gender and the mutability of sex. In Epstein, J. & Straub, K. (eds). Body guards: The cultural politics of gender ambiguity. NY & London: Routledge.",
+            "cites": null
+        },
+        {
+            "id": 36866217,
+            "title": "Un Chant d’amour. [DVD]. France: The British Film Institute Video Publishing.",
+            "authors": [],
+            "date": "1950",
+            "doi": null,
+            "raw": "Genet, J. 1950. Un Chant d’amour. [DVD]. France: The British Film Institute Video Publishing.",
+            "cites": null
+        },
+        {
+            "id": 36866188,
+            "title": "Unzipping gender: Sex, cross-dressing and culture.",
+            "authors": [],
+            "date": "2004",
+            "doi": "10.2752/9781847888952/unzipgend0009",
+            "raw": "Suthrell, C. 2004. Unzipping gender: Sex, cross-dressing and culture. Oxford & NY: Berg.",
+            "cites": null
+        },
+        {
+            "id": 36866194,
+            "title": "Vinløv i håret”: The relationship between women, language, and power in Ibsen’s Hedda Gabler.",
+            "authors": [],
+            "date": "2008",
+            "doi": "10.3138/md.51.1.73",
+            "raw": "Thresher,  T.  2008.  “Vinløv i håret”:  The  relationship  between  women,  language,  and  power  in Ibsen’s Hedda Gabler. Modern Drama 51.1. 73-83.",
+            "cites": null
+        },
+        {
+            "id": 36866118,
+            "title": "Walt Whitman camping. In",
+            "authors": [],
+            "date": "1993",
+            "doi": "10.13008/2153-3695.1404",
+            "raw": "Keller,  K.  1993.  Walt  Whitman  camping.  In  Bergman,  D.  (ed).  Camp  Grounds:  Style  and homosexuality. Amherst: University of Massachusetts Press.",
+            "cites": null
+        },
+        {
+            "id": 36866108,
+            "title": "Ways of worldmaking.",
+            "authors": [],
+            "date": null,
+            "doi": "10.2307/1574293",
+            "raw": "Goodman, N.1978. Ways of worldmaking. Sussex: The Harvester Press.",
+            "cites": null
+        },
+        {
+            "id": 36866152,
+            "title": "Whatever happened to gay theatre?",
+            "authors": [],
+            "date": "2000",
+            "doi": "10.1017/s0266464x00013695",
+            "raw": "Roberts, B. 2000. Whatever happened to gay theatre? New Theatre Quarterly 16:62. 175-185.",
+            "cites": null
+        },
+        {
+            "id": 36866101,
+            "title": "When a door is a jar, or out in the theatre: Tennessee Williams and queer space.",
+            "authors": [],
+            "date": "1995",
+            "doi": "10.2307/3208486",
+            "raw": "Fleche, A. 1995. When a door is a jar, or out in the theatre: Tennessee Williams and queer space. Theatre Journal 47:2. 253-267.",
+            "cites": null
+        }
+    ],
+    "sourceFulltextUrls": [],
+    "updatedDate": "",
+    "yearPublished": "2011",
+    "links": [
+        {
+            "type": "download",
+            "url": "https://core.ac.uk/download/29057999.pdf"
+        },
+        {
+            "type": "reader",
+            "url": "https://core.ac.uk/reader/29057999"
+        },
+        {
+            "type": "thumbnail_m",
+            "url": "https://core.ac.uk/image/29057999/medium"
+        },
+        {
+            "type": "thumbnail_l",
+            "url": "https://core.ac.uk/image/29057999/large"
+        },
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/29057999"
+        }
+    ],
+    "abstract": "Includes abstract.Includes bibliographical references (leaves 37-47).This essay explicates the queering of a seminal realist text, Henrik Ibsen's Hedda Gabler, by means of a queer directorial aesthetic. Using queer theory, the heterosexual matrix (built on a rigid gender binary) and the nuclear family are posited as the crux of heteronormativity, which is the assumption and expectation that subjects are heterosexual",
+    "tags": [
+        "Master Thesis",
+        "Masters",
+        "MA",
+        "Theatre and Performance"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "Master Thesis",
+        "Masters",
+        "MA"
+    ],
+    "oai": "oai:open.uct.ac.za:11427/11639",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "674",
+        "openDoarId": 0,
+        "name": "Cape Town University OpenUCT",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 29057999,
+        "depositedDate": null,
+        "publishedDate": "2011-01-01T00:00:00+00:00",
+        "updatedDate": "2024-01-31T14:47:34+00:00",
+        "acceptedDate": null,
+        "createdDate": "2015-03-09T12:56:18+00:00"
+    },
+    "urls": [
+        "http://hdl.handle.net/11427/11639"
+    ],
+    "lastUpdate": "2024-01-31T14:47:34+00:00",
+    "setSpecs": []
+}

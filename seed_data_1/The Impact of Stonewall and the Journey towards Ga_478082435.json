@@ -1,0 +1,96 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Valdez, Yasmine R."
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2021-09-29T00:11:25+01:00",
+    "dataProvider": {
+        "id": 255,
+        "name": "Vtext Digital Repository",
+        "url": "https://api.core.ac.uk/v3/data-providers/255",
+        "logo": "https://api.core.ac.uk/data-providers/255/logo"
+    },
+    "depositedDate": "",
+    "documentType": "",
+    "doi": "",
+    "downloadUrl": "https://core.ac.uk/download/478082435.pdf",
+    "fullText": "The Impact of Stonewall and the Journey Towards Gay PrideRose Valdez, Interdisciplinary StudiesSponsor: Dr. L. Lovern, Interdisciplinary StudiesAbstract:The month of June is nationally recognized as gay pride month in order to honor the men, women, and non-binary people who were involved in historic events such as the Stonewall riots. The Stonewall riots started on June 28, 1969 inside a gay bar that police often raided in Greenwich Village, New York. That night, patrons in the bar decided to fight back after multiple encounters with police harassment. These riots would later be described as one of the first major steps towards LGBTQ equality. This paper will examine the impact of the Stonewall riots as well as individuals such as Harvey Milk, one of the first openly gay politicians, and Gilbert Baker, who designed the Gay Pride flag, in order to create a timeline of LGBTQ civil rights actions. The paper will discuss the advance of LGBTQ rights as well as setbacks such as President Clinton’s “Don’t Ask, Don’t Tell” policy and the Defense Against Marriage Act. The conclusion of this paper will focus on how, while facing deadly attacks and continued political and social discrimination, the LGBTQ community has persevered, grown, and advanced their civil rights in the United States.Conclusion:The LGBTQ communities persevered through years of political and social discrimination. Many members of the LGBTQ communities had to hide who they were in order to keep friends, family members, and even jobs that might discriminate against them. The Stonewall Riots were monumental in the LGBTQ civil rights fight and began the discussion regarding the mistreatment of the communities. Deadly attacks, such as that on Matthew Shepard, became moments that would be remembered in LGBTQ history and marked both setbacks and advancements.  These moments continue to be significant as the LGBTQ communities fight discrimination and hate. Though it was not an easy road, the LGBTQ community now has more rights and more outward pride than ever before. However, there is still much work to be done to establish equality. Nonetheless, the LGBTQ communities are resilient. Henry Gerber in 1924 created the first ever documented gay rights organization “Society for Human Rights”.The Mattachine Society (1950)Daughters of Bilitis (1955)1969, Stonewall Inn New York CityHarvey Milk was the first openly gay male to be an elected official in San Francisco, California. (1930-1978)Gilbert Baker designed a positive representation for the gay/lesbian community with the rainbow flag which is a worldwide symbol of LGBT pride. (1951-2017)Bill Clinton signed the military policy “Don’t ask, don’t tell” (1994-2011)And the “Defense of Marriage Act”. (Signed 1996)Clinton declared June Gay Pride Month. (2000) It includes parades, festivals, and events that are held every year as a remembrance of Stonewall.On June 26th, 2015, same-sex marriage was legalized NATIONWIDE.Barack Obama signed the “Matthew Shepard & James Byrd Jr. Hate Crimes Prevention Act,” (2009) repealed “Don’t ask, don’t tell” policy. First President to openly state that same-sex marriage should be legal.",
+    "id": 478082435,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:localhost:10428/4139"
+    },
+    "title": "The Impact of Stonewall and the Journey towards Gay Pride",
+    "language": null,
+    "publishedDate": "2020-01-01T00:00:00+00:00",
+    "publisher": null,
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://vtext.valdosta.edu/xmlui/bitstream/handle/10428/4139/The%20Impact%20of%20Stonewall.pdf?sequence=1&isAllowed=y"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2020",
+    "links": [
+        {
+            "type": "download",
+            "url": "https://core.ac.uk/download/478082435.pdf"
+        },
+        {
+            "type": "reader",
+            "url": "https://core.ac.uk/reader/478082435"
+        },
+        {
+            "type": "thumbnail_m",
+            "url": "https://core.ac.uk/image/478082435/medium"
+        },
+        {
+            "type": "thumbnail_l",
+            "url": "https://core.ac.uk/image/478082435/large"
+        },
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/478082435"
+        }
+    ],
+    "abstract": "The month of June is nationally recognized as gay pride month in order to honor the men, women, and non-binary people who were involved in historic events such as the Stonewall riots. The Stonewall riots started on June 28, 1969 inside a gay bar that police often raided in Greenwich Village, New York. That night, patrons in the bar decided to fight back after multiple encounters with police harassment. These riots would later be described as one of the first major steps towards LGBTQ equality. This paper will examine the impact of the Stonewall riots as well as individuals such as Harvey Milk, one of the first openly gay politicians, and Gilbert Baker, who designed the Gay Pride flag, in order to create a timeline of LGBTQ civil rights actions. The paper will discuss the advance of LGBTQ rights as well as setbacks such as President Clinton’s “Don’t Ask, Don’t Tell” policy and the Defense Against Marriage Act. The conclusion of this paper will focus on how, while facing deadly attacks and continued political and social discrimination, the LGBTQ community has persevered, grown, and advanced their civil rights in the United States",
+    "tags": [
+        "Presentation"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "Presentation"
+    ],
+    "oai": "oai:localhost:10428/4139",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "255",
+        "openDoarId": 0,
+        "name": "Vtext Digital Repository",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 478082435,
+        "depositedDate": null,
+        "publishedDate": "2020-01-01T00:00:00+00:00",
+        "updatedDate": "2024-01-27T19:30:19+00:00",
+        "acceptedDate": null,
+        "createdDate": "2021-09-29T00:11:25+01:00"
+    },
+    "urls": [
+        "https://hdl.handle.net/10428/4139"
+    ],
+    "lastUpdate": "2024-01-27T19:30:19+00:00",
+    "setSpecs": []
+}

@@ -1,0 +1,97 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Fiedler, Brittany Paloma"
+        },
+        {
+            "name": "Mitola, Rosan"
+        },
+        {
+            "name": "Cheng, James"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2020-03-22T02:19:02+00:00",
+    "dataProvider": {
+        "id": 2295,
+        "name": "University of Nevada, Las Vegas Repository",
+        "url": "https://api.core.ac.uk/v3/data-providers/2295",
+        "logo": "https://api.core.ac.uk/data-providers/2295/logo"
+    },
+    "depositedDate": "",
+    "documentType": "research",
+    "doi": "10.1108/RSR-09-2019-0071",
+    "downloadUrl": "https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1678&amp;context=lib_articles",
+    "fullText": "",
+    "id": 288166201,
+    "identifiers": {
+        "doi": "10.1108/RSR-09-2019-0071",
+        "oai": "oai:digitalscholarship.unlv.edu:lib_articles-1678"
+    },
+    "title": "Responding to Hate: How National and Local Incidents Sparked Action at the UNLV University Libraries",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2020-01-02T08:00:00+00:00",
+    "publisher": "Digital Scholarship@UNLV",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1678&amp;context=lib_articles"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2020",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/288166201"
+        }
+    ],
+    "abstract": "Purpose: The purpose of this paper is to describe how an academic library at one of the most diverse universities in the country responded to the 2016 election through the newly formed Inclusion and Equity Committee and through student outreach. Design/methodology/approach: This paper details the context of the 2016 election and the role of social justice in librarianship. It offers ideas for how library diversity committees can address professional development, recruitment and retention efforts and cultural humility. It highlights student outreach efforts to support marginalized students, educate communities and promote student activism. Finally, it offers considerations and suggestions for librarians who want to engage in this work. Findings: This paper shows that incorporating social justice, diversity, equity and inclusion requires individuals taking action. If institutions want to focus on any of these issues, they need to formally include them in their mission, vision and values as well as in department goals and individual job descriptions. The University of Nevada, Las Vegas University Libraries fully supports this work, but most of the labor is done by a small number of people. Unsustainable practices can cause employee burnout and turnover resulting in less internal and external efforts to support diversity. Originality/value: Most of the previous literature focuses either on internal activities, such as professional development and committees, or on student-focused activities, such as outreach events, displays and instruction. This paper is one comprehensive review of both kinds of activities",
+    "tags": [
+        "article",
+        "Academic libraries",
+        "Diversity",
+        "Professional development",
+        "Collaboration",
+        "Social justice",
+        "Outreach",
+        "Library and Information Science"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "article"
+    ],
+    "oai": "oai:digitalscholarship.unlv.edu:lib_articles-1678",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "2295",
+        "openDoarId": 0,
+        "name": "University of Nevada, Las Vegas Repository",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 288166201,
+        "depositedDate": null,
+        "publishedDate": "2020-01-02T08:00:00+00:00",
+        "updatedDate": "2024-01-21T01:57:34+00:00",
+        "acceptedDate": null,
+        "createdDate": "2020-03-22T02:19:02+00:00"
+    },
+    "urls": [
+        "https://digitalscholarship.unlv.edu/lib_articles/678",
+        "https://digitalscholarship.unlv.edu/context/lib_articles/article/1678/viewcontent/FiedlerB_RespondingToHate_2019.pdf"
+    ],
+    "lastUpdate": "2024-01-21T01:57:34+00:00",
+    "setSpecs": []
+}

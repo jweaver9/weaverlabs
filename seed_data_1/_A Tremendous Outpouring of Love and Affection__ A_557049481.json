@@ -1,0 +1,107 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Casey, LJ"
+        },
+        {
+            "name": "Bowman, SJ"
+        },
+        {
+            "name": "Wootton, BM"
+        },
+        {
+            "name": "McAloon, J"
+        },
+        {
+            "name": "Power, E"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2023-03-10T23:44:13+00:00",
+    "dataProvider": {
+        "id": 693,
+        "name": "OPUS - University of Technology Sydney",
+        "url": "https://api.core.ac.uk/v3/data-providers/693",
+        "logo": "https://api.core.ac.uk/data-providers/693/logo"
+    },
+    "depositedDate": "",
+    "documentType": "",
+    "doi": "10.1080/00918369.2022.2044272",
+    "downloadUrl": "https://opus.lib.uts.edu.au/bitstream/10453/163839/3/A%20Tremendous%20Outpouring%20of%20Love%20and%20Affection.pdf",
+    "fullText": "",
+    "id": 557049481,
+    "identifiers": {
+        "doi": "10.1080/00918369.2022.2044272",
+        "oai": "oai:opus.lib.uts.edu.au:10453/163839"
+    },
+    "title": "\"A Tremendous Outpouring of Love and Affection\": A Template Analysis of Positive Experiences during A Major LGBTQ Rights Campaign.",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2022-11-30T00:06:31+00:00",
+    "publisher": "'Informa UK Limited'",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://opus.lib.uts.edu.au/bitstream/10453/163839/3/A%20Tremendous%20Outpouring%20of%20Love%20and%20Affection.pdf"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2022",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/557049481"
+        }
+    ],
+    "abstract": "Human rights for lesbian, gay, bisexual, transgender, and queer or questioning (LGBTQ) people have frequently been decided via popular vote. Australia conducted one such vote on the topic of marriage equality in 2017. Research has tended to focus on the negative experiences reported by LGBTQ people during such votes, with little attention paid to any positive experiences identified. This paper seeks to redress that imbalance, reporting the findings of two qualitative studies asking LGBTQ Australians about positive experiences during the marriage equality vote. The first study analyzed 673 typed responses collected during the two-month voting period, while the second analyzed interview data from 19 LGBTQ Australians collected two-and-a-half years after the vote. Both were analyzed using template analysis. Results identified sources of support, types of support, empowerment through activism, changes in general and LGBTQ communities, and positive personal changes. As public votes continue to be used to determine LGBTQ human rights, the findings may guide interventions to help LGBTQ people and their allies cope with such campaigns",
+    "tags": [
+        "Journal Article",
+        "1608 Sociology, 1699 Other Studies in Human Society, 1701 Psychology",
+        "Social Psychology"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "Journal Article"
+    ],
+    "oai": "oai:opus.lib.uts.edu.au:10453/163839",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": [
+        {
+            "title": "Journal of Homosexuality",
+            "identifiers": [
+                "0091-8369",
+                "issn:1540-3602",
+                "1540-3602",
+                "issn:0091-8369"
+            ]
+        }
+    ],
+    "repositories": {
+        "id": "693",
+        "openDoarId": 0,
+        "name": "OPUS - University of Technology Sydney",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 557049481,
+        "depositedDate": null,
+        "publishedDate": "2022-11-30T00:06:31+00:00",
+        "updatedDate": "2023-03-10T23:44:13+00:00",
+        "acceptedDate": null,
+        "createdDate": "2023-03-10T23:44:13+00:00"
+    },
+    "urls": [
+        "http://hdl.handle.net/10453/163839"
+    ],
+    "lastUpdate": "2023-03-10T23:44:13+00:00",
+    "setSpecs": []
+}

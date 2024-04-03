@@ -1,0 +1,90 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Powell, Dave"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2018-02-11T15:20:03+00:00",
+    "dataProvider": {
+        "id": 3454,
+        "name": "Gettysburg College",
+        "url": "https://api.core.ac.uk/v3/data-providers/3454",
+        "logo": "https://api.core.ac.uk/data-providers/3454/logo"
+    },
+    "depositedDate": "",
+    "documentType": "research",
+    "doi": "",
+    "downloadUrl": "https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1038&amp;context=edfac",
+    "fullText": "",
+    "id": 148923799,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:cupola.gettysburg.edu:edfac-1038"
+    },
+    "title": "Should We Give Betsy DeVos a Chance? I Don\\u27t Think So",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2017-03-10T08:00:00+00:00",
+    "publisher": "The Cupola: Scholarship at Gettysburg College",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1038&amp;context=edfac"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2017",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/148923799"
+        }
+    ],
+    "abstract": "Jennifer Steele, who teaches at American University, has made a heroic attempt to convince us that Betsy DeVos actually deserves a lot more credit than she\\u27s been getting for her performance as secretary of education so far. While I appreciate the sentiment—everybody deserves a fair shake, and should be judged on what they actually do, not what we think they might do—I have to say I\\u27m not convinced. [excerpt",
+    "tags": [
+        "opinion",
+        "Betsy DeVos",
+        "Secretary of Education",
+        "education policy",
+        "Jennifer Steele",
+        "Educational Leadership",
+        "Education Policy"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "opinion"
+    ],
+    "oai": "oai:cupola.gettysburg.edu:edfac-1038",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "3454",
+        "openDoarId": 0,
+        "name": "Gettysburg College",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 148923799,
+        "depositedDate": null,
+        "publishedDate": "2017-03-10T08:00:00+00:00",
+        "updatedDate": "2024-01-24T04:07:33+00:00",
+        "acceptedDate": null,
+        "createdDate": "2018-02-11T15:20:03+00:00"
+    },
+    "urls": [
+        "https://cupola.gettysburg.edu/edfac/43",
+        "https://cupola.gettysburg.edu/context/edfac/article/1038/viewcontent/Should_We_Give_Betsy_DeVos_A_Chance.pdf"
+    ],
+    "lastUpdate": "2024-01-24T04:07:33+00:00",
+    "setSpecs": []
+}

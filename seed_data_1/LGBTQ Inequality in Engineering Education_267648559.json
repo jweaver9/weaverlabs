@@ -1,0 +1,145 @@
+{
+    "acceptedDate": "2017-08-09T00:00:00+01:00",
+    "authors": [
+        {
+            "name": "Cech, Erin A."
+        },
+        {
+            "name": "Rothwell, William R."
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2019-12-14T05:31:55+00:00",
+    "dataProvider": {
+        "id": 158,
+        "name": "Deep Blue at the University of Michigan",
+        "url": "https://api.core.ac.uk/v3/data-providers/158",
+        "logo": "https://api.core.ac.uk/data-providers/158/logo"
+    },
+    "depositedDate": "1998-05-01T00:00:00+01:00",
+    "documentType": "",
+    "doi": "10.1002/jee.20239",
+    "downloadUrl": "http://deepblue.lib.umich.edu/bitstream/2027.42/146822/2/jee20239_am.pdf",
+    "fullText": "",
+    "id": 267648559,
+    "identifiers": {
+        "doi": "10.1002/jee.20239",
+        "oai": "oai:deepblue.lib.umich.edu:2027.42/146822"
+    },
+    "title": "LGBTQ Inequality in Engineering Education",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2018-10-01T01:00:00+01:00",
+    "publisher": "John Wiley & Sons, Inc.",
+    "references": [],
+    "sourceFulltextUrls": [
+        "http://deepblue.lib.umich.edu/bitstream/2027.42/146822/2/jee20239_am.pdf"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2018",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/267648559"
+        }
+    ],
+    "abstract": "BackgroundResearchers over the past three decades have documented processes of gender and racial/ethnic inequality in engineering education but little is known about other axes of difference, including the experiences of lesbian, gay, bisexual, transgender, and queer (LGBTQ) persons in engineering. Despite growing interest in LGBTQ inequality generally, prior research has yet to systematically document day‐to‐day experiences of inequality in engineering education along LGBTQ status.Purpose/HypothesisIn this article, we use survey data from students enrolled in eight universities to examine LGBTQ inequality in engineering education. Specifically, we explore whether LGBTQ students experience greater marginalization than their classmates, whether their engineering work is more likely to be devalued, and whether they experience more negative health and wellness outcomes. We hypothesize that LGBTQ students experience greater marginalization and devaluation and more negative health and wellness outcomes compared to their non‐LGBTQ peers.Data/MethodWe analyzed novel survey data from 1,729 undergraduate students (141 of whom identify as LGBTQ) enrolled in eight U.S. engineering programs.ResultsWe found that LGBTQ students face greater marginalization, devaluation, and health and wellness issues relative to their peers, and that these health and wellness inequalities are explained in part by LGBTQ students’ experiences of marginalization and devaluation in their engineering programs. Furthermore, there is little variation in the climate for LGBTQ students across the eight schools, suggesting that anti‐LGBTQ bias may be widespread in engineering education.ConclusionsWe call for reflexive research on LGBTQ inequality in engineering education and the institutional and cultural shifts needed to mitigate these processes and better support LGBTQ students.Peer Reviewedhttps://deepblue.lib.umich.edu/bitstream/2027.42/146822/1/jee20239.pdfhttps://deepblue.lib.umich.edu/bitstream/2027.42/146822/2/jee20239_am.pd",
+    "tags": [
+        "Article",
+        "sexual orientation",
+        "transgender",
+        "bias",
+        "inclusion",
+        "engineering culture",
+        "Engineering Education",
+        "Engineering"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "Article"
+    ],
+    "oai": "oai:deepblue.lib.umich.edu:2027.42/146822",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": [
+        {
+            "title": "Journal of Engineering Education",
+            "identifiers": [
+                "1069-4730",
+                "issn:1069-4730",
+                "2168-9830",
+                "issn:2168-9830"
+            ]
+        }
+    ],
+    "repositories": {
+        "id": "158",
+        "openDoarId": 0,
+        "name": "Deep Blue at the University of Michigan",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 267648559,
+        "depositedDate": "1998-05-01T00:00:00+01:00",
+        "publishedDate": "2018-10-01T01:00:00+01:00",
+        "updatedDate": "2024-02-15T22:36:14+00:00",
+        "acceptedDate": "2017-08-09T00:00:00+01:00",
+        "createdDate": "2019-12-14T05:31:55+00:00"
+    },
+    "urls": [
+        "https://doi.org/10.5465/amr.2008.27752724",
+        "https://doi.org/10.1093/sf/sot024",
+        "https://doi.org/10.1080/14681366.2012.748676",
+        "https://doi.org/10.1061/(ASCE)1532-6748(2008)8:1(19)",
+        "https://doi.org/10.1177/0731121414556543",
+        "https://doi.org/10.1002/j.2168-9830.2007.tb00921.x",
+        "https://doi.org/10.1177/0891243213503203",
+        "https://doi.org/10.1525/sp.2005.52.4.477",
+        "https://doi.org/10.1080/00221546.1998.11775134",
+        "https://news.gallup.com/poll/158066/special-report-adults-identify-lgbt.aspx",
+        "https://digitalcommons.ilr.cornell.edu/key_workplace/1382/",
+        "https://doi.org/10.1177/0003122411420815",
+        "https://escholarship.org/uc/item/03m1g5sg",
+        "http://www.hrc.org/state_maps",
+        "https://doi.org/10.1177/0162243913504305",
+        "https://doi.org/10.1080/19378629.2010.545065",
+        "https://www.jstor.org/stable/20628175?seq=1#page_scan_tab_contents",
+        "https://doi.org/10.1177/0891243209340034",
+        "https://doi.org/10.1177/0003122414555886",
+        "https://doi.org/10.1177/089124399013005006",
+        "https://doi.org/10.1177/0146167202289010",
+        "https://doi.org/10.1002/j.2168-9830.2005.tb00847.x",
+        "https://doi.org/10.1080/19378620903225059",
+        "https://doi.org/10.1615/JWomenMinorScienEng.2014007429",
+        "https://doi.org/10.1002/jee.20157",
+        "https://doi.org/10.1016/j.jesp.2009.03.009",
+        "https://doi.org/10.1086/661653",
+        "https://doi.org/10.1353/csd.2017.0029",
+        "https://doi.org/10.1002/jee.20110",
+        "https://doi.org/10.1016/j.socscimed.2017.11.033",
+        "http://advances.sciencemag.org/content/4/3/eaao6373",
+        "https://doi.org/10.1111/j.1540-4560.2007.00544.x",
+        "http://hdl.handle.net/2027.42/146822",
+        "http://nsse.indiana.edu/pdf/Resp_Rate_FAQ.pdf",
+        "https://doi.org/10.1002/j.2168-9830.1996.tb00236.x",
+        "https://doi.org/10.1080/00918369.2015.1078632",
+        "https://doi.org/10.1088/0963",
+        "https://eric.ed.gov/?id=ED516939",
+        "https://doi.org/10.1002/j.2168-9830.2011.tb00012.x",
+        "https://link.springer.com/chapter/10.1007/978",
+        "https://doi.org/10.1177/0306312706072175",
+        "https://doi.org/10.3102/0002831214563063",
+        "https://doi.org/10.1177/1948550611405218"
+    ],
+    "lastUpdate": "2024-02-15T22:36:14+00:00",
+    "setSpecs": []
+}

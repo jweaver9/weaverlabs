@@ -1,0 +1,101 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Dromer, Elisabeth"
+        }
+    ],
+    "contributors": [
+        "Ferlatte, Olivier",
+        "Salway, Travis",
+        "Frohlich, Katherine"
+    ],
+    "createdDate": "2022-02-24T16:44:03+00:00",
+    "dataProvider": {
+        "id": 1259,
+        "name": "Dépôt Institutionnel Numérique",
+        "url": "https://api.core.ac.uk/v3/data-providers/1259",
+        "logo": "https://api.core.ac.uk/data-providers/1259/logo"
+    },
+    "depositedDate": "",
+    "documentType": "",
+    "doi": "",
+    "downloadUrl": "https://papyrus.bib.umontreal.ca/xmlui/bitstream/1866/26217/4/Dromer_Elisabeth_2021_Memoire.pdf",
+    "fullText": "",
+    "id": 491244740,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:papyrus.bib.umontreal.ca:1866/26217"
+    },
+    "title": "Overcoming conversion therapy : a qualitative investigation of experiences of survivors",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2021-06-01T01:00:00+01:00",
+    "publisher": null,
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://papyrus.bib.umontreal.ca/xmlui/bitstream/1866/26217/4/Dromer_Elisabeth_2021_Memoire.pdf"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2021",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/491244740"
+        }
+    ],
+    "abstract": "Les pratiques de réorientation sexuelle et de genre (PRSG), souvent appelées thérapies de conversion, sont des pratiques qui visent à changer, nier ou supprimer des orientations sexuelles non hétérosexuelles, et des expressions de genre et des identités de genre transgenres. Les PRSG sont inefficaces et sont associées à des conséquences psychosociales négatives. Cette étude qualitative adopte un devis descriptif interprétatif pour explorer comment les individus qui ont vécu des PRSG se remettent de ces pratiques. Pour ce faire, nous avons mené des entrevues approfondies avec 20 adultes canadiens ayant vécu des PRSG. À l’aide d’une analyse thématique, trois thèmes ont été dérivés sur la base des expériences de rétablissement des participants : 1) reconstruire son cercle de soutien social et trouver de la force dans les communautés lesbiennes, gaies, bisexuelles, transgenres, queers et bispirituelles (LGBTQ2S+) ainsi que dans celles soutenant les personnes LGBTQ2S+  ; 2) surmonter les PRSG grâce aux thérapies et aux soins médicaux affirmant les identités LGBTQ2S+ ; et 3) gérer les relations avec les instigateurs des PRSG. Sur la base de ces résultats, nous proposons des pistes de solutions afin de faciliter le processus de guérison des personnes qui subissent des PRSG.Sexual orientation and gender identity and expression change efforts (SOGIECE)—often referred to as conversion therapy—are practices that aim to change, deny, or suppress transgender and non-heteronormative sexual orientations, gender expressions and gender identities. SOGIECE are ineffective and associated with negative psychosocial consequences. This qualitative study follows an interpretative description design to explore how individuals who have experienced SOGIECE recover from these practices. We conducted in-depth interviews with 20 Canadian adult participants with experiences of SOGIECE. Using thematic analysis of the data, three overarching themes were derived pertaining to participants’ recovery from SOGIECE: 1) rebuilding social support and finding strength in lesbian, gay, bisexual, transgender, queer, and Two-Spirit (LGBTQ2S+) and LGBTQ2S+-affirming communities; 2) overcoming SOGIECE through affirming therapy and healthcare support; and 3) managing SOGIECE instigators. Based on these findings, we offer recommendations to facilitate the recovery process of people who experience SOGIECE",
+    "tags": [
+        "thesis",
+        "thèse",
+        "LGBTQ2S+ people",
+        "Sexual orientation",
+        "Gender identity",
+        "Conversion therapy",
+        "Mental health",
+        "Personnes LGBTQ2S+",
+        "Orientation sexuelle",
+        "Identité de genre",
+        "Thérapie de conversion",
+        "Santé mentale",
+        "Health Sciences - Public Health / Sciences de la santé - Santé publique (UMI : 0573)"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "thesis",
+        "thèse"
+    ],
+    "oai": "oai:papyrus.bib.umontreal.ca:1866/26217",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "1259",
+        "openDoarId": 0,
+        "name": "Dépôt Institutionnel Numérique",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 491244740,
+        "depositedDate": null,
+        "publishedDate": "2021-06-01T01:00:00+01:00",
+        "updatedDate": "2024-01-22T04:42:12+00:00",
+        "acceptedDate": null,
+        "createdDate": "2022-02-24T16:44:03+00:00"
+    },
+    "urls": [
+        "https://orcid.org/0000-0002-9144-0831",
+        "http://hdl.handle.net/1866/26217"
+    ],
+    "lastUpdate": "2024-01-22T04:42:12+00:00",
+    "setSpecs": []
+}

@@ -1,0 +1,90 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Arnberg, Benjamin"
+        },
+        {
+            "name": "Baggett, Hannah Carson"
+        },
+        {
+            "name": "Andrzejewski, Carey E"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2020-04-22T21:17:14+01:00",
+    "dataProvider": {
+        "id": 2295,
+        "name": "University of Nevada, Las Vegas Repository",
+        "url": "https://api.core.ac.uk/v3/data-providers/2295",
+        "logo": "https://api.core.ac.uk/data-providers/2295/logo"
+    },
+    "depositedDate": "",
+    "documentType": "research",
+    "doi": "",
+    "downloadUrl": "https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1043&amp;context=taboo",
+    "fullText": "",
+    "id": 304593840,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:digitalscholarship.unlv.edu:taboo-1043"
+    },
+    "title": "[...]: Resurrecting Dead Data",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2020-04-20T17:30:56+01:00",
+    "publisher": "Digital Scholarship@UNLV",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://digitalscholarship.unlv.edu/cgi/viewcontent.cgi?article=1043&amp;context=taboo"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2020",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/304593840"
+        }
+    ],
+    "abstract": "",
+    "tags": [
+        "text"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "text"
+    ],
+    "oai": "oai:digitalscholarship.unlv.edu:taboo-1043",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "2295",
+        "openDoarId": 0,
+        "name": "University of Nevada, Las Vegas Repository",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 304593840,
+        "depositedDate": null,
+        "publishedDate": "2020-04-20T17:30:56+01:00",
+        "updatedDate": "2024-01-21T01:57:35+00:00",
+        "acceptedDate": null,
+        "createdDate": "2020-04-22T21:17:14+01:00"
+    },
+    "urls": [
+        "https://digitalscholarship.unlv.edu/taboo/vol19/iss3/4",
+        "https://digitalscholarship.unlv.edu/context/taboo/article/1043/viewcontent/07arnberg_baggett_andrzejewskil.pdf"
+    ],
+    "lastUpdate": "2024-01-21T01:57:35+00:00",
+    "setSpecs": []
+}

@@ -1,0 +1,89 @@
+{
+    "acceptedDate": "",
+    "authors": [
+        {
+            "name": "Klein, Augustus"
+        }
+    ],
+    "contributors": [],
+    "createdDate": "2019-07-09T18:29:48+01:00",
+    "dataProvider": {
+        "id": 3713,
+        "name": "City University of New York",
+        "url": "https://api.core.ac.uk/v3/data-providers/3713",
+        "logo": "https://api.core.ac.uk/data-providers/3713/logo"
+    },
+    "depositedDate": "",
+    "documentType": "",
+    "doi": "",
+    "downloadUrl": "https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=3811&amp;context=gc_etds",
+    "fullText": "",
+    "id": 217356266,
+    "identifiers": {
+        "doi": null,
+        "oai": "oai:academicworks.cuny.edu:gc_etds-3811"
+    },
+    "title": "Increasing Access to Pre-Exposure Prophylaxis (PrEP) Among Transgender Women and Trans Feminine Non-Binary Individuals in New York City",
+    "language": {
+        "code": "en",
+        "name": "English"
+    },
+    "publishedDate": "2018-09-01T08:00:00+01:00",
+    "publisher": "CUNY Academic Works",
+    "references": [],
+    "sourceFulltextUrls": [
+        "https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=3811&amp;context=gc_etds"
+    ],
+    "updatedDate": "",
+    "yearPublished": "2018",
+    "links": [
+        {
+            "type": "display",
+            "url": "https://core.ac.uk/outputs/217356266"
+        }
+    ],
+    "abstract": "In the United States transgender women (i.e., individuals born male whose gender identity is on the feminine spectrum) are a highly vulnerable and marginalized population at high risk for HIV. Substance use, survival sex work, depression, unstable housing, and high levels of victimization and violence are commonly reported by transgender women and trans feminine individuals, indicating the potential for multiple concurrent HIV risks and underlying vulnerabilities. Structural forms of discrimination may contribute to these risk factors, possibly leading to poor outcomes such as unemployment or underemployment, homelessness, and lack of access to gender-affirming health care. Given this context, a biomedical intervention such as pre-exposure prophylaxis (PrEP), which can address risks from multiple types of exposure (i.e. sexual or parenteral) and be used effectively without negotiation between sexual partners, may be critical for effective HIV prevention packages that meet the needs of transgender women and trans feminine individuals. This dissertation was designed to identify the facilitators and barriers to PrEP access, uptake, and adherence among transgender women and trans feminine individuals at risk for HIV.\nThirty in-depth semi-structured interviews were conducted with two groups: a) transgender women and trans feminine individuals on PrEP (n=15) and b) transgender women vi and trans feminine individuals not on PrEP. Participants were recruited throughout New York City using flyers, online social media postings, targeted emails to community-based organizations, and word of mouth. All interviews contained a core set of questions regarding factors at the individual, community, and systems level that might influence PrEP adoption, adherence, access, and willingness to use future biomedical PrEP interventions.\nThe results of this dissertation suggest that to increase PrEP access, uptake, and adherence there is a need for the development and design of strategies and programs that contextualize HIV risk among transgender and non-binary women (TGNBW) as a social and psychological process rather than solely a byproduct of behavior. Situating HIV risk as a social and psychological process acknowledges that for TGNBW, risk factors are associated with multiple levels of social oppression (i.e., racism, transphobia, and sexism). By recognizing that HIV risk is driven by social oppression, we begin to reframe the HIV prevention discussion to focus on the intersection of the structural, interpersonal, and individual level factors contributing to HIV risk, rather than focusing solely on individual behaviors. To do otherwise may contribute to the alarming rates of HIV infection among this community by creating barriers to PrEP",
+    "tags": [
+        "dissertation",
+        "Transgender",
+        "PrEP",
+        "HIV Prevention",
+        "Community Health and Preventive Medicine",
+        "Social Work"
+    ],
+    "fulltextStatus": "enabled",
+    "subjects": [
+        "dissertation"
+    ],
+    "oai": "oai:academicworks.cuny.edu:gc_etds-3811",
+    "deleted": "ALLOWED",
+    "disabled": false,
+    "journals": null,
+    "repositories": {
+        "id": "3713",
+        "openDoarId": 0,
+        "name": "City University of New York",
+        "urlHomepage": null,
+        "uriJournals": null,
+        "physicalName": "noname",
+        "roarId": 0,
+        "baseId": 0,
+        "pdfStatus": null,
+        "nrUpdates": 0,
+        "lastUpdateTime": null
+    },
+    "repositoryDocument": {
+        "id": 217356266,
+        "depositedDate": null,
+        "publishedDate": "2018-09-01T08:00:00+01:00",
+        "updatedDate": "2024-02-21T02:44:43+00:00",
+        "acceptedDate": null,
+        "createdDate": "2019-07-09T18:29:48+01:00"
+    },
+    "urls": [
+        "https://academicworks.cuny.edu/gc_etds/2757",
+        "https://academicworks.cuny.edu/context/gc_etds/article/3811/viewcontent/Klein_Dissertation.2018.06.pdf"
+    ],
+    "lastUpdate": "2024-02-21T02:44:43+00:00",
+    "setSpecs": []
+}
